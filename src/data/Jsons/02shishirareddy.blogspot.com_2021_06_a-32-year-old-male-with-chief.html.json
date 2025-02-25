@@ -1,0 +1,36 @@
+{
+    "AGE": 38,
+    "GENDER": "Male",
+    "APPETITE": "Normal",
+    "DIET": "Mixed",
+    "BOWEL AND BLADDER MOVEMENTS": "Regular",
+    "PERSONAL HISTORY": "Type 1 diabetes mellitus since 3 years, alcoholic for 8years.",
+    "SLEEP": "Adequate",
+    "ADDITIONS": [
+        {
+            "Alcohol": "Since 8 years"
+        },
+        {
+            "Cigarettes": "2-4 daily since 1 year"
+        }
+    ],
+    "FAMILY HISTORY": "Not significant",
+    "TEMPERATURE": "Afebrile",
+    "Pulse rate": 70,
+    "Respiratory rate": 20,
+    "Blood pressure": "110/70 mmHg",
+    "SpO2": 99,
+    "GRBS": 269,
+    "Cvs": [
+        "S1 heard",
+        "S2 heard"
+    ],
+    "Central nervous system": {
+        "Consciousness": "Not oriented to time and person"
+    },
+    "JUNE 06, 2021": [
+        null,
+        null,
+        null
+    ]
+}
