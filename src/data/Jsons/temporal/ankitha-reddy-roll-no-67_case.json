@@ -7,74 +7,92 @@
     {
       "ordinal": 1,
       "time": "3 months ago",
-      "useractivity": "developed fever",
-      "symptom": "low grade fever, intermittent, nausea",
+      "activity": "Developed fever",
+      "symptom": "Fever, nausea",
       "diagnosis": "",
-      "treatment": "medication",
-      "notes": "fever lasted for 10 days, relieved on medication, not associated with headache, cold, cough"
+      "treatment": "Medication",
+      "notes": {
+        "demographics": "38 yr old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Fever was low grade and intermittent, relieved on medication"
+      }
     },
     {
       "ordinal": 2,
       "time": "3 months ago",
-      "useractivity": "developed loss of appetite",
-      "symptom": "decreased appetite",
+      "activity": "Developed loss of appetite",
+      "symptom": "Loss of appetite",
       "diagnosis": "",
-      "treatment": "",
-      "notes": "visited RMP initially, used medication for a month but it did not subside"
+      "treatment": "Medication",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Loss of appetite persisted despite medication"
+      }
     },
     {
       "ordinal": 3,
-      "time": "1 month after initial medication",
-      "useractivity": "visited MBBS doctor, got tests and scan done",
+      "time": "1 month ago",
+      "activity": "Visited RMP and MBBS doctor",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
-      "notes": "serum creatinine level was 6mg/dl, ultrasound scan showed bilateral ureteric obstruction (calculus) and hydronephrosis"
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Serum creatinine level: 6mg/dl",
+        "lab_measurements": "",
+        "discussion": "Patient visited RMP and MBBS doctor for loss of appetite"
+      }
     },
     {
       "ordinal": 4,
-      "time": "15 days after initial test",
-      "useractivity": "got creatinine levels checked again",
+      "time": "15 days ago",
+      "activity": "Got creatinine levels checked again",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
-      "notes": "serum creatinine level was 16mg/dl"
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Serum creatinine level: 16mg/dl",
+        "lab_measurements": "",
+        "discussion": "Creatinine levels increased to 16mg/dl"
+      }
     },
     {
       "ordinal": 5,
-      "time": "at the time of admission in our hospital",
-      "useractivity": "admitted to hospital",
+      "time": "Admission to hospital",
+      "activity": "Admitted to hospital",
       "symptom": "",
-      "diagnosis": "Acute kidney injury on Chronic kidney disease, 2° to Post renal pathology and ureteric calculi with gross hydronephrosis",
-      "treatment": "",
-      "notes": "serum creatinine level was 20mg/dl, underwent dialysis two times"
+      "diagnosis": "Acute kidney injury on Chronic kidney disease",
+      "treatment": "Dialysis",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Conscious, coherent, and cooperative",
+        "investigations": "Serum creatinine level: 20mg/dl, Ultrasound scan: bilateral ureteric obstruction and hydronephrosis",
+        "lab_measurements": "",
+        "discussion": "Patient underwent dialysis in hospital"
+      }
     },
     {
       "ordinal": 6,
-      "time": "04/10/21",
-      "useractivity": "USG ABDOMEN",
+      "time": "During hospital stay",
+      "activity": "Underwent investigations and treatment",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "",
-      "notes": "outside investigation"
-    },
-    {
-      "ordinal": 7,
-      "time": "08/10/21",
-      "useractivity": "ULTRASOUND",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "",
-      "notes": "outside investigation"
-    },
-    {
-      "ordinal": 8,
-      "time": "11/10/21",
-      "useractivity": "treatment started",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "Inj Lasix 40mg i.v O.D, Tab Nodosis 500mg b.d, Tab shelcal po/od, Tab orofor Xt Po/bd, Inj. Erythropoeitin 4000IU sc weekly once, Inj. Iron sucrose 1 ampule in 100ml ns i.v over 30mins weekly once, Syrup Anstozyme 5ml po/bd",
-      "notes": "strict bp and pr monitoring 4hrly"
+      "treatment": "Inj Lasix, Tab Nodosis, Tab shelcal, Tab orofor Xt, Inj Erythropoeitin, Inj Iron sucrose",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ECG, Serum creatinine, Blood urea, Serum iron, ABG, Hemogram, Serum electrolytes",
+        "lab_measurements": "",
+        "discussion": "Patient underwent various investigations and treatments"
+      }
     }
   ],
   "imageurl": [
@@ -93,6 +111,6 @@
     "https://blogger.googleusercontent.com/img/a/AVvXsEio5yYG5JlRrBFt3-IybC4ebse-8-nF7RHX8VETmLGI4xOvCUvk3wNTuyI-sIUv0-CxOG6ckYaj0fObhWg8Bez3YVzbDoNwfOfOP-FM5OdtKwUs293vEo6n1LAh_HsTPTKVqXr9Wm4Ls2JOI9TKRWQPOJw2n6xC-Xa1Cn9_yy7vQCCJvbiuVQRFIzn4Fg=s320",
     "https://blogger.googleusercontent.com/img/a/AVvXsEgYhiDVRshNSOa6GErXsOOh90wpvRzpNxdONQLYj71Bw3khfwgFQB-pHFfi2Rv3WSNTLhBZAqyvmnmBFjt2Mh7j6wq-IS4aCZoRmerrg6CEu5tqGm8_K_mgScHt_PhEyVPEmCqUNfDiUTdasee2dSkIapJzeoI-q6jmhTZJynfsIQrwmGUo5C5wpKva8A=s320",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_MrX6gwfQiSSSC7w2HA2r-8zLNmwiXaK9pjv9FS7MuX5yCwmdiB4kO3AL2CEs7AehwG_ZEWcnMJZUq3-qScLEtDLjWXfjaloE36RGFi3APO-6F-oQ35V02zkDrGgmMttwxTo_J10-dgtA9G42x5cBKBqQu1OJAi8uiMNUj5IurnxlpExbLGdORvLDPw/s320/3BC468DB-F39F-4236-BB5F-BC39469F2929.jpeg",
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix1thpCRKwfGcwP8dvPPc7T0hBi1S7VAmNYvOmCWzA6Z8HMtyVLpL4CaSZpb3dZlSqTm-17UuQOavsVjnX_PwSxauUamcQNq683bP-mMlQg-CAAijpnzXwKOL_P_wTnHLt8STeGYKgPFnKAvLYIyd4H0-hggORPOGjV0cZzNIb0ihDlbapjPZrvFZDNg/s1600/393B5A67-A6AF-4847-B684-4776AC572C3D.jpeg"
+    "https://blogger.googleusercontent.com/img/a/AVvXsEivHpCWAdZXYvNa-BgB1Oktl4rCAGHqj_Rgkt2AhAP4o1uTNvzYp95_qelMPa_gO4Wql_H8K6oqiW_euW6jtwom82D71sFKXOtY6lt-RZQRcx7spfgxRYu5iXaBWiJXRUb081Ijlm3xguoUnY2wELyDUeVIiCpNiXHCgUYo0LaInW3PgqJ5U1ziWE7Qig=s320"
   ]
 }

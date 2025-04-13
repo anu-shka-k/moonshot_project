@@ -3,62 +3,7 @@
     "url": "https://04kavyasreekaluvala.blogspot.com/2021/08/general-medicine-e-log-aug-07082021.html",
     "datetime": "2021-08-07T03:04:00-0700"
   },
-  "timeline": [
-    {
-      "ordinal": 1,
-      "time": "2 months prior",
-      "useractivity": "Patient developed symptoms",
-      "symptom": "Facial puffiness, shortness of breath, pedal edema",
-      "diagnosis": "",
-      "treatment": "",
-      "notes": "Patient was apparently asymptomatic before"
-    },
-    {
-      "ordinal": 2,
-      "time": "1 month prior",
-      "useractivity": "Shortness of breath worsened",
-      "symptom": "Grade 2 dyspnea",
-      "diagnosis": "",
-      "treatment": "",
-      "notes": "SOB since 1 month"
-    },
-    {
-      "ordinal": 3,
-      "time": "AUG 07-08-2021",
-      "useractivity": "Patient came to the OPD",
-      "symptom": "Pedal edema, shortness of breath",
-      "diagnosis": "",
-      "treatment": "",
-      "notes": "Patient is a 45-year-old male, married, with a history of HTN, occasional alcohol consumption, and decreased appetite"
-    },
-    {
-      "ordinal": 4,
-      "time": "AUG 07-08-2021",
-      "useractivity": "General physical examination and systemic examination",
-      "symptom": "Pitting type pedal edema, pallor",
-      "diagnosis": "",
-      "treatment": "",
-      "notes": "Patient is conscious, coherent, and cooperative, with a pulse of 82 beats per minute, blood pressure of 140/90 mmHg, respiratory rate of 18 cycles per minute, and SPO2 of 98%"
-    },
-    {
-      "ordinal": 5,
-      "time": "AUG 07-08-2021",
-      "useractivity": "Provisional diagnosis and investigation",
-      "symptom": "",
-      "diagnosis": "Chronic renal failure",
-      "treatment": "",
-      "notes": "DOPPLER, 2D ECHO, ECG reports mentioned, but details not provided"
-    },
-    {
-      "ordinal": 6,
-      "time": "06/08/2021",
-      "useractivity": "One session of hemodialysis",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "Hemodialysis",
-      "notes": ""
-    }
-  ],
+  "timeline": [],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE2BGmJ4hm7601L5WDBhLhMOakNX_B-EvK5K_l03krnYupye3HbSjJrze1u-2HnPfsLbxc4Sg15e36xgvVJnNPg8OHI15Da2TBUxqqa5ukmQcQtSNGlq0B5BG47XRGlCa0EydyusqTrfg/s320/DOPPLER+4TH+AUG.jpeg",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX9mWO9Q_NaR_o5HXMHXKn7YMJExldALF4FwTLuf0OC0mtJtm-SH3KyMrb02JFyG7aUDUps0mG88_ubwp8jCYDVgmhrkIA78oA1h-osV5YQ-kVP9AvNpChyphenhyphen36ZVv9PqAy9p8LztIBkvw/s320/ECG.jpeg",
@@ -79,6 +24,6 @@
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFq0Fs1df7dF7G5tOdCaZ0NRSIDLOpNS7jPs9Bh-8D73ZW0bb2jN_3Z7XwoRManSwPSsWvhu5zAwf4yWUmHRkM12kK0lUBaKGtKhq5hQ4VjmUm3QODsKeJKLjMaTT_lpA4ARbTbaLZx4Q/",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirKidnVj1K7nsbJ_obxIVYpl29TEghetXdHOxh8G-XFo9pcsyVpwlwz1cQtsnpU8C1TivfKQXI18lLq4WQqP12_zKzE8EbMEwG5DfFaqq1B-zfb8wLiGBrCUs3OzsQdxYlzXMWLhfGm-A/w320-h214/image.png",
     "https://blogger.googleusercontent.com/img/a/AVvXsEhiVEiHVRXApIIBGRe8lLS6dxfDV8XehZJcXI1FrsdBga0_fj2mHeeXH3Krx9LeC3cH6hFCR95o2N-gtIaBocFLCPFYlinU0ZFsmgbFWhPPCQi-VyvRK2exklKVBkN5FIUxMDm949mjwYxxNOdhGqbTFWzKY3cxZHOcIA8aZ3-ca6FaWvlo-M--NdP_=w320-h176",
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgh1enh5BHVelULYI44y17TbMWFN-hNWNxtbJ2YHNaSVEABIEdcdC1oxUfZ8grDAoxA3Ubhlib9yXxvbtX1-wm8HodzB5pkU4ndwa0IuEIFzM90ac4LTawU8V_aGCgl5bE36y-EzJMeSA/s1600/1614936485893904-1.png"
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVPh61PiMnquvMLG4_PGOHyH2rP599qVMR-gCw_LCUiZhWUdFTz8NiZPatnCG-YHTOrE7cmG0ycWf359PWcDs9m_471-6Xr8VwnJJ8YcbKkbXHNEoRjiwsqzdUppYhiqw1mc9nxGEcf54/s1600/1647631484340815-0.png"
   ]
 }

@@ -6,57 +6,63 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "5 years ago",
-      "useractivity": "",
-      "symptom": "",
-      "diagnosis": "Hypothyroidism",
-      "treatment": "Thyronorm 100mg OD",
-      "notes": "Patient started taking Thyronorm 100mg OD for hypothyroidism"
+      "time": "5 days ago",
+      "activity": "Patient presented with abdominal distension and shortness of breath",
+      "symptom": "Abdominal distension, shortness of breath Grade-3",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "70 year old female",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient was apparently asymptomatic 5 days ago"
+      }
     },
     {
       "ordinal": 2,
-      "time": "5 days ago",
-      "useractivity": "Presented to casualty",
-      "symptom": "Abdominal distension, Shortness of breath Grade-3",
+      "time": "Presentation to casualty",
+      "activity": "Patient presented to casualty",
+      "symptom": "Distension of abdomen and shortness of breath Grade-3",
       "diagnosis": "",
       "treatment": "",
-      "notes": "Patient presented with gradual and progressive abdominal distension and shortness of breath"
+      "notes": {
+        "demographics": "",
+        "physical_exam": "General examination: Patient is conscious, coherent, cooperative, well-oriented to time, place, person",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Onset - gradual and progressive, Distension is generalized, SOB - Grade 3, since 5 days, incidious in onset, gradual in progression"
+      }
     },
     {
       "ordinal": 3,
-      "time": "Presentation to casualty (exact time not specified)",
-      "useractivity": "General examination, Systemic examination, Investigations",
+      "time": "ECG and 2D Echo",
+      "activity": "ECG and 2D Echo performed",
       "symptom": "",
-      "diagnosis": "",
+      "diagnosis": "Atrial fibrillation, HFrEF",
       "treatment": "",
-      "notes": "Patient is conscious, coherent, cooperative, well-oriented to time, place, person, well-built, moderately nourished, afebrile, pulse rate feable, blood pressure 110/60 mmHg, respiratory rate 16 cpm"
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ECG: Showing Atrial fibrillation, 2D Echo: Akinetic segment in LAD territory with EF 35% and RVSP 100mmhg, B/L pleural effusion, mild pericardial effusion",
+        "lab_measurements": "",
+        "discussion": ""
+      }
     },
     {
       "ordinal": 4,
-      "time": "Investigation results (exact time not specified)",
-      "useractivity": "",
-      "symptom": "",
-      "diagnosis": "Atrial fibrillation, HFrEF, possible IHD",
-      "treatment": "",
-      "notes": "ECG showing Atrial fibrillation, 2D Echo showing Akinetic segment in LAD territory with EF 35% and RVSP 100mmhg, B/L pleural effusion, mild pericardial effusion"
-    },
-    {
-      "ordinal": 5,
       "time": "16/06/2021",
-      "useractivity": "Treatment started",
+      "activity": "Treatment plan initiated",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Inj. Amiodarone 150 mg IV stat, Inj. Amiodarone infusion 1mg/min, Inj. Clexane 40mg SC OD",
-      "notes": "Treatment plan started, biochemical report showing severe hyperthyroidism"
-    },
-    {
-      "ordinal": 6,
-      "time": "After treatment started (exact time not specified)",
-      "useractivity": "Attempted defibrillation",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "",
-      "notes": "Patient had passed away"
+      "treatment": "Inj. Amiodarone 150 mgIV stat (2 doses), Inj.Amiodarone infusion 1mg/min till 6hr f/b 0.5 mg/min for next 18 hours, Inj.clexane 40mg Sc OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Biochemical report showing severe hyperthyroidism",
+        "discussion": "Attempted for Defebrillation, unfortunately, the patient had passed away"
+      }
     }
   ],
   "imageurl": [

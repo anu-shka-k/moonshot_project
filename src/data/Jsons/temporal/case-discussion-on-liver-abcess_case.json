@@ -6,66 +6,78 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "20 days prior",
-      "useractivity": "Patient developed severe pain in epigastrium and right hypochondrium",
-      "symptom": "Severe pain in epigastrium and right hypochondrium",
+      "time": "20 days prior to hospital visit",
+      "activity": "Patient developed severe abdominal pain",
+      "symptom": "Abdominal pain, fever",
       "diagnosis": "",
       "treatment": "",
-      "notes": "Pain was sudden in onset, gradually progressive, and dragging type, radiating to right shoulder"
+      "notes": {
+        "demographics": "21-year-old male student",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient developed severe abdominal pain and fever"
+      }
     },
     {
       "ordinal": 2,
-      "time": "18 days prior",
-      "useractivity": "Patient developed fever and loss of appetite",
-      "symptom": "Fever and loss of appetite",
+      "time": "18 days prior to hospital visit",
+      "activity": "Patient developed fever and loss of appetite",
+      "symptom": "Fever, loss of appetite",
       "diagnosis": "",
       "treatment": "",
-      "notes": "Fever was high grade and intermittent, associated with chills and rigor for 1 day"
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient developed fever and loss of appetite"
+      }
     },
     {
       "ordinal": 3,
-      "time": "Before 20 days prior",
-      "useractivity": "Patient was admitted in a local hospital in nakrekal",
+      "time": "Hospital visit",
+      "activity": "Patient underwent physical examination and investigations",
       "symptom": "",
-      "diagnosis": "",
-      "treatment": "High dose IV antibiotics, antipyretics, and analgesics",
-      "notes": "Patient was counselled regarding probable complications and need for referral for higher centre"
+      "diagnosis": "Liver abscess",
+      "treatment": "Antibiotics, antipyretics, analgesics",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Tenderness in right hypochondrium and epigastrium",
+        "investigations": "Ultrasonography, complete blood picture, liver function tests",
+        "lab_measurements": "Leucocytosis, elevated ALP",
+        "discussion": "Patient diagnosed with liver abscess"
+      }
     },
     {
       "ordinal": 4,
-      "time": "3/5/21",
-      "useractivity": "Ultrasound (USG) was done",
+      "time": "During hospital stay",
+      "activity": "Patient received treatment and underwent follow-up ultrasonography",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "",
-      "notes": "A single oval shaped hyperechoic mass was seen in Right lobe of liver"
+      "treatment": "Continuation of antibiotics, antipyretics, analgesics",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Follow-up ultrasonography",
+        "lab_measurements": "",
+        "discussion": "Patient showed improvement with treatment"
+      }
     },
     {
       "ordinal": 5,
-      "time": "6/5/21",
-      "useractivity": "Follow-up Ultrasound (USG) was done",
+      "time": "May 10, 2021",
+      "activity": "Patient was discharged",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
-      "notes": "The mass became hypoechoic because of liquefaction of the mass, partial liquefaction was seen"
-    },
-    {
-      "ordinal": 6,
-      "time": "8/5/21",
-      "useractivity": "Follow-up Ultrasound (USG) was done",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "",
-      "notes": "50-60% liquefaction of the mass was seen"
-    },
-    {
-      "ordinal": 7,
-      "time": "10/5/21",
-      "useractivity": "Patient was discharged",
-      "symptom": "",
-      "diagnosis": "Liver abscess",
-      "treatment": "INJECTION. ZOSTUM 1.5 gm IV BD, INJECTION. METROGYL 500mg IV TID, INJECTION. OPTINEURIN 1amp in 100 ml NS IV OD, TAB. ULTRACET 1/2 QID, TAB. DOLO 650 mg SOS",
-      "notes": "Patient's symptoms subsided, and the abscess responded to medical therapy"
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient was discharged after showing significant improvement"
+      }
     }
   ],
   "imageurl": [
