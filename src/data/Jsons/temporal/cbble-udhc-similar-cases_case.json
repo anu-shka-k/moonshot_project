@@ -3,7 +3,128 @@
     "url": "https://157divyasri.blogspot.com/2022/02/cbble-udhc-similar-cases.html",
     "datetime": "2022-02-17T08:17:00-0800"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1 year back",
+      "activity": "Patient was asymptomatic",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "90Y MALE, farmer, married",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "1 year ago",
+      "activity": "Diagnosed with DM-2",
+      "symptom": "nocturia (10-12x) overnight",
+      "diagnosis": "DM-2",
+      "treatment": "tab metformin 500 mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "yesterday morning",
+      "activity": "Patient woke up with deviation of mouth to right side and slurring of speech",
+      "symptom": "deviation of mouth to right side, slurring of speech",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "on admission",
+      "activity": "Patient was brought to casualty",
+      "symptom": "deviation of mouth to right side, slurring of speech",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor +, No signs of icterus, clubbing, cyanosis, lymphadenopathy, pedal edema",
+        "investigations": "",
+        "lab_measurements": "BP: 190/100mmHg",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "on admission",
+      "activity": "Systemic examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Cvs: S1S2 heard, no murmurs heard, Rs: BAE+ ,NVBS heard, P/A: Soft, nontender, CNS: pt conscious with Slurred speech",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "on admission",
+      "activity": "Investigations",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Hemogaram, Blood urea, Serum creatinine, Sodium, Potassium, Chloride, Tb, Db, Sgot, Sgpt, Alkaline phosphate, Tp, Albumin, A/G, chest x ray, ECG, Carotid Doppler, 2D ECHO, MRI brain",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "on admission",
+      "activity": "Diagnosis",
+      "symptom": "",
+      "diagnosis": "Acute ischemic CVA with UMN type of left facial palsy with acute infarct in right corona radiata",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "on admission",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "tab ecosprin 75 mg, tab atorvas 20 mg, inj optineuron 1 amp, physiotherapy",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/a/AVvXsEie6FJVErPO5SA8XPlM5kEUKJvMqeiVKCmpoigHAvLZUzwAElnYE5T2h004UVJ_VOymzFAVsDfk6lNRIIkNa76OWxCAh1koTIvIfTntcZBkkhPcmFDSsVpU1DjyBzyBpi5bKTM72plRKDM2eeYbZVV0i6nYuwASVXpf_MSpNupM4ozW5ZWyu1U1htEtxw=s320",
     "https://blogger.googleusercontent.com/img/a/AVvXsEjV2NOcS8gNdersOmpCCgwo-8vTxlQG6F8egIe8Xoaf1lwxNzWAtBhPlvsc_P5Ve6uNZMO8nJypuliSAcDSg0PEbbL1O5QjZK5rW7rKza5gTvPYPx-i7kjb5Wnd4ewHzD16WIjJcEhi3bgjYZvHeKkDkmjCcHzohRAwut2xozVLQIBPsKaAqEpVZUc8Mw=s320",

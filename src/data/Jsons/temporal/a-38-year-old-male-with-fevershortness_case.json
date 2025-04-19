@@ -6,7 +6,7 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "14 days back",
+      "time": "14 days before 17/05/2021",
       "activity": "Developed fever",
       "symptom": "Fever",
       "diagnosis": "",
@@ -16,12 +16,12 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": ""
+        "discussion": "Fever was insidious in onset, intermittent in nature, not associated with chills and rigors"
       }
     },
     {
       "ordinal": 2,
-      "time": "8 days back",
+      "time": "8 days before 17/05/2021",
       "activity": "Developed generalized body weakness",
       "symptom": "Generalized body weakness",
       "diagnosis": "",
@@ -31,12 +31,12 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": ""
+        "discussion": "Generalized body weakness was insidious in onset, gradual in progression"
       }
     },
     {
       "ordinal": 3,
-      "time": "7 days back",
+      "time": "7 days before 17/05/2021",
       "activity": "Developed shortness of breath",
       "symptom": "Shortness of breath",
       "diagnosis": "",
@@ -46,7 +46,7 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": ""
+        "discussion": "Shortness of breath was insidious in onset, gradual in progression, Grade 2"
       }
     },
     {
@@ -61,7 +61,7 @@
         "physical_exam": "",
         "investigations": "HRCT CHEST CORADS 6, CTSI 14/25",
         "lab_measurements": "",
-        "discussion": ""
+        "discussion": "Patient was tested positive for rapid antigen covid"
       }
     },
     {
@@ -69,14 +69,14 @@
       "time": "17/05/2021",
       "activity": "Admitted to hospital",
       "symptom": "Fever, generalized body weakness, shortness of breath",
-      "diagnosis": "",
-      "treatment": "O2 inhalation, iv fluids, inj.pantop, tab.dexamethasone",
+      "diagnosis": "Viral pneumonia secondary to COVID-19 infection",
+      "treatment": "O2 inhalation, iv fluids, inj.pantop, tab.dexamethasone, tab.limcee, tab.telma h",
       "notes": {
         "demographics": "",
-        "physical_exam": "Conscious, coherent, cooperative, well oriented to time, place, person",
+        "physical_exam": "Patient is conscious, coherent, cooperative, well oriented to time, place, person",
         "investigations": "",
         "lab_measurements": "Temperature-98° F, Heart Rate - 97 beats/min, Blood Pressure - 130/70 mm Hg, Respiratory rate - 18 cycles/min, SPO2 - 92% at room air, GRBS - 115 MG/DL",
-        "discussion": ""
+        "discussion": "Patient was admitted to hospital with fever, generalized body weakness, and shortness of breath"
       }
     },
     {
@@ -85,43 +85,28 @@
       "activity": "Continued treatment",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "O2 inhalation, iv fluids, inj.pantop, tab.dexamethasone",
+      "treatment": "O2 inhalation, iv fluids, inj.pantop, tab.dexamethasone, tab.mvt, tab.limcee",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Temperature-afebrile, Heart rate - 83 beats/min, Blood pressure - 120/80 mm Hg, SPO2 - 96% at room air",
-        "discussion": ""
+        "lab_measurements": "Temperature - afebrile, Heart rate - 83 beats/min, Blood pressure - 120/80 mm Hg, SPO2 - 96% at room air",
+        "discussion": "Patient's condition was monitored and treatment was continued"
       }
     },
     {
       "ordinal": 7,
       "time": "19/05/2021",
-      "activity": "Continued treatment",
-      "symptom": "",
-      "diagnosis": "Viral pneumonia secondary to COVID-19 infection",
-      "treatment": "O2 inhalation, iv fluids, inj.pantop, tab.dexamethasone",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "Temperature-afebrile, Heart rate - 84 beats/min, Blood pressure - 110/70 mm Hg, SPO2 - 96% at room air",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 8,
-      "time": "19/05/2021 (10:00 AM)",
       "activity": "Discharged from hospital",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Tab pan 40 mg, tab mvt, tab limcee, tab dolo 650 mg, tab telma h",
+      "treatment": "Tab pan 40 mg, tab mvt, tab limcee, tab dolol 650mg, tab telma h, syp grillinctus",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Pulse :86BPM, BP: 130/60MM HG, Temperature:Afebrile, Spo2:99% on room air",
-        "discussion": ""
+        "lab_measurements": "Pulse :86BPM, BP: 130/60MM HG, Temperature:Afebrile, Spo2:99%on room air",
+        "discussion": "Patient was discharged from hospital with advice to continue treatment"
       }
     }
   ],

@@ -52,7 +52,7 @@
     {
       "ordinal": 4,
       "time": "yesterday afternoon",
-      "activity": "unable to speak",
+      "activity": "shortness of breath",
       "symptom": "shortness of breath",
       "diagnosis": "",
       "treatment": "",
@@ -66,55 +66,40 @@
     },
     {
       "ordinal": 5,
-      "time": "yesterday afternoon",
-      "activity": "referred to hospital",
-      "symptom": "",
+      "time": "on admission",
+      "activity": "admitted to hospital",
+      "symptom": "shortness of breath",
       "diagnosis": "",
-      "treatment": "",
+      "treatment": "intubated",
       "notes": {
         "demographics": "",
-        "physical_exam": "",
+        "physical_exam": "PR- 133, BP- unrecordable, RR-40, SpO2- 88",
         "investigations": "",
-        "lab_measurements": "",
+        "lab_measurements": "GRBS- 346",
         "discussion": ""
       }
     },
     {
       "ordinal": 6,
-      "time": "admission",
-      "activity": "intubated",
-      "symptom": "shortness of breath",
-      "diagnosis": "",
-      "treatment": "intubation",
+      "time": "day 2",
+      "activity": "on Mechanical ventilator",
+      "symptom": "",
+      "diagnosis": "viral encephalitis, cardiogenic shock",
+      "treatment": "inotropes, noradrenaline, dobutamine",
       "notes": {
         "demographics": "",
-        "physical_exam": "PR- 133, BP- unrecordable, RR-40, SpO2- 88, GRBS- 346, CVS- S1 S2 no murmurs, RS- trachea central, Bilateral crepitations in infra mamillary and infra axillary regions",
-        "investigations": "",
+        "physical_exam": "GCS-E1, Vt M4, comatose",
+        "investigations": "ABG",
         "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 7,
-      "time": "day 2",
-      "activity": "on Mechanical ventilator",
-      "symptom": "",
-      "diagnosis": "viral encephalitis, cardiogenic shock, viral pneumonia",
-      "treatment": "noradrenaline, dobutamine, mechanical ventilation",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "GCS-E1, Vt M4, comatose, withdrawal present to deep painful stimulus",
-        "investigations": "ABG, ECG",
-        "lab_measurements": "BP 90/60 mmhg, PEEP -5 com of h2o, FI02-80%, RR -14/min",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 8,
-      "time": "day 2",
-      "activity": "cardiogenic shock",
+      "time": "overnight",
+      "activity": "blood pressure was low",
       "symptom": "low blood pressure",
-      "diagnosis": "cardiogenic shock",
+      "diagnosis": "",
       "treatment": "increasing doses of noradrenaline, dobutamine, vasopressin",
       "notes": {
         "demographics": "",
@@ -125,8 +110,8 @@
       }
     },
     {
-      "ordinal": 9,
-      "time": "6 AM",
+      "ordinal": 8,
+      "time": "6:00 AM",
       "activity": "CPR started",
       "symptom": "absent central pulse",
       "diagnosis": "",
@@ -140,18 +125,18 @@
       }
     },
     {
-      "ordinal": 10,
+      "ordinal": 9,
       "time": "6:42 AM",
       "activity": "declared dead",
       "symptom": "",
-      "diagnosis": "cardiogenic shock secondary to antero septal MI",
+      "diagnosis": "cardiogenic shock secondary to antero-septal MI",
       "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "immediate cause of death - cardiogenic shock secondary to antero septal MI, antecedent cause of death - viral encephalitis"
+        "discussion": "immediate cause of death: cardiogenic shock secondary to antero-septal MI, antecedent cause of death: viral encephalitis"
       }
     }
   ],

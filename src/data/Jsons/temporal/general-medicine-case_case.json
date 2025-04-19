@@ -3,7 +3,128 @@
     "url": "https://akshithakasani81.blogspot.com/2021/08/general-medicine-case.html",
     "datetime": "2021-08-09T12:37:00-0700"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "2 years ago",
+      "activity": "Patient was diagnosed with type 2 diabetes mellitus",
+      "symptom": "",
+      "diagnosis": "Type 2 diabetes mellitus",
+      "treatment": "Oral hyperglycemic agents",
+      "notes": {
+        "demographics": "70 year old female",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "2 months ago",
+      "activity": "Patient experienced sudden onset of giddiness and generalized weakness",
+      "symptom": "Giddiness, Generalized weakness",
+      "diagnosis": "",
+      "treatment": "IV fluids, Metformin 500 mg PO/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "1 week ago",
+      "activity": "Patient started having fever",
+      "symptom": "Fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "3 days ago",
+      "activity": "Patient started having right buttock pain",
+      "symptom": "Right buttock pain",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "On admission",
+      "activity": "Patient was admitted to the hospital",
+      "symptom": "",
+      "diagnosis": "Pre-renal acute kidney injury secondary to acute gastroenteritis",
+      "treatment": "IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious, coherent, co-operative. Temp-afebrile, PR-91 bpm, BP-100/70 mm of Hg, RR-20/min, Spo2-98% at room air, Pallor-present",
+        "investigations": "Chest X-ray, ECG, Hb-8.5, Tlc-14,200, Plt-1.5, S. Urea-103, S. Creatinine-3.1, Sodium-131, Potassium-3.5, Chloride-99",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "Day 1",
+      "activity": "Patient was treated with IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "Day 2",
+      "activity": "Patient was treated with IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "Day 3",
+      "activity": "Patient was treated with IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD, Tab. Ultracet PO/QID/1/2 tab, Chlorhexidine mouth wash/BD, Tab. PCM 650 mg PO/BD",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD, Tab. Ultracet PO/QID/1/2 tab, Chlorhexidine mouth wash/BD, Tab. PCM 650 mg PO/BD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbHRMAuMBQ95pf1SZ1OhiL9XYvw185Q8D2bcjDlL3o5vi_QS4CAyrxmSqVkeLURfVZ2_LZGnSs62xD8EwxY3lBV0AHYGBaOng0fuxPswKDArRPfCABh6p6cHES63VSkaNwulMzD-MpMmc4/s1600/1628657661593094-0.png",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_zm7zJqCeANvBAbc_v0SIEhupAIDkmHrGkX7dDXnAPm1VLUfk96JP84WQxc3QNBottheXu4sqSa2EDiHLm8S2g0361G0WzhYjeQSrj2Lv2EHB0iNiMlXksonkGNln09QnchFh8LIvQ5h/s1600/1628657632387456-1.png",

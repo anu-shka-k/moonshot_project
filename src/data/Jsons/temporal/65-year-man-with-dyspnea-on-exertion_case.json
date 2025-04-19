@@ -3,7 +3,53 @@
     "url": "https://ashiness92.blogspot.com/2021/08/65-year-man-with-dyspnea-on-exertion.html",
     "datetime": "2021-08-23T09:40:00-0700"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1 month before admission",
+      "activity": "Developed bilateral lower limb swelling",
+      "symptom": "Bilateral lower limb swelling",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {}
+    },
+    {
+      "ordinal": 2,
+      "time": "20 days before admission",
+      "activity": "Experienced dyspnea on exertion and black colored stools",
+      "symptom": "Dyspnea on exertion, black colored stools",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {}
+    },
+    {
+      "ordinal": 3,
+      "time": "On admission",
+      "activity": "Presented with complaints of bilateral lower limb swelling, dyspnea on exertion, and black colored stools",
+      "symptom": "Bilateral lower limb swelling, dyspnea on exertion, black colored stools",
+      "diagnosis": "Anemia under evaluation, Heart failure with preserved ejection fraction, Polyarthralgia under evaluation, Known case of Diabetes mellitus",
+      "treatment": "Inj Lasix 40mg/IV/BD, Inj Iron Sucrose 1amp in 100ml NS/IV/OD, Tab Orofer XT/PO/BD, Fluid Restriction < 1 litre/day, Salt Restriction <2grams/day",
+      "notes": {}
+    },
+    {
+      "ordinal": 4,
+      "time": "Day 1",
+      "activity": "Dyspnea reduced, no fever spikes",
+      "symptom": "Reduced dyspnea",
+      "diagnosis": "Anemia due to Iron deficiency and Vit b12 deficiency, Heart failure with preserved EF of 58%, Known Diabetic since 2 years",
+      "treatment": "PRBC transfusion, Salt restriction <2gm/day, Fluid restriction<1.5 l/day, Inj.optineuroin 1 ampoule in100ml NS/IV/OD, Inj.Iron sucrose 1 ampoule IV /OD, Tab.orofer XT PO/BD, Tab Metformin 500mg/PO/OD, Inj.pan 40 mg IV/OD",
+      "notes": {}
+    },
+    {
+      "ordinal": 5,
+      "time": "Day 2",
+      "activity": "Sob subsided, repeat chest xray showed straightening of the left heart border and batwing appearance",
+      "symptom": "Sob subsided",
+      "diagnosis": "Hypoproliferative anemia secondary to iron deficiency, Heart failure with preserved EF of 58%, Known case of Diabetic since 2 years",
+      "treatment": "Salt restriction <2gm/day, Fluid restriction<1.5 l/day, Inj.optineuroin 1 ampoule in100ml NS/IV/OD, Inj.Iron sucrose 1 ampoule IV /OD, Tab.orofer XT PO/BD, Tab Metformin 500mg/PO/OD, Inj.pan 40 mg IV/OD, Syrup.Cremaffine plus 15 ml PO/TID, Strict I/O Charting, Temp Charting 4th hourly",
+      "notes": {}
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihyRcOBcjO3gStdNsAC52RRWhn6ykhd9Zp1vTQGVzMlL2Xum6No3QGeIEHWrbf7BmIU-H1bRqhZtia3PiUvMu2luUfDVpR_qE1gbi_nkBrgC8e1bXlSvA6vnYy3U-jLKcEtvMgist8cx5y/s1600/1629736822195288-0.png",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJpjhOhFsBRkX639tORb13a4F-Zj9GFswVBNNdXOPDs1Fwc2PY4rZmqQRkNeQbeXVNw5N4wYvlfOnJZc8kZzc2-Fgv1T9xJECDQfEvwcLQ8H3AMIWLdXhC2o2vfiJw_Lpsr2GoDy8VBDAM/s1600/1629736734910368-1.png",

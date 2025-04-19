@@ -6,9 +6,9 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "6 days prior to 1/06/2021",
+      "time": "6 days before presentation",
       "activity": "Developed cough",
-      "symptom": "Wet cough, minimal expectoration, mucoid consistency, non-foul smelling, non-blood stained",
+      "symptom": "Wet cough with minimal, mucoid, non-foul smelling, non-blood stained expectoration",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -21,9 +21,9 @@
     },
     {
       "ordinal": 2,
-      "time": "4 days prior to 1/06/2021",
+      "time": "4 days before presentation",
       "activity": "Developed chest pain",
-      "symptom": "Sharp chest pain, aggravated on respiration movements and coughing",
+      "symptom": "Sharp chest pain, not radiating to back or upper limb, aggravated on respiration movements and coughing",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -36,21 +36,36 @@
     },
     {
       "ordinal": 3,
-      "time": "3/6/21",
-      "activity": "COVID RTPCR test",
-      "symptom": "",
-      "diagnosis": "COVID-19",
+      "time": "1/06/2021",
+      "activity": "Presented to hospital",
+      "symptom": "Cough and chest pain",
+      "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
-        "physical_exam": "",
-        "investigations": "COVID RTPCR test",
+        "physical_exam": "No pallor, icterus, cyanosis, clubbing, koilonychia, generalized lymphadenopathy or pedal edema",
+        "investigations": "",
         "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 4,
+      "time": "3/6/21",
+      "activity": "COVID RTPCR done",
+      "symptom": "",
+      "diagnosis": "COVID-19",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "COVID RTPCR positive",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
       "time": "7/JUNE/2021",
       "activity": "Patient discharged",
       "symptom": "",

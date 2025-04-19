@@ -5,73 +5,94 @@
   },
   "timeline": [
     {
-      "metadata": {
-        "patient_id": "",
-        "age": "40",
-        "sex": "male"
-      },
-      "timeline": [
-        {
-          "ordinal": 1,
-          "time": "6 months back",
-          "activity": "Lifting bricks",
-          "symptom": "Shortness of breath, pedal edema",
-          "diagnosis": "LIVER FAILURE",
-          "treatment": "Medication",
-          "notes": {
-            "demographics": "40 year old male, 10th class education, married, 2 children",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 2,
-          "time": "10-15 days",
-          "activity": "Developed severe shortness of breath, abdominal distension, decreased urine output",
-          "symptom": "Severe shortness of breath, abdominal distension, decreased urine output",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 3,
-          "time": "Presentation",
-          "activity": "Came to the casualty",
-          "symptom": "Shortness of breath, palpitations, bilateral pedal edema, abdominal distension, decreased urine output",
-          "diagnosis": "CHRONIC LIVER FAILURE & HEPATO RENAL SYNDROME OR CHRONIC KIDNEY DISEASE",
-          "treatment": "Fluid restriction, salt restriction, diuretics, lactulose, rifagut, thiamine, protein powder",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "Conscious, coherent, cooperative, moderately built, well nourished, pallor present, icterus present",
-            "investigations": "RFT, LFT, HEMOGRAM, CUE, ECG, USG-Abdomen, BGT, ABG, VIRAL SEROLOGY, CHEST X RAY, 2D echo",
-            "lab_measurements": "Anemia, decreased platelet count, elevated serum creatinine, elevated blood urea, mild increase in bilirubin",
-            "discussion": "Diagnostic uncertainty between HRS and CKD"
-          }
-        },
-        {
-          "ordinal": 4,
-          "time": "After 3-5 days",
-          "activity": "Continued on diuretics",
-          "symptom": "Deterioration",
-          "diagnosis": "HRS",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": "Favouring the diagnosis of HRS"
-          }
-        }
-      ]
+      "ordinal": 1,
+      "time": "6 months prior to presentation",
+      "activity": "Patient experienced shortness of breath for the first time",
+      "symptom": "Shortness of breath, pedal edema",
+      "diagnosis": "Liver failure",
+      "treatment": "Medication",
+      "notes": {
+        "demographics": "40-year-old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "1 week prior to presentation",
+      "activity": "Patient had a fever",
+      "symptom": "Fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "10-15 days prior to presentation",
+      "activity": "Patient developed pedal edema, abdominal distension, and decreased urine output",
+      "symptom": "Pedal edema, abdominal distension, decreased urine output",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "2 hours prior to presentation",
+      "activity": "Patient's shortness of breath worsened",
+      "symptom": "Shortness of breath",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "Presentation",
+      "activity": "Patient presented to the hospital",
+      "symptom": "Shortness of breath, palpitations, pedal edema, abdominal distension, decreased urine output",
+      "diagnosis": "Chronic liver failure, hepatorenal syndrome or chronic kidney disease",
+      "treatment": "Fluid restriction, salt restriction, diuretics, lactulose, rifagut, protein powder, abdominal girth and weight measurement",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious, coherent, and cooperative, moderately built and well nourished, vital signs: temperature - afebrile, pulse rate - 78 beats per minute, blood pressure - 90/80 mmHg, respiratory rate - 24 cycles per minute, SpO2 - 94-96% on room air",
+        "investigations": "Hemogram - anemia and decreased platelet count, USG - coarse echo texture with irregular margins, gall bladder wall thickened, moderate ascitis, serum protein - decreased, serum creatinine - elevated, blood urea - elevated, LFT - mild increase in bilirubin, ECG and chest X-ray - normal, 2D echo - dilated cardiac chambers with normal ejection fraction",
+        "lab_measurements": "",
+        "discussion": "Diagnostic uncertainty between hepatorenal syndrome and chronic kidney disease"
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "After 3-5 days of diuretic treatment",
+      "activity": "Patient's condition deteriorated",
+      "symptom": "",
+      "diagnosis": "Hepatorenal syndrome",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient's condition deteriorated, favoring the diagnosis of hepatorenal syndrome"
+      }
     }
   ],
   "imageurl": [

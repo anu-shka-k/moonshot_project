@@ -6,24 +6,24 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "20 days prior to hospital visit",
-      "activity": "Patient developed severe abdominal pain",
-      "symptom": "Abdominal pain, fever",
+      "time": "20 days before admission",
+      "activity": "Patient developed severe pain in epigastrium and right hypochondrium",
+      "symptom": "Abdominal pain",
       "diagnosis": "",
       "treatment": "",
       "notes": {
-        "demographics": "21-year-old male student",
+        "demographics": "21-year-old male",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient developed severe abdominal pain and fever"
+        "discussion": ""
       }
     },
     {
       "ordinal": 2,
-      "time": "18 days prior to hospital visit",
-      "activity": "Patient developed fever and loss of appetite",
-      "symptom": "Fever, loss of appetite",
+      "time": "18 days before admission",
+      "activity": "Patient developed fever",
+      "symptom": "Fever",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -31,43 +31,88 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient developed fever and loss of appetite"
+        "discussion": ""
       }
     },
     {
       "ordinal": 3,
-      "time": "Hospital visit",
-      "activity": "Patient underwent physical examination and investigations",
-      "symptom": "",
-      "diagnosis": "Liver abscess",
-      "treatment": "Antibiotics, antipyretics, analgesics",
+      "time": "Admission",
+      "activity": "Patient admitted to hospital",
+      "symptom": "Abdominal pain, fever",
+      "diagnosis": "",
+      "treatment": "High dose IV antibiotics, antipyretics, and analgesics",
       "notes": {
         "demographics": "",
-        "physical_exam": "Tenderness in right hypochondrium and epigastrium",
-        "investigations": "Ultrasonography, complete blood picture, liver function tests",
-        "lab_measurements": "Leucocytosis, elevated ALP",
-        "discussion": "Patient diagnosed with liver abscess"
+        "physical_exam": "Conscious, coherent, and cooperative",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
       }
     },
     {
       "ordinal": 4,
-      "time": "During hospital stay",
-      "activity": "Patient received treatment and underwent follow-up ultrasonography",
+      "time": "After admission",
+      "activity": "Patient underwent investigations",
       "symptom": "",
-      "diagnosis": "",
-      "treatment": "Continuation of antibiotics, antipyretics, analgesics",
+      "diagnosis": "Liver abscess",
+      "treatment": "INJECTION. ZOSTUM 1.5 gm IV BD, INJECTION. METROGYL 500mg IV TID, INJECTION. OPTINEURIN 1amp in 100 ml NS IV OD, TAB. ULTRACET 1/2 QID",
       "notes": {
         "demographics": "",
-        "physical_exam": "",
-        "investigations": "Follow-up ultrasonography",
-        "lab_measurements": "",
-        "discussion": "Patient showed improvement with treatment"
+        "physical_exam": "Tenderness in right hypochondrium and epigastrium",
+        "investigations": "Ultrasonography, Complete blood picture, LFT, Renal function test",
+        "lab_measurements": "Leucocytosis, Elevated ALP",
+        "discussion": "Patient responded to medical therapy"
       }
     },
     {
       "ordinal": 5,
+      "time": "May 3, 2021",
+      "activity": "Ultrasonography done",
+      "symptom": "",
+      "diagnosis": "Liver abscess",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Ultrasonography",
+        "lab_measurements": "",
+        "discussion": "Hyperechoic mass seen in right lobe of liver"
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "May 6, 2021",
+      "activity": "Ultrasonography done",
+      "symptom": "",
+      "diagnosis": "Liver abscess",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Ultrasonography",
+        "lab_measurements": "",
+        "discussion": "Partial liquefaction of mass seen"
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "May 8, 2021",
+      "activity": "Ultrasonography done",
+      "symptom": "",
+      "diagnosis": "Liver abscess",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Ultrasonography",
+        "lab_measurements": "",
+        "discussion": "50-60% liquefaction of mass seen"
+      }
+    },
+    {
+      "ordinal": 8,
       "time": "May 10, 2021",
-      "activity": "Patient was discharged",
+      "activity": "Patient discharged",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
@@ -76,7 +121,7 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient was discharged after showing significant improvement"
+        "discussion": "Patient's symptoms subsided"
       }
     }
   ],

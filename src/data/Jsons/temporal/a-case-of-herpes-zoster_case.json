@@ -16,22 +16,22 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient had pneumonia 20 days back"
+        "discussion": ""
       }
     },
     {
       "ordinal": 2,
       "time": "4 years ago",
-      "activity": "Hemiparesis and slurred speech",
-      "symptom": "Hemiparesis and slurred speech",
+      "activity": "Had hemiparesis and slurred speech",
+      "symptom": "hemiparesis and slurred speech",
       "diagnosis": "",
-      "treatment": "Medications (stopped)",
+      "treatment": "used medications and stopped",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient had hemiparesis and slurred speech 4 years ago"
+        "discussion": ""
       }
     },
     {
@@ -46,14 +46,14 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient was diagnosed with HTN and DM 4 years ago"
+        "discussion": ""
       }
     },
     {
       "ordinal": 4,
-      "time": "3 days",
-      "activity": "Painful fluid filled lesion on nose and periorbital edema",
-      "symptom": "Painful fluid filled lesion on nose and periorbital edema",
+      "time": "3 days before presentation",
+      "activity": "Painful fluid filled lesion on nose and periorbital edema started",
+      "symptom": "painful fluid filled lesion on nose and periorbital edema",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -61,43 +61,28 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient presented with painful fluid filled lesion on nose and periorbital edema since 3 days"
+        "discussion": ""
       }
     },
     {
       "ordinal": 5,
-      "time": "Day 1",
-      "activity": "Examination",
-      "symptom": "",
+      "time": "presentation",
+      "activity": "Presented in the opd",
+      "symptom": "painful fluid filled lesion on nose and periorbital edema",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "50 year old male, farmer by occupation, from garudapally",
-        "physical_exam": "Conscious, coherent and cooperative, No pallor, icterus, cyanosis, clubbing, lymphadenopathy,edema",
-        "investigations": "",
-        "lab_measurements": "Vitals: Temp-98.2 degrees F PR-81Bpm RR-18 Cpm BP-110/80 mm Hg Spo2-99%",
-        "discussion": "Patient was examined on Day 1"
+        "physical_exam": "conscious, coherent and cooperative, No pallor, icterus, cyanosis, clubbing, lymphadenopathy,edema",
+        "investigations": "FBS-246 mg/dl, HbA1c-7.3%, Hemogram: Hb-12.6, Tlc-12,800, MCV-77.2, MCH-25.9, ptc-3.32, Normocytic normochromic with leucocytosis, Blood group-A positive",
+        "lab_measurements": "Vitals: Temp-98.2 degrees F, PR-81Bpm, RR-18 Cpm, BP-110/80 mm Hg, Spo2-99%",
+        "discussion": ""
       }
     },
     {
       "ordinal": 6,
-      "time": "Day 1",
-      "activity": "Investigations",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "FBS-246 mg/dl, HbA1c-7.3%, Hemogram: Hb-12.6, Tlc-12,800, MCV-77.2, MCH-25.9, ptc-3.32, Normocytic normochromic with leucocytosis, Blood group-A positive",
-        "lab_measurements": "",
-        "discussion": "Investigations were done on Day 1"
-      }
-    },
-    {
-      "ordinal": 7,
-      "time": "Day 1",
-      "activity": "Treatment started",
+      "time": "after presentation",
+      "activity": "Treatments started",
       "symptom": "",
       "diagnosis": "",
       "treatment": "T.VALCYCLOVIR 1000 MG PO/BD, T.ULTRACET/PO/BD, T.PAN 40 MG PO/OD, T.PCM 650 MG PO/SOS, LUBREX EYE DROPS, OINT.T BACT FOR L/A FOR 1 WEEK, GRBS CHARTING 4TH HOURLY, BP/PR/SPO2 MONITORING, INJ.HAI S/C TID ACCORDING TO SLIDING SCALE",
@@ -106,7 +91,7 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Treatment was started on Day 1"
+        "discussion": ""
       }
     }
   ],

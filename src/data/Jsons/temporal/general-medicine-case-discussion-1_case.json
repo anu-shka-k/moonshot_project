@@ -3,7 +3,143 @@
     "url": "https://chennabhavana.blogspot.com/2021/05/general-medicine-case-discussion-1.html",
     "datetime": "2021-05-15T02:47:00-0700"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "3 days before admission",
+      "activity": "Patient was apparently asymptomatic",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "45 year old Female",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "3 days before admission",
+      "activity": "Patient developed Fever",
+      "symptom": "High grade, Continuous, Chills, Rigors",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "2 days before admission",
+      "activity": "Patient developed Pain abdomen",
+      "symptom": "Epigastric, Right and Left Hypochondrial region, Sudden onset, Gradually progressive, Dragging/Throbbing type",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "2 days before admission",
+      "activity": "Patient developed Decreased Urine Output",
+      "symptom": "Acute Retention of Urine, Bilateral Pedal Oedema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "on admission",
+      "activity": "Patient was admitted to the hospital",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF Normal saline 100ml/hour, IVF Ringer lactate 100ml/hour, IVF Dextrose normal saline 100ml/hour",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Conscious, coherent, co-operative, Pallor: Present, Icterus: Absent, Cyanosis: Absent, Clubbing: Absent, Lymphadenopathy: Absent, Edema: Bilateral edema",
+        "investigations": "",
+        "lab_measurements": "Temperature: F ebrile, Pulse rate: 138 Beats per minute, Respiratory rate: 20 cycles per minute, Blood pressure: 130/80 mm of Hg, SPO2: 96%, Random Blood sugar: 140 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "on admission",
+      "activity": "Patient underwent Physical Examination and Investigations",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Abdomen: Distended, Umbilicus: Everted, Tenderness: Present, Guarding: Present",
+        "investigations": "Complete Blood Picture, Liver Function test, Renal Function test, Complete urine Examination, Arterial blood gases, Chest x - ray, Abdominal x - ray, Ultrasound (USG)",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "after admission",
+      "activity": "Patient was referred to General Surgery Department",
+      "symptom": "",
+      "diagnosis": "Ruptured Liver Abscess, Organized collection secondary to Hollow viscous Perforation, Organized Intraperitoneal Hematoma, Free fluid with internal echoes in Bilateral Subdiaphragmatic space",
+      "treatment": "EMERGENCY LAPAROTOMY",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "after surgery",
+      "activity": "Patient developed severe Cough and Shortness of Breath",
+      "symptom": "Abnormal Vital signs",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "after surgery",
+      "activity": "Patient Expired",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTrD3mcQYuUz48u0BZnG701EEpjzD6SIVl-fv_aY7eHo8zDHo8p1u4TX4IyRKdGXm7nIlCQaLOVyy0QXM95tvBdnciP7Jk57N8uMFQj0he0Q0Kuwi2oPHa_LHH_z5KSHx430upwRMQTJHd/w320-h206/1621086092628308-0.png",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqrRPdb93eqrisig-PwHaAhWrBrujIZ8NUW3G-ma3NvHxXd1LFCxr4C5Zj2hD5mOUJzyALuAssvHa9_EeL1r-W8xRSzboZtLKfwe_KqN7i-8E8P_X8kSyRwGTLXQDumy_K1_rdp8ZPygWY/w320-h319/1621086089010144-1.png",

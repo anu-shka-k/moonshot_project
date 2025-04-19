@@ -6,9 +6,9 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "2 months ago",
-      "activity": "Patient developed fever",
-      "symptom": "fever, generalized weakness, headache, body pains, loss of appetite",
+      "time": "2 months before admission",
+      "activity": "developed fever",
+      "symptom": "fever, chills, rigors, generalized weakness, headache, loss of appetite, weight loss",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -16,14 +16,14 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient developed fever which was insidious in onset, low grade, intermittent type"
+        "discussion": "patient developed fever which was insidious in onset, low grade, intermittent"
       }
     },
     {
       "ordinal": 2,
-      "time": "2 weeks ago",
-      "activity": "Patient developed cough",
-      "symptom": "cough, productive in nature",
+      "time": "2 weeks before admission",
+      "activity": "developed cough",
+      "symptom": "cough, productive, mild in quantity, white in colour, non-purulent, non-blood stained, non-foul smelling",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -31,14 +31,14 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Cough is productive in nature, mild in quantity, white in colour, non-purulent, non-blood stained, non-foul smelling"
+        "discussion": "cough was productive in nature"
       }
     },
     {
       "ordinal": 3,
-      "time": "2 days ago",
-      "activity": "Patient developed vomitings and pain abdomen",
-      "symptom": "vomitings, pain abdomen",
+      "time": "2 days before admission",
+      "activity": "developed vomitings and pain abdomen",
+      "symptom": "vomitings, pain abdomen, non-radiating, in the right hypochondrium",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -46,82 +46,97 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Vomitings are non-bilious, non-blood stained, non-projectile, pain abdomen is in the right hypochondrium, non-radiating"
+        "discussion": "vomitings were non-bilious, non-blood stained, non-projectile"
       }
     },
     {
       "ordinal": 4,
+      "time": "on admission",
+      "activity": "admitted to hospital",
+      "symptom": "fever, generalized weakness, headache, loss of appetite, weight loss, cough, vomitings, pain abdomen",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "poorly built, poorly nourished, pallor present, no icterus, cyanosis, clubbing, lymphadenopathy, edema",
+        "investigations": "Hemogram, Bleeding and Clotting Time, ESR, Reticulocyte Count, Peripheral Smear, LFT, RFT, ABG, Chest X-Ray, X-Ray Skull, ECG, USG Abdomen",
+        "lab_measurements": "",
+        "discussion": "patient was afebrile, BP 100/60 mmHg, PR 120 BPM, RR 25 CPM, SPO2 94% on RA"
+      }
+    },
+    {
+      "ordinal": 5,
       "time": "Day 1",
-      "activity": "Patient visited hospital",
+      "activity": "investigations",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
-        "physical_exam": "Patient is poorly built, poorly nourished, pallor is present, no icterus, cyanosis, clubbing, lymphadenopathy, edema",
+        "physical_exam": "",
         "investigations": "Hemogram, Bleeding and Clotting Time, ESR, Reticulocyte Count, Peripheral Smear, LFT, RFT, ABG, Chest X-Ray, X-Ray Skull, ECG, USG Abdomen",
         "lab_measurements": "",
-        "discussion": "Patient is afebrile, BP - 100/60 mmHg, PR - 120 BPM, Regular, RR - 25 CPM, SPO2 - 94% on RA"
-      }
-    },
-    {
-      "ordinal": 5,
-      "time": "Day 2",
-      "activity": "Blood transfusion done",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "Blood transfusion",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "Hemogram, RFT, ABG, Sputum for CBNAAT - Positive",
-        "lab_measurements": "",
-        "discussion": ""
+        "discussion": "right mild pleural effusion, right small kidney with normal echogenicity"
       }
     },
     {
       "ordinal": 6,
-      "time": "Day 3",
-      "activity": "Blood transfusion done again",
+      "time": "Day 2",
+      "activity": "blood transfusion",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Blood transfusion",
+      "treatment": "blood transfusion",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Hemogram, RFT, ABG, Spot Urine Protein/Creatinine Ratio, Sputum for CBNAAT",
+        "lab_measurements": "",
+        "discussion": "sputum for CBNAAT was positive"
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "Day 3",
+      "activity": "blood transfusion, pleural tap",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "blood transfusion",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "Hemogram, ABG, RFT, Chest X-Ray, Serum Protein Electrophoresis",
         "lab_measurements": "",
-        "discussion": ""
+        "discussion": "pleural fluid cytology suggestive of acute inflammation"
       }
     },
     {
-      "ordinal": 7,
+      "ordinal": 8,
       "time": "Day 4",
-      "activity": "Pleural Fluid Cytology done",
+      "activity": "investigations",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "Pleural Fluid LDH, Serum Protein, Pleural Sugar and Proteins, Pleural Fluid Cytology - Smear studied showed many neutrophils, occassional lymphocytes against a granular eosinophilic proteinaceous background",
+        "investigations": "CBP, ABG, Pleural Fluid LDH, Serum Protein, Pleural Sugar and Proteins, Pleural Fluid Cytology, Bone Marrow Biopsy",
         "lab_measurements": "",
-        "discussion": "Features of pleural fluid cytology suggestive of Acute Inflammation"
+        "discussion": "bone marrow biopsy showed mild suppression of myeloid and erythroid series, plasmacytosis seen (30%)"
       }
     },
     {
-      "ordinal": 8,
-      "time": "",
-      "activity": "Bone Marrow Biopsy done",
+      "ordinal": 9,
+      "time": "after diagnosis",
+      "activity": "treatment given",
       "symptom": "",
       "diagnosis": "Multiple Myeloma",
       "treatment": "Inj. Augmentin 0.625 gm/IV/BD, Tab. Azithromycin 500mg PO/OD, Inj. Pantop 40mg IV/OD, Inj. Lasix 20mg IV/BD, Plan for 1 unit PRBC transfusion",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "Bone Marrow Biopsy - Hypercellular, M : E ratio = 2:1, Erythropoiesis - Erythropoiesis suppressed with Normoblastic proliferation, Myelopoiesis - Mild myelosuppression seen with orderly maturation, Megakaryopoiesis - Normal with few hypolobated forms seen, Lymphocytes and Plasma cells - Lymphocytes - Normal to increased in number, Plasma cells - Plasmacytosis with approximately 30% mature plasma cells seen",
+        "investigations": "",
         "lab_measurements": "",
-        "discussion": "Impression - Mild suppression of myeloid and erythroid series, Megakaryopoiesis within normal limits, Plasmacytosis seen (30%) showing mature plasma cells, Indicative of most probably plasma cells dyscrasias"
+        "discussion": "patient was diagnosed with multiple myeloma"
       }
     }
   ],

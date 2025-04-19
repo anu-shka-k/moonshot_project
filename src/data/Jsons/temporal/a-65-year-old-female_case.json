@@ -16,14 +16,14 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": ""
+        "discussion": "Patient was apparently asymptomatic 10 days back, then she developed fever which is sudden in onset, high grade, intermittent not associated with chills and rigor and relieved on taking medication."
       }
     },
     {
       "ordinal": 2,
-      "time": "10 days back",
-      "activity": "Patient had vomitings",
-      "symptom": "Vomiting, non projectile, non bilious, non foul smelling, non blood tinged",
+      "time": "5 days back",
+      "activity": "Patient developed pain abdomen, SOB, loss of appetite",
+      "symptom": "Pain abdomen, SOB, loss of appetite",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -31,202 +31,157 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": ""
+        "discussion": "C/o pain abdomen since 5 days in the epigastric region, associated with abdominal discomfort, bloating sensation and loss of appetite. Shortness of breath since 5 days, which was gradually progressed from (grade 3 - 4)"
       }
     },
     {
       "ordinal": 3,
-      "time": "10 days back",
-      "activity": "Patient had loose stools",
-      "symptom": "Loose stools, watery in consistency, 2-3 episodes/day, non blood stained",
+      "time": "7/09/21",
+      "activity": "Patient was found to have sr creat 5.2 mg/dl and urea 82 mg/dl",
+      "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
+        "investigations": "HRCT chest, CT abdomen & pelvis, USG abdomen",
+        "lab_measurements": "sr creat 5.2 mg/dl, urea 82 mg/dl",
+        "discussion": "Patient was found to have sr creat 5.2 mg/dl and urea 82 mg/dl. HRCT chest was done revealing bronchitis with mild pleural effusion, CT abdomen & pelvis showed b/l radiodense tiny calculi in both kidneys and hepatomegaly and so the usg abdomen."
       }
     },
     {
       "ordinal": 4,
-      "time": "5 days back",
-      "activity": "Patient had pain abdomen",
-      "symptom": "Pain abdomen, epigastric region, abdominal discomfort, bloating sensation, loss of appetite",
+      "time": "7/09/21",
+      "activity": "ECG showing normal sinus rhythm with heart rate of 102",
+      "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
+        "investigations": "ECG",
+        "lab_measurements": "heart rate of 102",
+        "discussion": "ECG showing normal sinus rhythm with heart rate of 102"
       }
     },
     {
       "ordinal": 5,
-      "time": "5 days back",
-      "activity": "Patient had shortness of breath",
-      "symptom": "Shortness of breath, gradually progressed from grade 3-4",
+      "time": "9/09/21",
+      "activity": "ECG showing ? svt with heart rate 180bpm",
+      "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
+        "investigations": "ECG",
+        "lab_measurements": "heart rate 180bpm",
+        "discussion": "ECG showing ? svt with heart rate 180bpm"
       }
     },
     {
       "ordinal": 6,
-      "time": "7/09/21",
-      "activity": "Patient was treated conservatively for 5 days",
+      "time": "10/09/21",
+      "activity": "ECG showing normal sinus rhythm with heart rate of 82bpm",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Conservative treatment",
+      "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "SR creat 5.2 mg/dl, urea 82 mg/dl, HRCT chest, CT abdomen & pelvis",
-        "lab_measurements": "",
-        "discussion": ""
+        "investigations": "ECG",
+        "lab_measurements": "heart rate of 82bpm",
+        "discussion": "ECG showing normal sinus rhythm with heart rate of 82bpm"
       }
     },
     {
       "ordinal": 7,
-      "time": "7/09/21",
-      "activity": "ECG was done",
+      "time": "11/09/21",
+      "activity": "Treatment started",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "",
+      "treatment": "Salt restriction, INJ.PANTOP 40 MG/IV/OD, INJ.ZOFER 4 MG/IV/TID, TAB.DOLO 650 MG/PO/TID, INJ NEOMAL 100 ML IV/SOS, TAB ULTRACET /PO/QID, Syp.Ascoryl D 15 ml/po/tid",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "ECG showing normal sinus rhythm with heart rate of 102",
+        "investigations": "",
         "lab_measurements": "",
-        "discussion": ""
+        "discussion": "Treatment started with salt restriction, INJ.PANTOP 40 MG/IV/OD, INJ.ZOFER 4 MG/IV/TID, TAB.DOLO 650 MG/PO/TID, INJ NEOMAL 100 ML IV/SOS, TAB ULTRACET /PO/QID, Syp.Ascoryl D 15 ml/po/tid"
       }
     },
     {
       "ordinal": 8,
-      "time": "9/9/21",
-      "activity": "ECG was done",
+      "time": "12/09/21",
+      "activity": "IVF started",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "",
+      "treatment": "IVF -NS,RL@150 ML/HR, SALT RESTRICTION <2.4 GM/DAY, TAB.PANTOP 40 MG/PO/OD, INJ.ZOFER 4 MG/IV/TID, INJ NEOMAL 100 ML IV/SOS, TAB.DOLO 650 MG/PO/TID, TAB ULTRACET /PO/QID, Nebulisation with DUOLIN 6TH HRLY And budecort 12 th HRLY",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "ECG showing ? svt with heart rate 180bpm",
+        "investigations": "",
         "lab_measurements": "",
-        "discussion": ""
+        "discussion": "IVF started with NS,RL@150 ML/HR, SALT RESTRICTION <2.4 GM/DAY, TAB.PANTOP 40 MG/PO/OD, INJ.ZOFER 4 MG/IV/TID, INJ NEOMAL 100 ML IV/SOS, TAB.DOLO 650 MG/PO/TID, TAB ULTRACET /PO/QID, Nebulisation with DUOLIN 6TH HRLY And budecort 12 th HRLY"
       }
     },
     {
       "ordinal": 9,
-      "time": "10/9/21",
-      "activity": "ECG was done",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "",
+      "time": "13/09/21",
+      "activity": "SOAP notes",
+      "symptom": "Fever, body pains, generalized weakness",
+      "diagnosis": "?UTI With Pre renal AKI, ?chronic bronchitis, Paroxysmal AF(resolved)",
+      "treatment": "IVF -NS,RL@100 ML/HR, O2 inhalation, Inj.ZOSTUM 1.5 gm/iv/bd, TAB.PANTOP 40 MG/PO/OD, INJ.ZOFER 4 MG/IV/TID, TAB.DOLO 650 MG/PO/TID, TAB ULTRACET /PO/QID, Nebulisation with ipravent 6TH HRLY And budecort 12 th HRLY",
       "notes": {
         "demographics": "",
-        "physical_exam": "",
-        "investigations": "ECG showing normal sinus rhythm with heart rate of 82bpm",
-        "lab_measurements": "",
-        "discussion": ""
+        "physical_exam": "Temp-98.5 F, Pr-105bpm, regular, bounding pulse, BP- 140/70MM HG, RS-BAE+ , decreased air entry b/l IAA,ISA,Wheeze +, Rr-24cpm, Spo2-93% @RA",
+        "investigations": "",
+        "lab_measurements": "GRBS-109 mg/dl",
+        "discussion": "SOAP notes: Fever, body pains, generalized weakness. Assessment: ?UTI With Pre renal AKI, ?chronic bronchitis, Paroxysmal AF(resolved). Plan of treatment: IVF -NS,RL@100 ML/HR, O2 inhalation, Inj.ZOSTUM 1.5 gm/iv/bd, TAB.PANTOP 40 MG/PO/OD, INJ.ZOFER 4 MG/IV/TID, TAB.DOLO 650 MG/PO/TID, TAB ULTRACET /PO/QID, Nebulisation with ipravent 6TH HRLY And budecort 12 th HRLY"
       }
     },
     {
       "ordinal": 10,
-      "time": "11/9/21",
-      "activity": "Patient was given treatment",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "Salt restriction, INJ.PANTOP 40 MG/IV/OD, INJ.ZOFER 4 MG/IV/TID, TAB.DOLO 650 MG/PO/TID",
+      "time": "14/09/21",
+      "activity": "SOAP notes",
+      "symptom": "1 episode of vomiting, fever spikes",
+      "diagnosis": "Acute GE with Pre renal AKI, ?acure bronchitis, Paroxysmal AF(resolved)",
+      "treatment": "IVF -NS,RL@100 ML/HR, O2 inhalation, Day 2 of Inj Piptaz 2.5gm gm/iv/TID, Inj Metrogyl 400mg/IV TID, TAB.PANTOP 40 MG/PO/OD, INJ.ZOFER 4 MG/IV/TID, TAB.DOLO 650 MG/PO/TID, TAB ULTRACET half tab /PO/QID, Nebulisation with ipravent 6TH HRLY And budecort 12 th HRLY",
       "notes": {
         "demographics": "",
-        "physical_exam": "",
+        "physical_exam": "Temp-98.5 F, Pr-78bpm, regular, bounding pulse, BP- 120/70MM HG, RS-BAE+ , decreased air entry b/l IAA,ISA Left iAA,ISA inspiratory crepts+, Rr-24cpm, Spo2-95% @RA",
         "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
+        "lab_measurements": "GRBS-109 mg/dl",
+        "discussion": "SOAP notes: 1 episode of vomiting, fever spikes. Assessment: Acute GE with Pre renal AKI, ?acure bronchitis, Paroxysmal AF(resolved). Plan of treatment: IVF -NS,RL@100 ML/HR, O2 inhalation, Day 2 of Inj Piptaz 2.5gm gm/iv/TID, Inj Metrogyl 400mg/IV TID, TAB.PANTOP 40 MG/PO/OD, INJ.ZOFER 4 MG/IV/TID, TAB.DOLO 650 MG/PO/TID, TAB ULTRACET half tab /PO/QID, Nebulisation with ipravent 6TH HRLY And budecort 12 th HRLY"
       }
     },
     {
       "ordinal": 11,
-      "time": "12/9/21",
-      "activity": "Patient was given treatment",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "IVF -NS,RL@150 ML/HR, SALT RESTRICTION <2.4 GM/DAY, TAB.PANTOP 40 MG/PO/OD",
+      "time": "16/09/21",
+      "activity": "SOAP notes",
+      "symptom": "Generalized weakness, no fever spikes, cough (reduced)",
+      "diagnosis": "? acute bronchitis, Paroxysmal AF(resolved), Pre renal AKI SECONDARY TO acute GE, DENOVO HTN",
+      "treatment": "IVF -NS,RL@100 ML/HR, O2 inhalation, TAB.PANTOP 40 MG/PO/OD, INJ.ZOFER 4 MG/IV/TID, TAB.DOLO 650 MG/PO/TID, TAB ULTRACET half tab /PO/QID, Nebulisation with ipravent 6TH HRLY And budecort 12 th HRLY",
       "notes": {
         "demographics": "",
-        "physical_exam": "",
+        "physical_exam": "Temp-98.3F, Pr-80bpm, regular, bounding pulse, BP- 140/80MM HG, RS-BAE+ , decreased air entry b/l IAA,ISA Left iAA,ISA inspiratory crepts+, Rr-20cpm",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": ""
+        "discussion": "SOAP notes: Generalized weakness, no fever spikes, cough (reduced). Assessment: ? acute bronchitis, Paroxysmal AF(resolved), Pre renal AKI SECONDARY TO acute GE, DENOVO HTN. Plan of treatment: IVF -NS,RL@100 ML/HR, O2 inhalation, TAB.PANTOP 40 MG/PO/OD, INJ.ZOFER 4 MG/IV/TID, TAB.DOLO 650 MG/PO/TID, TAB ULTRACET half tab /PO/QID, Nebulisation with ipravent 6TH HRLY And budecort 12 th HRLY"
       }
     },
     {
       "ordinal": 12,
-      "time": "13/9/21",
+      "time": "17/09/21",
       "activity": "SOAP notes",
-      "symptom": "Fever, body pains, generalized weakness",
-      "diagnosis": "?UTI With Pre renal AKI, ?chronic bronchitis, Paroxysmal AF(resolved)",
-      "treatment": "IVF -NS,RL@100 ML/HR, O2 inhalation, Inj.ZOSTUM 1.5 gm/iv/bd",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "Temp-98.5 F, Pr-105bpm, regular, bounding pulse, BP- 140/70MM HG",
-        "investigations": "",
-        "lab_measurements": "GRBS - 109 mg/dl",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 13,
-      "time": "14/9/21",
-      "activity": "SOAP notes",
-      "symptom": "Vomiting, fever spikes",
-      "diagnosis": "Acute GE with Pre renal AKI, ?acure bronchitis, Paroxysmal AF(resolved)",
-      "treatment": "IVF -NS,RL@100 ML/HR, O2 inhalation, Day 2 of Inj Piptaz 2.5gm gm/iv/TID",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "Temp-98.5 F, Pr-78bpm, regular, bounding pulse, BP- 120/70MM HG",
-        "investigations": "",
-        "lab_measurements": "GRBS - 109 mg/dl",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 14,
-      "time": "16/9/21",
-      "activity": "SOAP notes",
-      "symptom": "Generalized weakness, cough",
+      "symptom": "No fever spikes, cough (reduced)",
       "diagnosis": "? acute bronchitis, Paroxysmal AF(resolved), Pre renal AKI SECONDARY TO acute GE, DENOVO HTN",
-      "treatment": "IVF -NS,RL@100 ML/HR, O2 inhalation, TAB.PANTOP 40 MG/PO/OD",
+      "treatment": "IVF -NS,RL@100 ML/HR, O2 inhalation, TAB.PANTOP 40 MG/PO/OD, INJ.ZOFER 4 MG/IV/TID, TAB.DOLO 650 MG/PO/TID, TAB ULTRACET half tab /PO/QID, Nebulisation with ipravent 6TH HRLY And budecort 12 th HRLY",
       "notes": {
         "demographics": "",
-        "physical_exam": "Temp-98.3F, Pr-80bpm, regular, bounding pulse, BP- 140/80MM HG",
+        "physical_exam": "Temp-98.3F, Pr-84bpm, regular, bounding pulse, BP- 140/80MM HG, RS-BAE+ , decreased air entry b/l IAA,ISA Left iAA,ISA inspiratory crepts+, Rr-20cpm",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 15,
-      "time": "17/9/21",
-      "activity": "SOAP notes",
-      "symptom": "No fever spikes, cough",
-      "diagnosis": "? acute bronchitis, Paroxysmal AF(resolved), Pre renal AKI SECONDARY TO acute GE, DENOVO HTN",
-      "treatment": "IVF -NS,RL@100 ML/HR, O2 inhalation, TAB.PANTOP 40 MG/PO/OD",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "Temp-98.3F, Pr-84bpm, regular, bounding pulse, BP- 140/80MM HG",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
+        "discussion": "SOAP notes: No fever spikes, cough (reduced). Assessment: ? acute bronchitis, Paroxysmal AF(resolved), Pre renal AKI SECONDARY TO acute GE, DENOVO HTN. Plan of treatment: IVF -NS,RL@100 ML/HR, O2 inhalation, TAB.PANTOP 40 MG/PO/OD, INJ.ZOFER 4 MG/IV/TID, TAB.DOLO 650 MG/PO/TID, TAB ULTRACET half tab /PO/QID, Nebulisation with ipravent 6TH HRLY And budecort 12 th HRLY"
       }
     }
   ],

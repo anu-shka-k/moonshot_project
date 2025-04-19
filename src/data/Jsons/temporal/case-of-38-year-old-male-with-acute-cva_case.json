@@ -3,7 +3,158 @@
     "url": "https://caseopinionsbyrollno05.blogspot.com/2021/06/case-of-38-year-old-male-with-acute-cva.html",
     "datetime": "2021-06-04T08:46:00-0700"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1 month before admission",
+      "activity": "Patient presented to OPD for fever, cold, and cough",
+      "symptom": "Fever, cold, cough",
+      "diagnosis": "COVID-19",
+      "treatment": "Symptomatic treatment for COVID-19",
+      "notes": {
+        "demographics": "38 year old male",
+        "physical_exam": "",
+        "investigations": "Tested positive for COVID-19",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "14 days after COVID-19 diagnosis",
+      "activity": "Patient tested negative for COVID-19",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Tested negative for COVID-19",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "3-4 days before admission",
+      "activity": "Patient developed weakness of bilateral lower limbs",
+      "symptom": "Weakness of bilateral lower limbs",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "2 hours before admission",
+      "activity": "Patient developed weakness of right upper limb and right lower limb",
+      "symptom": "Weakness of right upper limb and right lower limb",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "10:00 am on 3rd June, 2021",
+      "activity": "Patient developed deviation of mouth to left",
+      "symptom": "Deviation of mouth to left",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "10:20 am on 3rd June, 2021",
+      "activity": "Patient presented to casualty in a drowsy state",
+      "symptom": "Drowsy state",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Aphasic, not oriented to time, place and person",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "On the day of admission (3-6-2021)",
+      "activity": "Patient underwent general examination and systemic examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Bilateral pedal edema, altered sensorium",
+        "investigations": "Vitals: Temperature - 98.4 o F, Pulse Rate - 92 bpm, Blood Pressure - 160/110 mm Hg, Respiratory Rate - 22 cycles /min, SpO2 - 98% on Room air",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "On the day of admission (3-6-2021)",
+      "activity": "Patient underwent investigations",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Hemogram, Serum Electrolytes, Bleeding & Clotting Time, Prothrombin Time, Fasting Blood Sugar, Fasting Lipid Profile, Renal Function Tests, Liver Function Tests, MRI Brain, Ultrasound Scan, Carotid Doppler Sonography, ECG, Colour Doppler 2D ECHO",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "On the day of admission (3-6-2021)",
+      "activity": "Patient was diagnosed with Acute Ischemic Stroke",
+      "symptom": "",
+      "diagnosis": "Acute Ischemic Stroke with infarcts in Caudate and Putamen, left IC, Left Insular cortex, Left fronto-parietal and temporal lobes",
+      "treatment": "Tab Ecospirin - 150 mg PO/OD, Tab. Clopitab - 75 mg PO/OD, Tab. Atorvas - 40 mg PO/OD, Inj. Optineuron - 1 ampoule 100ml/NS/IV BD, Inj. Mannitol 100 ml IV/TID, BP/PR/RR/Temp monitoring 6th hourly, Physiotherapy - Right upper limb and lower limb, IVF - 2O NS @75 ml/hr, Inj Thiamine i amp in 100 ml NS/IV/TID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "Next day (4-6-2021)",
+      "activity": "Patient underwent follow-up examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Reflexes - Right side : Absent, Plantar(mute) - Left side : +2, Plantar(withdrawal)",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT2I0cJkcM6wMi7s959z0JmExnf4U8kIjyEUpJvezobq69O0328vLX9fZMGrsaYmDFd0uJd5fgFoE9J1sMF0BAH0UGc3_HF3Kl0EKTm7Otu_wtkL17IuxdXvKjHylA_t8j18sP5h-BTj8x/w400-h281/v.jpeg",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgorcv8oEehSR-xFicE6rRwa2-wTe6DLoeoMj4kJDPjzhFpp2rxlXm7csCMDkkWj61s6TbFa7r4cKDApCZOnyudXLuND0qS4X4nHNnLKa65zwFrPlMviSTA75IYMg8PeDABtZpWxbZK2VMw/w640-h538/hemogram.jpeg",

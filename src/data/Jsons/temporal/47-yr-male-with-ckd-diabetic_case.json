@@ -3,7 +3,98 @@
     "url": "https://102-crazymandadi.blogspot.com/2021/11/47-yr-male-with-ckd-diabetic.html",
     "datetime": "2021-11-21T09:29:00-0800"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "8 years ago",
+      "activity": "Regular checkup",
+      "symptom": "",
+      "diagnosis": "Hypertensive",
+      "treatment": "Tab Olmesartan 20mg OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "6 years ago",
+      "activity": "Complaints of generalized weakness and weight loss",
+      "symptom": "Generalized weakness, weight loss",
+      "diagnosis": "Diabetic",
+      "treatment": "Tab Glimy M2 OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "5 years ago",
+      "activity": "Diagnosed with Acute pancreatitis",
+      "symptom": "",
+      "diagnosis": "Acute pancreatitis",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "6 days before admission",
+      "activity": "Developed pedal edema, facial puffiness, shortness of breath, decreased urine output",
+      "symptom": "Pedal edema, facial puffiness, shortness of breath, decreased urine output",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "3 days before admission",
+      "activity": "Symptoms worsened, orthopnea and PND developed",
+      "symptom": "Orthopnea, PND",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "On admission",
+      "activity": "Admitted to hospital",
+      "symptom": "",
+      "diagnosis": "? Heart Failure, ? CKD (Diabetic Nephropathy)",
+      "treatment": "Fluid restriction, Salt restriction, Inj. LASIX 40 mg IV TID, Inj. Pantop 40 mg IV/BD, Inj. Actrapid + NPH s/c acc to GRBS, Tab. CARDACE 2.5mg - PO/BD, Tab. CARVEDIOL  3.125mg PO/OD, Tab. ECOSPIRIN - 75mg PO/OD, Tab. ATORVAS -10 mg HS, O2 Inhalation SOS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No Pallor, Icterus, Cyanosis, Clubbing, Lymphadenopathy, Edema of feet +",
+        "investigations": "Serology - Negative, RBS - 105mg/dl",
+        "lab_measurements": "Pr:94bpm, Bp:180/100, Spo2:97% at RA, Temp - Afebrile, Grbs - 166 mg/dl",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixP8ZLxbqaTj7-oNwYpqQ9GHYCGlGPDge3KqsD7Wk3PwQ_yZgaosJeXA7VrJxA5PGaweXIcw6r4PrVi6Ri4iQ6FT7zrAD4wi2-Q2IDzPrk7NL0wriUb6ilUnY7FW2aW4J04bL8NWgjp2o/s1600/1637515764859911-1.png",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8uIjNXLhgRO1ffTZRALoTXCq5G4DDIKjaOf74b3jq2eO6rXRp6o2qtd-sxmqdOEVsMk9bZ463_uwAnbEzdEjgML-p6jRjWrNXkcyog7LTh59dN667XrKvOrfIRik_oHnOhX99cqWQhq4/s1600/1637515758362101-2.png",

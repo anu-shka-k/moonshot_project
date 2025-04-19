@@ -6,9 +6,9 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "5 days ago",
+      "time": "5 days before admission",
       "activity": "Patient presented with abdominal distension and shortness of breath",
-      "symptom": "Abdominal distension, shortness of breath Grade-3",
+      "symptom": "Abdominal distension, shortness of breath",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -16,14 +16,14 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient was apparently asymptomatic 5 days ago"
+        "discussion": ""
       }
     },
     {
       "ordinal": 2,
-      "time": "Presentation to casualty",
+      "time": "on admission",
       "activity": "Patient presented to casualty",
-      "symptom": "Distension of abdomen and shortness of breath Grade-3",
+      "symptom": "Abdominal distension, shortness of breath Grade-3",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -31,37 +31,67 @@
         "physical_exam": "General examination: Patient is conscious, coherent, cooperative, well-oriented to time, place, person",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Onset - gradual and progressive, Distension is generalized, SOB - Grade 3, since 5 days, incidious in onset, gradual in progression"
+        "discussion": ""
       }
     },
     {
       "ordinal": 3,
-      "time": "ECG and 2D Echo",
-      "activity": "ECG and 2D Echo performed",
+      "time": "on admission",
+      "activity": "General examination and systemic examination",
       "symptom": "",
-      "diagnosis": "Atrial fibrillation, HFrEF",
+      "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
-        "physical_exam": "",
-        "investigations": "ECG: Showing Atrial fibrillation, 2D Echo: Akinetic segment in LAD territory with EF 35% and RVSP 100mmhg, B/L pleural effusion, mild pericardial effusion",
-        "lab_measurements": "",
+        "physical_exam": "Pallor: absent, Icterus: absent, Cyanosis: absent, Clubbing: absent, Edema: absent",
+        "investigations": "",
+        "lab_measurements": "Vitals: Temperature - Afebrile, Pulse rate - feable, Blood pressure - 110/60 mmHg, Respiratory rate - 16 cpm",
         "discussion": ""
       }
     },
     {
       "ordinal": 4,
-      "time": "16/06/2021",
-      "activity": "Treatment plan initiated",
+      "time": "on admission",
+      "activity": "Investigations",
       "symptom": "",
       "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ECG: Showing Atrial fibrillation, 2D Echo: Akinetic segment in LAD territory with EF 35% and RVSP 100mmhg, B/L pleural effusion, mild pericardial effusion",
+        "lab_measurements": "Troponin-l, Complete blood picture, Serum electrolytes, Hiv1/2rapid test, Glycated hemoglobin, C-reactive protein, Blood sugar random, Anti Hcv Antibodies -Rapid, Blood urea, HBsAg: Rapid, Serum creatinine",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "after investigations",
+      "activity": "Diagnosis and treatment plan",
+      "symptom": "",
+      "diagnosis": "HFrEF with Atrial fibrillation, possible IHD",
       "treatment": "Inj. Amiodarone 150 mgIV stat (2 doses), Inj.Amiodarone infusion 1mg/min till 6hr f/b 0.5 mg/min for next 18 hours, Inj.clexane 40mg Sc OD",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Biochemical report showing severe hyperthyroidism",
-        "discussion": "Attempted for Defebrillation, unfortunately, the patient had passed away"
+        "lab_measurements": "",
+        "discussion": "Biochemical report showing severe hyperthyroidism possibly relating to her refractory Atrial fibrillation"
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "after treatment",
+      "activity": "Attempted defibrillation",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Unfortunately, the patient had passed away"
       }
     }
   ],

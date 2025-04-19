@@ -3,7 +3,98 @@
     "url": "https://clinicaldatanalysis.blogspot.com/2021/11/60-year-old-male-with-complaints-of.html",
     "datetime": "2021-11-27T21:24:00-0800"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "11 years back",
+      "activity": "developed sudden onset of chest pain associated with sweating",
+      "symptom": "chest pain, sweating",
+      "diagnosis": "? CAD",
+      "treatment": "CAG + PTCA",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "4 months later",
+      "activity": "had persistent headache and neck pain",
+      "symptom": "headache, neck pain",
+      "diagnosis": "HTN, Diabetes",
+      "treatment": "treated accordingly",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "3 months back",
+      "activity": "noticed progressive abdominal distension associated with SOB grade 3",
+      "symptom": "abdominal distension, SOB grade 3",
+      "diagnosis": "",
+      "treatment": "treated by local RMP",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "one day after his daughter’s wedding",
+      "activity": "had a bout of vomiting with fresh blood as content",
+      "symptom": "vomiting with fresh blood",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "on Tuesday",
+      "activity": "came to KIMS - NKP Gastro OPD, endoscopy was done",
+      "symptom": "",
+      "diagnosis": "grade 2-3 esophageal varices",
+      "treatment": "referred to KIMS - KHL for banding",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "endoscopy",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "after endoscopy",
+      "activity": "got admitted in KHL and banding was done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "banding, ICD placement, large volume paracentesis, INJ. Albumin and ocreotide",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor and edema + Bp 110/90 mmhg Pr 80bpm Rr 17cpm Spo2 95%@ room air",
+        "investigations": "X RAY, USG",
+        "lab_measurements": "HB 7.7 TLC 5300 PLT 1.10 L Na 141 K 3 Cl 101 S. Creat 0.9 Urea 21",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/a/AVvXsEjKjpVArALZHYsd4wWX7Bphu5VWoge8dG1Hc0xL7P3XwUkt0c5eIR1BrcNmhkcQ5QA3xWS2eCq-3BqDgAtDDKnWak6PMLXolPqg7AQJFllVK__jifHegKbaqdMp3PVfkuT8F2Ur_9IILmMBZPCh7QvPCqm9Cvi3-lrruyTtULMxCF02jpebR_w9llz0=s320",
     "https://blogger.googleusercontent.com/img/a/AVvXsEiZtidt53aTcYb9rD_X6Tb3En1dkS6s0TgclaKVu2RavFkvm78XZWgowagocBbQgJ1fi0m-6_mN034YyW6Mpoeg5o7-4FrAYBYVWJj9Y51gJxxSlcT9LCgUkhfkRRGm-ZQEd7V8mkRSfNC9lyvk04BimXI2S42-ivrKks7lyTflEKUoxGabq2Fcz9b1=s320",

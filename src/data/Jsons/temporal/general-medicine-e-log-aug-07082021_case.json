@@ -3,7 +3,98 @@
     "url": "https://04kavyasreekaluvala.blogspot.com/2021/08/general-medicine-e-log-aug-07082021.html",
     "datetime": "2021-08-07T03:04:00-0700"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "2 months before admission",
+      "activity": "Patient was asymptomatic",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "45-year-old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "2 months before admission",
+      "activity": "Developed facial puffiness, shortness of breath, and pedal edema",
+      "symptom": "Facial puffiness, shortness of breath, pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "1 month before admission",
+      "activity": "Shortness of breath worsened to grade 2 dyspnea",
+      "symptom": "Grade 2 dyspnea",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "Admission",
+      "activity": "General physical examination and systemic examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Conscious, coherent, cooperative, pedal edema, pallor, pulse = 82 beats per minute, blood pressure = 140/90 mm of Hg, respiratory rate = 18 cycles per minute, SPO2 = 98%, GRBS = 109mg%",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "Admission",
+      "activity": "Provisional diagnosis of chronic renal failure",
+      "symptom": "",
+      "diagnosis": "Chronic renal failure",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "06/08/2021",
+      "activity": "One session of hemodialysis",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Hemodialysis",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE2BGmJ4hm7601L5WDBhLhMOakNX_B-EvK5K_l03krnYupye3HbSjJrze1u-2HnPfsLbxc4Sg15e36xgvVJnNPg8OHI15Da2TBUxqqa5ukmQcQtSNGlq0B5BG47XRGlCa0EydyusqTrfg/s320/DOPPLER+4TH+AUG.jpeg",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVX9mWO9Q_NaR_o5HXMHXKn7YMJExldALF4FwTLuf0OC0mtJtm-SH3KyMrb02JFyG7aUDUps0mG88_ubwp8jCYDVgmhrkIA78oA1h-osV5YQ-kVP9AvNpChyphenhyphen36ZVv9PqAy9p8LztIBkvw/s320/ECG.jpeg",

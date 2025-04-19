@@ -3,7 +3,83 @@
     "url": "https://amruthaadugani.blogspot.com/2021/02/this-is-online-e-log-book-to-discuss.html",
     "datetime": "2021-02-26T19:58:00-0800"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "7 days before admission",
+      "activity": "Patient was asymptomatic",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "55yr old female",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "7 days before admission",
+      "activity": "Developed fever",
+      "symptom": "fever, chills, rigors, neck pain",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "on admission",
+      "activity": "Admitted to hospital",
+      "symptom": "intermittent fever, chills, rigors, neck pain, vomitings",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "conscious, coherent, co-operative, no pallor, icterus, cyanosis, clubbing lymphadenopathy, pedal Oedema",
+        "investigations": "",
+        "lab_measurements": "Temperature: Afebrile, PR:66bpm, BP:100/70mmHg, Spo2:98%, RR-22/min",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "on admission",
+      "activity": "Examination and investigations",
+      "symptom": "",
+      "diagnosis": "Acute Gastritis with type 2 Diabetes mellitus",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "CVS: S1 S2 heard, RS: BAE present, NVBS present, Abdomen : Soft,Non tender, Bowel sounds present, CNS: Normal",
+        "investigations": "provisional Diagnosis",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "on admission",
+      "activity": "Treatment plan",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF 1 unit NS @ 75ml/hr, 1 unit RL @75 ml/hr, Inj.Optineuron 1amp in 100ml/NS/IV/OD, Inj.Zofer 4mg/IV/TID, Inj.NEOMOL 1g/IV(only if temperature >102°F), T.PCM 650mg PO/SOS, T.MET XL 50mg PO/OD, Inj.HAI S/C according to GRBS, Inj.PAN 40mg IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfiD-xMvg3wX96ahjJBqgr_f2zReH8WwTLvF0uwLS7L5IFng2DWCwGY7jpYOC28jKQrR-PYmdRPcMXQxc2dH_dtLExEnOCLkzb0JIuQgNN2oBmKe2ZYxNWLhsnFJ1etCxRof4QKWtq_vs/s1600/1614401176130511-0.png",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB_nCl2fDMICrkHMuWYPR22fbBNqLQN6B88WOBl4NZ_i19ChY61jRhzODhZQkqS4qgaCtOL6sUZSmxrAE73JEkA-l9S3jUps6-T5slBkCMJYZuxvgyf_kW42i148ikL_6FPgR1KYoKACU/s1600/1614401049658605-2.png",

@@ -7,7 +7,7 @@
     {
       "ordinal": 1,
       "time": "11 months ago",
-      "activity": "Patient had body pains and involuntary movement of right upper limb and lower limb with loss of consciousness",
+      "activity": "Patient had body pains and developed involuntary movement of right upper limb and lower limb with loss of consciousness",
       "symptom": "Body pains, involuntary movement, loss of consciousness",
       "diagnosis": "",
       "treatment": "",
@@ -21,11 +21,11 @@
     },
     {
       "ordinal": 2,
-      "time": "6 months ago",
-      "activity": "Patient was given antiepileptic medication",
+      "time": "After 11 months",
+      "activity": "Patient was taken to Balaji hospital in Miryalaguda",
       "symptom": "",
-      "diagnosis": "Focal seizures, Focal dystonia",
-      "treatment": "Tetrabenazine 25mg, Haloperidol 0.5mg, Clonazepam 0.25mg, Sodium valproate 300mg",
+      "diagnosis": "",
+      "treatment": "Antiepileptic medication",
       "notes": {
         "demographics": "",
         "physical_exam": "",
@@ -36,11 +36,11 @@
     },
     {
       "ordinal": 3,
-      "time": "1 month ago",
-      "activity": "Patient went to neurologist in Miryalaguda",
-      "symptom": "",
+      "time": "6 months back",
+      "activity": "Patient went for follow up in Sunshine hospital",
+      "symptom": "Focal seizures, Focal dystonia",
       "diagnosis": "",
-      "treatment": "Carbamazepine 400mg",
+      "treatment": "Tetrabenazine 25mg, Haloperidol 0.5mg, Clonazepam 0.25mg, Sodium valproate 300mg",
       "notes": {
         "demographics": "",
         "physical_exam": "",
@@ -51,11 +51,11 @@
     },
     {
       "ordinal": 4,
-      "time": "15 days ago",
-      "activity": "Patient went for fishing",
+      "time": "1 month later",
+      "activity": "Patient went to neurologist in Miryalaguda",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "",
+      "treatment": "Carbamazepine 400mg, Tetrabenazine 25mg",
       "notes": {
         "demographics": "",
         "physical_exam": "",
@@ -66,8 +66,8 @@
     },
     {
       "ordinal": 5,
-      "time": "Last Thursday (17/6/2021)",
-      "activity": "Patient went for fishing",
+      "time": "15 days back",
+      "activity": "Patient went for fishing in a nearby pond",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
@@ -81,8 +81,23 @@
     },
     {
       "ordinal": 6,
+      "time": "Last Thursday (17/6/2021)",
+      "activity": "Patient went for fishing in the same pond",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
       "time": "Next day (Friday)",
-      "activity": "Patient developed severe pain in the left knee with swelling",
+      "activity": "Patient developed severe pain in the left knee with left leg swelling",
       "symptom": "Severe pain, swelling",
       "diagnosis": "",
       "treatment": "Painkillers",
@@ -95,9 +110,9 @@
       }
     },
     {
-      "ordinal": 7,
+      "ordinal": 8,
       "time": "Saturday (19/6/2021)",
-      "activity": "Patient's wife noticed hyperpigmented patch over left knee and above ankle",
+      "activity": "Patient's wife noticed a hyperpigmented patch over the left knee and above the ankle",
       "symptom": "Hyperpigmented patch",
       "diagnosis": "",
       "treatment": "",
@@ -110,7 +125,7 @@
       }
     },
     {
-      "ordinal": 8,
+      "ordinal": 9,
       "time": "Sunday (20/6/2021)",
       "activity": "Patient went to hospital in Miryalaguda",
       "symptom": "",
@@ -119,31 +134,16 @@
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "Routine tests",
+        "investigations": "Routine tests were done",
         "lab_measurements": "Hb-8.6, TLC-1200, Plt count-24k, ESR-70mm, CRP-101 mg/dl, Sr creat-0.6",
         "discussion": ""
       }
     },
     {
-      "ordinal": 9,
+      "ordinal": 10,
       "time": "Monday (21/6/2021)",
       "activity": "Patient developed severe pain in the lesion area and increasing in size",
-      "symptom": "Severe pain, increasing lesion size",
-      "diagnosis": "",
-      "treatment": "",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 10,
-      "time": "Today (22/6/2021)",
-      "activity": "Patient came to hospital for further treatment",
-      "symptom": "",
+      "symptom": "Severe pain",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -156,9 +156,9 @@
     },
     {
       "ordinal": 11,
-      "time": "24/06/2021",
-      "activity": "Lesions increased in size",
-      "symptom": "Increasing lesion size",
+      "time": "Today (22/6/2021)",
+      "activity": "Patient came to the hospital for further treatment",
+      "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -171,11 +171,11 @@
     },
     {
       "ordinal": 12,
-      "time": "Day 1",
-      "activity": "Patient was started on IVF, Doxycycline, Pantop, Zofer, Dolo, and other medications",
-      "symptom": "",
+      "time": "24/06/2021",
+      "activity": "Lesions increased in size",
+      "symptom": "Lesions increased in size",
       "diagnosis": "",
-      "treatment": "IVF, Doxycycline, Pantop, Zofer, Dolo",
+      "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
@@ -186,11 +186,11 @@
     },
     {
       "ordinal": 13,
-      "time": "Day 2",
-      "activity": "Patient's treatment was continued and modified",
+      "time": "Day 1 of admission",
+      "activity": "Patient was started on IVF, Doxycycline, Pantop, Zofer, Dolo, Neomol, Carbamazepine, Phenytoin, Metrogyl",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Doxycycline, Acelofenac, Pantop, Zofer, Dolo, and other medications",
+      "treatment": "IVF, Doxycycline, Pantop, Zofer, Dolo, Neomol, Carbamazepine, Phenytoin, Metrogyl",
       "notes": {
         "demographics": "",
         "physical_exam": "",
@@ -201,11 +201,11 @@
     },
     {
       "ordinal": 14,
-      "time": "Day 3",
-      "activity": "Patient's temperature decreased",
+      "time": "Day 2 of admission",
+      "activity": "Patient was continued on the same treatment",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Doxycycline, Acelofenac, Pantop, Zofer, Dolo, and other medications",
+      "treatment": "IVF, Doxycycline, Pantop, Zofer, Dolo, Neomol, Carbamazepine, Phenytoin, Metrogyl",
       "notes": {
         "demographics": "",
         "physical_exam": "",
@@ -216,11 +216,11 @@
     },
     {
       "ordinal": 15,
-      "time": "Day 4",
-      "activity": "Patient's treatment was continued",
+      "time": "Day 3 of admission",
+      "activity": "Patient's temperature decreased",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Doxycycline, Acelofenac, Pantop, Zofer, Dolo, and other medications",
+      "treatment": "IVF, Doxycycline, Pantop, Zofer, Dolo, Neomol, Carbamazepine, Phenytoin, Metrogyl",
       "notes": {
         "demographics": "",
         "physical_exam": "",
@@ -231,11 +231,11 @@
     },
     {
       "ordinal": 16,
-      "time": "Day 5",
-      "activity": "Patient's treatment was continued",
+      "time": "Day 4 of admission",
+      "activity": "Patient was continued on the same treatment",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Doxycycline, Acelofenac, Pantop, Zofer, Dolo, and other medications",
+      "treatment": "IVF, Doxycycline, Pantop, Zofer, Dolo, Neomol, Carbamazepine, Phenytoin, Metrogyl",
       "notes": {
         "demographics": "",
         "physical_exam": "",
@@ -246,11 +246,26 @@
     },
     {
       "ordinal": 17,
-      "time": "Day 6",
+      "time": "Day 5 of admission",
+      "activity": "Patient was continued on the same treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF, Doxycycline, Pantop, Zofer, Dolo, Neomol, Carbamazepine, Phenytoin, Metrogyl",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 18,
+      "time": "Day 6 of admission",
       "activity": "Patient became tachypneic and drowsy",
       "symptom": "Tachypnea, drowsiness",
-      "diagnosis": "",
-      "treatment": "",
+      "diagnosis": "Hospital acquired pneumonia",
+      "treatment": "Antibiotics",
       "notes": {
         "demographics": "",
         "physical_exam": "",
@@ -260,12 +275,12 @@
       }
     },
     {
-      "ordinal": 18,
+      "ordinal": 19,
       "time": "28/06/2021",
-      "activity": "Patient had sudden cardiac arrest",
+      "activity": "Patient had a sudden cardiac arrest",
       "symptom": "Cardiac arrest",
       "diagnosis": "",
-      "treatment": "CPR, intubation",
+      "treatment": "CPR",
       "notes": {
         "demographics": "",
         "physical_exam": "",

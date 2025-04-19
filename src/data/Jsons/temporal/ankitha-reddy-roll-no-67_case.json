@@ -8,90 +8,105 @@
       "ordinal": 1,
       "time": "3 months ago",
       "activity": "Developed fever",
-      "symptom": "Fever, nausea",
+      "symptom": "Low grade fever, nausea",
       "diagnosis": "",
       "treatment": "Medication",
       "notes": {
-        "demographics": "38 yr old male",
+        "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Fever was low grade and intermittent, relieved on medication"
+        "discussion": "Fever was insidious in onset and lasted for 10 days, relieved on medication"
       }
     },
     {
       "ordinal": 2,
       "time": "3 months ago",
-      "activity": "Developed loss of appetite",
-      "symptom": "Loss of appetite",
+      "activity": "Loss of appetite",
+      "symptom": "Decreased appetite",
       "diagnosis": "",
-      "treatment": "Medication",
+      "treatment": "Medication for a month",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Loss of appetite persisted despite medication"
+        "discussion": "Loss of appetite since 3 months, did not subside with medication"
       }
     },
     {
       "ordinal": 3,
-      "time": "1 month ago",
-      "activity": "Visited RMP and MBBS doctor",
+      "time": "15 days after initial creatinine level check",
+      "activity": "Creatinine level check",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "Serum creatinine level: 6mg/dl",
-        "lab_measurements": "",
-        "discussion": "Patient visited RMP and MBBS doctor for loss of appetite"
+        "investigations": "",
+        "lab_measurements": "Serum creatinine level: 16mg/dl",
+        "discussion": ""
       }
     },
     {
       "ordinal": 4,
-      "time": "15 days ago",
-      "activity": "Got creatinine levels checked again",
+      "time": "On admission",
+      "activity": "Admission to hospital",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "Serum creatinine level: 16mg/dl",
-        "lab_measurements": "",
-        "discussion": "Creatinine levels increased to 16mg/dl"
+        "investigations": "",
+        "lab_measurements": "Serum creatinine level: 20mg/dl",
+        "discussion": ""
       }
     },
     {
       "ordinal": 5,
-      "time": "Admission to hospital",
-      "activity": "Admitted to hospital",
+      "time": "On admission",
+      "activity": "Ultrasound scan",
       "symptom": "",
-      "diagnosis": "Acute kidney injury on Chronic kidney disease",
-      "treatment": "Dialysis",
+      "diagnosis": "Bilateral ureteric obstruction (calculus) and hydronephrosis",
+      "treatment": "",
       "notes": {
         "demographics": "",
-        "physical_exam": "Conscious, coherent, and cooperative",
-        "investigations": "Serum creatinine level: 20mg/dl, Ultrasound scan: bilateral ureteric obstruction and hydronephrosis",
+        "physical_exam": "",
+        "investigations": "Ultrasound scan",
         "lab_measurements": "",
-        "discussion": "Patient underwent dialysis in hospital"
+        "discussion": ""
       }
     },
     {
       "ordinal": 6,
       "time": "During hospital stay",
-      "activity": "Underwent investigations and treatment",
+      "activity": "Dialysis",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Inj Lasix, Tab Nodosis, Tab shelcal, Tab orofor Xt, Inj Erythropoeitin, Inj Iron sucrose",
+      "treatment": "Dialysis",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "ECG, Serum creatinine, Blood urea, Serum iron, ABG, Hemogram, Serum electrolytes",
+        "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient underwent various investigations and treatments"
+        "discussion": "Underwent dialysis two times"
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "11/10/21",
+      "activity": "Investigations and treatment",
+      "symptom": "",
+      "diagnosis": "Acute kidney injury on Chronic kidney disease, Post renal pathology and ureteric calculi with gross hydronephrosis",
+      "treatment": "Inj Lasix, Tab Nodosis, Tab shelcal, Tab orofor Xt, Inj. Erythropoeitin, Inj. Iron sucrose, Syrup Anstozyme",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "USG ABDOMEN, ULTRASOUND, ECG, SERUM CREATININE, CUE, RBS, BLOOD UREA, SERUM IRON, ABG, HEMOGRAM, SERUM ELECTROLYTES",
+        "lab_measurements": "",
+        "discussion": ""
       }
     }
   ],

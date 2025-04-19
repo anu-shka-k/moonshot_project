@@ -3,7 +3,188 @@
     "url": "https://93harika.blogspot.com/2021/10/42-yr-old-male-electrician-came-to.html",
     "datetime": "2021-10-18T19:54:00-0700"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "4-5 days before admission",
+      "activity": "Patient experienced SOB grade 3, abdominal distension, and bilateral pedal edema",
+      "symptom": "SOB grade 3, abdominal distension, bilateral pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "42-year-old male electrician",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "1 year before admission",
+      "activity": "Patient was diagnosed with TB and used medication for 4 days",
+      "symptom": "",
+      "diagnosis": "TB",
+      "treatment": "Medication for 4 days",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "July 21, 2021",
+      "activity": "Patient was admitted to the hospital with symptoms of SOB, pedal edema, and diagnosed with HFrEF with EF=32%, COPD, and left ulcer on foot",
+      "symptom": "SOB, pedal edema",
+      "diagnosis": "HFrEF with EF=32%, COPD, left ulcer on foot",
+      "treatment": "Conservative management with diuretics, beta blockers",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "15 days after discharge",
+      "activity": "Patient continued to consume alcohol and experienced increased binge drinking",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "10 days after discharge",
+      "activity": "Patient experienced cough, productive, no diurnal variation, associated with low-grade fever and SOB",
+      "symptom": "Cough, productive, low-grade fever, SOB",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "Admission to ICU",
+      "activity": "Patient was admitted to the ICU with symptoms of SOB, pedal edema, and diagnosed with HFrEF with EF=27%, COPD, and left non-healing ulcer on foot",
+      "symptom": "SOB, pedal edema",
+      "diagnosis": "HFrEF with EF=27%, COPD, left non-healing ulcer on foot",
+      "treatment": "Oxygen inhalation, propped up posture, fluid restriction, salt restriction, injection Lasix, injection Thiamine, Nebulization with IPRAVENT and DUOLIN",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious, coherent, cooperative, afebrile, BP: 90/60mmHg, PR: 112bpm, RR: 34cpm, SpO2: 89% on room air",
+        "investigations": "Serum creatinine: 2.1, Blood urea: 75, 2D ECHO: Moderate to severe TR+ with PAH: mild MR+",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "Day 2 in ICU",
+      "activity": "Patient's SOB decreased from grade 4 to grade 2, cough decreased, orthopnea +, no fever spikes",
+      "symptom": "SOB decreased, cough decreased, orthopnea +",
+      "diagnosis": "",
+      "treatment": "Continuation of previous treatment, addition of injection Hydrocortisone",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious, coherent, cooperative, pallor+, no icterus, cyanosis, clubbing, lymphadenopathy, BP: 110/70mmHg, PR: 100bpm, RR: 20/min, SpO2: 98% on room air",
+        "investigations": "Pleural fluid analysis: Volume-3ml, Appearance-clear, Colour-pale yellow, Total count-10cells, DC-100% L, RBC-nil, Others-nil",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "Day 3 in ICU",
+      "activity": "Patient's SOB decreased, cough decreased, orthopnea +, no fever spikes",
+      "symptom": "SOB decreased, cough decreased, orthopnea +",
+      "diagnosis": "",
+      "treatment": "Continuation of previous treatment",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious, coherent, cooperative, Temp: 97.5°F, BP: 110/70mmHg, PR: 108bpm, RR: 21/min, SpO2: 93% on room air",
+        "investigations": "Pleural LDH: 87, Serum LDH: 431, Light's criteria: 0.2",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "Day 4 in ICU",
+      "activity": "Patient's SOB decreased, cough decreased, orthopnea +, no fever spikes",
+      "symptom": "SOB decreased, cough decreased, orthopnea +",
+      "diagnosis": "",
+      "treatment": "Continuation of previous treatment",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious, coherent, cooperative, Temp: 97.5°F, BP: 110/60mmHg, PR: 100bpm, RR: 20/min, SpO2: 96% on room air",
+        "investigations": "Pleural fluid ADA: 27U/L",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "Day 5 in ICU",
+      "activity": "Patient's SOB decreased, cough decreased, orthopnea +, no fever spikes",
+      "symptom": "SOB decreased, cough decreased, orthopnea +",
+      "diagnosis": "",
+      "treatment": "Continuation of previous treatment",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious, coherent, cooperative, Temp: 98.9°F, BP: 120/80mmHg, PR: 96bpm, RR: 20/min, SpO2: 97% on room air",
+        "investigations": "Hemogram: HB-9.0, TC-11,900, PLT-1.10",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "Day 6 in ICU",
+      "activity": "Patient was shifted to AMC",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious, coherent, cooperative, Temp: 98.6°F, BP: 100/70mmHg, PR: 90bpm, RR: 18/min, SpO2: 98% on room air",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "Day 7 in ICU",
+      "activity": "Patient was shifted to AMC",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious, coherent, cooperative, Temp: 98.4°F, BP: 110/80mmHg, PR: 102bpm, RR: 18/min, SpO2: 98% on room air",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTLe8dRLwXhEZrgxZn3QQnxdfEpXg3BwgVPzrcWaYcNEmMIl5L1zCn5c23BJ9yoNWWo3GqEbnrlhu0BDSAcQ8mi6q_35PR6Jf6ICCAzJAmPkcHPHf50ki0I1h_be5keLAMK9tNW8AIfQo/s1600/1634612075120932-0.png",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTTBf0GrsFXsA2hoXcqFPRUWUVypd-dL81HMvQT1M336ob8wqHOs3RYAYQj_EpmXlJnOyLS5NYccoS0Gt6OKkQ0h60e_Ggsi-RaN8xgKyx_FRm-4UKqgRVxMkM-4f8NU2DbTzimlhCcFo/s1600/1634725807271597-0.png",

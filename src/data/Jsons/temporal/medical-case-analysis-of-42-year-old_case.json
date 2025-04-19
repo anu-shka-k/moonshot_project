@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "url": "https://hudafirdousemohammed105.blogspot.com/p/medical-case-analysis-of-42-year-old.html",
+    "datetime": "2025-04-19T16:49:36-00:00"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "at birth",
+      "activity": "patient was born with jaundice and other anomalies",
+      "symptom": "jaundice, developmental delay",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "female patient",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient has a history of G6PD deficiency and AMPD1 deficiency"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "2 years of age",
+      "activity": "patient started experiencing migraine with aura",
+      "symptom": "migraine with aura",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient's migraine with aura has been gradually progressive and worsened with menses and use of novaring for birth control"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "childhood",
+      "activity": "patient was diagnosed with asthma",
+      "symptom": "difficulty in breathing, fatigue",
+      "diagnosis": "asthma",
+      "treatment": "inhalers",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient's asthma was not responsive to inhalers"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "March 2020",
+      "activity": "patient had a last episode of migraine with aura",
+      "symptom": "migraine with aura",
+      "diagnosis": "hemiplegic migraine",
+      "treatment": "triptans",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient's migraine with aura was relieved with triptans"
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "recently",
+      "activity": "patient was diagnosed with Behcets disease",
+      "symptom": "oral ulcers",
+      "diagnosis": "Behcets disease",
+      "treatment": "lidocaine washes for oral ulcers and cognitive behavioral therapy",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient was recently diagnosed with Behcets disease and is being treated with lidocaine washes and cognitive behavioral therapy"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://hudafirdousemohammed105.blogspot.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5F9qPLdvHiZDTr6M784_LUXWpZVZzhJPOsHWAKj3Rk3a0pCVc-rXJsFuD8w2FtyORqrX1KGEcSCPXSHsIRnamoFE5QKOtz9TlVoUaCZ8yLzUra1z_cEmfYSVy8kBJMEE/s220/Screenshot_2021-03-16-09-51-29-76.jpg"
+  ]
+}

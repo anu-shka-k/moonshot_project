@@ -6,152 +6,107 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "1 month prior to admission",
-      "activity": "vomiting and abdominal pain",
-      "symptom": "vomiting, abdominal pain, loose stools",
+      "time": "45 minutes prior to admission",
+      "activity": "shortness of breath",
+      "symptom": "shortness of breath, cough with blood-tinged sputum",
       "diagnosis": "",
-      "treatment": "I.V. fluids",
+      "treatment": "",
       "notes": {
-        "demographics": "53 year old male, cycle repairer",
+        "demographics": "53-year-old male, cycle repairer",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient had 6-7 episodes of vomiting, associated with pain abdomen and loose stools"
+        "discussion": "patient presented with shortness of breath and cough with blood-tinged sputum"
       }
     },
     {
       "ordinal": 2,
-      "time": "15 days prior to admission",
-      "activity": "development of pedal edema and cough with blood-tinged sputum",
-      "symptom": "pedal edema, cough with blood-tinged sputum",
-      "diagnosis": "",
-      "treatment": "",
+      "time": "admission",
+      "activity": "admission to ICU",
+      "symptom": "shortness of breath, cough with blood-tinged sputum, pedal edema",
+      "diagnosis": "cardiogenic shock secondary to HFrEF with TYPE 1 Respiratory failure",
+      "treatment": "intubation, vasopressors (noradrenaline, dobutamine)",
       "notes": {
         "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": "patient developed pedal edema and cough with blood-tinged sputum"
+        "physical_exam": "Spo2: 56%, BP: not recordable, PR: 130/min",
+        "investigations": "Chest X-ray, ECG",
+        "lab_measurements": "Hb: 13.9, TLC: 17700, RBC: 4.91, PLT: 1.16",
+        "discussion": "patient diagnosed with cardiogenic shock secondary to HFrEF with TYPE 1 Respiratory failure"
       }
     },
     {
       "ordinal": 3,
-      "time": "admission",
-      "activity": "presentation to casualty with shortness of breath",
-      "symptom": "shortness of breath, cough with blood-tinged sputum",
-      "diagnosis": "cardiogenic shock secondary to HFrEF",
-      "treatment": "intubation, vasopressors (noradrenaline, dobutamine)",
+      "time": "Day 2 of admission",
+      "activity": "pleural tap",
+      "symptom": "cough, shortness of breath",
+      "diagnosis": "cardiogenic shock secondary to HFrEF with TYPE 1 Respiratory failure",
+      "treatment": "INJ PIPTAZ 4.5 mg/IV/STAT, INJ PANTOP 40mg/IV/OD, INJ NORAD-DS 10 ml/hr",
       "notes": {
         "demographics": "",
-        "physical_exam": "spo2 56% on room air, pulse 112/min, bp not recordable",
+        "physical_exam": "Temp: 98.7F, BP: 90/70mmHg, PR: 110bpm",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient was diagnosed with cardiogenic shock secondary to HFrEF"
+        "discussion": "patient subjectively feeling better, but still requiring vasopressors"
       }
     },
     {
       "ordinal": 4,
-      "time": "day 1 of admission",
-      "activity": "treatment with vasopressors and diuretics",
-      "symptom": "shortness of breath, cough with blood-tinged sputum",
-      "diagnosis": "cardiogenic shock secondary to HFrEF",
-      "treatment": "vasopressors (noradrenaline, dobutamine), diuretics (lasix)",
+      "time": "Day 3 of admission",
+      "activity": "ongoing treatment",
+      "symptom": "cough, shortness of breath",
+      "diagnosis": "cardiogenic shock secondary to HFrEF with TYPE 1 Respiratory failure",
+      "treatment": "INJ PIPTAZ 4.5 mg/IV/TID, INJ PANTOP 40mg/IV/OD, INJ NORAD-DS 20 ml/hr",
       "notes": {
         "demographics": "",
-        "physical_exam": "",
+        "physical_exam": "Temp: 98.7F, BP: 90/70mmHg, PR: 140bpm",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient was treated with vasopressors and diuretics"
+        "discussion": "patient still requiring vasopressors, but showing some improvement"
       }
     },
     {
       "ordinal": 5,
-      "time": "day 2 of admission",
-      "activity": "pleural tap and treatment with antibiotics",
-      "symptom": "shortness of breath, cough with blood-tinged sputum",
-      "diagnosis": "cardiogenic shock secondary to HFrEF",
-      "treatment": "pleural tap, antibiotics (levofloxacin)",
+      "time": "Day 4 of admission",
+      "activity": "ongoing treatment",
+      "symptom": "shortness of breath, pedal edema",
+      "diagnosis": "cardiogenic shock secondary to HFrEF with TYPE 1 Respiratory failure",
+      "treatment": "INJ PIPTAZ 4.5 mg/IV/TID, INJ PANTOP 40mg/IV/OD, INJ NORAD-DS 22 ml/hr",
       "notes": {
         "demographics": "",
-        "physical_exam": "spo2 92% on 8 liters oxygen",
+        "physical_exam": "Temp: 98.7F, BP: 90/70mmHg, PR: 111bpm",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient underwent pleural tap and was treated with antibiotics"
+        "discussion": "patient still requiring vasopressors, but showing some improvement"
       }
     },
     {
       "ordinal": 6,
-      "time": "day 3 of admission",
-      "activity": "treatment with vasopressors and diuretics",
-      "symptom": "shortness of breath, cough with blood-tinged sputum",
-      "diagnosis": "cardiogenic shock secondary to HFrEF",
-      "treatment": "vasopressors (noradrenaline, dobutamine), diuretics (lasix)",
+      "time": "Day 5 of admission",
+      "activity": "ongoing treatment",
+      "symptom": "shortness of breath, pedal edema",
+      "diagnosis": "cardiogenic shock secondary to HFrEF with TYPE 1 Respiratory failure",
+      "treatment": "INJ PIPTAZ 4.5 mg/IV/BD, INJ PANTOP 40mg/IV/OD, INJ NORAD-DS 22 ml/hr",
       "notes": {
         "demographics": "",
-        "physical_exam": "pulse 140/min, irregular, low volume",
+        "physical_exam": "Temp: 98.7F, BP: 90/70mmHg, PR: 111bpm",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient was treated with vasopressors and diuretics"
+        "discussion": "patient still requiring vasopressors, but showing some improvement"
       }
     },
     {
       "ordinal": 7,
-      "time": "day 4 of admission",
-      "activity": "treatment with heparin infusion",
-      "symptom": "shortness of breath, cough with blood-tinged sputum",
-      "diagnosis": "cardiogenic shock secondary to HFrEF",
-      "treatment": "heparin infusion",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "spo2 88% on room air, 96% on 12 liters oxygen",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": "patient was treated with heparin infusion"
-      }
-    },
-    {
-      "ordinal": 8,
-      "time": "day 5 of admission",
-      "activity": "treatment with vasopressors and diuretics",
-      "symptom": "shortness of breath, cough with blood-tinged sputum",
-      "diagnosis": "cardiogenic shock secondary to HFrEF",
-      "treatment": "vasopressors (noradrenaline, dobutamine), diuretics (lasix)",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "spo2 88% on room air, 96% on 12 liters oxygen",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": "patient was treated with vasopressors and diuretics"
-      }
-    },
-    {
-      "ordinal": 9,
       "time": "12/9/21 @ 1:30 am",
       "activity": "cardiac arrest",
       "symptom": "cardiac arrest",
-      "diagnosis": "cardiogenic shock secondary to HFrEF",
-      "treatment": "CPR",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "bp and pulse not recordable",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": "patient had a cardiac arrest and was treated with CPR"
-      }
-    },
-    {
-      "ordinal": 10,
-      "time": "12/9/21 @ 1:59 am",
-      "activity": "death",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "",
+      "diagnosis": "sudden cardiac arrest secondary to cardiogenic shock",
+      "treatment": "CPR according to ACLS guidelines",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient was declared dead"
+        "discussion": "patient suffered cardiac arrest and could not be revived"
       }
     }
   ],

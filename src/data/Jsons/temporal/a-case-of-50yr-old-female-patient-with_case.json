@@ -6,13 +6,13 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "4 days back",
+      "time": "4 days before admission",
       "activity": "Patient was alright and performing her regular activities",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
-        "demographics": "50YR old female patient",
+        "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
@@ -21,14 +21,14 @@
     },
     {
       "ordinal": 2,
-      "time": "4 days back",
-      "activity": "Developed bilateral pedal edema",
-      "symptom": "BILATERAL PEDAL EDEMA, DECREASED URINE OUTPUT, SHORTNESS OF BREATH",
+      "time": "4 days before admission",
+      "activity": "Developed bilateral pedal edema, decreased urine output, and shortness of breath",
+      "symptom": "bilateral pedal edema, decreased urine output, shortness of breath",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
-        "physical_exam": "pitting type of edema, involving feet and extending upto below knee level",
+        "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
         "discussion": ""
@@ -36,44 +36,44 @@
     },
     {
       "ordinal": 3,
-      "time": "",
-      "activity": "Admitted to hospital",
+      "time": "on admission",
+      "activity": "Admitted to the hospital",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 4,
-      "time": "",
-      "activity": "General examination",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "Pallor - PRESENT, Icterus - absent, Clubbing - absent, Cyanosis- absent, Lymphadenopathy - absent, Edema - PRESENT",
+        "demographics": "50YR old female patient",
+        "physical_exam": "conscious, coherent and cooperative, moderately built and nourished, Pallor - PRESENT, Icterus - absent, Clubbing - absent, Cyanosis- absent, Lymphadenopathy - absent, Edema - PRESENT (BILATERAL PEDAL EDEMA)",
         "investigations": "",
         "lab_measurements": "Temp. : Afebrile, Pulse rate : 84 bpm, Respiratory rate : 22 per min, B.P : 140/90 mm of Hg, spO2 : 94% at room air",
         "discussion": ""
       }
     },
     {
+      "ordinal": 4,
+      "time": "on admission",
+      "activity": "General examination and vital signs measurement",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "pitting type of edema over the dorsum of both foot",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
       "ordinal": 5,
-      "time": "",
+      "time": "on admission",
       "activity": "Systemic examination",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
-        "physical_exam": "Respiratory system: Normal vesicular breath sounds heard, CVS : S1 , S2 heard , no murmurs, CNS : No sensory and motor abnormalities, Per abdomen : Soft and non tender , no organomegaly",
+        "physical_exam": "Normal vesicular breath sounds heard, S1 , S2 heard , no murmurs, No sensory and motor abnormalities, Soft and non tender , no organomegaly",
         "investigations": "",
         "lab_measurements": "",
         "discussion": ""
@@ -81,7 +81,7 @@
     },
     {
       "ordinal": 6,
-      "time": "",
+      "time": "on admission",
       "activity": "Investigations",
       "symptom": "",
       "diagnosis": "",
@@ -89,14 +89,14 @@
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "Complete blood picture, Serum electrolytes, Serum iron, Blood urea, Serum creatinine, Ultrasound abdomen, ECG",
+        "investigations": "Complete blood picture, Serum electrolytes, Serum iron, Blood urea, Serum creatinine, ultrasound abdomen, ECG",
         "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 7,
-      "time": "",
+      "time": "on admission",
       "activity": "Provisional diagnosis",
       "symptom": "",
       "diagnosis": "CHRONIC KIDNEY DISEASE (unknown etiology) on MAINTENANCE HEMODIALYSIS, Known case of hypertension since 7 years",
@@ -111,7 +111,7 @@
     },
     {
       "ordinal": 8,
-      "time": "",
+      "time": "on admission",
       "activity": "Treatment",
       "symptom": "",
       "diagnosis": "",

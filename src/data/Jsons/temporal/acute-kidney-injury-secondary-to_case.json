@@ -3,7 +3,218 @@
     "url": "https://casescape.blogspot.com/2021/06/acute-kidney-injury-secondary-to.html",
     "datetime": "2021-06-19T21:56:00+0530"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "10 days before presentation",
+      "activity": "Patient developed pedal edema, decreased urine output, and fever",
+      "symptom": "Pedal edema, decreased urine output, fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "5 years before presentation",
+      "activity": "Patient was diagnosed with DM2",
+      "symptom": "",
+      "diagnosis": "DM2",
+      "treatment": "Teneligliptin 20 mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "2019 (2 years before presentation)",
+      "activity": "Patient developed fever, shortness of breath, and pedal edema",
+      "symptom": "Fever, shortness of breath, pedal edema",
+      "diagnosis": "Acute kidney injury secondary to urosepsis",
+      "treatment": "Dialysis (4 sessions)",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "Presentation",
+      "activity": "Patient presented to the OPD with chief complaints of pedal edema, decreased urine output, and fever",
+      "symptom": "Pedal edema, decreased urine output, fever, burning micturition",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor, pitting type pedal edema, generalized lymphadenopathy",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "14/06/21",
+      "activity": "Investigations ordered: Complete urine examination, ECG, Ultrasound",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Complete urine examination, ECG, Ultrasound",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "15/06/21",
+      "activity": "Treatment: Inj LASIX 40mg, IVF - NS @ UO + 50 ml/hr",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj LASIX 40mg, IVF - NS @ UO + 50 ml/hr",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Blood urea: 65 mg/dl, Serum creatinine: 3.4 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "16/06/21",
+      "activity": "Treatment: Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Inj MAGNEXFORTE 1.5 gm/IV/BD, Tab NODOSIS - XT PO/OD",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Inj MAGNEXFORTE 1.5 gm/IV/BD, Tab NODOSIS - XT PO/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Serum Electrolytes: Na: 138, K: 5.1, Cl: 105",
+        "lab_measurements": "Blood urea: 62 mg/dl, Serum creatinine: 3.4 mg/dl, Total leukocytes count: 24700",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "17/06/21",
+      "activity": "Treatment: Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Inj MAGNEXFORTE 1.5 gm/IV/BD, Tab NODOSIS - XT PO/OD, Tab OROFEA - XT PO/OD",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Inj MAGNEXFORTE 1.5 gm/IV/BD, Tab NODOSIS - XT PO/OD, Tab OROFEA - XT PO/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "18/06/21",
+      "activity": "Treatment: Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Inj MAGNEXFORTE 1.5 gm/IV/BD, Tab NODOSIS - XT PO/OD, Tab OROFEA - XT PO/OD",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Inj MAGNEXFORTE 1.5 gm/IV/BD, Tab NODOSIS - XT PO/OD, Tab OROFEA - XT PO/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Serum Electrolytes: Na: 136, K: 4.9, Cl: 102",
+        "lab_measurements": "Blood urea: 76 mg/dl, Serum creatinine: 3.2 mg/dl, Total leukocytes count: 26500",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "19/06/21",
+      "activity": "Treatment: Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Inj MAGNEXFORTE 1.5 gm/IV/BD, Tab NODOSIS - 500 mg PO/OD, Tab OROFEA - XT PO/OD",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Inj MAGNEXFORTE 1.5 gm/IV/BD, Tab NODOSIS - 500 mg PO/OD, Tab OROFEA - XT PO/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "20/06/21",
+      "activity": "Treatment: Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Inj MAGNEXFORTE 1.5 gm/IV/BD, Tab NODOSIS - 500 mg PO/OD, Tab OROFEA - XT PO/OD",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Inj MAGNEXFORTE 1.5 gm/IV/BD, Tab NODOSIS - 500 mg PO/OD, Tab OROFEA - XT PO/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "21/06/21",
+      "activity": "Treatment: Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Inj MAGNEXFORTE 1.5 gm/IV/BD, Tab NODOSIS - 500 mg PO/OD, Tab OROFEA - XT PO/OD",
+      "symptom": "",
+      "diagnosis": "Acute kidney injury secondary to urosepsis with hyperkalemia (resolved), Anemia of chronic disease",
+      "treatment": "Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Inj MAGNEXFORTE 1.5 gm/IV/BD, Tab NODOSIS - 500 mg PO/OD, Tab OROFEA - XT PO/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Serum Electrolytes: Na: 134, K: 5.5, Cl: 98",
+        "lab_measurements": "Blood urea: 81 mg/dl, Serum creatinine: 3.1 mg/dl, Total leukocytes count: 31700",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "22/06/21",
+      "activity": "Treatment: Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Tab Norflox 200 mg PO/BD, Ing OPTINEURON 1amp in 100 ml NS IV/OD",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj LASIX 40 mg, IVF - NS @ UO + 50 ml/hr, Tab Norflox 200 mg PO/BD, Ing OPTINEURON 1amp in 100 ml NS IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 14,
+      "time": "23/06/21",
+      "activity": "Treatment: Inj LASIX 40 mg, Tab Norflox 200 mg PO/BD, Tab ULTRACET 1/2 tab QID",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj LASIX 40 mg, Tab Norflox 200 mg PO/BD, Tab ULTRACET 1/2 tab QID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3ANf4aeGFxB30Kk7S4Ut6UQUfJFZbRnGoKp59BfGz8PGFRspq8dt-oQX4511cg03wxg_h5281u-o7lf5rdnYQymtduRWuzlP9kaZVOnJSbrTbQHppsnU6FmvsQ_yYuQlYnOY7oW7maPc/s320/IMG-20210619-WA0030.jpg",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyM1UyH9HMEuKd1wp9pyfwKM_NL7GRNKUL46ByGIMTer2JV82iW2jetPplGRAM_Qr-FgGTeFEvBmL7cazupGjB9OBioCXftfNz7YEKVVYuGwktMtq7wbzA4J6HX9vAcnMbFmrmZ9zQvP4/s320/Complete+Urine+E+-+14.jpg",

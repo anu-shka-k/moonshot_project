@@ -6,39 +6,9 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "2 months back",
-      "activity": "developed chest pain",
-      "symptom": "chest pain",
-      "diagnosis": "",
-      "treatment": "visited local hospital in miryalaguda",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": "diagnosed to have chronic kidney disease and low hemoglobin"
-      }
-    },
-    {
-      "ordinal": 2,
-      "time": "2 months back",
-      "activity": "2PRBC Transfusions were done",
-      "symptom": "",
-      "diagnosis": "chronic kidney disease and low hemoglobin",
-      "treatment": "2PRBC Transfusions",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 3,
-      "time": "20 days back",
-      "activity": "developed b/l pedal edema, reduced urine output, sob a/w orthopnea, and PND, and facial puffiness",
-      "symptom": "b/l pedal edema, reduced urine output, sob a/w orthopnea, and PND, and facial puffiness",
+      "time": "20 days before admission",
+      "activity": "Patient developed b/l pedal edema, decreased urine output, sob a/w orthopnea, and PND, and facial puffiness",
+      "symptom": "b/l pedal edema, decreased urine output, sob a/w orthopnea, and PND, and facial puffiness",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -50,9 +20,9 @@
       }
     },
     {
-      "ordinal": 4,
-      "time": "10 days back",
-      "activity": "developed fever a/w chills and rigor",
+      "ordinal": 2,
+      "time": "10 days before admission",
+      "activity": "Patient developed fever a/w chills and rigor, which subsided on medication",
       "symptom": "fever a/w chills and rigor",
       "diagnosis": "",
       "treatment": "medication",
@@ -61,12 +31,12 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "fever subsided on medication"
+        "discussion": ""
       }
     },
     {
-      "ordinal": 5,
-      "time": "yesterday",
+      "ordinal": 3,
+      "time": "1 day before admission",
       "activity": "1 PRBC transfusion done in Nalgonda hospital",
       "symptom": "",
       "diagnosis": "",
@@ -80,15 +50,45 @@
       }
     },
     {
-      "ordinal": 6,
-      "time": "On 02/12/21",
-      "activity": "outside reports",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "",
+      "ordinal": 4,
+      "time": "on admission",
+      "activity": "Patient admitted to hospital",
+      "symptom": "b/l pedal edema, decreased urine output, sob a/w orthopnea, and PND, and facial puffiness",
+      "diagnosis": "AKI ON CKD (stage v), with egfr: 5ml/hr, with metabolic acidosis (resolving), with b/l pleural effusion with k/c/o HTN since 10 months",
+      "treatment": "Head end elevation upto 30', O2 supplementation if SpO2 < 90%, Inj. Lasix 40mg iv tid, Inj. PIPTAZ 2.25gms IV BD, TAB. NICARDIA 10MG PO BD, TAB. NODOSIS 550MG PO BD, TAB. SHELCAL 500 MG PO OD, NEB. WITH SALBUTAMOL 2 RESIPULES / 4TH HRLY, INJ. ERYTHROPOIETIN 4000 IU S/C WEEKLY ONCE, SYP. ASCORYL PO TID, HRLY VITALS MONITORING",
       "notes": {
         "demographics": "",
-        "physical_exam": "",
+        "physical_exam": "Pallor - present, Icterus - absent, Cyanosis - absent, Clubbing - absent, Lymphadenopathy - absent, Pedal edema - b/l present",
+        "investigations": "",
+        "lab_measurements": "Afebrile, Bp: 170/100 mm hg, PR: 99 bpm, RR: 22 cpm, SpO2: 87% @RA",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "Day 2",
+      "activity": "Patient shifted to CKD ward",
+      "symptom": "Sob reduced, Pedal edema reduced",
+      "diagnosis": "AKI ON CKD (stage v), with egfr: 5ml/hr, with metabolic acidosis (resolving), with b/l pleural effusion with k/c/o HTN since 10 months",
+      "treatment": "Head end elevation upto 30', O2 supplementation if SpO2 < 90%, Inj. Lasix 40mg iv tid, Inj. PIPTAZ 2.25gms IV BD, TAB. NICARDIA 10MG PO BD, TAB. NODOSIS 550MG PO BD, Tab. Orofer XT PO/OD, TAB. SHELCAL 500 MG PO OD, NEB. WITH SALBUTAMOL 2 RESIPULES / 4TH HRLY, INJ. ERYTHROPOIETIN 4000 IU S/C WEEKLY ONCE, Inj. Iron sucrose 1 amp in 100ml NS, SYP. ASCORYL PO TID, HRLY VITALS MONITORING",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor +, B/l Pedal edema +, No icterus, cyanosis, clubbing, lymphadenopathy, Afebrile, Bp: 160/80 mm hg, PR: 88 bpm, RR: 22 cpm, SpO2: 92% @RA",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "Day 3",
+      "activity": "Patient shifted to CKD ward",
+      "symptom": "Sob reduced, Pedal edema reduced",
+      "diagnosis": "AKI ON CKD (stage v), with egfr: 5ml/hr, with metabolic acidosis (resolving), with b/l pleural effusion with k/c/o HTN since 10 months",
+      "treatment": "Head end elevation upto 30', Inj. Lasix 40mg iv tid, TAB. NICARDIA 10MG PO BD, TAB. NODOSIS 550MG PO BD, Tab. Orofer XT PO/OD, TAB. SHELCAL 500 MG PO OD, NEB. WITH SALBUTAMOL 2 RESIPULES / 4TH HRLY, INJ. ERYTHROPOIETIN 4000 IU S/C WEEKLY ONCE, Inj. Iron sucrose 1 amp in 100ml NS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor +, B/l Pedal edema +, No icterus, cyanosis, clubbing, lymphadenopathy, Afebrile, Bp: 160/80 mm hg, PR: 88 bpm, RR: 22 cpm, SpO2: 92% @RA",
         "investigations": "",
         "lab_measurements": "",
         "discussion": ""
@@ -96,59 +96,14 @@
     },
     {
       "ordinal": 7,
-      "time": "On 17/12/21",
-      "activity": "outside reports",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 8,
-      "time": "Day 2",
-      "activity": "Pt shifted to CKD ward",
-      "symptom": "Sob reduced, Pedal edema reduced",
-      "diagnosis": "AKI ON CKD (stage v), with egfr: 5ml/hr, with metabolic acidosis ( resolving ), with b/l pleural effusion with k/c/o HTN since 10 months",
-      "treatment": "Head end elevation upto 30', O2 supplementation if SpO2 < 90%, Inj. Lasix 40mg iv tid, Inj. PIPTAZ 2.25gms IV BD, TAB. NICARDIA 10MG PO BD, TAB. NODOSIS 550MG PO BD, Tab. Orofer XT PO/OD, TAB. SHELCAL 500 MG PO OD, NEB. WITH SALBUTAMOL 2 RESIPULES / 4TH HRLY, INJ. ERYTHROPOIETIN 4000 IU S/C WEEKLY ONCE, SYP. ASCORYL PO TID, HRLY VITALS MONITORING",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "Pallor +, B/l Pedal edema +, No icterus, cyanosis, clubbing, lymphadenopathy, Afebrile, Bp: 160/80 mm hg, PR: 88 bpm, RR: 22 cpm, SpO2: 92% @RA, CVS: S1,S2 +, RS: BAE+, decreased breathsounds in b/l ISA, MSA, P/A: SOFT, NON TENDER, CNS: NAD",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 9,
-      "time": "Day 3",
-      "activity": "Pt shifted to CKD ward",
-      "symptom": "Sob reduced, Pedal edema reduced",
-      "diagnosis": "AKI ON CKD (stage v), with egfr: 5ml/hr, with metabolic acidosis ( resolving ), with b/l pleural effusion with k/c/o HTN since 10 months",
-      "treatment": "Head end elevation upto 30', Inj. Lasix 40mg iv tid, TAB. NICARDIA 10MG PO BD, TAB. NODOSIS 550MG PO BD, Tab. Orofer XT PO/OD, TAB. SHELCAL 500 MG PO OD, NEB. WITH SALBUTAMOL 2 RESIPULES / 4TH HRLY, INJ. ERYTHROPOIETIN 4000 IU S/C WEEKLY ONCE, Inj. Iron sucrose 1 amp in 100ml NS",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "Pallor +, B/l Pedal edema +, No icterus, cyanosis, clubbing, lymphadenopathy, Afebrile, Bp: 160/80 mm hg, PR: 88 bpm, RR: 22 cpm, SpO2: 92% @RA, CVS: S1,S2 +, RS: BAE+, decreased breathsounds in b/l ISA, MSA, P/A: SOFT, NON TENDER, CNS: NAD",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 10,
       "time": "Day 4",
-      "activity": "In CKD WARD",
+      "activity": "Patient in CKD ward",
       "symptom": "Sob reduced, Pedal edema reduced",
-      "diagnosis": "AKI ON CKD (stage v), with egfr: 5ml/hr, with metabolic acidosis ( resolving ), with b/l pleural effusion with k/c/o HTN since 10 months",
+      "diagnosis": "AKI ON CKD (stage v), with egfr: 5ml/hr, with metabolic acidosis (resolving), with b/l pleural effusion with k/c/o HTN since 10 months",
       "treatment": "Head end elevation upto 30', Inj. Lasix 40mg iv tid, TAB. NICARDIA 10MG PO BD, TAB. NODOSIS 550MG PO BD, Tab. Orofer XT PO/OD, TAB. SHELCAL 500 MG PO OD, NEB. WITH SALBUTAMOL 2 RESIPULES / 4TH HRLY, INJ. ERYTHROPOIETIN 4000 IU S/C WEEKLY ONCE, Inj. Iron sucrose 1 amp in 100ml NS",
       "notes": {
         "demographics": "",
-        "physical_exam": "Pallor +, B/l Pedal edema +, No icterus, cyanosis, clubbing, lymphadenopathy, Afebrile, Bp: 160/80 mm hg, PR: 88 bpm, RR: 22 cpm, SpO2: 92% @RA, CVS: S1,S2 +, RS: BAE+, decreased breathsounds in b/l ISA, MSA, P/A: SOFT, NON TENDER, CNS: NAD",
+        "physical_exam": "Pallor +, B/l Pedal edema +, No icterus, cyanosis, clubbing, lymphadenopathy, Afebrile, Bp: 160/80 mm hg, PR: 88 bpm, RR: 22 cpm, SpO2: 92% @RA",
         "investigations": "",
         "lab_measurements": "",
         "discussion": ""

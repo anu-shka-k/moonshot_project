@@ -3,7 +3,98 @@
     "url": "https://bonthusushma154.blogspot.com/2021/06/medicine-case-discussion.html",
     "datetime": "2021-06-03T03:34:00-0700"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "3 years before admission",
+      "activity": "Patient developed pain and tingling over left lower leg",
+      "symptom": "Pain and tingling over left lower leg",
+      "diagnosis": "",
+      "treatment": "Medications",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient developed loss of sensation, numbness over left leg from mid calf to toes"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "6 months before admission",
+      "activity": "Patient developed fever with chills and body pains",
+      "symptom": "Fever with chills and body pains",
+      "diagnosis": "",
+      "treatment": "IV injections",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Fever relieves only with IV injections for 2 days, later recurs and lasts for 2-3 days"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "31st May 2021",
+      "activity": "Patient presented to OPD",
+      "symptom": "Loss of sensation, numbness over left leg, fever with chills and body pains",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "50-year-old female, farmer by occupation",
+        "physical_exam": "Patient is conscious, coherent and cooperative",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient presented with chief complaints of loss of sensation, numbness over left leg"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "June 1st, 2021",
+      "activity": "Vital signs recorded",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: 98.6F, Pulse rate: 98bpm, Respiratory rate: 23cpm, Bp: 110/80mmHg, SpO2: 98%",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "June 2nd, 2021",
+      "activity": "Vital signs recorded",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: 96.4F, Pulse rate: 92bpm, Respiratory rate: 22cpm, Bp: 110/80mmHg, SpO2: 98%",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "After admission",
+      "activity": "Investigations and examinations performed",
+      "symptom": "",
+      "diagnosis": "Peripheral neuropathy - chronic - Pure sensory, asymmetrical - Left lower leg",
+      "treatment": "Tab: Glimi-M2/CO/OD, Tab: Wysolone 10mg/PO/OD, Tab: DOLO 650mg /PO/SOS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Respiratory System- BAE+ clear, CVS- S1 and S2 heard, CNS- Higher mental functions intact",
+        "investigations": "Complete Blood Picture, Complete Urine Examination, Liver Function Test, Renal Function Test",
+        "lab_measurements": "High TLC count, Smear for MP negative, Widal negative, IgM weak positive",
+        "discussion": "Provisional diagnosis - Peripheral neuropathy - chronic - Pure sensory, asymmetrical - Left lower leg"
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ7OvhyL2TOXieieut7e9rXAUQc_6HEylS4febhVVoLIQZBUOcWENko8YiyDiocYxdcc5Hi8R-A4heKthPUA5ZNqceORfTdFJLCmlDBfbDXr8VFxzL1HrA8Uwx1Z7hKgZYEZaCdZbZQAs/s320/IMG-20210603-WA0116.jpg",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkrVv9GbKOybaZ2OreSvcB5OIRadt4rIkwmnAVQZuVZWTRSZN7rIaup1hCXwuywPsjGc_1eVIoqpn6aGPjEYoxf8Cg0lAq_uQGnvpiuvJssdNLOppZ5sypyPGnK4W9FTKj3wQ4nQSnvEk/s320/IMG-20210603-WA0026.jpg",

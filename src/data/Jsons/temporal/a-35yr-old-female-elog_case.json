@@ -3,7 +3,203 @@
     "url": "https://ananyapulikandala106.blogspot.com/2021/06/a-35yr-old-female-elog.html",
     "datetime": "2021-06-30T00:47:00-0700"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "5 days before admission",
+      "activity": "Patient experienced fever, diarrhea, back pain, abdominal pain, and chest pain",
+      "symptom": "Fever, diarrhea, back pain, abdominal pain, chest pain",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "Diabetic patient",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "2 years before admission",
+      "activity": "Patient developed an infection in the little finger",
+      "symptom": "Infection in the little finger",
+      "diagnosis": "",
+      "treatment": "Infected area was removed",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "1 year before admission",
+      "activity": "Patient experienced back pain",
+      "symptom": "Back pain",
+      "diagnosis": "",
+      "treatment": "Antibiotics (without prescription)",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "On admission (28th June, 2021, 1:00 pm)",
+      "activity": "Patient was admitted to the hospital",
+      "symptom": "Severe breathlessness, pain in the chest region",
+      "diagnosis": "",
+      "treatment": "10 units of insulin infused",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor present, Icterus absent, Cyanosis absent",
+        "investigations": "",
+        "lab_measurements": "GRBS: 580mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "1:40 pm on 28th June, 2021",
+      "activity": "Patient became unresponsive and CPR was initiated",
+      "symptom": "Unresponsiveness",
+      "diagnosis": "",
+      "treatment": "CPR, intubation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ABG showed severe metabolic acidosis",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "After 3 cycles of CPR",
+      "activity": "ROSC obtained and patient was connected to mechanical ventilator",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Mechanical ventilation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "BP: 80/50mmHg, PR: 110b/m, SPO2: 98%",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "Day 2",
+      "activity": "Patient was given Inj. HAI, Inj. PIPTAZ, Inj. CLEXANE",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. HAI, Inj. PIPTAZ, Inj. CLEXANE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "Day 3",
+      "activity": "Patient was given Inj. HAI, Inj. PIPTAZ, Inj. NORADRENALINE",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. HAI, Inj. PIPTAZ, Inj. NORADRENALINE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "Day 6",
+      "activity": "Patient was given Inj. PIPTAZ, Inj. LEVOFLOX, Inj. VANCOMYCIN",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. PIPTAZ, Inj. LEVOFLOX, Inj. VANCOMYCIN",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "Day 9",
+      "activity": "Patient was given Inj. MEROPENEM, Inj. LEVOFLOX, Inj. VANCOMYCIN",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. MEROPENEM, Inj. LEVOFLOX, Inj. VANCOMYCIN",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "Day 12",
+      "activity": "Patient was given Inj. MEROPENEM, Inj. FOSFOMYCIN, Inj. CLEXANE",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. MEROPENEM, Inj. FOSFOMYCIN, Inj. CLEXANE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "Day 13",
+      "activity": "Patient was given Inj. MEROPENEM, Inj. FOSFOMYCIN, Inj. CLEXANE, Inj. LASIX",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. MEROPENEM, Inj. FOSFOMYCIN, Inj. CLEXANE, Inj. LASIX",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "Day 14",
+      "activity": "Patient was still in a persistent vegetative state",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdfrQI5d8amjt_ZucaM4riDjnQ22-kaCN7Ul4FQ7e1AxTJPqoCJ2MMbMlk4yfDaSKwnBV2reDcx2jgNT9EL9jvWkr-Da1icIZ76JwxhYmmq8jaRE56dfd7xV7ENyE5a5kaVpSfVWIZwJA/s320/Document+58_4.jpg",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOzQ03Yox3XXl0RxcbigGDPr-E-potv2yc9LW3GnuWYlbxnOhYxkfXanIV4o0ZuILuLsBuhm8tWGK2_4rcdrV86kgT4PpTjYEN8_3u4Dv0iMN5aDtVYrYecidBt_2urpZTBAQWVbJjui8/s320/Document+56_2.jpg",

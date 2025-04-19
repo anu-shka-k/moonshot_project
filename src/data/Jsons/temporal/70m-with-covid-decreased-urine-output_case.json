@@ -3,7 +3,173 @@
     "url": "https://bps-bhuvanaphanindra.blogspot.com/2021/05/70m-with-covid-decreased-urine-output.html",
     "datetime": "2021-05-24T14:40:00+0530"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "3 days before admission",
+      "activity": "Decreased urine output",
+      "symptom": "Decreased urine output",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "70 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "2 days before admission",
+      "activity": "Pedal edema",
+      "symptom": "Pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "1 day before admission",
+      "activity": "Shortness of breath, Facial puffiness",
+      "symptom": "Shortness of breath, Facial puffiness",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "On admission",
+      "activity": "Rapid antigen test for COVID-19",
+      "symptom": "",
+      "diagnosis": "COVID-19",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor +ve, icterus -ve, cyanosis -ve, clubbing -ve, lymphadenopathy -ve, edema - facial puffiness +ve, Bipedal edema +ve",
+        "investigations": "Rapid antigen test",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "On admission",
+      "activity": "General physical examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Respiratory rate: 26 cycles per minute, Blood pressure: 70/40 mm of Hg, Pulse rate: 103 beats per minute, Spo2: stable at 100% with 5liters of o2",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "On admission",
+      "activity": "Systemic examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "CVS: S1 and S2 heart sounds heard, No murmurs heard, Respiratory system: Trachea is central in position, The patient is dyspneic and wheeze is present, Tubular breath sounds heard, Crepts were heard",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "On admission",
+      "activity": "Investigations",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "RT-PCR for COVID-19, ABG, Complete blood picture, Renal function tests",
+        "lab_measurements": "pH: 7.06, pCo2: 102, HCo3: 27.6, HB: 6.7, TLC: 30,000, N: 90%, L: 5%, PLT: 1.63 lakhs, Blood urea: 71mg/dl, Serum creatinine: 3.7mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "On admission",
+      "activity": "Impression and treatment plan",
+      "symptom": "",
+      "diagnosis": "AKD ON CKD, Associated with COVID PNEUMONIA",
+      "treatment": "Inj Lasix 40mg IV/BD, Tab Dinidipine 10mg/PO/OD, Tab Nodosis 500mg/PO/BD, Tab OROFER-XT/PO/OD, Tab Shelcal/PO/OD, Inj Pan 40mg/IV/OD, Tab Dolo 650mg/PO/SOS, Neb Budecort 8th hourly, O2 inhalation to maintain Spo2 > 90%, Inj Dexamethasone 8mg/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "09/05/2021; 8am",
+      "activity": "Patient developed altered sensorium",
+      "symptom": "Altered sensorium",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "10/05/2021; 2:30am",
+      "activity": "Patient developed cardiac pulmonary arrest",
+      "symptom": "Cardiac pulmonary arrest",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "10/05/2021; 2:45am",
+      "activity": "Patient declared dead",
+      "symptom": "",
+      "diagnosis": "Cardiopulmonary arrest, Respiratory hypotension",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Antecedental cause of death: COVID-19 pneumonia, AKI ON CKD, Septic encephalopathy"
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgunhIxDb3pT4XHbUIqH1-uJxfmrhK_0vOvS05VjfYdsXdhmvlgly5IwbIgNL0xSCfVlQgNiZQoI_nswjDxLNBcoVYaimvj4S1FtKaJRZ2Q8G6fF3E9Caix3o1OKhzgSeomPJU-wVg_WPkJ/w220-h303/e979f59f5adeb75bd82cdbbb85d40d69%257E2.jpg",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MHjUq99CkpJxqe_sD51sa1Q7yz6M8OT3EzKf7h4DkHA-l782HVd_oeNnI79lhtk-yreJ756ju7m31puf-Iu0ojiLcSqDThf93ke6xI4BaWCjlhabm-NmXmgtPHJ7Vzz03DeHHTL0IdHb/s320/IMG-20210522-WA0005%257E2.jpg",

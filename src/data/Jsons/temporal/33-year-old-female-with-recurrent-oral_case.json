@@ -6,8 +6,8 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "10 months prior to presentation",
-      "activity": "patient was apparently normal",
+      "time": "10 months prior to admission",
+      "activity": "Patient was apparently normal",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
@@ -16,29 +16,29 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient was normal 10 months prior to presentation"
+        "discussion": ""
       }
     },
     {
       "ordinal": 2,
-      "time": "10 months prior to presentation",
-      "activity": "patient slipped and fell from an auto",
-      "symptom": "injury to the left ear",
+      "time": "10 months prior to admission",
+      "activity": "Patient slipped and fell from an auto, injuring her left ear",
+      "symptom": "Injury to the left ear",
       "diagnosis": "",
-      "treatment": "analgesics from RMP for 1 week",
+      "treatment": "Analgesics from RMP for 1 week",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient had an injury to the left ear after a fall"
+        "discussion": ""
       }
     },
     {
       "ordinal": 3,
-      "time": "after 1 week",
-      "activity": "patient developed a small red lesion on the left side of the oral cavity",
-      "symptom": "painful lesion",
+      "time": "Few days after the injury",
+      "activity": "Patient's husband had a dispute with his brothers",
+      "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -46,29 +46,29 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient developed a painful lesion on the oral cavity"
+        "discussion": ""
       }
     },
     {
       "ordinal": 4,
-      "time": "after 1 week",
-      "activity": "patient developed another lesion beside the initial lesion",
-      "symptom": "multiple lesions",
+      "time": "Next day",
+      "activity": "Patient didn't eat for a day",
+      "symptom": "",
       "diagnosis": "",
-      "treatment": "treatment from RMP, then dermatologist",
+      "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient developed multiple lesions"
+        "discussion": ""
       }
     },
     {
       "ordinal": 5,
-      "time": "after 1 month",
-      "activity": "patient had complete relief, no fresh lesions",
-      "symptom": "",
+      "time": "Following day",
+      "activity": "Patient developed a small red lesion on the left side of the oral cavity",
+      "symptom": "Painful lesion on the left side of the oral cavity",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -76,43 +76,43 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient had complete relief from lesions"
+        "discussion": ""
       }
     },
     {
       "ordinal": 6,
-      "time": "after 1 month",
-      "activity": "patient developed same painful lesions again",
-      "symptom": "painful lesions",
+      "time": "1 week later",
+      "activity": "Patient developed another lesion beside the initial lesion",
+      "symptom": "Multiple lesions on the oral cavity",
       "diagnosis": "",
-      "treatment": "another treatment from dermatologist, then hospital in Kodada, then KIMS",
+      "treatment": "Treatment from RMP, which didn't provide relief",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient developed painful lesions again"
+        "discussion": ""
       }
     },
     {
       "ordinal": 7,
-      "time": "presentation",
-      "activity": "patient presented to the hospital",
-      "symptom": "multiple erythematous papules, vaginal mucosa with curdy white discharge, multiple erosions over the buccal mucosa and hard palate",
-      "diagnosis": "provisional diagnosis: recurrent erythema multiforme secondary to HSV, chronic aphthous ulcers, Bechet's disease, chronic candidiasis",
-      "treatment": "treatment given by initial treating team (dermatology) and medicine team",
+      "time": "After visiting dermatologist",
+      "activity": "Dermatologist suggested medications",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Medications suggested by dermatologist",
       "notes": {
         "demographics": "",
-        "physical_exam": "multiple erythematous papules, vaginal mucosa with curdy white discharge, multiple erosions over the buccal mucosa and hard palate",
-        "investigations": "serum electrolytes, CUE, HIV",
-        "lab_measurements": "Na: 137 mEq/L, K: 4.7 mEq/L, Cl: 107 mEq/L",
-        "discussion": "patient presented to the hospital with multiple symptoms"
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
       }
     },
     {
       "ordinal": 8,
-      "time": "after medication",
-      "activity": "patient had pain relief",
+      "time": "1 month later",
+      "activity": "Patient had complete relief, no fresh lesions",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
@@ -121,7 +121,67 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "patient had pain relief after medication"
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "After 1 month",
+      "activity": "Patient developed painful lesions on the oral cavity again",
+      "symptom": "Painful lesions on the oral cavity",
+      "diagnosis": "",
+      "treatment": "Another treatment suggested by dermatologist, which provided partial relief",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "After visiting hospital in Kodada",
+      "activity": "Patient didn't get relief from the doctor and was referred to KIMS",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "At KIMS",
+      "activity": "Patient was initially treated by dermatology team, then by medicine team",
+      "symptom": "",
+      "diagnosis": "Recurrent erythema multiforme secondary to HSV, chronic aphthous ulcers, Bechet's disease, chronic candidiasis",
+      "treatment": "Treatment given by medicine team",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Multiple erythematous papules on the abdomen and trunk, vaginal mucosa with curdy white discharge, multiple erosions on the buccal mucosa and hard palate",
+        "investigations": "Serum electrolytes, CUE, HIV",
+        "lab_measurements": "Na: 137 mEq/L, K: 4.7 mEq/L, Cl: 107 mEq/L",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "Present condition",
+      "activity": "Patient had pain relief after medication",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
       }
     }
   ],

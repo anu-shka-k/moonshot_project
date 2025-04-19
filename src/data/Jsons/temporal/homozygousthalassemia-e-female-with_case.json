@@ -5,239 +5,259 @@
   },
   "timeline": [
     {
-      "metadata": {
-        "url": "",
-        "datetime": "",
-        "links": [],
-        "additional_metadata": "32-year-old female"
-      },
-      "timeline": [
-        {
-          "ordinal": 1,
-          "time": "11 years ago",
-          "activity": "developed jaundice",
-          "symptom": "yellowish discoloration of sclera and skin",
-          "diagnosis": "",
-          "treatment": "medication",
-          "notes": {
-            "demographics": "32-year-old female",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 2,
-          "time": "2018",
-          "activity": "similar episode occurred",
-          "symptom": "jaundice",
-          "diagnosis": "",
-          "treatment": "medication",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 3,
-          "time": "April 2019",
-          "activity": "developed jaundice during 8th month of pregnancy",
-          "symptom": "jaundice",
-          "diagnosis": "",
-          "treatment": "medications and LSCS at term",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 4,
-          "time": "August 2020",
-          "activity": "abdominal pain, MRCP performed",
-          "symptom": "abdominal pain",
-          "diagnosis": "stone in CBD and stricture",
-          "treatment": "stent placement",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "MRCP",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 5,
-          "time": "2.5 months later",
-          "activity": "stent removal",
-          "symptom": "",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 6,
-          "time": "January 2021",
-          "activity": "cholecystectomy",
-          "symptom": "",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 7,
-          "time": "June 2021",
-          "activity": "complained of abdominal pain, vomiting, fever, and chills",
-          "symptom": "abdominal pain, vomiting, fever, chills",
-          "diagnosis": "",
-          "treatment": "medication",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 8,
-          "time": "July 2021",
-          "activity": "similar episode repeated",
-          "symptom": "abdominal pain, vomiting, fever",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 9,
-          "time": "September 2021",
-          "activity": "abdominal pain, unbearable",
-          "symptom": "abdominal pain",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 10,
-          "time": "October 2021",
-          "activity": "admitted to AIG, MRCP performed",
-          "symptom": "",
-          "diagnosis": "stricture in CHD",
-          "treatment": "ERCP",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "MRCP, ERCP",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 11,
-          "time": "October 2021",
-          "activity": "investigations",
-          "symptom": "",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "hemogram, TLC, platelets, ESR, total bilirubin, direct bilirubin, indirect bilirubin, SGPT, SGOT, ALP, total proteins, albumin, globulin, serum LDH, serum creatinine",
-            "lab_measurements": "Hb-8.5, TLC-8800, platelets-150,000, ESR-34, total bilirubin-3.5, direct bilirubin-1.5, indirect bilirubin-2.0, SGPT-93, SGOT-68, ALP-271, total proteins-8.0, albumin-4.1, globulin-3.9, serum LDH-292, serum creatinine-0.7",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 12,
-          "time": "October 2021",
-          "activity": "cytology study",
-          "symptom": "",
-          "diagnosis": "benign ductal epithelial cells, negative for malignancy",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "cytology study",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 13,
-          "time": "December 2021",
-          "activity": "follow-up, plan for further management",
-          "symptom": "",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 14,
-          "time": "December 2021",
-          "activity": "CBD stent removal, new stent placement",
-          "symptom": "",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 15,
-          "time": "December 2021",
-          "activity": "patient complains of vomiting, fever, pain in RUQ, jaundice",
-          "symptom": "vomiting, fever, pain in RUQ, jaundice",
-          "diagnosis": "post-ERCP cholangitis",
-          "treatment": "iv ceftriaxone, tab paracetamol",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        }
-      ]
+      "ordinal": 1,
+      "time": "11 years ago",
+      "activity": "developed jaundice",
+      "symptom": "yellowish discoloration of sclera and skin",
+      "diagnosis": "",
+      "treatment": "medication A",
+      "notes": {
+        "demographics": "32yr old female",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "2018",
+      "activity": "similar episode occurred",
+      "symptom": "jaundice",
+      "diagnosis": "",
+      "treatment": "medication",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "April 2019",
+      "activity": "developed jaundice during 8th month of pregnancy",
+      "symptom": "jaundice",
+      "diagnosis": "",
+      "treatment": "medications and LSCS at term",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "August 2020",
+      "activity": "abdominal pain, MRCP performed",
+      "symptom": "abdominal pain",
+      "diagnosis": "stone in CBD and stricture",
+      "treatment": "stent placement",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "MRCP",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "2 1/2 months later",
+      "activity": "stent removal",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "January 2021",
+      "activity": "cholecystectomy",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "June 7th 2021",
+      "activity": "complaint of abdominal pain, vomiting, fever, and chills",
+      "symptom": "abdominal pain, vomiting, fever, chills, loss of appetite, shortness of breath, heartburn",
+      "diagnosis": "",
+      "treatment": "medication",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "July 2nd 2021",
+      "activity": "similar episode repeated",
+      "symptom": "abdominal pain, vomiting, fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "September 25th 2021",
+      "activity": "abdominal pain, unbearable",
+      "symptom": "abdominal pain",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "October 5th 2021",
+      "activity": "admitted to AIG, MRCP performed",
+      "symptom": "",
+      "diagnosis": "stricture in CHD",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "MRCP",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "October 6th 2021",
+      "activity": "ERCP performed",
+      "symptom": "pain post procedure",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ERCP",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "October 4th 2021",
+      "activity": "investigations",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "hemogram, TLC, platelets, ESR, total bilirubin, direct bilirubin, indirect bilirubin, SGPT, SGOT, ALP, total proteins, albumin, globulin, serum LDH, serum creatinine",
+        "lab_measurements": "Hb-8.5, TLC-8800, PTS-150,000, ESR-34, TOTAL BILIRUBIN-3.5, DIRECT BILIRUBIN-1.5, INDIRECT BILIRUBIN-2.0, SGPT-93, SGOT-68, ALP-271, TOTAL PROTEINS-8.0, ALBUMIN-4.1, GLOBULIN-3.9, serim LDH-292, Serum creatinine-0.7",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "October 9th 2021",
+      "activity": "investigations",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Hb, TLC, platelets, TB, DT, AST, ALT, AKP, TP, ALB, A/G",
+        "lab_measurements": "Hb-8.4, TLC-7900, Platelets-1.9, TB-2.21, DT-1.23, AST-75, ALT-60, AKP-594, TP-7.2, ALB-4.0, A/G-1.22",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 14,
+      "time": "follow up",
+      "activity": "plan for further management",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "hemogram",
+        "lab_measurements": "Hb-8.3, RBC-4.20, anisopoikiloytosis microcytic hypochromic, TLC-8500, PTS-170,000, ESR-34, TOTAL BILIRUBIN-1.4, DIRECT BILIRUBIN-0.8, AST-46, ALP-439, TOTAL PROTEINS-6.5, ALBUMIN-3.0, A/G-0.88",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 15,
+      "time": "December 29th 2021",
+      "activity": "CBD stent removal and new stent placement",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ERCP",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 16,
+      "time": "December 30th 2021",
+      "activity": "complains of vomiting, fever, pain in RUQ and jaundice",
+      "symptom": "vomiting, fever, pain in RUQ, jaundice",
+      "diagnosis": "post ERCP cholangitis",
+      "treatment": "Iv ceftriaxone, Tab paracetamol 650mg po, Tepid sponging",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "TEMP-102.5 F, BP-120/80 mm Hg, PR-107 bpm, RR-20 cpm, CVS-S1, S2+, RS-BAE+, NVBS, P/A-soft, non tender, BS+",
+        "investigations": "Amylase, Lipase",
+        "lab_measurements": "Amylase-55.9, Lipase-21.3",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 17,
+      "time": "December 31st 2021",
+      "activity": "review by Gastroenterologist, developed cholangitis",
+      "symptom": "",
+      "diagnosis": "cholangitis",
+      "treatment": "re-stenting",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "TLC-15000, Tb-6.0",
+        "discussion": ""
+      }
     }
   ],
   "imageurl": [

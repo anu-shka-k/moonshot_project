@@ -6,9 +6,9 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "3 days prior to OPD visit",
-      "activity": "Patient experienced high grade fever, chills, cold, and cough",
-      "symptom": "high grade fever, chills, cold, productive mucoid cough",
+      "time": "3 days before admission",
+      "activity": "Patient experienced high grade fever, chills, cold, and productive cough",
+      "symptom": "high grade fever, chills, cold, productive cough",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -21,14 +21,14 @@
     },
     {
       "ordinal": 2,
-      "time": "OPD visit",
-      "activity": "Patient visited OPD with complaints",
-      "symptom": "high grade fever, chills, cold, productive mucoid cough",
+      "time": "on admission",
+      "activity": "Patient was examined in a well lit room after taking consent",
+      "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
-        "physical_exam": "conscious, coherent, cooperative, no pallor, icterus, cyanosis, clubbing, or lymphadenopathy",
+        "physical_exam": "Patient is conscious, coherent and cooperative. Pallor - absent, icterus - absent, Cyanosis - absent, Clubbing - absent, No lymphadenopathy, No pedal edema.",
         "investigations": "",
         "lab_measurements": "Temperature: 98.2F, BP: 130/90 mmHg, PR: 98bpm, RR: 22 cpm, SpO2: 98% in room air",
         "discussion": ""
@@ -36,23 +36,23 @@
     },
     {
       "ordinal": 3,
-      "time": "OPD visit",
-      "activity": "General and systemic examination",
+      "time": "on admission",
+      "activity": "Systemic examination was performed",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
-        "physical_exam": "CVS: S1 S2 heard, no thrills and murmurs, RS: trachea central, BAE- present, Normal vesicular Breath sounds, CNS: No focal neurological deficits",
+        "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": ""
+        "discussion": "CVS: S1 S2 heard, no thrills and murmurs, RS: trachea central, BAE- present, Normal vesicular Breath sounds, CNS: No focal neurological deficits, P/A: soft, non tender, Umbilicus - inverted, All quadrants moving equally with respiration, Scars- No scars seen, No palpable spleen and liver, Normal bowel sounds heard"
       }
     },
     {
       "ordinal": 4,
-      "time": "OPD visit",
-      "activity": "Investigations",
+      "time": "on admission",
+      "activity": "Investigations were performed",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
@@ -66,11 +66,11 @@
     },
     {
       "ordinal": 5,
-      "time": "OPD visit",
-      "activity": "Treatment initiation",
+      "time": "on admission",
+      "activity": "Treatment was started",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "IVF NS, RL @ 100 Ml/hr, Inj.pan 40mg /iv/od, INJ.optineuron 1 amp in 100 ml NS/iv/od, Tab.Dolo 650 mg po/sos, temperature monitoring, strict bp, pr monitoring",
+      "treatment": "IVF NS, RL @ 100 Ml/hr, Inj.pan 40mg /iv/od, INJ.optineuron 1 amp in 100 ml NS/iv/od, Tab.Dolo 650 mg po/sos, temperature monitoring 4th hourly, strict bp, pr monitoring 4th hourly",
       "notes": {
         "demographics": "",
         "physical_exam": "",

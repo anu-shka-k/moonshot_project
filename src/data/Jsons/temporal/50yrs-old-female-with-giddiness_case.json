@@ -6,13 +6,12 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "8 years ago",
+      "time": "8 years before presentation",
       "activity": "Episodes of staring look, not responding to commands",
       "symptom": "Staring look, unresponsiveness",
-      "diagnosis": "Hypertension",
+      "diagnosis": "",
       "treatment": "Anti-hypertensives",
       "notes": {
-        "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
@@ -21,13 +20,12 @@
     },
     {
       "ordinal": 2,
-      "time": "6 years ago",
+      "time": "6 years before presentation",
       "activity": "Menorrhagia, underwent hysterectomy",
       "symptom": "Menorrhagia",
       "diagnosis": "Fibroid",
       "treatment": "Hysterectomy",
       "notes": {
-        "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
@@ -36,13 +34,12 @@
     },
     {
       "ordinal": 3,
-      "time": "6 years ago",
+      "time": "6 years before presentation",
       "activity": "Diagnosed with diabetes",
       "symptom": "",
       "diagnosis": "Diabetes",
-      "treatment": "Oral Hypoglycemic agents (Glimipramide)",
+      "treatment": "Oral hypoglycemic agents",
       "notes": {
-        "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
@@ -51,13 +48,12 @@
     },
     {
       "ordinal": 4,
-      "time": "10 days ago",
-      "activity": "Blunt trauma to left side of abdomen",
-      "symptom": "Pain in left hypochondrium",
+      "time": "10 days before presentation",
+      "activity": "Started on glimipramide",
+      "symptom": "",
       "diagnosis": "",
-      "treatment": "Painkillers",
+      "treatment": "Glimipramide",
       "notes": {
-        "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
@@ -66,13 +62,12 @@
     },
     {
       "ordinal": 5,
-      "time": "1 day ago",
-      "activity": "IM injection, tongue swelling, slurred speech",
-      "symptom": "Tongue swelling, slurred speech, giddiness, diplopia",
+      "time": "1 day before presentation",
+      "activity": "Slipped on wet floor, blunt trauma to left side of abdomen",
+      "symptom": "Pain in left hypochondrium",
       "diagnosis": "",
-      "treatment": "",
+      "treatment": "Painkillers",
       "notes": {
-        "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
@@ -81,14 +76,13 @@
     },
     {
       "ordinal": 6,
-      "time": "Presentation",
-      "activity": "Presentation to casualty",
-      "symptom": "Giddiness, double vision, slurred speech",
-      "diagnosis": "Acute ischaemia, CVA with infarct in left pons, uncontrolled DM2, hypertension",
-      "treatment": "IVF, NS, insulin, pain management",
+      "time": "On the day of presentation",
+      "activity": "Received NSAID injection, developed swollen tongue and slurred speech",
+      "symptom": "Slurred speech, giddiness, double vision",
+      "diagnosis": "",
+      "treatment": "NSAID injection",
       "notes": {
-        "demographics": "",
-        "physical_exam": "Afebrile, PR-111, BP 140/80, RR 18, GRBS- high, SPO2- 96",
+        "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
         "discussion": ""
@@ -96,17 +90,30 @@
     },
     {
       "ordinal": 7,
-      "time": "ICU admission",
-      "activity": "ICU admission",
+      "time": "On presentation",
+      "activity": "Presented to casualty with giddiness, double vision, and slurred speech",
       "symptom": "Giddiness, double vision, slurred speech",
-      "diagnosis": "Acute ischaemia, CVA with infarct in left pons, uncontrolled DM2, hypertension",
-      "treatment": "Inj NPH, Inj HAI, Tab Ecosprin, Tab Atorvas, Tab Clopidogrel",
+      "diagnosis": "Acute ischemia, CVA with infarct in left pons, uncontrolled DM2 with hypertension",
+      "treatment": "IVF, NS, continuous insulin infusion, pain management",
       "notes": {
-        "demographics": "",
-        "physical_exam": "Afebrile, PR-84/min, BP-130/80mmHg",
+        "physical_exam": "Afebrile, PR-111, BP 140/80, RR 18, GRBS- high, SPO2- 96",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": ""
+        "discussion": "Provisional diagnosis: Acute ischemia, CVA with infarct in left pons, uncontrolled DM2 with hypertension"
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "After presentation",
+      "activity": "ICU admission, treatment with IVF, NS, continuous insulin infusion, pain management",
+      "symptom": "Giddiness, double vision, slurred speech",
+      "diagnosis": "Acute ischemia, CVA with infarct in left pons, uncontrolled DM2 with hypertension",
+      "treatment": "IVF, NS, continuous insulin infusion, pain management",
+      "notes": {
+        "physical_exam": "Afebrile, PR-84/min, BP-130/80mmHg, CVS: S1, S2+",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Total insulin requirement from 20/11 to 21/11: 72 units"
       }
     }
   ],

@@ -22,8 +22,8 @@
     {
       "ordinal": 2,
       "time": "1 week ago",
-      "activity": "High grade fever started",
-      "symptom": "High grade fever, chills, generalized weakness",
+      "activity": "High grade, intermittent fever associated with chills and generalised weakness",
+      "symptom": "High grade fever, chills, generalised weakness",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -36,23 +36,8 @@
     },
     {
       "ordinal": 3,
-      "time": "1 week ago",
-      "activity": "Unable to sit and walk",
-      "symptom": "Unable to sit, unable to walk",
-      "diagnosis": "",
-      "treatment": "",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 4,
       "time": "5 days ago",
-      "activity": "Abdominal distension started",
+      "activity": "Unable to pass stools and abdominal distension",
       "symptom": "Abdominal distension, unable to pass stools",
       "diagnosis": "",
       "treatment": "",
@@ -65,10 +50,10 @@
       }
     },
     {
-      "ordinal": 5,
+      "ordinal": 4,
       "time": "3 days ago",
-      "activity": "Unable to speak",
-      "symptom": "Unable to speak",
+      "activity": "Unable to talk",
+      "symptom": "Unable to talk",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -80,9 +65,9 @@
       }
     },
     {
-      "ordinal": 6,
+      "ordinal": 5,
       "time": "1 day ago",
-      "activity": "Altered sensorium",
+      "activity": "Altered sensorium and reduced urine output",
       "symptom": "Altered sensorium, reduced urine output",
       "diagnosis": "",
       "treatment": "",
@@ -95,7 +80,7 @@
       }
     },
     {
-      "ordinal": 7,
+      "ordinal": 6,
       "time": "19/7/21",
       "activity": "Admitted to hospital",
       "symptom": "",
@@ -103,18 +88,33 @@
       "treatment": "Head end elevation, IV fluids, antibiotics",
       "notes": {
         "demographics": "",
-        "physical_exam": "GCS - E4 V2 M5, VITALS:- Afebrile PR -100bpm  RR:14cpm Bp - 110/70mmhg GRBS- 156mg/dl Spo2 - 90 % on RA",
-        "investigations": "ECG, X-RAY CHEST PA VIEW, X-RAY ERECT ABDOMEN, HEMOGRAM, RFT, LFT, COMPLETE URINE EXAMINATION, USG ABDOMEN, TROPONIN -I, MRI BRAIN, 2D ECHO, PLAIN CT ABDOMEN, SARS COV-2 QUALITATIVE PCR",
-        "lab_measurements": "Hb:-9.4g/dl, TLC:-18,600, RBC:-3.59million, Platelets:-1,20,000, N:-90, L:-07, M:-02, E:-01, PCV:- 28, MCV:-78, MCH:-26.2, MCHC:-33.6, Urea:-101, Creatinine:-2.0, Uric acid:-7.0, Calcium:-9.6, Phosphate:-4.3, Sodium:-140, Potassium:-4.7, Chloride:-106",
+        "physical_exam": "GCS - E4 V2 M5, VITALS:- Afebrile PR -100bpm  RR:14cpm Bp - 110/70mmhg",
+        "investigations": "ECG, X-RAY CHEST PA VIEW, X-RAY ERECT ABDOMEN, HEMOGRAM",
+        "lab_measurements": "Hb:-9.4g/dl, TLC:-18,600, RBC:-3.59million, Platelets:-1,20,000",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "20/7/21",
+      "activity": "Continued treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IV fluids, antibiotics, RT feeds",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 8,
-      "time": "20/7/21",
-      "activity": "COVID-19 test result",
+      "time": "20/7/21 at 4:30PM",
+      "activity": "Confirmed COVID-19 positive by RTPCR",
       "symptom": "",
-      "diagnosis": "COVID-19 positive",
+      "diagnosis": "COVID-19",
       "treatment": "",
       "notes": {
         "demographics": "",
@@ -126,8 +126,8 @@
     },
     {
       "ordinal": 9,
-      "time": "20/7/21",
-      "activity": "Referred to higher center",
+      "time": "29/7/21",
+      "activity": "Referred to higher centre",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
@@ -141,8 +141,8 @@
     },
     {
       "ordinal": 10,
-      "time": "29/7/21",
-      "activity": "Follow-up",
+      "time": "28/7/21",
+      "activity": "Expired",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
@@ -151,7 +151,7 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient expired"
+        "discussion": ""
       }
     }
   ],

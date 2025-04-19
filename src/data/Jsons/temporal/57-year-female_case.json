@@ -6,23 +6,23 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "1990",
-      "activity": "Had one miscarriage",
+      "time": "21 years back",
+      "activity": "asymptomatic",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
-        "demographics": "57 year old homemaker from India",
+        "demographics": "57 year old female",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient had one miscarriage and couldn't conceive till 9 years"
+        "discussion": ""
       }
     },
     {
       "ordinal": 2,
-      "time": "1999",
-      "activity": "Had first child",
+      "time": "1990",
+      "activity": "miscarriage",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
@@ -31,28 +31,13 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient had first child after 9 years"
+        "discussion": "couldn't conceive till 9 years"
       }
     },
     {
       "ordinal": 3,
-      "time": "2003",
-      "activity": "Had loose stools and vomitings",
-      "symptom": "Loose stools and vomitings",
-      "diagnosis": "Right ectopic kidney, hypothyroidism and hypertension",
-      "treatment": "Thyronorm 50mcg and tab.Telma 40mg",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": "Patient was diagnosed with right ectopic kidney, hypothyroidism and hypertension"
-      }
-    },
-    {
-      "ordinal": 4,
-      "time": "2006, 2009, 2013",
-      "activity": "Regular follow up to CMC",
+      "time": "1999",
+      "activity": "had first child",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
@@ -61,44 +46,104 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient had regular follow up to CMC with no complaints"
+        "discussion": ""
       }
     },
     {
-      "ordinal": 5,
-      "time": "2016",
-      "activity": "Had recurrent loose stools for 2 months and one episode of seizure",
-      "symptom": "Recurrent loose stools and seizure",
-      "diagnosis": "IBS",
-      "treatment": "Anti epileptic medications",
+      "ordinal": 4,
+      "time": "2003",
+      "activity": "loose stools and vomitings",
+      "symptom": "loose stools and vomitings",
+      "diagnosis": "",
+      "treatment": "medication",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient was diagnosed with IBS and had anti epileptic medications"
+        "discussion": "didn't subside on medication"
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "2003",
+      "activity": "diagnosed with right ectopic kidney, hypothyroidism and hypertension",
+      "symptom": "",
+      "diagnosis": "right ectopic kidney, hypothyroidism and hypertension",
+      "treatment": "thyronorm 50mcg and tab.Telma 40mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
       }
     },
     {
       "ordinal": 6,
-      "time": "August 2021",
-      "activity": "Had history of low grade fever for 3 days followed by generalised weakness and loss of appetite",
-      "symptom": "Low grade fever, generalised weakness and loss of appetite",
-      "diagnosis": "Pneumonia, septic shock, heart failure with reduced ejection fraction 35%",
-      "treatment": "Mechanical ventilator, ionotropes, wysolone 5mg",
+      "time": "2006, 2009, 2013",
+      "activity": "regular follow up to CMC",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "MRI showing empty Sella (pan hypopitutarism)",
-        "lab_measurements": "Cortisol levels were low on test",
-        "discussion": "Patient was diagnosed with pneumonia, septic shock, heart failure with reduced ejection fraction 35% and had mechanical ventilator, ionotropes and wysolone 5mg"
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "no complaints"
       }
     },
     {
       "ordinal": 7,
-      "time": "During hospital stay",
-      "activity": "Had recurrent hypoglycaemic episodes",
-      "symptom": "Recurrent hypoglycaemic episodes",
+      "time": "2016",
+      "activity": "recurrent loose stools for 2 months and one episode of seizure",
+      "symptom": "loose stools and seizure",
+      "diagnosis": "IBS",
+      "treatment": "anti epileptic medications",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "stopped her anti epileptic medications after follow up"
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "August 2021",
+      "activity": "admitted in hospital",
+      "symptom": "low grade fever for 3 days, generalised weakness, loss of appetite",
+      "diagnosis": "pneumonia, septic shock, heart failure with reduced ejection fraction 35%",
+      "treatment": "mechanical ventilator, ionotropes",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "bp was not recordable",
+        "investigations": "cortisol levels where low on test, MRI showing empty Sella (pan hypopitutarism)",
+        "lab_measurements": "",
+        "discussion": "started on wysolone 5mg"
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "hospital stay",
+      "activity": "on ventilator for 2 days and ionotropes for 7 days",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "hospital stay: 20 days"
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "before discharge",
+      "activity": "recurrent hypoglycaemic episodes",
+      "symptom": "hypoglycaemic episodes",
       "diagnosis": "",
       "treatment": "25% dextrose",
       "notes": {
@@ -106,37 +151,37 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient had recurrent hypoglycaemic episodes and was put on 25% dextrose"
+        "discussion": ""
       }
     },
     {
-      "ordinal": 8,
-      "time": "After discharge",
-      "activity": "Was drowsy and had irrelevant talk and self smile",
-      "symptom": "Drowsy, irrelevant talk and self smile",
-      "diagnosis": "Hyponatremia, schizophrenia",
-      "treatment": "Medication for 2 days",
+      "ordinal": 11,
+      "time": "after discharge",
+      "activity": "diagnosed with hyponatremia",
+      "symptom": "drowsy",
+      "diagnosis": "hyponatremia",
+      "treatment": "medication for 2 days",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient was diagnosed with hyponatremia and schizophrenia"
+        "discussion": "attender observed she had irrelevant talk and self smile, psychiatry referral was done, diagnosed with schizophrenia"
       }
     },
     {
-      "ordinal": 9,
-      "time": "After 1 week",
-      "activity": "Complained of head ache and had high bp",
-      "symptom": "Head ache, high bp",
+      "ordinal": 12,
+      "time": "after 1 week",
+      "activity": "complained of head ache",
+      "symptom": "head ache",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
-        "physical_exam": "",
+        "physical_exam": "bp was 210/160mmhg",
         "investigations": "",
-        "lab_measurements": "Bp was 210/160mmhg",
-        "discussion": "Patient complained of head ache and had high bp"
+        "lab_measurements": "",
+        "discussion": "admitted for 4 days and got discharged"
       }
     }
   ],

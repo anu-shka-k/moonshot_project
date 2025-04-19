@@ -6,9 +6,9 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "2 months prior to presentation",
-      "activity": "Patient started experiencing symptoms",
-      "symptom": "Fever, generalized weakness, dyspnea on exertion",
+      "time": "2 months before admission",
+      "activity": "experienced fever, generalized weakness, dyspnea on exertion",
+      "symptom": "fever, generalized weakness, dyspnea on exertion",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -16,14 +16,14 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient presented with symptoms of fever, generalized weakness, and dyspnea on exertion"
+        "discussion": "patient experienced fever, generalized weakness, dyspnea on exertion for 2 months"
       }
     },
     {
       "ordinal": 2,
-      "time": "20 days prior to presentation",
-      "activity": "Patient experienced worsening symptoms",
-      "symptom": "Pain abdomen, vomiting, dark coloured stools",
+      "time": "20 days before admission",
+      "activity": "experienced pain abdomen, vomiting, dark coloured stools",
+      "symptom": "pain abdomen, vomiting, dark coloured stools",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -31,67 +31,67 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient experienced worsening symptoms including pain abdomen, vomiting, and dark coloured stools"
+        "discussion": "patient experienced pain abdomen, vomiting, dark coloured stools for 20 days"
       }
     },
     {
       "ordinal": 3,
-      "time": "Presentation (8pm)",
-      "activity": "Patient presented to casualty",
-      "symptom": "Fever, generalized weakness, dyspnea on exertion, pain abdomen, vomiting, dark coloured stools",
-      "diagnosis": "Chronic pancreatitis with pyrexia of unknown origin, anemia, heart failure",
-      "treatment": "INJ.PAN 40 IV/OD, INJ.ZOFER 4 MG IV/TID, INJ.TRAMADOL 1 AMP IN 100ML NS IV/BD, IVF:2NS,1RL,1DNS @URINE OUTPUT+50 ML/HOUR",
+      "time": "on admission",
+      "activity": "presented to the casualty with complaints of fever, generalized weakness, dyspnea on exertion, pain abdomen, vomiting, dark coloured stools",
+      "symptom": "fever, generalized weakness, dyspnea on exertion, pain abdomen, vomiting, dark coloured stools",
+      "diagnosis": "provisional diagnosis: chronic pancreatitis with pyrexia of unknown origin, anemia under evaluation",
+      "treatment": "INJ.PAN 40 IV/OD, INJ.ZOFER 4 MG IV/TID, INJ.TRAMADOL 1 AMP IN 100ML NS IV/BD",
       "notes": {
         "demographics": "",
         "physical_exam": "PR - 84bpm, regular, BP - 120/80mmhg, RR - 18cpm, Temp - 98.4 F, Spo2 - 98% on Room Air",
         "investigations": "Grbs - 102 mg/dl, Pallor + 2, Hypopigmented patches over abdomen",
-        "lab_measurements": "Hb- 3.8, TLC - 13,500, Plt - 4.8, Peripheral smear - Anisopoikilocytosis with hypochromasia, microcytes with tear drop cells, pencil cells with target cells and few normocytes",
-        "discussion": "Patient presented with symptoms and was diagnosed with chronic pancreatitis, pyrexia of unknown origin, anemia, and heart failure"
+        "lab_measurements": "",
+        "discussion": "patient presented to the casualty with complaints of fever, generalized weakness, dyspnea on exertion, pain abdomen, vomiting, dark coloured stools"
       }
     },
     {
       "ordinal": 4,
       "time": "25/11/21",
-      "activity": "Patient's condition updated",
-      "symptom": "Pain abdomen subsided, fever spike",
-      "diagnosis": "?ACUTE PANCREATITIS WITH SEVERE ANAEMIA SECONDARY TO ?NUTRITIONAL DEFICIENCY MICROCYTIC HYPOCHROMIC ANEMIA, HFPEF WITH EF 60 percent",
-      "treatment": "IVF NS,RL 100+50ML/HR, INJ.PAN 40MG IV BD, INJ.ZOFER 4MG IV SOS, INJ.TRAMADOL 1AMP IN 100ML NS IV SOS",
+      "activity": "pain abdomen subsided, fever spike, didn't stools",
+      "symptom": "pain abdomen subsided, fever spike",
+      "diagnosis": "?acute pancreatitis with severe anemia secondary to ?nutritional deficiency, microcytic hypochromic anemia, HFPEF with EF 60 percent",
+      "treatment": "IVF NS,RL 100+50ML/HR, INJ.PAN 40MG IV BD, INJ.ZOFER 4MG IV SOS",
       "notes": {
         "demographics": "",
-        "physical_exam": "BP -130/90MM HG, PR- 120BPM, TEMP- AFEBRILE, CVS -S1,S2 HEARD, RS- BAE+, CNS-NAD, PER ABDOMEN-SOFT,NON TENDER",
+        "physical_exam": "BP -130/90MM HG, PR- 120BPM, TEMP- AFEBRILE, CVS -S1,S2 HEARD, RS- BAE+",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient's condition was updated with pain abdomen subsided and fever spike"
+        "discussion": "patient's pain abdomen subsided, fever spike, didn't stools"
       }
     },
     {
       "ordinal": 5,
       "time": "26/11/21",
-      "activity": "Patient's condition updated",
-      "symptom": "Pain abdomen subsided, fever spike+",
-      "diagnosis": "?ACUTE PANCREATITIS WITH SEVERE ANAEMIA SECONDARY TO ?NUTRITIONAL DEFICIENCY MICROCYTIC HYPOCHROMIC ANEMIA, HFPEF WITH EF 60 percent",
-      "treatment": "IVF NS,RL 100+50ML/HR, INJ.PAN 40MG IV BD, INJ.ZOFER 4MG IV SOS, INJ.TRAMADOL 1AMP IN 100ML NS IV SOS",
+      "activity": "pain abdomen subsided, fever spike+, passed stools",
+      "symptom": "pain abdomen subsided, fever spike+",
+      "diagnosis": "?acute pancreatitis with severe anemia secondary to ?nutritional deficiency, microcytic hypochromic anemia, HFPEF with EF 60 percent",
+      "treatment": "IVF NS,RL 100+50ML/HR, INJ.PAN 40MG IV BD, INJ.ZOFER 4MG IV SOS",
       "notes": {
         "demographics": "",
-        "physical_exam": "BP -150/100MM HG, PR- 110BPM, TEMP- 99.8, CVS -S1,S2 HEARD, RS- BAE+, CNS-NAD, PER ABDOMEN-SOFT,NON TENDER",
+        "physical_exam": "BP -150/100MM HG, PR- 110BPM, TEMP- 99.8, CVS -S1,S2 HEARD, RS- BAE+",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient's condition was updated with pain abdomen subsided and fever spike"
+        "discussion": "patient's pain abdomen subsided, fever spike+, passed stools"
       }
     },
     {
       "ordinal": 6,
       "time": "27/11/21",
-      "activity": "Patient's condition updated",
-      "symptom": "Pain abdomen subsided, no fever spike",
-      "diagnosis": "?ACUTE PANCREATITIS WITH SEVERE ANAEMIA SECONDARY TO ?NUTRITIONAL DEFICIENCY MICROCYTIC HYPOCHROMIC ANEMIA, HFPEF WITH EF 60 percent",
-      "treatment": "IVF NS,RL 100+50ML/HR, INJ.PAN 40MG IV BD, INJ.ZOFER 4MG IV SOS, INJ.TRAMADOL 1AMP IN 100ML NS IV SOS",
+      "activity": "pain abdomen subsided, no fever spike, passed stools",
+      "symptom": "pain abdomen subsided, no fever spike",
+      "diagnosis": "?acute pancreatitis with severe anemia secondary to ?nutritional deficiency, microcytic hypochromic anemia, HFPEF with EF 60 percent",
+      "treatment": "IVF NS,RL 100+50ML/HR, INJ.PAN 40MG IV BD, INJ.ZOFER 4MG IV SOS",
       "notes": {
         "demographics": "",
-        "physical_exam": "BP -130/80MM HG, PR- 100BPM, TEMP- 99.8, CVS -S1,S2 HEARD, RS- BAE+, CNS-NAD, PER ABDOMEN-SOFT,NON TENDER",
+        "physical_exam": "BP -130/80MM HG, PR- 100BPM, TEMP- 99.8, CVS -S1,S2 HEARD, RS- BAE+",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Patient's condition was updated with pain abdomen subsided and no fever spike"
+        "discussion": "patient's pain abdomen subsided, no fever spike, passed stools"
       }
     }
   ],

@@ -3,7 +3,203 @@
     "url": "https://caseopinionsbyrollno156.blogspot.com/2022/02/45-yo-female-with-pain-bl-loin-and.html",
     "datetime": "2022-02-10T04:09:00-0800"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "10 days ago",
+      "activity": "Patient developed low grade, intermittent fever",
+      "symptom": "Fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "5 days ago",
+      "activity": "Patient developed pain in B/L loin",
+      "symptom": "Pain in B/L loin",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "1 day ago",
+      "activity": "Patient unable to pass urine",
+      "symptom": "Unable to pass urine",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "On admission",
+      "activity": "Foley's was passed and frank pus noticed",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Foley's catheter",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Abdomen is distended. Midline scar present. Bladder distended till umbilicus.",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "On 8/2/22",
+      "activity": "Dialysis was initiated",
+      "symptom": "",
+      "diagnosis": "Deranged RFT, Hypercalcia, metabolic acidosis",
+      "treatment": "Dialysis",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ECG, X Ray KUB, USG",
+        "lab_measurements": "Hb: 11.0 mg%, TLC: 41,000, Platelets: 2.0 lakh",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "On 9/2/22",
+      "activity": "Patient's condition worsened",
+      "symptom": "Disturbed sleep, patient irritable",
+      "diagnosis": "",
+      "treatment": "Inj. MEROPENEM 1g/IV/BD, INJ. METROGYL 100ml IV TID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Hb: 10.8 mg%, TLC: 41,600, Platelets: 1.7 lakh",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "On 10/2/22",
+      "activity": "Nephrostomy was done",
+      "symptom": "",
+      "diagnosis": "B/L emphysematous pyelonephritis with AKI secondary to sepsis with metabolic acidosis",
+      "treatment": "Nephrostomy",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "NCCT KUB",
+        "lab_measurements": "pH: 7.31, pCO2: 31.4, pO2: 90.8",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "On 11/2/22",
+      "activity": "Patient's condition worsened",
+      "symptom": "Disturbed sleep, patient irritable",
+      "diagnosis": "B/L emphysematous pyelonephritis with AKI secondary to sepsis with metabolic acidosis",
+      "treatment": "Inj. MEROPENEM 1g IV BD, INJ. METROGYL 500mg IV TID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temp: 102°F, BP: 120/70, PR: 133 bpm, RR: 22 cpm",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "On 12/2/22",
+      "activity": "Patient's condition worsened",
+      "symptom": "Disturbed sleep, patient irritable",
+      "diagnosis": "Septic shock with septic encephalopathy with MODS (secondary to uremic sepsis) with AKI with denovo diabetes mellitus type 2",
+      "treatment": "Inj. MEROPENEM 1g IV BD, INJ. METROGYL 500mg IV TID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "X Ray KUB, Hemogram",
+        "lab_measurements": "RBCs: Normochromic Normocytic anemia, WBCs: increase in count with neutrophilic predominance",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "On 13/2/22",
+      "activity": "Patient's condition worsened",
+      "symptom": "Disturbed sleep, patient irritable",
+      "diagnosis": "Septic shock with septic encephalopathy with MODS (secondary to uremic sepsis) with AKI with denovo diabetes mellitus type 2",
+      "treatment": "Inj. MEROPENEM 1g IV BD, INJ. METROGYL 500mg IV TID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temp: 99 f, BP: 120/70, PR: 101 bpm, RR: 24 cpm",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "On 14/2/22",
+      "activity": "Patient's condition worsened",
+      "symptom": "Disturbed sleep, patient irritable, swelling of both upper limbs present, facial swelling present",
+      "diagnosis": "Septic shock with septic encephalopathy with MODS (secondary to uremic sepsis) with AKI with denovo diabetes mellitus type 2",
+      "treatment": "Inj. MEROPENEM 1g IV BD, INJ. METROGYL 500mg IV TID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temp: 100.1 f, BP: 100/70, PR: 101 bpm, RR: 24 cpm",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "On 15/2/22",
+      "activity": "Patient's condition improved",
+      "symptom": "Sensorium improved, obeying commands",
+      "diagnosis": "Septic shock with septic encephalopathy with MODS (secondary to uremic sepsis) with AKI with denovo diabetes mellitus type 2",
+      "treatment": "Inj. MEROPENEM 1g IV BD, INJ. METROGYL 500mg IV TID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temp: 99.8, BP: 90/60, PR: 82 bpm, RR: 22 cpm",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "On 16/2/22",
+      "activity": "Patient's condition improved",
+      "symptom": "Sensorium improved, obeying commands",
+      "diagnosis": "Septic shock with septic encephalopathy with MODS (secondary to uremic sepsis) with AKI with denovo diabetes mellitus type 2",
+      "treatment": "Inj. MEROPENEM 1g IV BD, INJ. METROGYL 500mg IV TID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temp: 97.2F, BP: 100/60, PR: 96 bpm, RR: 14 cpm",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://lh6.googleusercontent.com/03E9f0W8lo9CJsMcjgfW7GRysKcWEo8zvpl_MBs-RCZixUn6Nvw4_zUQ8V6r8iGa5JI",
     "https://lh6.googleusercontent.com/eab5rNs-JMDjvT-xUEd85DDwrfTSj2aYoHLTR_pfqdn1flnhWP6JA6S-5epZMhR7vEc",

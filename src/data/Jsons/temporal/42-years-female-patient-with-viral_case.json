@@ -7,12 +7,12 @@
     {
       "ordinal": 1,
       "time": "10 days before admission",
-      "activity": "Developed fever",
-      "symptom": "Fever",
+      "activity": "developed fever",
+      "symptom": "high grade intermittent fever without chills or rigors",
       "diagnosis": "",
       "treatment": "",
       "notes": {
-        "demographics": "42 year old female",
+        "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
@@ -22,8 +22,8 @@
     {
       "ordinal": 2,
       "time": "3 days before admission",
-      "activity": "Developed dyspnea",
-      "symptom": "Dyspnea",
+      "activity": "developed dyspnea",
+      "symptom": "dyspnea on exertion",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -37,8 +37,8 @@
     {
       "ordinal": 3,
       "time": "2 days before admission",
-      "activity": "Developed cough and chest pain",
-      "symptom": "Cough, chest pain",
+      "activity": "developed cough and chest pain",
+      "symptom": "productive cough, chest pain on exertion",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -51,166 +51,166 @@
     },
     {
       "ordinal": 4,
-      "time": "13/5/21",
-      "activity": "Admitted to hospital",
+      "time": "on admission (13/5/21)",
+      "activity": "admitted to hospital",
       "symptom": "",
       "diagnosis": "Pneumonia secondary to covid-19",
-      "treatment": "O2 supplementation, Head end elevation, Inj. DEXAMETHASONE 8mg/IV/TID, Inj. PANTOP 40mg/IV/OD, Tab. PCM 650mg/PO/SOS, Tab. LIMCEE PO/OD",
+      "treatment": "O2 supplementation, head end elevation, Inj. DEXAMETHASONE 8mg/IV/TID, Inj. PANTOP 40mg/IV/OD, Tab. PCM 650mg/PO/SOS, Tab. LIMCEE PO/OD",
       "notes": {
         "demographics": "",
-        "physical_exam": "Conscious, coherent and co-operative, well oriented to time, place and person",
+        "physical_exam": "conscious, coherent, co-operative, well oriented to time, place and person, no pallor, no icterus, no clubbing, no cyanosis, no generalized lymphadenopathy, no bilateral pedal edema",
         "investigations": "CBP, LFT, RFT, D- Dimer, Serum LDH, CRP, FBS",
-        "lab_measurements": "Hb: 12.7 gm%, TLC: 5700, DLC: Neutrophils - 80, Lymphocytes - 15, Eosinophils - 02, Monocytes - 03, Basophils - 00, Platelets: 1.5 lakhs /mm³",
+        "lab_measurements": "Hb: 12.7 gm%, TLC: 5700, DLC: Neutrophils-80, Lymphocytes-15, Eosinophils-02, Monocytes-03, Basophils-00, Platelets: 1.5 lakhs/mm³, Total bilirubin: 1.24 mg/dl, Direct bilirubin: 0.67 mg/dl, SGOT: 73 units/lit, SGPT: 80 units/lit, ALP: 342 units/lit, Blood urea: 34 mg/dl, Serum creatinine: 0.4 mg/dl, Calcium: 9.6 mg/dl, Phosphorus: 4.4 mg/dl, Sodium: 150 meq/lit, Potassium: 5.2 meq/lit, Chloride: 106 meq/lit, D- Dimer: 10 ng/ml, Serum LDH: 571 units/lit, CRP: 2.4 mg/dl, FBS: 332 mg/dl",
         "discussion": ""
       }
     },
     {
       "ordinal": 5,
-      "time": "14/5/21",
-      "activity": "O2 supplementation, Head end elevation, Duolin budecort nebulization",
+      "time": "14/5/21 (11th day of symptoms)",
+      "activity": "continued treatment",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Inj. DEXAMETHASONE 8mg / IV/ OD, Inj. PANTOP 40 mg / IV / OD, Tab. THYRONORM 100 mcg OD, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM PO/SOS",
+      "treatment": "O2 supplementation, head end elevation, Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg/IV/OD, Inj. PANTOP 40mg/IV/OD, Tab. THYRONORM 100mcg/OD, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM PO/SOS",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Spo2: 92% with 15 litres of oxygen",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 6,
-      "time": "15/5/21",
-      "activity": "Prone positioning, O2 inhalation, Duolin budecort nebulization",
+      "time": "15/5/21 (12th day of symptoms)",
+      "activity": "prone positioning, O2 inhalation",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40 mg IV OD, Tab. THYRONORM 100 mcg OD, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "treatment": "Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg OD, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Spo2: 82% with 15 litres of oxygen",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 7,
-      "time": "16/5/21",
-      "activity": "Prone positioning, O2 inhalation, Duolin budecort nebulization",
+      "time": "16/5/21 (13th day of symptoms)",
+      "activity": "prone positioning, O2 inhalation",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "treatment": "Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Spo2: 90% with 12 litres of oxygen",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 8,
-      "time": "17/05/21",
-      "activity": "Prone positioning, O2 inhalation, Duolin budecort nebulization",
+      "time": "17/05/21 (14th day of symptoms)",
+      "activity": "prone positioning, O2 inhalation",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "treatment": "Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Spo2: 90% with 10 litres of oxygen",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 9,
-      "time": "18/05/21",
-      "activity": "Prone positioning, O2 inhalation, Intermittent Bipap, Duolin budecort nebulization",
+      "time": "18/05/21 (15th day of symptoms)",
+      "activity": "prone positioning, O2 inhalation, intermittent Bipap",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "treatment": "Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Spo2: 85% with 15 litres of oxygen",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 10,
-      "time": "19/5/21",
-      "activity": "Prone positioning, O2 inhalation, Bipap, Duolin budecort nebulization",
+      "time": "19/5/21 (16th day of symptoms)",
+      "activity": "prone positioning, O2 inhalation, Bipap",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "treatment": "Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Spo2: 92% with Bipap",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 11,
-      "time": "20/5/21",
-      "activity": "Prone positioning, O2 inhalation, Intermittent Bipap ventilation, Duolin budecort nebulization",
+      "time": "20/5/21 (17th day of symptoms)",
+      "activity": "prone positioning, O2 inhalation, intermittent Bipap ventilation",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Inj. DEXAMETHASONE 8mg IV OD, Inj. CLEXANE 60 mg / sc / OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100 mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "treatment": "Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Inj. CLEXANE 60mg/sc/OD, Inj. PANTOP 40mg IV OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Spo2: 75% with room air, Spo2: 90% with 15 litres of oxygen",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 12,
-      "time": "21/05/21",
-      "activity": "Prone positioning, O2 inhalation, With Intermittent BIPAP, Duolin budecort nebulization",
-      "symptom": "Fever spike",
+      "time": "21/05/21 (18th day of symptoms)",
+      "activity": "prone positioning, O2 inhalation, intermittent Bipap",
+      "symptom": "fever spike",
       "diagnosis": "",
-      "treatment": "Inj. DEXAMETHASONE 8mg IV OD, Tab. LEVOFLOXACIN 750mg /OD, Inj. PANTOP 40mg IV OD, Inj. CLEXANE 60mg/sc /OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "treatment": "Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Tab. LEVOFLOXACIN 750mg/OD, Inj. PANTOP 40mg IV OD, Inj. CLEXANE 60mg/sc/OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Spo2: 80% with room air, Spo2: 95% with Bipap Fio2 80%",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 13,
-      "time": "22/5/21",
-      "activity": "Prone positioning, O2 inhalation, With Intermittent BIPAP, Duolin budecort nebulization",
+      "time": "22/5/21 (19th day of symptoms)",
+      "activity": "prone positioning, O2 inhalation, intermittent Bipap",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Inj. DEXAMETHASONE 8mg IV OD, Tab. LEVOFLOXACIN 750mg /OD, Inj. PANTOP 40mg IV OD, Inj. CLEXANE 60mg/sc /OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "treatment": "Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Tab. LEVOFLOXACIN 750mg/OD, Inj. PANTOP 40mg IV OD, Inj. CLEXANE 60mg/sc/OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Spo2: 80% at room air, Spo2: 91% with Bipap Fio2 90%",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 14,
-      "time": "24/5/21",
-      "activity": "Prone positioning, O2 inhalation with face mask, Duolin budecort nebulization",
-      "symptom": "",
+      "time": "24/5/21 (21st day of symptoms)",
+      "activity": "prone positioning, O2 inhalation with face mask",
+      "symptom": "no fever spike",
       "diagnosis": "",
-      "treatment": "Inj. DEXAMETHASONE 8mg IV OD, Tab. LEVOFLOXACIN 750mg /OD, Inj. PANTOP 40mg IV OD, Inj. CLEXANE 60mg/sc /OD, Tab. THYRONORM 100 mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
+      "treatment": "Duolin budecort nebulization, Inj. DEXAMETHASONE 8mg IV OD, Tab. LEVOFLOXACIN 750mg/OD, Inj. PANTOP 40mg IV OD, Inj. CLEXANE 60mg/sc/OD, Tab. THYRONORM 100mcg, Tab. LIMCEE OD, Tab. Mvt OD, Tab. PCM SOS",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
-        "lab_measurements": "Spo2: 91-93% with 15 litres of oxygen",
+        "lab_measurements": "",
         "discussion": ""
       }
     }

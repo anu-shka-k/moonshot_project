@@ -8,7 +8,7 @@
       "ordinal": 1,
       "time": "Birth - 1 year",
       "activity": "Severe Jaundice",
-      "symptom": "Did not sleep (2-4 hours only once a day)",
+      "symptom": "Did not sleep (very less, 2-4 hours only once in a day)",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -16,13 +16,13 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Severe Jaundice, sleeplessness"
+        "discussion": ""
       }
     },
     {
       "ordinal": 2,
       "time": "3 Years",
-      "activity": "Began shaving, excessive hair growth",
+      "activity": "Began shaving, excessive hair growth on face/neck/toes/and legs",
       "symptom": "Still only sleeping 2-3 hours",
       "diagnosis": "",
       "treatment": "",
@@ -31,7 +31,7 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Excessive hair growth, sleeplessness"
+        "discussion": ""
       }
     },
     {
@@ -46,87 +46,87 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Chronic infections, multiple sprains"
+        "discussion": ""
       }
     },
     {
       "ordinal": 4,
-      "time": "12 Years",
+      "time": "12 years",
       "activity": "Diagnosed with cervical degeneration and scoliosis",
-      "symptom": "Severe headaches, migraines",
-      "diagnosis": "Cervical degeneration, scoliosis",
+      "symptom": "Severe headaches",
+      "diagnosis": "Cervical degeneration and scoliosis",
       "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "X-rays for lung infection",
         "lab_measurements": "",
-        "discussion": "Cervical degeneration, scoliosis, migraines"
+        "discussion": ""
       }
     },
     {
       "ordinal": 5,
-      "time": "15 Years",
+      "time": "15 years",
       "activity": "Headache severity increased",
-      "symptom": "Unable to get out of bed, attempted suicide",
+      "symptom": "Unable to get out of bed",
       "diagnosis": "",
-      "treatment": "Managed care",
+      "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Increased headache severity, attempted suicide"
+        "discussion": ""
       }
     },
     {
       "ordinal": 6,
-      "time": "21 Years",
+      "time": "21 years",
       "activity": "Ectopic pregnancy",
       "symptom": "Fearful of doctors",
       "diagnosis": "Ectopic pregnancy",
-      "treatment": "Surgery, scar revision, wound debridement",
+      "treatment": "Surgery",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Ectopic pregnancy, fear of doctors"
+        "discussion": ""
       }
     },
     {
       "ordinal": 7,
-      "time": "22 Years",
-      "activity": "Chronic abdominal pain, diagnosed with PCOS",
-      "symptom": "Multiple ovarian cysts",
+      "time": "22 years",
+      "activity": "Chronic abdominal pain around periods",
+      "symptom": "Diagnosed with multiple ovarian cysts",
       "diagnosis": "PCOS",
       "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "CT scan",
+        "investigations": "CT showed multiple ovarian cysts",
         "lab_measurements": "",
-        "discussion": "PCOS, chronic abdominal pain"
+        "discussion": ""
       }
     },
     {
       "ordinal": 8,
-      "time": "23 Years",
+      "time": "23 years",
       "activity": "Hospitalized for severe kidney infection and pneumonia",
-      "symptom": "Type aB melanoma, 4 precancerous tissues removed",
-      "diagnosis": "Kidney infection, pneumonia, melanoma",
+      "symptom": "Type aB melanoma and 4 precancerous tissues removed",
+      "diagnosis": "Kidney infection, pneumonia, Type aB melanoma",
       "treatment": "Hospitalization",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Severe kidney infection, pneumonia, melanoma"
+        "discussion": ""
       }
     },
     {
       "ordinal": 9,
-      "time": "24 Years",
+      "time": "24 years",
       "activity": "Worsening migraines, ovarian cysts and pain",
       "symptom": "Bearable pain",
       "diagnosis": "",
@@ -136,12 +136,12 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Worsening migraines, ovarian cysts and pain"
+        "discussion": ""
       }
     },
     {
       "ordinal": 10,
-      "time": "32 Years",
+      "time": "32 years",
       "activity": "Severe reaction to antimalarials",
       "symptom": "",
       "diagnosis": "",
@@ -151,29 +151,29 @@
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "Severe reaction to antimalarials"
+        "discussion": ""
       }
     },
     {
       "ordinal": 11,
-      "time": "34 Years",
-      "activity": "Diagnosed with ADHD and autism spectrum",
-      "symptom": "Migraines increased, left hand going numb",
-      "diagnosis": "ADHD, autism spectrum",
-      "treatment": "Therapist and psychiatrist",
+      "time": "35 years",
+      "activity": "Diagnosed with ADHD/autism spectrum",
+      "symptom": "",
+      "diagnosis": "ADHD/autism spectrum",
+      "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
-        "discussion": "ADHD, autism spectrum, migraines"
+        "discussion": ""
       }
     },
     {
       "ordinal": 12,
       "time": "Recent",
       "activity": "Genetic test done",
-      "symptom": "G6PD deficiency, AMPD1 deficiency",
+      "symptom": "",
       "diagnosis": "G6PD deficiency, AMPD1 deficiency",
       "treatment": "",
       "notes": {
@@ -181,7 +181,7 @@
         "physical_exam": "",
         "investigations": "Genetic test",
         "lab_measurements": "",
-        "discussion": "G6PD deficiency, AMPD1 deficiency"
+        "discussion": ""
       }
     },
     {
@@ -194,24 +194,9 @@
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "SWELLING: Heart rate, hemogram, CXR, ECG, SGPT, SGOT, COMPLETE URINE EXAMINATION, TOTAL BILIRUBIN, CSF analysis, EEG, CT, MRI OF brain, ANHIDROSIS,OLIGURIA: Renal ultrasonography, Voiding cystourethrography, Sweat test, Skin biopsy, SLEEPLESSNESS: Polysomnography, CT, MRI brain",
+        "investigations": "SWELLING: Heart rate, hemogram, CXR, ECG, SGPT, SGOT, COMPLETE URINE EXAMINATION, TOTAL BILIRUBIN, MIGRAINE: CSF analysis, EEG, CT, MRI OF brain, ANHIDROSIS, OLGURIA: Renal ultrasonography, Voiding cystourethrography, Sweat test, Skin biopsy, SLEEPLESSNESS: Polysomnography, CT, MRI brain",
         "lab_measurements": "",
-        "discussion": "Investigations for swelling, anhidrosis, oliguria, sleeplessness"
-      }
-    },
-    {
-      "ordinal": 14,
-      "time": "Recent",
-      "activity": "Treatment",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "SWELLING: Avoiding stress, not consuming fava beans, sulpha drugs, antimalarials, excess salt, MIGRAINE: Triptans, Carotid artery angioplasty, Seizures - antiepileptics, ANHIDROSIS,OLIGURIA: Antimicrobials for kidney infection, hydration with oral fluids, corticosteroids, FATIGUE: Ribose, adequate food intake, SLEEPLESSNESS: L-Serine, Cognitive behavioural therapy",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": "Treatment for swelling, migraine, anhidrosis, oliguria, fatigue, sleeplessness"
+        "discussion": ""
       }
     }
   ],

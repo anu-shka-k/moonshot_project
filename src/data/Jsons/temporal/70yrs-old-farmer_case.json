@@ -6,7 +6,7 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "8 days prior to admission",
+      "time": "8 days before admission",
       "activity": "Patient experienced fever, high grade with chills and cough",
       "symptom": "Fever, chills, cough",
       "diagnosis": "",
@@ -21,7 +21,7 @@
     },
     {
       "ordinal": 2,
-      "time": "2 days after onset of fever",
+      "time": "2 days before admission",
       "activity": "Cough was relieved",
       "symptom": "Cough",
       "diagnosis": "",
@@ -38,7 +38,7 @@
       "ordinal": 3,
       "time": "Yesterday",
       "activity": "Patient experienced pain in the abdomen, burning sensation",
-      "symptom": "Abdominal pain, burning sensation",
+      "symptom": "Pain in the abdomen, burning sensation",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -51,14 +51,14 @@
     },
     {
       "ordinal": 4,
-      "time": "Admission",
-      "activity": "Patient was admitted to the hospital",
-      "symptom": "Fever, abdominal pain, burning sensation",
-      "diagnosis": "Hypovolemic shock with MAT, UTI, AKI, HFrEF, CAD",
-      "treatment": "IVF, inj norad, inj lasix, inj dobutamine, tab dolo 650",
+      "time": "On admission",
+      "activity": "Patient was afebrile, PR- 76, irregularly, irregular BP-100/50, RR- 22",
+      "symptom": "",
+      "diagnosis": "Hypovolemic shock with MAT, UTI- AKI, HFrEF- CAD",
+      "treatment": "IVF- NS 50ml/hr, inj. nor ad 2amp with 47ml NS, inj lasix 40mg iv, inj dobutamine infusion 1 amp in 48ml.ns/hr",
       "notes": {
         "demographics": "",
-        "physical_exam": "Afebrile, PR- 76, irregularly, irregular, BP-100/50, RR- 22, CVS- S1 S2 +, RS- NVBS",
+        "physical_exam": "CVS- S1 S2 +, RS- NVBS",
         "investigations": "",
         "lab_measurements": "",
         "discussion": ""
@@ -67,13 +67,13 @@
     {
       "ordinal": 5,
       "time": "5:30 AM",
-      "activity": "Patient developed SOB",
+      "activity": "Patient developed SOB with saturations showing 67% at room air",
       "symptom": "SOB, cough with expectoration, respiratory distress",
       "diagnosis": "?AECOPD",
-      "treatment": "Inj Hydrocortisone, Inj Pheniramine maleate, Nebulisation with budesonide and ipratropium bromide",
+      "treatment": "Inj Hydrocortisone 100mg IV, Inj Pheniramine maleate (Avil) 25mg IV, Nebulisation with budesonide and ipratropium bromide",
       "notes": {
         "demographics": "",
-        "physical_exam": "BP-110/70, PR-120bpm, irregular, Cvs-s1s2, Resp- fine end inspiratory crepitations in B/L basal areas",
+        "physical_exam": "C/C distressed, BP -110/70, PR-120bpm irregular, Cvs-s1s2, Resp- fine end inspiratory crepitations in B/L basal areas, Wheeze- mid inspiratory in b/L ISA",
         "investigations": "",
         "lab_measurements": "",
         "discussion": ""
@@ -81,14 +81,14 @@
     },
     {
       "ordinal": 6,
-      "time": "After 30-40 minutes",
-      "activity": "SOB subsided",
+      "time": "After 30-40mins",
+      "activity": "SOB subsided, PR-90bpm regular",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
       "notes": {
         "demographics": "",
-        "physical_exam": "PR-90bpm, regular",
+        "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
         "discussion": ""
@@ -97,30 +97,30 @@
     {
       "ordinal": 7,
       "time": "Day 2",
-      "activity": "Patient subjectively feeling better",
-      "symptom": "Cough, SOB decreased",
+      "activity": "Patient subjectively feeling better, Cough and sob decreased",
+      "symptom": "",
       "diagnosis": "Cardiogenic shock (resolving) with paroxysmal AF",
-      "treatment": "Taper ionotropes, IVF, Inj monocef, Inj pan 40mg, Inj neomol",
+      "treatment": "Taper ionotropes, IVF NS 1AMP of optineuron, Inj monocef 1gm.iv bd, Inj pan 40mg iv bd, Inj neomol 1gm Iv",
       "notes": {
         "demographics": "",
-        "physical_exam": "BP 100/80 mm hg, PR- 76 bpm, regularly, regular, Cvs: s1 s2 heard",
+        "physical_exam": "BP 100/80 mm hg, PR: 76 bpm regularly regular, Cvs: s1 s2 heard, Grbs 160 mg/dl, I/O: 1550/1200, Rs: Bae+ nvbs, P/a soft non tender",
         "investigations": "",
-        "lab_measurements": "Grbs 160 mg/dl",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 8,
       "time": "Day 3",
-      "activity": "Patient subjectively feeling better",
-      "symptom": "Cough, SOB decreased",
-      "diagnosis": "Cardiogenic shock/ ? Septic shock with paroxysmal AF",
-      "treatment": "Increase nor ad to maintain map 65 mm hg, Taper iontrope once bp stabilises",
+      "activity": "Patient subjectively feeling better, Cough and sob decreased",
+      "symptom": "",
+      "diagnosis": "Cardiogenic shock/ ? Septic shock (TLC 22,000) with paroxysmal AF",
+      "treatment": "Increase nor adr to maintain map 65 mm hg, Taper iontrope once bp stabilises",
       "notes": {
         "demographics": "",
-        "physical_exam": "BP 90/60 mm hg, PR 80 bpm, Rr 18 cpm",
+        "physical_exam": "BP 90/60 mm hg, Pr 80 bpm, Rr 18 cpm, Grbs 170 mg/dl, Temp 97.5 F, Cvs s1 s2, Rs bae, Nvbs, P/a soft nt",
         "investigations": "",
-        "lab_measurements": "Grbs 170 mg/dl, Temp 97.5 F",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
@@ -129,13 +129,13 @@
       "time": "Later",
       "activity": "Patient subjectively feeling better",
       "symptom": "",
-      "diagnosis": "Cardiogenic shock with acute LV Failure secondary to MAT",
-      "treatment": "Continue iv fluids, Inj monocef, Inj Pan 40mg, Inj neomol",
+      "diagnosis": "Cardiogenic shock with acute LV Failure secondary to MAT, MAT secondary to AECOPD ? viral pyrexia(resolved)",
+      "treatment": "Continue iv fluids, inj. monocef, inj Pan 40mg, inj neomol (if temp greater than 101F)",
       "notes": {
         "demographics": "",
-        "physical_exam": "BP 110/60 mm hg, PR- 55 bpm, Rr 20, Cvs s1 s2",
+        "physical_exam": "BP 110/60 mm hg, Pr- 55 bpm, Rr 20, Grbs 124 mg/dl, Temp 97.5 F, Cvs s1 s2, Rs bae, Nvbs, P/a soft nt",
         "investigations": "",
-        "lab_measurements": "Grbs 124 mg/dl, Temp 97.5 F",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
@@ -144,13 +144,13 @@
       "time": "Later",
       "activity": "Patient complained of pain on left upper limb",
       "symptom": "Pain on left upper limb",
-      "diagnosis": "Cardiogenic shock with acute LV Failure secondary to MAT",
-      "treatment": "Continue iv fluids, Inj monocef, Inj Pan 40mg, Inj neomol",
+      "diagnosis": "Cardiogenic shock with acute LV Failure secondary to MAT, MAT secondary to AECOPD ? viral pyrexia(resolved)",
+      "treatment": "Continue iv fluids, inj. monocef, inj Pan 40mg, inj neomol (if temp greater than 101F)",
       "notes": {
         "demographics": "",
-        "physical_exam": "BP 110/70 mm hg, PR- 68 bpm, Rr 20, Cvs- S1 S2 +",
+        "physical_exam": "BP 110/70 mm hg, Pr- 68 bpm, Rr 20, Grbs 78 mg/dl, Temp 97.8 F, Cvs- S1 S2 +, Rs BAE, Nvbs, P/a soft nt",
         "investigations": "",
-        "lab_measurements": "Grbs 78 mg/dl, Temp 97.8 F",
+        "lab_measurements": "",
         "discussion": ""
       }
     }

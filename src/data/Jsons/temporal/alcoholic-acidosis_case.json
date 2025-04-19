@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "url": "https://httpmedicin.blogspot.com/2021/11/alcoholic-acidosis.html",
+    "datetime": "2021-11-05T11:26:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "4 days before admission",
+      "activity": "Patient developed shortness of breath (grade III-IV)",
+      "symptom": "shortness of breath",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "4 days before admission",
+      "activity": "Patient developed left sided chest pain",
+      "symptom": "chest pain",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "3 days before admission",
+      "activity": "Patient visited RMP",
+      "symptom": "generalized weakness and vomitings",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "2 days before admission",
+      "activity": "Patient developed decreased urine output",
+      "symptom": "decreased urine output",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "on admission",
+      "activity": "Patient presented to casualty",
+      "symptom": "shortness of breath, pain abdomen, chest pain, decreased urine output, hematuria, vomitings",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No signs of pallor, cyanosis, clubbing, lymphadenopathy, edema, Icterus ++",
+        "investigations": "",
+        "lab_measurements": "Temp: 98.5 F, PR: 112 bpm, RR: 22 cycles, BP: not recordable, SpO2: 64% at RA, 99% with 10liters of O2, GRBS: 135 mg%",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "on admission",
+      "activity": "Physical examination and vitals taken",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "CVS: S1S2 heard no murmurs, RS: Dyspnea + (grade III-IV), NVBS +, P/A: Diffuse type of pain all over the abdomen",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "on admission",
+      "activity": "Provisional diagnosis made",
+      "symptom": "",
+      "diagnosis": "Alcoholic ketoacidosis, Wet beriberi, Acute pancreatitis, AKI secondary to dehydration",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "on admission",
+      "activity": "Treatment given",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Iv fluids -Ns @75ml/hr, Inj. Tramadol, Inj. Midaz, Inj. Meropenam, Inj. pan, Inj. Zofer, Inj. Thiamine, Hemodialysis",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9WmsDmAY4eqma0vKOI9xCaNPAASNMu3xmZXSk7fhhQrNFrpP0F3Fa2I0MYtZ0vKIUIy1TXCY1N9BdSxQCgJA6rPmCE_MaIUZePKDm6kYg80PSLKDopjwuBnTJfJ88OO2ZkQMcEt4w-js/s1600/1636136933110721-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbXa9JXm9YcDNtvsZnsIEyFjquyyT6phTfWhbpHAJiGNzzjd-cm3_Wjd4pQYr7-y31EqZQwjop3L440MV9HR4MvigHvLlT0AGkUYI32BqJQQ_xsPGZicSLGx46tanL9JGJ2ms-5888Rco/s1600/1636137550449968-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-FpN_dl2mGVS_FV3PktcAjjZomHkbif4GqlU6l0FKvrlsUcMuqk1XzXrA32Z84Es2Pna_YDl9Om6PdBVdJS-iS1ccp5w1fadteAor7wAoNb2JE7ZPz9iy2ZKpFEPMk7wOM8eLAnLQqy0/s1600/1636137545649382-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8c2iesabP1hPBYfnqZ4bCktmUIzmM-aIABsyCmvpufCQjFUTMXK5wGoAvAKJuXhelXcIdttVvVlydNvLahH3j3Zchh75a6MPhax0E-UvlwWP3NnVKIEUzPowW-rT8YyLY66NwMaA8BmA/s1600/1636137529092206-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB1VCKZK5ZauyX2tTe8dj3achMLb02JnvjfDFtwbxZDX1OZKz93dUGxH94SocM63SzvoLx_XrOQ8aEKD-mNcq6tAmo2-BDmvCL-fwzbaggJ6lN4AdHGdZeIYYSprrz-Q7icPd_jOD1eYk/s1600/1636137511514541-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJFpUpzCBPhvoW3s-AOT-acjaTzRH5BirWRvT1hDNfE0y5Br1P-b-sSikMnYpfOiGnUefCJO-6PBaaNGylsDC1m0BfFn1T3ytACM1r52PfZwpy0wNfQA_FfhCFvcPd6FFFxICNyfOvXU4/s1600/1636137491518627-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZsFR0xsc69rLnR-Yk3_Cx-IpY3PC_ok4LlnXCRJOnXBkOg97DmvIeahQkLN6HvRebF8wKFj-sumPHa0_n7QMZB9hcU19nal4r19k3MzxCKvA9-6HM7Za-ZokUUHc4c8mvOk1UAVjE1S4/s1600/1636137466959662-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisKilbqV4p6-FMo5Sw65wa-TFwr8YeDHKjZniLqOatmpimWgvLFAhLfGPPWr1gzFPYW6Vr6Vs4vhA_kfrlMD-Io4q_h1b2G6QsuMKeGDpXaPq3XYqpI3Pp1ouAfPIFby1VbmaACP96PGg/s1600/1636137445113112-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGW5yhk8NEGzU4L3dEbpUqGkQRTHdz5V39WNYO8mNdd452TtXv_Cd5nJ5dZP0ptY5UDHV9Ul0Hx9sraPs_djGwk8VIbSQy8cT9kLz5CSiBjCr_MChrXxxsomOJWfLwxehjsuGF9i0tA6M/s1600/1636681524923753-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7K6WZfUVeIbrZT-kQhmpwM4J31bt_MNV23oRNW0YVoyc4jI3WYddab0K0H5fXjWWFuqE4g17r86AR8EIipLIueLKqpeDeHQLG4AZHHHNl2w-1KFw6pr4MnE2OwEddIlOJqchnUFEiJbg/s1600/1638684290703656-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitPQZxv8ML6vKqyF2MR9IqrNWHPmEQWQnIRnPWQjpEwlEuRyhnJOo-2hE-o-QuDXH745gixo72gSwcnO1q69HDbuD9WA9hMoZweXvBSDtH2udAbbXp2n7K75H6o2IfPchQ4Crwt9fGqCY2/s1600/1619481437441920-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1wbHrVkg1zw3eegXjm61-IKKGtZONPtX0MHJBiRK1xPIZjXaje6XPI7PNqeuNcJVRpzKMTuNAs9Fl0dTOMJ03H99NV7YPOiPh_sLziJOg8xjf8m-v5zeCG8SfMahyS9Nx3xC2qohGGoa/s280/1619246430654193-0.png"
+  ]
+}

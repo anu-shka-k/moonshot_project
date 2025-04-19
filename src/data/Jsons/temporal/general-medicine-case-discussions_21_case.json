@@ -3,7 +3,203 @@
     "url": "https://akshithakasani81.blogspot.com/2021/09/general-medicine-case-discussions_21.html",
     "datetime": "2021-09-21T10:34:00-0700"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1 year back",
+      "activity": "Started finding it hard to control urine",
+      "symptom": "Incontinence",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "On 10/11/2020",
+      "activity": "Ureterosigmoidostomy performed",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "ATT",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "5 months post surgery",
+      "activity": "Started having vomiting",
+      "symptom": "Vomiting",
+      "diagnosis": "",
+      "treatment": "Antiemetics",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "3 days later",
+      "activity": "Started experiencing pain in lower limbs",
+      "symptom": "Pain in lower limbs",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "4pm that day",
+      "activity": "Suddenly found it difficult to get up from bed",
+      "symptom": "Weakness in limbs",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "On presentation to hospital",
+      "activity": "Admitted to hospital",
+      "symptom": "Weakness in limbs, vomiting",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Hypotonia in all limbs, power 3/5 in all limbs",
+        "investigations": "ABG shows metabolic acidosis with respiratory alkalosis",
+        "lab_measurements": "Potassium 3.1",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "After potassium supplementation",
+      "activity": "Power improved to 4/5 in lower limbs and +4/5 in upper limbs",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Potassium supplementation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Power improved in limbs",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "On 20-9-21",
+      "activity": "Chest X-RAY done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Chest X-RAY",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "On 21-9-21 at 3.00pm",
+      "activity": " Became tachypnoic",
+      "symptom": "Tachypnea",
+      "diagnosis": "",
+      "treatment": "Oxygen supplementation, Inj. LASIX, Inj. NEOMOL",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Tachypnoic, BP-100/60mm Hg, RR- 32/min, PR- 142/min",
+        "investigations": "ABG shows severe metabolic acidosis",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "After giving Lasix",
+      "activity": "Crepts disappeared and chest was clear on auscultation",
+      "symptom": "",
+      "diagnosis": "Acute heart failure secondary to myocardial depression",
+      "treatment": "Lasix",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Crepts disappeared, chest clear on auscultation",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "At 4:30 pm",
+      "activity": " Became unresponsive",
+      "symptom": "Unresponsiveness",
+      "diagnosis": "",
+      "treatment": "Inj. DILTIAZEM, Inj. NaHCO3",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Unresponsive, PR - 186/min",
+        "investigations": "ECG showing SVT with rate related ST Depression",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "After intubation",
+      "activity": "Started on mechanical ventilator",
+      "symptom": "",
+      "diagnosis": "Type 1 respiratory failure",
+      "treatment": "Mechanical ventilation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "GCS - 3/15",
+        "investigations": "ABG shows type 1 respiratory failure",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "2 hours after intubation",
+      "activity": "Expired due to refractory acidosis",
+      "symptom": "",
+      "diagnosis": "Refractory acidosis",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ZsbSZu93LzG7BMxdZWJGPvigkMd3-i6wI0rcPUq-giL5VrloJIvD8_z0RH2pASmkLPpBY-HilBY87ASYsvVI2M7PB_F-ZnBKPbFyQEJ0oxE-3phgTH_ldWT-y-_GZQ-CwFCTLm0oaoCj/s1600/1632247415515154-0.png",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw3v0huV0OJpQxN5EmOveA-gzwhv0Q3Q53MX34dKzLdEQaT5kC8pXQiJ32S2P-rF4qmUmjJwrfAwBfjBfOUxr2XsGNWIzG4bQcZIiGxSu_cYkJ_Xho6tjrLDkiWUsrKXwxUiT8EXYvZbCy/s1600/1632245643774578-0.png",

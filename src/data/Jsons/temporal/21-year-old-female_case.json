@@ -6,9 +6,9 @@
   "timeline": [
     {
       "ordinal": 1,
-      "time": "4 days prior to admission",
-      "activity": "developed fever",
-      "symptom": "high grade fever, chills",
+      "time": "4 days before admission",
+      "activity": "developed fever - high grade, a/w chills",
+      "symptom": "fever, chills",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -21,8 +21,8 @@
     {
       "ordinal": 2,
       "time": "yesterday",
-      "activity": "vomitings started",
-      "symptom": "2 episodes non bilious vomitings",
+      "activity": "vomitings since yesterday, 2 episodes non bilious and subsided",
+      "symptom": "vomitings",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -34,53 +34,67 @@
     },
     {
       "ordinal": 3,
-      "time": "admission (8/9/21)",
-      "activity": "admitted to casualty",
-      "symptom": "abdominal distension, fever",
-      "diagnosis": "viral Pyrexia with thrombocytopenia ? Secondary to dengue with polyserositis With 1st degree heart block ( ? 2• viral myocarditis)",
-      "treatment": "Inj pan-40mg OD, Ivf-NS/RL/DNS @100ml/hr, Inj optineuron 1 amp in 100 ml Ns/IV/OD, Inj zofer 4mg/sos, Oral fluids-4 L, Strict temp charting, Vitals monitoring",
+      "time": "on admission",
+      "activity": "came to the casualty with chief complaints of fever and vomitings",
+      "symptom": "fever, vomitings",
+      "diagnosis": "",
+      "treatment": "",
       "notes": {
-        "physical_exam": "General examination: PICCLE :- ve, Temp :98.4•F, PR:56bpm, RR:22/min, BP: 100/70mmhg, Spo2:98%, Systemic examination: CVS:s1,s2 +, murmurs -, Respiratory system: BAE+,NVBS -, Abdomen : soft , non tender , bowel sounds +, CNS:NAD",
-        "investigations": "Rapid dengue test, Hemogram, LFT/RFT, Chest x ray",
-        "lab_measurements": "GRBS:140mg%",
+        "physical_exam": "General examination: PICCLE :- ve Temp :98.4•F PR:56bpm RR:22/min BP: 100/70mmhg Spo2:98% GRBS:140mg% Systemic examination: CVS:s1,s2 +, murmurs - Respiratory system: BAE+,NVBS - Abdomen : soft , non tender , bowel sounds + CNS:NAD",
+        "investigations": "",
+        "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 4,
-      "time": "Day 2 (9/9/21)",
-      "activity": "continued treatment",
+      "time": "Day 1 (8/9/21)",
+      "activity": "provisional diagnosis: viral Pyrexia with thrombocytopenia ? Secondary to dengue with polyserositis With 1st degree heart block ( ? 2• viral myocarditis)",
       "symptom": "",
-      "diagnosis": "",
-      "treatment": "Inj pan-40mg OD, Ivf-NS/RL/DNS @100ml/hr, Inj optineuron 1 amp in 100 ml Ns/IV/OD, Inj zofer 4mg/sos, Oral fluids-4 L, Strict temp charting, Vitals monitoring",
+      "diagnosis": "viral Pyrexia with thrombocytopenia ? Secondary to dengue with polyserositis With 1st degree heart block ( ? 2• viral myocarditis)",
+      "treatment": "Inj pan -40mg OD Ivf -NS /RL/DNS @100ml/hr Inj optineuron 1 amp in 100 ml Ns / IV /OD Inj zofer 4mg /sos Oral fluids -4 L Strict temp charting Vitals monitoring",
       "notes": {
         "physical_exam": "",
-        "investigations": "",
+        "investigations": "Serology Rapid dengue test : Hemogram : 8/9/21",
         "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 5,
-      "time": "Day 3 (10/9/21)",
+      "time": "Day 2 (9/9/21)",
       "activity": "continued treatment",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Inj pan-40mg OD, Ivf-NS/RL/DNS @100ml/hr, Inj optineuron 1 amp in 100 ml Ns/IV/OD, Inj zofer 4mg/sos, Oral fluids-4 L, Strict temp charting, Vitals monitoring",
+      "treatment": "Inj pan -40mg OD Ivf -NS /RL/DNS @100ml/hr Inj optineuron 1 amp in 100 ml Ns / IV /OD Inj zofer 4mg /sos Oral fluids -4 L Strict temp charting Vitals monitoring",
       "notes": {
         "physical_exam": "",
-        "investigations": "",
+        "investigations": "Hemogram : 10/9/21",
         "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 6,
+      "time": "Day 3 (10/09/21)",
+      "activity": "continued treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj pan -40mg OD Ivf -NS /RL/DNS @100ml/hr Inj optineuron 1 amp in 100 ml Ns / IV /OD Inj zofer 4mg /sos Oral fluids -4 L Strict temp charting Vitals monitoring",
+      "notes": {
+        "physical_exam": "",
+        "investigations": "Hemogram : 11/9/21",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
       "time": "Day 4 (11/9/21)",
       "activity": "continued treatment",
       "symptom": "",
       "diagnosis": "",
-      "treatment": "Inj pan-40mg OD, Ivf-NS/RL/DNS @100ml/hr, Inj optineuron 1 amp in 100 ml Ns/IV/OD, Inj zofer 4mg/sos, Oral fluids-4 L, Strict temp charting, Vitals monitoring",
+      "treatment": "Inj pan -40mg OD Ivf -NS /RL/DNS @100ml/hr Inj optineuron 1 amp in 100 ml Ns / IV /OD Inj zofer 4mg /sos Oral fluids -4 L Strict temp charting Vitals monitoring",
       "notes": {
         "physical_exam": "",
         "investigations": "",

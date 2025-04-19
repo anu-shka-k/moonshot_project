@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "url": "https://jancykoneti79.blogspot.com/2021/08/a-60-year-old-male-with-altered.html",
+    "datetime": "2021-08-21T04:02:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "2-3 days before admission",
+      "activity": "Fever started",
+      "symptom": "Fever, generalized weakness",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "65 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "1 day before admission",
+      "activity": "Irrelevant talk and drowsiness started",
+      "symptom": "Irrelevant talk, drowsiness",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "Admission",
+      "activity": "Patient admitted to ICU",
+      "symptom": "Altered sensorium, fever, generalized weakness, irrelevant talk, drowsiness",
+      "diagnosis": "Altered sensorium under evaluation secondary to alcoholic intoxication, UTI, pneumonia, acute viral hepatitis (HCV)",
+      "treatment": "IV fluids, thiamine, pan, optineuron, head end elevation, oxygen inhalation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Icterus present, no pallor, cyanosis, clubbing, oedema",
+        "investigations": "ECG, ultrasound",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "10.8.21",
+      "activity": "Investigations done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IV fluids, thiamine, pan, optineuron, head end elevation, oxygen inhalation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ECG, ultrasound",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "11.8.21, 1:30 pm",
+      "activity": "Patient developed tachypnea and hypoxia",
+      "symptom": "Tachypnea, hypoxia, type 1 respiratory failure",
+      "diagnosis": "Type 1 respiratory failure secondary to pneumonia",
+      "treatment": "Intubation, CPR",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "11.8.21, 7:36 pm",
+      "activity": "Patient declared dead",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient died due to type 1 respiratory failure secondary to pneumonia"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-DhJQ5m8ju-Qbmn7-v9isY7ix0m89H4Zbq7emIuGb755Fp3LDCck3DkQCEjIj-m6ruHrAF29LPcbnkxf1rjWAV_2UJees-2BVR_2Ar3D9w87P_anWofTUWpc93KmFECoMHv3ohJB24I/s320/d37d7c9c-1bed-4cd9-ab53-d104583f79e8.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZP3XmzVfPvj-8c0vk_8nTeGyPYMsU46YuNvxMjOSdIa4U6i75-JE0Od7dNpACkdF3QJzgjJMqH8TiUhKGptDkxM9ofRa-LgzADbX0MRilYG49ja0JLHTJOMb_WVzim56ZnvS6qfjLwfdG/s1600/1628696245401060-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8-vCcSOu3fJNq_jnZhs9UIoTdWfEXQmlCnyGB78enwk9MW6heB36SKzLsOiSEkah5wJon-hp0zdajS5LBSqEhpxMZt5FWaTtjB8BH2UHAkNUGvIsVPY7WM8RrEUyagKBXBMdGZxrfbipW/s1600/1628696240632205-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgabCuNalnVSg7JKJdrwIMCid4UBz8d2L3s-5837-G0JWvYmHQuGCePk12DjY9KxUCAgS_4xevPD3DNuP2zmWcTHKyOz54Q34XCsCOovRd3_SidG2BUz1MD8XQPcdAEBwaaSJNIap3a5RPx/s1600/1628696235263486-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid_ZCkejGJ1abfu_C5xg-iaRchI8osQiUR5VkQXohxj7CJm39AbTBn99fOIHagwS-KAKnnMSM2QS4ySbogIMwQrKgUjupna5SPDK8JsmjpZ3sH02ttifOXgl5B5KcUozby2Xhqfvadum45/s1600/1628696231095183-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBzBdYRYyTWyAoLZAOTX7yEj1sszSkn9RbArR41M3azvmk2knVbG-kpzrwHBBeVXBPgOEHGGTU_DkyU_ZGfDmGxKHfkyFifstfunQkrtYw49xJVnZHplnV9h9QWTwmuxYTjwft_RUKGrnU/s1600/1628696226041205-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdA1e3by_lvcUmrPDnPn8DnGxA_f1sjTezgoMKURZtD7tO_fJRXQXKCZSDx2998vxPweWrLGIZUQpzRTIuY1SKqXHjEXbkBuTZqNLAiZiavR0_LqKk5ei0bv6dVDllYAkQoN9VQOc4d3lR/s1600/1628696220891720-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN-XZC0FzACRXd88RO9VfKa2_5sCnhqQ1beOtK1IXT2nXl7CApOKBqvL4CytcdrtnxyH-2qcHbfiC1NtrM-m5CBWVDHGSW6_xyinLVL7RGYtoefOVLvYWFYCSwEWG0Soq7WmiJGolUa5PB/s1600/1628696216179572-7.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUiptCLzl6rcfYlpz-UsxknZ08UxvCxrvph4FSIrCh5jaBwD6Rp_xCASb7ZAGrIex1tfCV41RM6DKZ8A3k3LM71uU82P4yM6Pm2LZLZL1UTPrFGiXVgLuFfmZPFzxzE68W0roHTZjujz5K/s1600/1628696210426623-8.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbJdmuHaGjrI9rvVUP-cHWLusPO9ZkjLGm211BhYZ_C6Bgc5u7wF0tQ_CovKWV4htOKwOOPbEyT3ZmXSD6B3vtoWYNefiUAR4_BDwo5JA8eyPTXUc3STYQ6_XEBdXhd5J77C8_fC32FYmM/s1600/1628696204343655-9.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAZbBZl_tGKo8x8vjpPyESbSk7ghyb36sdAuAqh3XElC8GkG2ejhAgF4ZlB_97tBJERya9OUXCmfXksy4tqYT_-2oNEL44ctBxrs2OXwiNvvItTZopod6nEQvi5iBdRe7Rt7Pxf_E_bQ0/s320/4b24b802-fd08-45ab-b6ea-9c7915088c0b.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeeEqYa27I_5K0mA4d7U7O5yWJh-PQu899xfZPc5FXmsVRjEBa53mHfoY6VjKAz5oH0bOZYzsVpt5RowCLuJyuh1QlU8-nWmsAuLpyIxoJKYoYBy5PcYfFNJEJy_1NUGS7SK8zgu6gn20M/s1600/1632766234825037-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDe1yRtQKZbs-UXqK84q3t4OprPG0B8LQJWUsX4XcGuYvYbRobFyMi5K0gUz3JsUfqvJ84dBveRerFqZENDT1b4dLttGOMr0NKdQsHQr3RCsSBaB1EeVkaYtoBmNJMnFHRA2YLql2jaMNl/s320/7A163B48-AF05-408B-A7B3-134762097820.jpeg"
+  ]
+}

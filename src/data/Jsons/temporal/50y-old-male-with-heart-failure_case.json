@@ -3,7 +3,128 @@
     "url": "https://12avirnenivaishnavi.blogspot.com/2021/06/50y-old-male-with-heart-failure.html",
     "datetime": "2021-06-21T21:13:00-0700"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "4 years back",
+      "activity": "developed left hemiplegia",
+      "symptom": "",
+      "diagnosis": "Hypertension and Diabetes",
+      "treatment": "regular medication",
+      "notes": {
+        "demographics": "50 year old male, driver by occupation",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "1 year",
+      "activity": "pedal edema on and off",
+      "symptom": "pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "3 days before admission",
+      "activity": "shortness of breath and chest pain started",
+      "symptom": "shortness of breath and chest pain",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "on admission (19-June-2021 01:20 PM)",
+      "activity": "admitted to hospital",
+      "symptom": "shortness of breath, chest pain, and palpitations",
+      "diagnosis": "",
+      "treatment": "Inj Lasix, Inj Augmentine",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "SOB was grade 2-3 associated with orthopnea and PND",
+        "investigations": "ECG, Chest xray, Blood investigations",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "Day 2",
+      "activity": "continued treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj lasix, Inj pan, Inj Augmentine, Inj Azithromycin, Inj Ecosprin",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "Day 3",
+      "activity": "added Inj Hydrocort",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj Hydrocort",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "Day 4",
+      "activity": "continued same medication",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "discharge (23-JUNE-2021)",
+      "activity": "discharged from hospital",
+      "symptom": "",
+      "diagnosis": "Heart failure with preserved ejection fraction",
+      "treatment": "Tab. Ramipiril, Tab.MET Xl, Tab.Lasix, Tab.GLIMI M1, Tab Zincovit",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrw1yorfy0PfAeEbV_A0b5n31CXWbw_HK4WdtdRq1Kc40MUbb0TGX4ZPcIV2PYAw1AX7GSPBiR4LaQjZ-6Fr-0Ssn9Wa0vMBtNwRe1uxyR97FacEUCAzqF8D3vro3qT8RLw95_PE01RksJ/s320/0B416357-3082-4589-9991-05539CF5FD20.jpeg",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpNlFNSDoM_rscaVRnyyiv7_digsjnDoCxMvZ-jxFrUZEdqKnQOrbeLD5PU7n2uiI6D7wU7r6bt7C8mA1RjnKde5A_YJaIJ6O-QRf4TuHd5CJajuE9jd3GLyiifIvlZ9PcvEw3E-EthRNb/s320/F897CFFC-CFFD-4F2B-B1F2-BA235D032728.jpeg",

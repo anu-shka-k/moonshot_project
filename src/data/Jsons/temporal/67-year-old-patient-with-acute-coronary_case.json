@@ -5,118 +5,124 @@
   },
   "timeline": [
     {
-      "metadata": {
-        "patient_id": "",
-        "age": "67",
-        "sex": "female"
-      },
-      "timeline": [
-        {
-          "ordinal": 1,
-          "time": "1/2 hour before admission",
-          "activity": "Patient experienced shortness of breath (SOB)",
-          "symptom": "Shortness of breath",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "67 year old female",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 2,
-          "time": "9pm on the day of admission (27/4/21)",
-          "activity": "Patient was asymptomatic",
-          "symptom": "",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": "Patient ate dinner and slept"
-          }
-        },
-        {
-          "ordinal": 3,
-          "time": "Night (after 9pm on 27/4/21)",
-          "activity": "Patient developed sweating on exertion and shortness of breath",
-          "symptom": "Sweating on exertion, shortness of breath",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 4,
-          "time": "Upon admission",
-          "activity": "ECG was done",
-          "symptom": "",
-          "diagnosis": "NSTEMI (acute coronary syndrome)",
-          "treatment": "TAB MET XL 25 MG/STAT",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "Conscious, co-operative, coherent. Oriented to time, place and person.",
-            "investigations": "ECG shows NSTEMI",
-            "lab_measurements": "BP- 130/80 mm Hg, PR- 126 BPM, Sp O2- 96%, GRBS- 256 Mg/dl",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 5,
-          "time": "Next day",
-          "activity": "Chest X-Ray was taken",
-          "symptom": "",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "Chest X-Ray",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 6,
-          "time": "Following day",
-          "activity": "Chest CT scan was taken",
-          "symptom": "",
-          "diagnosis": "",
-          "treatment": "",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "Chest CT scan",
-            "lab_measurements": "",
-            "discussion": ""
-          }
-        },
-        {
-          "ordinal": 7,
-          "time": "After diagnosis",
-          "activity": "Patient was advised to shift to a HC for PCI",
-          "symptom": "",
-          "diagnosis": "",
-          "treatment": "PCI (not done due to non-availability of vacancies)",
-          "notes": {
-            "demographics": "",
-            "physical_exam": "",
-            "investigations": "",
-            "lab_measurements": "",
-            "discussion": "Patient was discharged with a prescription"
-          }
-        }
-      ]
+      "ordinal": 1,
+      "time": "1/2 hour before admission",
+      "activity": "Patient experienced shortness of breath (SOB)",
+      "symptom": "Shortness of breath",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "67 year old female",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "9pm on the day of admission (27/4/21)",
+      "activity": "Patient was asymptomatic",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "At night, when patient woke up for washroom",
+      "activity": "Patient developed sweating on exertion and shortness of breath",
+      "symptom": "Sweating, shortness of breath",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "Upon admission",
+      "activity": "ECG was done",
+      "symptom": "",
+      "diagnosis": "NSTEMI (acute coronary syndrome)",
+      "treatment": "TAB MET XL 25 MG/STAT",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP- 130/80 mm Hg, PR- 126 BPM, Afebrile, CVS- S1, S2 +, no murmurs, Respiration- B/L, Inspiratory crepts +, dyspnoec, Sp O2- 96%, GRBS- 256 Mg/dl, P/A- Soft, Bowel sounds +, CNS- NAD",
+        "investigations": "ECG shows NSTEMI",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "The next day",
+      "activity": "Chest X-Ray was taken",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Chest X-Ray",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "The following day",
+      "activity": "Chest CT scan was taken",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Chest CT scan",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "After diagnosis",
+      "activity": "Patient was advised to shift to a HC for PCI",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "PCI",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "PCI was not done due to non-availability of vacancies in higher centers"
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "After discharge",
+      "activity": "Patient was sent home with a prescription",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Prescription",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient is currently doing fine"
+      }
     }
   ],
   "imageurl": [

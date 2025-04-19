@@ -3,7 +3,368 @@
     "url": "https://asjad24.blogspot.com/2021/07/a-case-of-hepatic-abscess-presented-in.html",
     "datetime": "2021-07-03T08:46:00-0700"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "6 days before admission",
+      "activity": "Patient developed high grade fever associated with chills",
+      "symptom": "Fever, chills",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "60 years old female",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "6 days before admission",
+      "activity": "Patient developed decrease in appetite",
+      "symptom": "Decreased appetite",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "3 days before admission",
+      "activity": "Patient developed pain abdomen",
+      "symptom": "Pain abdomen",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "On admission",
+      "activity": "Patient presented to the casualty with complaints of chill associated fever and abdominal pain",
+      "symptom": "Fever, chills, abdominal pain",
+      "diagnosis": "Multiple liver abscess",
+      "treatment": "IV fluids, Inj. METROGYL, Inj. PANTOP, Inj. ZOFER, Inj. TRAMADOL, Inj. OPTINEURON, Tab. PARACETAMOL",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor: Not seen, Icterus: Not seen, Cyanosis: Not seen, Clubbing: Not seen, Lymphadenopathy: Not seen, Edema: Not seen",
+        "investigations": "USG Abdomen: Mild hepatomegaly with multiple abscess",
+        "lab_measurements": "Temperature: 101°F, PR: 120 beats per minute, BP: 100/70 mmHg, RR: 24 cycles per minute, SpO2: 95% in room air, Blood Sugar (random): 100mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "Day 1",
+      "activity": "Patient started on triple antibiotic therapy",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. MONOCEF, Inj. AMIKACIN, Inj. METRODINAZOLE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "Day 2",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IV fluids, Inj. METROGYL, Inj. PANTOP, Inj. ZOFER, Inj. TRAMADOL, Inj. OPTINEURON, Tab. PCM",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "Day 3",
+      "activity": "Review USG was done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. METROGYL, Inj. PANTOP, Inj. ZOFER, Inj. TRAMADOL, Inj. OPTINEURON, Inj. MONOCEF, Inj. AMIKACIN, Tab. PCM, Tab. LIMCEF",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "USG Abdomen: Multiple liver abscess with largest on right side segment 7 with 45-50% liquefaction",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "Day 4",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. METROGYL, Inj. PANTOP, Inj. ZOFER, Inj. TRAMADOL, Inj. OPTINEURON, Inj. MONOCEF, Inj. AMIKACIN, Tab. PCM, Tab. LIMCEF",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "Day 5",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. METROGYL, Inj. PANTOP, Inj. ZOFER, Inj. NEOMOL, Inj. OPTINEURON, Inj. MONOCEF, Inj. AMIKACIN, Tab. PCM, Tab. LIMCEF",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "Day 6",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF, Inj. MONOCEF, Inj. AMIKACIN, Inj. METROGYL, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Tab. DOLO, Inj. NEOMOL, Tab. LIMCEF",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "Day 7",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. MONOCEF, Inj. AMIKACIN, Inj. METROGYL, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Inj. TRAMADOL, Inj. NEOMOL, Tab. DOLO, Tab. ULTRACET, Tab. LIMCEF",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "Day 8",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF, Inj. TAZAR, Inj. AMIKACIN, Inj. METROGYL, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Inj. TRAMADOL, Inj. NEOMOL, Tab. DOLO, Tab. LIMCEF",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "Day 9",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF, Inj. PAPITAZ, Inj. AMIKACIN, Inj. METROGYL, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Inj. TRAMADOL, Inj. NEOMOL, Tab. DOLO, Tab. LIMCEF",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 14,
+      "time": "Day 10",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. PAPITAZ, Inj. AMIKACIN, Inj. METROGYL, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Inj. TRAMADOL, Inj. NEOMOL, Tab. DOLO, Tab. ULTRACET",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 15,
+      "time": "Day 11",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. PIPTAZ, Inj. AMIKACIN, Inj. METROGYL, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Inj. TRAMADOL, Inj. NEOMOL, Tab. DOLO, Tab. ULTRACET",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 16,
+      "time": "Day 12",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. PIPTAZ, Inj. AMIKACIN, Inj. METROGYL, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Inj. TRAMADOL, Inj. NEOMOL, Tab. DOLO, Tab. ULTRACET",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 17,
+      "time": "Day 13",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. CEFTAZIDINE, Syp. LACTULOSE, Inj. CLAVUM, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Inj. TRAMADOL, Inj. NEOMOL, Tab. DOLO, Tab. ULTRACET",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 18,
+      "time": "Day 14",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. CEFTAZIDINE, Inj. CLAVUM, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Inj. TRAMADOL, Inj. NEOMOL, Tab. DOLO, Tab. ULTRACET",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 19,
+      "time": "Day 15",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. CEFTAZIDINE, Inj. CLAVUM, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Inj. TRAMADOL, Inj. NEOMOL, Tab. DOLO, Tab. ULTRACET",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 20,
+      "time": "Day 16",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. CEFTAZIDINE, Inj. CLAVUM, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Inj. TRAMADOL, Inj. NEOMOL, Tab. DOLO, Tab. ULTRACET",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 21,
+      "time": "Day 17",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. CEFTAZIDINE, Inj. CLAVUM, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Inj. TRAMADOL, Inj. NEOMOL, Tab. DOLO, Tab. ULTRACET",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 22,
+      "time": "Day 18",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. MEROPENAM, Inj. PANTOP, Inj. OPTINEURON, Inj. ZOFER, Inj. TRAMADOL, Inj. NEOMOL, Tab. PCM, Tab. ULTRACET",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 23,
+      "time": "Day 19",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. CEFTAZIDINE, Inj. CLAVUM, Inj. PANTOP, Inj. ZOFER, Tab. PCM, Tab. ULTRACET",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 24,
+      "time": "Day 20",
+      "activity": "Patient was discharged",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. CEFTAZIDINE, Inj. CLAVUM, Inj. PANTOP, Inj. ZOFER, Tab. PCM, Tab. ULTRACET",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient was advised to follow up after 15 days"
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgVN7LixOqp3LzzPmEvMVeYeLvxTdnlzE9MSSXM9nEOSWn9JeE5mM7tOJipJY0SYvjJNDxPPacQmzK_T9M4DEg6Agl5azsJ8C6pHXhM60Lzs2iVlnrKgeKBeHcqE3i8LGdvDasl-kTA-c/s320/IMG_20210704_002727.jpg",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHYOtWTUseFl28Jmmq0GG_DmXxlkM8zZ_W5nN1iUIK1rHwEVKlnVE37tA5uVRiWB99VietqQRMiWYNEO-33QX8LlD8CJro0oF14XG17wcVTaVLHq3vYF5NhtR1M24XcawWto16GLkySC8/s320/20210624_084733.jpg",
