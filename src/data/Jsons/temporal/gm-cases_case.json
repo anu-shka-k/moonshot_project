@@ -1,0 +1,208 @@
+{
+  "metadata": {
+    "url": "https://pallavi191.blogspot.com/2021/08/gm-cases.html",
+    "datetime": "2021-08-05T00:26:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "3 weeks before admission",
+      "activity": "Constipation started",
+      "symptom": "Constipation",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "1 week before admission",
+      "activity": "Pedal edema started",
+      "symptom": "Pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "3 days before admission",
+      "activity": "Shortness of breath, cough, abdominal distension, and decreased urine output started",
+      "symptom": "Shortness of breath, cough, abdominal distension, decreased urine output",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "Admission day",
+      "activity": "Admitted to hospital",
+      "symptom": "Altered state, saturation at room air 65-68%, high flow oxygen saturation 85-90%",
+      "diagnosis": "",
+      "treatment": "O2 inhalation, Inj. LASIX, Inj. NORAD, Inj. THIAMINE, Inj. PAN, Nebulization with DUOLIN, BUDECORT, MUCOMIST",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor +, Icterus +, Pedal edema (B/L) +",
+        "investigations": "ABG, Chest x-ray, RFT, LFT",
+        "lab_measurements": "Urea - 138, Creat - 3.7, Uric acid - 9.5, Na+ - 131, K+ - 4.3, Cl- - 91",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "Day 2",
+      "activity": "Continued treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Same treatment as Day 1, Inj. MEROPENEM, Inj. VIT-K, RT FEEDS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ABG, Hemogram",
+        "lab_measurements": "Hb - 8.3, TLC - 25000, N/L/M/E - 85/7/6/2",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "Day 3",
+      "activity": "Continued treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Same treatment as Day 2, Tab. SHELCAL, Tab. FEBUXOSTAT, Inj. CLEXANE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ABG, Hemogram",
+        "lab_measurements": "Hb - 7.0, TLC - 19200, N/L/M/E - 82/9/5/4",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "Day 4",
+      "activity": "Continued treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Same treatment as Day 3, except Inj. NORAD, Inj. VIT-K, Tab. ITRACONAZOLE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ABG, Hemogram",
+        "lab_measurements": "Hb - 6.5, TLC - 17700, N/L/M/E - 74/16/5/5",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "Day 5",
+      "activity": "Continued treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Same treatment as Day 4, except Tab. SHELCAL, Tab. FEBUXOSTAT, Tab. UDILIV",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ABG, Hemogram",
+        "lab_measurements": "Hb - 6.3, TLC - 22000, N/L/M/E - 70/20/8/2",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "Day 6",
+      "activity": "Continued treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Same treatment as Day 5, Inj. NORAD @6ml/hr, Syp. LACTULOSE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ABG, Hemogram",
+        "lab_measurements": "Hb - 9.1, TLC - 19400, N/L/M/E - 78/16/5/1",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "08/08/2021, 9:30 am",
+      "activity": "Cardiac arrest",
+      "symptom": "B/L pupils dilated, non reactive to light, saturations not maintained, BP not recordable",
+      "diagnosis": "Refractory hypotension secondary to sepsis, respiratory failure",
+      "treatment": "CPR initiated",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "08/08/2021, 10:10 am",
+      "activity": "Death",
+      "symptom": "",
+      "diagnosis": "AKI secondary to sepsis induced With right heart failure with Congestive hepatopathy With chronic atypical mycobacterium Infection With chronic fibrosis and collapse of right middle lobe and lingular segment",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKb9NAAlI5d7PaC2wl-NxT36yPqSPKAGxXZMBqU-rK2HR6ev8JI0sl5RXE0iX9Zp7KPMa_BwYzT2Tec0FSUEYMc0M-0VJPyo2gUQJjscyg3gG8233zHclGw8hub2FIdOdsMLvVhWneyj4/s1600/1628162568356362-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhobS8F2cs12VPqnOyNHp7IFKp7Cj_6VLiU2o9TBfsgHeg7kRpfTL1enMdkLQcn3hRtPr62fVEF-XKZOv8RCeuC5_8KrBoc08XgDzaf8xmDeNeL88qcJUFkQAuEyyOX-DqJPPjnembTjdk/s1600/1628325160222625-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm75MofibL1q5l8PjVprhR4y-t4TA2wl8ZRatxQ6owPWp8k-QrO51LKVO15aIKPVxdlO_o7q1h_5baakJbuUswKFcOzfjG9If-7UB9zLghbHs9vYQZ6CpZPZ170ge_ftalCOK-IGiUJHc/s1600/1628066249813972-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyil0PtnQeF7-BloBx9NXBNCqkj8iRMu6sFySfK99ZkQoQRpeVgDwGZ4JY8HaciBGqRaoDt7gT4EgBP0baNJJsEsxgPw1VHpJLqnpkyhrs3kXxdi_J7z_T-jtiybYZsrDR3G1kBaPeGXw/s1600/1628066246295231-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifBjr9F2hkdpCF6By0Zb4KfpQ4cbfTeNAyVu8LMzJwKhCcJ6JDTezx33TMbbQyZdelTJVXRkUzJeqGuELCr2ck8eETVvsHPjTw9v5fVcd5g16azlYbSe5LSaDghAKXknQwnzMGktyGZoo/s1600/1628066238819739-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMk52fzidf7gBXSnQElWuy2glvBfKXKCX8jswFhZ8le7TTt6m5XyRBIdyi7RErDQ7y7W0sFWlvEZ28gdQh9VJiZBhaVMe1mlX_NSno8EgYzcdy4gjtcDNYUBuEchx7p8z1vAACa72-zFs/s1600/1628066233970505-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiC43XG9qESLiV8RvmMR3haZQyDS_QRIagsym65IQXyBthTpaSrPBQF8Pp69ST7NduSDXncudcy7nJO2UTkWJlNlobzenxtEQMeRUUApvWDWrURF9JSC_qs1RQ4k7p3WcjWUYTQK_2gwc/s1600/1628066225595082-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQyLsoynH5VLz00hARdbpqEdmQ5NpXr7coe08geBKw5wg_m57Wkp1___bNYdxeRwgzow33Rbez0Qf-l1-N8RnH0iffg4x5Gd0_Szu95G2OsjcDn0MyrBNbEUqx_5E44P8sjxYNhDs80lc/s1600/1629647485662407-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEHT9B6CsrkDd6k3_DoZZ4TvAnNEZ7ZQcWtW_mrqe7WRShgTxf10tmt2kbtL9s_hF5UzUDsTbKtoKwm8C6KEyb-gx6waC52_yV7I5ZJgZ1Dvn14vKsCMlOYvz3MlhHF92a6gfw6snh5ZA/s1600/1629647482288439-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj04sYSl9G2cV1n-xvoJLumL_sknWls38g1gAsr7RjPR2TIsI0R9TK0E0c9d4SxoYdW093DZzhQGMLOCTDXPLkScLvXV0iB5rkvREqye19zKqk0PqfJJt98pDhrxbVYE61ngx36M1vO_fY/s1600/1628065787033996-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJj0KcgPIFJnLTC2N4U3jntvqWrhisD_3SL0caA0CVt5WzFfrefsz5qZH-jrKlSSR7Xe82mufQYyFYRapLQ1xOf3tBzYA8bjkql5j81FGEJNmYSCBB-9-vCSEKsNohaU-Z7ACsZm3rNFI/s1600/1628141483311754-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju-pAAprLF9i-TrrFS2wma2NUadTyOe_YuJIppcv7EP8rVQ8SSkMxFPF2Qdy6YPSXXZJoftmZflF8esZv0aoO5lBzYT157oY4dOyvJ1m67MABgV3HHqCYvgYFXVmWue4w5sJhSBevBXgU/s1600/1628065768323627-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi8mEfGkJIiiGkzgdH6q-mE6MH4yu3vfb3UA8QvS42GksRVjaYd2gT2iGeEOkKyH9vjWAehPj1fiVN_jmHW8vvGRVoAOAC7pluwnPPEGLKOS8l5IkA5YZKeIzM6HeiGNLQnDSwHsxNuqM/s1600/1628065755311757-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibZVYD9JSoFOrU80ns7qQH0jBUVl4QN2kTM47V8vYXObWYWEAsVbiy229vW-hwyrCqKncB4kxBGnZ__9l-DlsswIzuApIVJxOPWqw98TNiEjYGlLrZ-UOh0xcQLeRxUGJlYC_G4bAk0wg/s1600/1628065688925707-12.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYlibjKCiYVBxXCgJmm7hRSpLIOhVWionm0UjOzRdUWCNgcH6PIBp5laHeB8wgTlCXW1qyQuf4qBpDrKj-eeiROb4PrY3HD6UQtKs9q21A17bq2LHmB0DHQq7YCdTqnwTxqmIR5QoUek/s1600/1628065679921639-13.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvL0eX96IRHYb1FBN60bCDV-AasBnTc0ntQJU_v1hc9CitkHZJu8UxZ-34s_jaZogbW-Bw62a3HCQNDhvNBxKYMm6npF1-s46GHb1ye5zd5R4iRzimnIdaxAwlp_IE_B1yhRz48gHd98/s1600/1628153369940899-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimLrlJX5wnRzUKNInBYzCxOG1bLl7upocg4FZY6uX4p_P0olKawA7kVd-tZU9yVPYQkIjJStEIxhZX4mcJqwBnYoMJC0gi-7KNMs-vXFj3L6ySfKzSrQ2FsQeuYWydgqUvGZTanhyphenhyphenY1oc/s1600/1628065668052103-14.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3lGa7ZqGONhDwq17VNnV_bDpO-CsRvD6YJgflOnYOKOxDqJckg1M06AxZAk-iUOFBDYKyiPMyh66XGFQ7s1isvIknOjCfAfXDGebxJmV6uGjALKeeQ-CXsdFCrMUp_8vilXjul2Ei9gQ/s1600/1628065660031787-15.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGoLVLs_nomarozv-55QcfPS1ubQWum6DDTc9CHgir7tvCOM7-EI0_ZXo2LoHY0nmAJS_LyK-tV3KzhoS_ykSkD0G9Mmx0z6d1TLjNqfYXtYYM7YdckPTXgcnwLqRSdDDuHGzX_uIN7Sw/s1600/1628151382494340-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiVX0QwpTBDosGuJFHHfMVnP9kbBHV6iDfXSqRdQeH58vDMQQqQLYVxxkFnrBOVPgJP_I3_m4lWqCrGWV8CLUfXzwO2jxb41qdMK4f9YvcjKm333PkwIj59mZByQ2rVUd9AYemB8jIxU0/s1600/1628151378698237-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4NZk9MdLDUNjnFW_B0-EyAr-1ayD8ZTpiAt08-OrSU3akuOZrvRnrOS7D9a_Fvt3Cu_PbUfEUt2K-LPh10U7JNyyS_bnV6B4n8XKqjkivv_6pKtcOQqCRcVd_kTiJOskN17mB2p7ltDY/s1600/1628151375212040-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjY8NCkj3bftK4-LjOMrGzrobDdOpazgEdK7sHWE1SDjTc6BDbzuyR6z-E2xGg9SDx3F26Pz7sp-73KqXaUS_tZcJIn0uBKvQzj-GcYIvJ4iN3G-BPTpQIySi_nf99T07kPilkT0gLx7G4/s1600/1628151371339344-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrxRBiOqLRpDQ2jSq2078cIPOXPCK0CSrL8UmyFtSxzwzjEfFkvtkT_UZo7NfqTEgs2st7upZndhJpvt693cgUemx5PJeISi3lFb1D6aLMcnaehWLBxfZJwpzq8ImuXP-SM9msa8xOetA/s1600/1628152878702923-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipgR80DUFtHdNTRCdGXuL6dhXqxnmAfLOyMUs7xhabTiVSS37j1sV4S1w6YmczOPbKJhCtVZ4-bB3ZbesKpmkGEvVfE7FB26aCHPVjkBDtuykv2LrCqYzU84d9pUHQTPkYwMlDaBR8hO8/s1600/1628325144905000-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0eIsE6YlXQSMAF-On-jRFs6NANfVYk0A3OIddGdya7b1pBik-KcRD9rgpVaBiAYtE7oSgsN6U68U-BIpXeFDshrzKK_-0T4g8nZL48DbfIaCH8_0Xmy-Zqo5CbRMRexoBUYb1Y-zen00/s1600/1628326805859926-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTuYKX-XxnSwbhA6Q3XhWoHymgBfVY3gpbikmdQmRCz5P0UNOmRsRenNP8DJySQ3nk-GvZrJJDsXg6QJt3oFB24Li8DXCzuoC2ypuoslcoqHXIX0pnFYjoY767A4J0j1kGJyX_187wNRM/s1600/1628325123695780-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifdnIgy4TzEWUp-10qXFPRpopGWNNdxb4vDiE7dp2SDUIpn1_ngwEXbme9ZKstjOdjber5rKZD-lovirEQWEqnvvj-rBwh4d7Y4upHoW52oyeBUIqBGJYuknYivGNOionQ2jb6Q-F81zk/s1600/1628325104106923-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB0TVCN_VUxvX6EVsngbdTedepV4XB_VGq1tVDq-QI9wmwv2UKxp0q37ZYARhayF3UmnkVSgrZVqTLgbXL2Lsrz_lJTjMXxD0m0cM1sBnZ4CgSPxpCyeGsCOlMJrqltlJtRdn6nchMTpA/s1600/1628325069107547-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrDFd755fjCNrTGen7eS9KIXY0utKrIXnoFvvrB_UE4c5G7-U2PgwDFsrRtDwEDNFoPNO36PluFf2lA9Mjjuqpt60bmDVL64HNskjGhTGc6DuEAyX01lyX5uRtkz_GoGcpfWjNge1ELP0/s1600/1628326800517233-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1TecrfgywWCKtBa6Sb1sKOCk_yCf347Ut9hQ6F427Mb6iop6JoxWDnrcf3NwlgtT0ZyN1J0wLnmLqIVWUfVj8PRvvdqWjpMlVMRaWvNIF8_tfiyJPlvvmo39SzJcC34p5zLJ_ersvrq8/s1600/1629646026559838-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5slqa8gb9ZfiJ9ES8OYSpCuxBxikddp7gBr2v-HukxT3A5nNn8DYfbUlN0K720juCfPw3wbxsUrgqxwQ2wc5P-uP3NKk9eVgjT_cXpgOub2C14Mgej1mKlLGZIJJRsq2AUC8TDB6Hfwg/s1600/1590758749307246-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEkdLTPh7LO6q0KUGeZbiUp68PUuDkvLyrft7pd4rZ0O91IdAvgG-ak0bsIlEEruosO5LzpH8rI-ZNEKXTw2o_Un-FpBHYihV1zFALxStgvYmH7MdmfG6vlNMQz158p5bSnKxyNNGWpBc/s1600/1624334539922978-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyA4kJq6YF_GIXwxnlG-7vyhyphenhyphenVWvDhJdChvxOzFEPDEBcU0WxkslspJnZKNbd3H36VLlFen654tgu8ewO1GFMYRDTcBnoToKwoKdy4b0g2rAFErx5zpffmgVstu2ZUckde9d6p-3-XRiY/s1600/1625053541051601-0.png"
+  ]
+}

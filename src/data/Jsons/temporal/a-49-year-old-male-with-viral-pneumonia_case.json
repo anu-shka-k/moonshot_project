@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "url": "https://kausalyavarma.blogspot.com/2021/06/a-49-year-old-male-with-viral-pneumonia.html",
+    "datetime": "2021-06-12T00:17:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "6 am",
+      "activity": "Patient experienced loss of consciousness",
+      "symptom": "Loss of consciousness, shortness of breath",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "49 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient was brought to the casualty in an unresponsive state"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "8:40am",
+      "activity": "Patient was brought to the casualty",
+      "symptom": "Unconsciousness, headache, involuntary movements",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "GCS score of 5 (E3V1M1), febrile with a temperature of 102 F",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient was unresponsive and had a GCS score of 5"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "12/05/21 (6:45pm)",
+      "activity": "Provisional diagnosis of viral pneumonia secondary to COVID-19 infection",
+      "symptom": "Unconsciousness, shortness of breath",
+      "diagnosis": "Viral pneumonia secondary to COVID-19 infection",
+      "treatment": "O2 inhalation, Inj Ceftriaxone, Inj Pantop, Inj Levipril",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pulse- 122 bpm, SpO2- 86 on 15lt O2, RR- 46cpm",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient was suspected to have viral encephalitis/Hypoxic Ischaemic Encephalopathy"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "12/05/21 (8:00pm)",
+      "activity": "MRI Brain revealed B/L acute fronto parietal infarcts",
+      "symptom": "Progressive breathlessness",
+      "diagnosis": "Hypoxic Ischaemic Encephalopathy",
+      "treatment": "O2 Therapy via a face mask, Inj Dexamethasone",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "GCS- E1V1M1, Temp- 104.5 F",
+        "investigations": "MRI Brain",
+        "lab_measurements": "",
+        "discussion": "Patient had features suggestive of metabolic encephalopathy"
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "13/05/21 (9:00am)",
+      "activity": "Patient is unconscious",
+      "symptom": "Unconsciousness, low BP",
+      "diagnosis": "",
+      "treatment": "Inj Levipil, Ryles tube insertion, Tab Ecosporin",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "GCS- E1V1M1, PR- 114bpm, BP- 80/60mmHg",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient was administered O2 therapy and other medications"
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "13/05/21 (evening)",
+      "activity": "Patient passed away",
+      "symptom": "Sudden cardiac arrest",
+      "diagnosis": "Hypoxic Ischaemic Encephalopathy",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pupils were fixed and dilated, ECG showed flat line",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient died due to sudden cardiac arrest"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHBXZ7NEyhIA1_Ykgsh9cGvV6JL4B-Foz99B4P3Stttoby6bkgPlocS0ywgR86uQq7oldZmZW8SzvgUyMcKE3fOfUmmaDRmadZFMrsI0uv_0ZSVAV_enLsuzRQencM1Qu3hfMZqAhgFwc/w234-h213/covid.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTMfxeUu4oPUldry7F3ob5VDKtPjQSVvWxUxDBkc9ZtUaFN10_t3xkOSadRyAJ80FeyLurg76wCsZNogd5rJ0_uGcmySjCRuRXWg_-j-32qsoZ1LW6EtNA60tyKsgyi1sgLvPLrvOpFLQ/w414-h151/pneu.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP81Ra4B9fxaT1NW82nSNXwS6KNGwjPesMenMatfv46sWV7dc9-dxW_cfHw12k9P7z0-TtU8GWbbC9R0AMPPTR0inJnTB12UCKSvjfECwppYMXkCj-NUQWJO_2Q8givtVXMts_FWu7wWo/s320/RFT.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimZZXE-HH3Tg7XnF6YijqmtEpxnqpAi0gFqviTKRJammRWm7Eb9LSBOYD_fBjXaACPtDaa3NG6hTNzLt_lK-DtLyHdMqayhGTugl6KcijvcS_2jfPRJEIQW3fAecZqB5cxNBOS106UxKk/s320/LFT.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8xyr6aQCchswfUxn5-xExf_vI3EYIKy6qPWFgZ6yXArnbVcc_CgixEu-5T6Nj6cg37PvCn0cdXe6mhXJAeC5kN3077cDQPsPJTYeWu9IGcR2ieV6DZ9luAZ-V7xiTQuQPPvzXVw7qI70/s320/fbs.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHWBgdxb9tBCJwOlPvu2WayFUfHMwmWjnYZPsvLovuKx4Dq1NpALTKXKjWjTE7K9lLc1mtJvwgBG1FP8qPtCI4TZgbCeGlBPk0N6ONEqTeqngZYdq4HJf6CmWLavsUDQwLkDOXGybGabw/s320/hemogram.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXMXJAdkrB0cJYLZ7fLDMzjXHt5RMp5BcK5-fypeSTqJcJ196UnCfahALdDtmOb0iuqimtzkI1JcjEcxBQbkooKnhPjlx0hUfcEBUnlOlk4vnQTgP3HRxLZf577D4SXC8FaXV_7YWXzyY/s320/aptt.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhvFJ-lMEgzBFRjcpbdvFdXE7FLyMTXzwv3L-Ns_WGazXgckN4BZLin5YZiNGhkojlWH8TJay1vNl5dhDH-CDTEy2n4iUWxwY8Qljkn-hdVQw4e_cT3Bf-3cUE0HkIQuks0hyphenhyphenSgOZDq8E/s320/pt.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIvoSsonmAl4-eoZYQShYeZVquDgMV0Z9tNA9Hq4y8FL9pytNy3LEHennTYBuOsSNTorqOJpxTHcX682lsPERaTDlvkz5rmeDjI1G1dIK5Zcb8uyGL_-__B8LuWKqDawAqBor0cvxiKIY/s320/doppler.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiij3YTPMo-zfm7p-McKPiwb0NblIA9qjStsZOMOwN5meO_j8mId2k61tfE4h3oet0al0-Y7NqWVumzHqB4DlM0LEjiCRZDBvwMu-AgKBbbBji1YoPcDXxJhuaifXnQ6PL3y15SfSHgMOY/s320/mri+brain.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQA5YkBBvOxk7NHSgCV_03pCXKykmShpwDz_Vvg64xvPpRce1bac_Ds0kgiUlIf_z0q1bQ8HRpB0uHR3ss80QQUpP9c5y5ltElDx7asDzFjPhyZmBQwKEoCvWdB5Nt640S_3_8-trhW-8/w408-h228/ecg12a.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJKExe8nDUIfYpqPrvmTuoK8NgVSDlbuf16hRkpVkaay9Ay3sU-_0Qvo2QV79-cNO_5sHP5HB8vugZK8P9ODbmBGMQMSaLlEZFSqUORtKyaIdK4yD_hh_8h2J0pa5BdM98JT-RVY73GYg/w370-h218/ecg12.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQRsT1FSQHvIUY4bexVkPkuoazgb-y-ADgQdruV-cowD8aaJAbmPB1NVXdmdTO4ELh5nlAhzynFNMKUaNuml0GFsnILB3WNMrSVNn3Wysyl8A5Np9PyYhhyphenhyphenkIi3C7smvxtiLavSWEfMJk/w235-h343/flatline.jpg",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgMOrqciOrfsWJNOxIPpzeG4sbIsCDrxSPtrHKotna4N7INH8k745qdYy4-j_6ac0iIQshYEs1MIeetTFxRUlzWdxpv1M6_KlmAPTLTUPtEyKD5vtUqa6irZckiF8zrGgstandRm_drFA_nBNQrRnPyVej_vZrmqU4UtRQV0QVWbqdXm2uysWpyH3gk=s320",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijiwqVyegcznQQCGvx2xlfogeMjjva8I32cr1_XS3QsdtY1_90TakgxluNOhPNQKnhi4pKxhvGiAlCDnYbHS6dGwYgvSdJUx7-LlKRO6ZciOQxL9kwZSbwF_pchHfjPupf0u0q1ueG3fE/w206-h240/image.png"
+  ]
+}

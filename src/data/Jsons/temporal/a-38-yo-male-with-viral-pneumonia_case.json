@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "url": "https://meesumabbas82.blogspot.com/2021/05/a-38-yo-male-with-viral-pneumonia.html",
+    "datetime": "2021-05-20T01:00:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "2 weeks before admission",
+      "activity": "Patient developed fever",
+      "symptom": "Fever, low grade, intermittent",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "38 Y/O Male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient was apparently asymptomatic two weeks back"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "1 week before admission",
+      "activity": "Patient developed dyspnea",
+      "symptom": "Grade 2 dyspnea",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "No aggravating or relieving factors and associated symptoms"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "16 days before admission",
+      "activity": "Patient got tested for COVID-19",
+      "symptom": "",
+      "diagnosis": "COVID-19 positive",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Rapid Antigen Test",
+        "lab_measurements": "",
+        "discussion": "Patient was stated positive"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "On admission (17-05-21)",
+      "activity": "Patient was admitted to COVID ICU",
+      "symptom": "Fever, difficulty in breathing",
+      "diagnosis": "Viral Pneumonia Secondary to COVID-19",
+      "treatment": "O2 Inhalation, IVF, Tab. PAN 40mg/PO/OD, Tab. MVT PO/OD, Tab. LIMCEE PO/OD, Tab. DOLO 650mg/PO/SOS, Inj. DEXAMETHASONE 8mg/IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Conscious, coherent and cooperative, Moderately built and well nourished",
+        "investigations": "RENAL FUNCTION TEST, LIVER FUNCTION TEST, D-DIMER, COMPLETE BLOOD PICTURE, ARTERIAL BLOOD GAS ANALYSIS, AP VIEW OF CHEST",
+        "lab_measurements": "PULSE: 97BPM, BLOOD PRESSURE: 130/60 mm Hg, AFEBRILE, SPO2: 92% ON RA",
+        "discussion": "Patient was admitted to COVID ICU with chief complaints of fever and difficulty in breathing"
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "On discharge (19-05-21)",
+      "activity": "Patient was discharged",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Tab. PAN 40mg/PO/ 1-0-0 for 1 week, Tab. MVT/PO/ 0-1-0 for 1 week, Tab. LIMCEE /PO/ 0-1-0 for 1 week, Tab. DOLO 650mg/PO/SOS, Tab. TELMA H (40/12.5)/PO/1-0-0 for 1 week, SYP GRILINCTUS /PO/ 10ml-10ml-10ml",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "PULSE: 86BPM, BLOOD PRESSURE: 130/60 mm Hg, AFEBRILE, SPO2: 99% ON RA",
+        "discussion": "Patient was discharged with advice to continue medication"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6LLsVRg7fG_hg_sha_m312JlPRKeVqNj8IgS8QDBNOtwn4BT10sptmbxvoXjg8FqqQcf3AuTHcxedb1NqP5lDqeiRtbp0m7_hCAh0Mt6GoA11Y8I0bGDJp6-YeAT9DNWDUSq0nhjMblY/w200-h191/Coronavirus+COVID-19.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAqxdj4sx75x99l7OagycEUQLDdO1N09Y_cGUjMv6guASxoeYqncKFZHJMcpkZ1h_MI3G70e9Pfwfi_ALoIP57qeg8MVgWZj1Ae4qRDSWlv0a7RV39lBY9VJbGLOP6yL9HY7FYj_jhe10/s320/7B4EA756-E44C-4620-946A-A3A2BECC09E8.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKkWFmUKXYOokKrzHbsLhzQR-aHDOZsapNY3oDzi_yO_ClVOMWM7B_EVQ9JOm1i0utZ5GTd30jpeHspRDFEnuVgal0SFEAhbZjHAREJhOl1vv2gVmAgEhCsB0dSLSB_vLvjdK5wzC7DoQ/s320/A7955512-3FAA-473F-9558-D5F44868D95A.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiExJYH1Vjscknu21P9Efhcna4pfCvUKUHABBlkuiGhuKy7GBW30awdsOGQyLVHmBtpn5FPeNLL8lXLEgilCruN0vQsQU5xgVCCHX0eOGvmfQaARj57C_3pVx8uatuSAGmCPm9NuIRmAjc/s320/DDB785C0-F11B-4390-BFBE-17351CB0B73B.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLUmPgUdZO0W4qyndtmnVlgo13Uy8pLFYaIz-5XXFCSuDVqTFg16J7ZivmK6UXCLrLV6XwcMdQhvYlqzatBD8t2-RexApJFE20dMP6Kz0QtCnBZ95p9m-GLeP5ixb0a0Axld0U-BLP4nM/s320/1EEC505F-55DA-47E8-9AFD-034EBC6C3871.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX6HJrjL9vfQj3wE47FOD_XVKY19MqqrqJSKk8hsl09Etl4rU6ZgCHyVJZc931dPF4kP05klCQtuNKPpoV2RC76LEm9uU3aV-y7dBDUJDjTwDsD9lAMJibnpTiIYGj1tCKizU98mKka5E/s320/4C438A2A-A8D2-41A6-A476-2D3E2CB6DA30.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixdQqx77e659PnWRj2m4Gh0xiQyKV3F1ChW7mCZw-Z9AS7vmfsR3O__YwZjpqzJQoHiZCuFrOMnMl483-Z9ot3rAvys_WE6dxYenC4nhyphenhyphen710vb6XS6X9JXW2h7xAw8CSSQfn2JQrmAwU4/s320/21EB21E5-40C1-4285-8200-F30A92DF6954.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHU-9Y6ZDsTIouWTH2SUonlb2I0nj2PCHw5ng-oKquLfc8oef4Q6SSc6oiFOE9bGA3ofEbOuBRMnvcvIeBPc__KjhyphenhyphenXNXFZLYRfb_s77VkMDuNHO8Ek4m60t7C1c_5D7DFPtoaeMOdCo/s320/08426D06-F44E-49D0-966F-0396745B4EB3.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSvIDMotjzThBH3hRkdF4vmS8OG_2PG7H6ghXOncbTWB1M1VcDroMUvDJL2kKCxzLcX5l696wfG0XBuWNrbxgoyxTy4noXDDY5275kR_oD9dfpcMvPviO3ydcrm9rUIpaWc8UX-r3v7U4/s320/547879C1-BBA6-4729-BF73-41736A957565.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiRGjjUQmIxmzlJo1r9bWpE4tHWtLb1XReuiSrnjYa9qb2SvqcM4Bycr4YgwadeOfunHpKMLhP61_bTZIOd5EAc1gi_euPdtdf5PQxfh-S-v2CGcwLUiO3HxNrrMzUizqehwIK8NEz4lM/s320/C026EEB2-A336-4097-BBB8-4D6BB823A4D2.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtwNh6uTBIHImesHJ20YQ1FaSs0mIRuRKKV4wOTz-AoQP-98AIqkZp6inE2ZRFWk1sJDFM0fDFO-10XvnrJj9i0-cyqdFrdDnqBSVAjBdmb8XhOKk27lFS6MXNU_r6VGZn-pfXq_RXiSI/s320/845D51D3-0FD5-48DD-A3DA-B61B40046C3B.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjl55UrDXuaaAzY0uVPohU_CzciVjZHoLmP8y5KG_v79nsxTwk1l3-VQszXIh3lJlOFEIFtQK-HVFroC7XgaqJo7-pXUgncZUycTZ3fKG9CqTXcDNaISjWkuJ_cqXEwNoWiP4jVXhyphenhyphenD2M/s320/1CB7EE40-58C1-407F-A3C1-55C5D0E448F6.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQxj7iA3Y1v87jiZy-mo-V3V5iEyVj6_LZN3OVynb8UJlxJRt_3H3RIhnA9RcjTdsQTXHwoQrRzcoEE8ar0m019NAKoyrh0a9Z1zSy1AyWVsFm83jziq-aN1-v4Lo86EGO5gC3z85AKVU/s320/Stethoscope.jpg",
+    "https://meesumabbas82.blogspot.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnoa5Dj7Upk0ogi_fagLqUpaEBkfZJ97rUujby-C28_Q5zLd0ZTSizhFZLNx-ni2YUgYHJVuu99Pg-54S9uEHnqILEwtMQJbpU_HocrjrCZtsyrXu6PG0tWMsxC4s5CQ/s220/91CB4D9D-1D66-4B75-970B-5E9E49486524.jpeg"
+  ]
+}

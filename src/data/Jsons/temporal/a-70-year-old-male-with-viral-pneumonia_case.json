@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "url": "https://navyarathlavath.blogspot.com/2021/05/a-70-year-old-male-with-viral-pneumonia.html",
+    "datetime": "2021-05-27T01:11:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "14 days before admission",
+      "activity": "Appearance of symptoms",
+      "symptom": "Fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "7 days before admission",
+      "activity": "Appearance of symptoms",
+      "symptom": "SOB, COUGH, GENERALIZED BODY PAINS",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "May 18, 2021, 11:24 AM",
+      "activity": "Admission to hospital",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "O2 Inhalation, IVF 20NS with optineuron, Tab.Augmentin 625, Tab.Pan 40, Tab.Dolo 650",
+      "notes": {
+        "demographics": "70 year old male",
+        "physical_exam": "Conscious, coherent and cooperative",
+        "investigations": "CBP, LDH, ESR, CRP, D-dimer, RFT, LFT, ECG, LXR, FBS, PLBS, HbA1C, ABG",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 130bpm, Respiratory rate: 32/min, Blood pressure: 110/70mmHg, SpO2: 87% on room air",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "May 19, 2021",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "O2 Inhalation, IVF 20NS with optineuron, Tab.Augmentin 625, Tab.Pan 40, Tab.Dolo 650, Inj CLEXANE 40 mg s/c BD, Inj.Dexamethasone 8mg/IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 110bpm, Blood pressure: 110/90mmHg, SpO2: 95% on 4L of O2",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "May 20, 2021",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "O2 Inhalation, IVF 20NS with optineuron, Tab.Augmentin 625, Tab.Pan 40, Tab.Dolo 650, Inj CLEXANE 40 mg s/c BD, Inj.Dexamethasone 8mg/IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 104bpm, Blood pressure: 110/70mmHg, SpO2: 92% on room air, SpO2: 96% on 10L of O2",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "May 21, 2021",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "O2 Inhalation, IVF 20NS with optineuron, Tab.Augmentin 625, Tab.Pan 40, Tab.Dolo 650, Inj CLEXANE 40 mg s/c BD, Inj.Dexamethasone 8mg/IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 96bpm, Blood pressure: 110/70mmHg, SpO2: 92% on room air, SpO2: 98% on 2L of O2",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "May 22, 2021",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "O2 Inhalation, IVF 20NS with optineuron, Tab.Augmentin 625, Tab.Pan 40, Tab.Dolo 650, Inj CLEXANE 40 mg s/c BD, Inj.Dexamethasone 8mg/IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 101bpm, Blood pressure: 120/70mmHg, SpO2: 77% on room air, SpO2: 98% on 10L of O2",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "May 23, 2021",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "O2 Inhalation, IVF 20NS with optineuron, Tab.Augmentin 625, Tab.Pan 40, Tab.Dolo 650, Inj CLEXANE 40 mg s/c BD, Inj.Dexamethasone 8mg/IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: 99 degree F, Pulse rate: 115bpm, Respiratory rate: 22/min, Blood pressure: 120/80mmHg, SpO2: 93% on 10L of O2",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "May 24, 2021",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "O2 Inhalation, IVF 20NS with optineuron, Tab.Augmentin 625, Tab.Pan 40, Tab.Dolo 650, Inj CLEXANE 40 mg s/c BD, Inj.Dexamethasone 8mg/IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 124bpm, Respiratory rate: 24/min, Blood pressure: 130/80mmHg, SpO2: 69% on room air, SpO2: 91% on 12L of O2",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "May 25, 2021",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "O2 Inhalation, IVF 20NS with optineuron, Tab.Augmentin 625, Tab.Pan 40, Tab.Dolo 650, Inj CLEXANE 40 mg s/c BD, Inj.Dexamethasone 8mg/IV/OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 114bpm, Respiratory rate: 22/min, Blood pressure: 130/80mmHg, SpO2: 90% on 10L of O2, SpO2: 94% on 14L of O2",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "May 26, 2021",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "O2 Inhalation, IVF 20NS with optineuron, Tab.Pan 40, Tab.Dolo 650, Inj CLEXANE 40 mg s/c BD, Tab Ecosprin-AV-180mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 103bpm, Respiratory rate: 22/min, SpO2: 97% on 10L of O2, GRBS: 95mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "May 27, 2021",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "O2 Inhalation, IVF 20NS with optineuron, Tab.Pan 40, Tab.Dolo 650, Inj CLEXANE 40 mg s/c BD, Tab Ecosprin-AV-180mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 130bpm, Respiratory rate: BAE+, SpO2: 98% on NRBM at 15L of O2, GRBS: 362mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "May 28, 2021 (Day 24 of illness)",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Continuous BiPAP, IVF 20NS with optineuron, Tab.Pan 40, Tab.Dolo 650, Inj CLEXANE 40 mg s/c BD, Tab Ecosprin-AV-180mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 101bpm, Respiratory rate: 27/min, SpO2: 78% on room air, SpO2: 90% on BiPAP, GRBS: 163mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 14,
+      "time": "May 29, 2021 (Day 25 of illness)",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Intermittent BiPAP, Inj clexane 40mg SC bd, Tab ecospirin Av-150/40, Tab metformin 500 mg, Tab pantop 40mg, Tab limcee 500mg, Tab zincovit, Tab glimeperide 2mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 96bpm, Blood pressure: 110/70mmHg, SpO2: 92% with 15L of O2, GRBS: 171mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 15,
+      "time": "May 30, 2021 (Day 26 of illness)",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Intermittent BiPAP, Inj clexane 40mg SC bd, Tab ecospirin Av-150/40, Tab metformin 500 mg, Tab pantop 40mg, Tab limcee 500mg, Tab zincovit, Tab glimeperide 2mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 99bpm, Blood pressure: 110/70mmHg, SpO2: 97% on high flow O2, GRBS: 80 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 16,
+      "time": "May 31, 2021 (Day 27 of illness)",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Intermittent BiPAP, Inj clexane 40mg SC bd, Tab ecospirin Av-150/40, Tab metformin 500 mg, Tab pantop 40mg, Tab limcee 500mg, Tab zincovit, Tab glimeperide 2mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 96bpm, Blood pressure: 110/70mmHg, SpO2: 92% with NRBM with 15L of O2, GRBS: 80 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 17,
+      "time": "June 1, 2021 (Day 28 of illness)",
+      "activity": "Treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Intermittent BiPAP, Inj clexane 40mg SC bd, Tab ecospirin Av-150/40, Tab metformin 500 mg, Tab pantop 40mg, Tab limcee 500mg, Tab zincovit, Tab glimeperide 2mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temperature: afebrile, Pulse rate: 100bpm, Blood pressure: 110/70mmHg, SpO2: 99% with NRBM with 15L of O2, GRBS: 70 mg/dl",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJKeKZVHLWPrtAWOPB8cDKKBu2wN71TmJUE1oQKX5F-4WiR-t-6F-rPif0bkhCyH-pBM2UkM6Azl7v1seOSckTVDZmDDjcmP3lzA1IFlDzmTv91trAcbF-4PuPlf4iGrNZijhdvCOyssI/s1600/1622117186756066-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtb4WPxnt8UHOTVo9QcBMI_BGbpSXWwdauBo66ihkgA1kr-INU0GqVujdCdHya830y8Vs3JA_D8oC5dIwOh0cMDy2Cp99ZRMaMWYwYkfH6kMfp72k8RUg5RIzwbMus5B7XgWRZ3KlLaXo/s1600/1622185889030224-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirBR1r_RSWutDoa_0-NIHZrXxtBQ9AVq55xEw_2C3wUrwkqi7VAgs5kynDpK3RhIJfMRkgnHzunuXnxWfWNkSTIKh1emQNHE_9MgC9D8Vw8ZThfz6wtfBCFPqT5DfJOiQt7wsPMBKWaD8/s1600/1622185879964203-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIbpZicHiJlpm8D4FpHD5UYWw5dlFuJbk-hvYc1EDmvUQnUJ5wxC0lKwuIy6EMHxc6G4FkMETJc7ckpQI-Fb0Bauf-ZroG1RDKPLYDAS349u1Jj6Be1RP7J81aEoV5AbGn4ATZ_pk7FXE/s1600/1622185868629203-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimP3KdEsNjRm9Gydrvx7YJ3k2jxKL8mhz3bSRt9IMLScWmj9d8IFDexEk2z2uHTkRScRSiQSyIOHJQIAzfRW7M3D8slBtat8F9OZRp4eHxQDEX2bFrgKEx4lMWLKMifnPKTQdu39UPexw/s1600/1622104641404476-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD3b0u8tGPMvlAmsRkHEMgsfosa-gPp5W4_AK5JMKYWut2iAIwpHseaJkD1fPWAH1XURXqa26Cmj7iIN6-LNEcWVCAznBPVjYVbC__OmgtIjx5Xas8FHnQnsiou9GNKm6Ba_1NRQ_CQGw/s1600/1622104637425659-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQkhRXlQAIDLNu06VBbOIclau-9EetNDw2QYR597vFXemgQMSHnhHdBynz-HY9sZDxb0g5Ykv17JYbTVbw6NtfSJ2tn5A357PGHp8ljpYfYJBjlFad02IVbVuVhO-Hu-DFvr4tGUWT76o/s1600/1622104633969607-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyUjpScItaeyxxqnXuHMPpYA2GyEejrM0ZxWDmCwoB71S2IEItsfoZgqUHsoibdwrljrZf0w7WPE1MlRMVnbOUdyHhcKm_1p8_sZnvRSZHQ9kV3RNkvag77jXgQniyiqAYxvJu4db0QYA/s1600/1622104631120251-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5GrUdl2qzJM9HxcpV_y0Wmly-HZLGSt4cjIYqGLDXXHXCeaPAyKttMSopm6uPHJ2UhvnvUkocXUx_nOArvM2yeFkav_CIywC1_q2HArHTYBxv9NgVA_Ikrm1JvtiJTasIG0IhINrSfFg/s1600/1622104627246626-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4ImTdhZUPhRGzqMK124npoZeUlyq-norMC88WPOZhR6q84Dj0Tyw4WA2IZXyu3DeozEyy0XQRn4H8v2aYIOBGGcH8Lvlf2XzVo7CYqC_ZHTkGj-LLnUznpfj5KeA2Ygw2SWHeU44B76w/s1600/1622104624288854-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcvmBted_vtWsfMc-YyvvGwCWZv2yuU7FRCmvNzu0apxuTloTcu6vzll0J50MzOnn3QhHqFPSOW5_GskE1_SwCrGkCr51DJ7n93NZ-knV_4qvJvEDjeY85ozbNWcDvSTR1oBNjnRjTr68/s1600/1622104621508402-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2kwL5vus6PghwN8VtO8ekk6GFG1YJO1BgOQ4TviLQTLk44cmcvyniWorwJhCPWbIOF9Zhcbrg7ayB56h-rK_lWjfC8WyT_LG12Hi3hJnseajIHdl7k9w5YDHm3GnZ__gHs8BwjAq2eW8/s1600/1622104618895658-7.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFzipkApyYMIkvRlVE20PBx8St4ttg_Kwq1xMRMQo4u_3fLqpoqHC_anqTS3W4av1eWXFLJhX3kk8_jymqguRg4ZKKy5n3GdM8N23JHLsUbEv26WaRxuSR7UZczhPNOt6w6Bsv110t5eY/s1600/1622104615430613-8.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha72zQefmXIqP6DaC_IH4SpYSoEdQvd5FpBIAolR7as7nMF0jm4Y8TwKGhqza0PeflaAa8zDoXtnLhjNFyV6ycRpdP1d6LbMTBDRuZAyPIDK5qEFaY5mAaBpNQNZwqzs_bekbgXBtsBxg/s1600/1622113424094572-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmyUanvIEc6oIohDJAT8HNmf9AboKmDuihXdgMPKavmJK1N0oxIpSNbE5BkzfvvYgvvZTl5ZZn-Y67B5MVc3YG_JWxdpXSxTqowFW6A-UCFiubMg_8Mf4RZWIzVKS9IQ3tgqosQ4RaGQc/s1600/1622104608149037-10.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwFRKmTF_yiZJUlZUuNTWeNrN73l9f8AopjZ7RGYD19iqC_NpsTUQ9OoiWxXSCyNBXmkON62H5b1fWyHZJa-BSLJshGj20bxq2cWmerUr8gfXXVxsmpF2aM8B8i2QmMLTOQn68kcTKelM/s1600/1622114037062182-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2HyfmwgzT2qpvEXxhhBx2F4bxk0CC3gizRhWQTeBcKHXgJFkjSFWxs4xJEgNScs0drGoQKZYjLifgjJ9YoUkROkxx8bfwZikP7uYPx_6kAN8CtGI7YxlE7bsQzj-HGCdYv2X7RI_kbjk/s1600/1622114472925855-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1NupvDu0XcGysE1HnWQcA2Qlh4yTCZcRCFreB4osfSicst_5-zS4KWPa1oqPI9cm5469-lakdPZFHXW1O5ftVv0NMghHrIejtZgWVAotb_AXxf_-6L1rcPI6D1arN3gBdg22rsXe7wug/s1600/1622114463179694-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBpBWICfZHnTwK0UabC3jy98pG_8UQpZOY5ErHl4zicF8iXvibcC5N0GH1TTYl4ZMRvjtNEipQlbNgxxWMUNmQkHpIEW5ghdou9Y3ugoRZ_Vt4QpBnCJBnj09sdlm5xFhSEw08aoTgMAI/s1600/1622111784673279-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj8d8Vg8eixvcluPWxFLZ8A8lJmFCYbcKCJiBQSex7BNUOkGuWjj_GHUj5HVLhTOayULkly_cZPhrlUS9g2aHFUE4gYuExS0ukVWRsRBgDwVSUtSkbJNu69RIHP4bhu2HRGhUjRPv5upc/s1600/1622187327433165-0.png",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgNsSFyRX1hm6y_V_D9KMJRF3HepjF9Rw_4debLNKmTurBIizVNCa8-oUpPljw3mT9-ygmvTQgB6QzQtW3d9KhE4K_AvYr_BfvTAO172_oyRtnaTC7FKGmZS9C8EBefWrt7lriT-auy10Rbfu05gQTH5hkhdSUKsmeZRQA_knd_V2KVoxSBL1iHUlBR=s320"
+  ]
+}

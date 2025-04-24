@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "url": "https://kusumageddada58.blogspot.com/2020/05/heart-failure-case-2.html",
+    "datetime": "2020-05-30T08:14:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "2 months before admission",
+      "activity": "Chest pain started",
+      "symptom": "Chest pain, palpitation, dyspnea, bilateral pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "58-year-old final year student",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Chief complaints: chest pain, palpitation, dyspnea, bilateral pedal edema"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "On admission",
+      "activity": "Patient presented to the hospital",
+      "symptom": "Chest pain, palpitation, dyspnea, bilateral pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Feeble and irregular pulse, JVP was raised and showed prominent a wave",
+        "investigations": "ECG: irregular rhythm, P wave absent, right axis deviation, ST elevation in V4, V5, aVR",
+        "lab_measurements": "Troponin negative",
+        "discussion": "Cardiac causes of chest pain considered, non-cardiac causes ruled out"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "After admission",
+      "activity": "Investigations and diagnosis",
+      "symptom": "",
+      "diagnosis": "Mitral valve stenosis with heart failure",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Loud S1 heard in mitral and tricuspid areas, splitting of S2 with loud P2 component",
+        "investigations": "X-ray: cardiomegaly, enlargement of right atrium, right ventricle, left ventricle, 2D echo: mitral valve calcification and fish mouth appearance",
+        "lab_measurements": "",
+        "discussion": "Provisional diagnosis of mitral valve stenosis with heart failure"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "After diagnosis",
+      "activity": "Treatment planning",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Medications: diuretics, blood thinners, beta blockers, calcium channel blockers, anti-arrhythmics, antibiotics",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Treatment options discussed, including medications and procedures like balloon valvuloplasty and mitral valve surgery"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj0PW0BhMShvkP4PhFHBeC5CNtS7gzgzXsxrN1_z_gWycLwAogGPmC1rNcsUOHZcKSBXg7R5XfAngi4suHyuWmXU68fDz0YhLTrDPel8fc5zGHra0txLBfz7_ahmOmibkFqR4hZc-1Wig/s1600/IMG_20210424_180742.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyFb7Q7392p3WCWjCzkcBBm1nA8Txpl7fVrZWiOD-rmtMFhHACsfjZ2u7bFRCWwOJHR7wF2T5GQZZk6CWUxg-JZ2SmKk7aFgdI0T5O2x7e03MgvUazCGPn3NxY-nrImRsw4K0G5qRVBSM/s320/images+%25283%2529.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicnLRtErbdPEQLKUdQ3cevGHkLePQ7X0dzR8diwU9-VCH_2mJfXeuy45DJDFnaGkL-ompVXQcPnXk2t2iDm0ue-TK5rACOTaZLEE1UyzsRH2eAEEv0NO-dtSrbAN-E4f6P4JPIfzbk7rI/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs5d_8y9M_fmiR_x28DfBnk2PaFIEmJIDLPVE67hWIFEUepvlte-E8hakJ4bYXK0KwO4ZUOZ0BGtyZ-iCn2pv5VRktm5b-QiFT3z_fJ761Pl0hfifTy_6Ep7n4-C-ODQAPIGWosNScMDc/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb1vcVFYlK6AqH4Mvain2x7jUwA8c7RqjlyDC0d66L3Wc14T_AZGkOYGv-JegVR9lMpnnMBR854qDoEa-FXoi6xmBW9o2712B4KY2KOTzqJ_WjFBmrcHt9X4fWpchc54sHJ6cNS6fvJ-g/s320/images+%252819%2529.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIMegfqVXimh18144N7m9x0LY9qfvdBKE_4MELg14cDp0HjbtICyrhQX7cxrcDAGsQ-eZ2eXFraV0UatafnFgcl5VpsCUob9YXparm0INjCQgv86NJsPmlltJkJfV-a92WZX9zR4hRr5Y/s320/images+%252820%2529.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB44EMq9ftdwKUMXZ5NXmYUo8Pr8N2jDkajQuqaiTLxJnqTpWQsxj7tck_x44XmVNrvSvFiNmq3M_mABcBu5hJczstONRvpYgD6gcWATGayd6fJKiIFmPSFl3WMTy90KD8r4yw5kKKALs/s320/images+%252821%2529.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyDJ7AUQB5uYz-ux9PB67wi09N8BMg4He4dAQ6bbjGfHwdyFBd2bEQx2JBF3NvuHo-8o1KTGwBXfrwXDr7-67Rh86uu1F9lC8XrW3m0JMnot6vX62pVmZrUEQkfbBsow4TH0LVaJum37U/",
+    "https://resources.blogblog.com/img/icon18_edit_allbkg.gif",
+    "https://kusumageddada58.blogspot.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPDFda6hM06sjHOihuIcGP1xd2whu_-7_YxKFmhEIlzAiEcC-5v4ebpaa_m3Pl4XVvMPIz_X0HjMOWparyjmaE5BMBAxkT3vUrln2fGaGGjc8e1QrvgEqC4M7-_X9M5g/s113/IMG_20210424_180742.jpg"
+  ]
+}

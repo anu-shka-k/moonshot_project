@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "url": "https://keelasreevalli.blogspot.com/2021/10/a-40-yr-old-male-farmer-by-occupation.html",
+    "datetime": "2021-10-20T08:35:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "15 days before admission",
+      "activity": "developed high grade fever",
+      "symptom": "fever, headache, pain abdomen",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "40 year old male, resident of Nalgonda",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient developed high grade fever, headache, and pain abdomen"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "10 days before admission",
+      "activity": "pain abdomen worsened",
+      "symptom": "pain abdomen, fever, headache",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient's pain abdomen worsened"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "on the day of admission",
+      "activity": "admitted to hospital",
+      "symptom": "fever, headache, pain abdomen, blood in stools",
+      "diagnosis": "",
+      "treatment": "IVF, Inj. NEOMOL, Inj. PANTOP, Inj. ZOFER, Tab. DOLO, Tab. DOXYCYCLINE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pt is conscious, coherent, cooperative, no signs of pallor, icterus, cyanosis, clubbing, lymphadenopathy, edema",
+        "investigations": "Chest xray, ECG, 2d echo, USG abdomen",
+        "lab_measurements": "Hb - 12.1, TC - 6400, N/L- 50/43, PCV - 34.0, MCV - 85.4, MCH - 30.4, MCHC - 35.6, RBC - 3.98, PLT - 1.10",
+        "discussion": "patient admitted to hospital with fever, headache, pain abdomen, and blood in stools"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "day 1 of admission",
+      "activity": "continued treatment",
+      "symptom": "fever, headache, pain abdomen",
+      "diagnosis": "Viral Pyrexia",
+      "treatment": "IVF, Inj. NEOMOL, Inj. PANTOP, Inj. ZOFER, Tab. DOLO, Tab. DOXYCYCLINE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "no signs of pallor, icterus, clubbing, cyanosis, lymphadenopathy, edema",
+        "investigations": "",
+        "lab_measurements": "Grbs: 140 mg/dl",
+        "discussion": "patient's condition improved with treatment"
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "day 2 of admission",
+      "activity": "continued treatment",
+      "symptom": "fever, headache",
+      "diagnosis": "Viral Pyrexia",
+      "treatment": "IVF, Inj. NEOMOL, Inj. PANTOP, Inj. ZOFER, Tab. DOLO, Tab. DOXYCYCLINE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "no signs of pallor, icterus, clubbing, cyanosis, lymphadenopathy, edema",
+        "investigations": "Hemogram",
+        "lab_measurements": "Hb - 12.1, TC - 6300, N/L- 47/42, PCV - 33.9, PLT - 1.60",
+        "discussion": "patient's condition improved with treatment"
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "day 3 of admission",
+      "activity": "diagnosis of scrub typhus",
+      "symptom": "fever, headache",
+      "diagnosis": "Scrub Typhus",
+      "treatment": "IVF, Inj. NEOMOL, Inj. PANTOP, Inj. ZOFER, Tab. DOLO, Tab. DOXYCYCLINE, Inj. CEFTRIAXONE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "no signs of pallor, icterus, clubbing, cyanosis, lymphadenopathy, edema",
+        "investigations": "",
+        "lab_measurements": "Hb - 12.1, TC - 6200, N/L- 35/60, PCV - 36.6, PLT - 2.17",
+        "discussion": "patient diagnosed with scrub typhus"
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "day 4 of admission",
+      "activity": "continued treatment",
+      "symptom": "fever",
+      "diagnosis": "Rickettsial fever (scrub typhus positive)",
+      "treatment": "IVF, Inj. NEOMOL, Inj. PANTOP, Inj. ZOFER, Tab. DOLO, Tab. DOXYCYCLINE, Inj. CEFTRIAXONE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "no signs of pallor, icterus, clubbing, cyanosis, lymphadenopathy, edema",
+        "investigations": "",
+        "lab_measurements": "Hb - 12.6, TC - 6200, N/L- 35/60, PCV - 36.6, PLT - 2.17",
+        "discussion": "patient's condition improved with treatment"
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "day 5 of admission",
+      "activity": "continued treatment",
+      "symptom": "fever",
+      "diagnosis": "Rickettsial fever (scrub typhus positive)",
+      "treatment": "IVF, Inj. NEOMOL, Inj. PANTOP, Inj. ZOFER, Tab. DOLO, Tab. DOXYCYCLINE, Inj. CEFTRIAXONE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "no signs of pallor, icterus, clubbing, cyanosis, lymphadenopathy, edema",
+        "investigations": "",
+        "lab_measurements": "Hb - 12.2, TC - 5500, N/L- 30/60, PCV - 36.1, PLT - 1.51",
+        "discussion": "patient's condition improved with treatment"
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "discharge",
+      "activity": "discharged from hospital",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "TAB.DOXYCYCLINE PO/BD, TAB.PAN 40 MG PO/OD, TAB.ZOFER 4 MG PO/SOS, SYP.MUCAINE GEL PO/HS, TAB.DOLO 650 MG PO/SOS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient discharged from hospital"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihIVvVKhWLy-ZPw3gLYj715d_8UF5fqflAV4KAF2JsnIkkbm-ze4wDuxuZHUP9uNOST2g1DkcZeyDqk3kOgSWqkCzaukkPvoykYy7yTuA05BB_YcaKZvp3LbMRNb2_K4q2AgyZSebwrF0F/s1600/1634742185669424-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3ZNEFlLuy5UU7AKHSpWaU6QUKRGEm9lng7Fo7GoYGN6kGn2nrhTX1NXsZka2HnNQocIGadG_4dQPzkwVcawEAQ6MWJrayzJqpe4AVK8pW3zB-tLJeM5viu9bv6pduMdSX13Tg0bYIZl7Y/s1600/1634742153107276-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWhd7hwRok0LtVlRbPDz1xm653mzUmlx98dMOw_SB9YKbOSDbBxWHxbtli5pLsRsTm9d-C0k3muJ3oVOp6u0AQlVoAKrp6HtW4jlGLv-pxN0zloYGHBtbRl1pi-4urRuLXtEqAvnc494OQ/s1600/1634742101258975-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi91Z-n5RdSsaH5cFaKiMhZp_fMRaTkXxlTsuWqJIG-Cqm0B_mCZRDV-Iyz4e2fAPxV_M3Dahb8JTJXUXMdTPMqb2gX534I9x4L2kijcC173dR6Qw6DYlGZkpdSfCzG2uCihufbGaeFWTFl/s1600/1634742082529531-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPyEhLAN9UqLiwBhsc4vCCv_MoyQT81VW7wogPFph9qG5Z8mklS5H2_JyiPWxHs8ERtlA9ntuAj5VPApx4s_gfb4scfQh71wo4xdf4jNxfq7NXVi2sq4fbNjsmnjajvP296kkuE1Cmb4_L/s1600/1634741849028542-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoYppYzVxp6F6Cci9pQL2S7aNFu2oWWxoXu-lwqsgIdUoTCLboZPrcved8bCXq8OgP67kzVYLcrVfjfCHhwM8MZ8CwYW3jeon5WZVHCS_kjmmb6HD8AX3EBoNm17rs9h_om55ELBpb1w8v/s1600/1634741742026635-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioyzgwuFBT89BdckwyXDir84J_AeBakThmOvptasNNg5iob_xD148aLB28aYHOQqxS12KK2LpcPalbgx_jCvYjaiLD1tsZyJMmXFrLTSshUMQg0pMdyvSsnU-ppp2AjFgqwHsu-LoZzAbi/s1600/1634880122127753-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLs0I5Gix_Pjj5rTufTADJZrePapeuVjtH8o8BRk6Fia884TwDzEvSxWvvru0tHzSnK2C_mw8gNPc6owyzkoy1qWAw09gSk2rOviyIzgpRu1_lRXWWINg6xJqU-iYOMdNtNrpYWLEmOSZY/s1600/1634744111807329-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUORakoHdbBi6pp9u98LZpK19MEpuPK28S2trVXxFKb_JpxhWZCNAEbnym4lUBS_W6tpuDDQmEzdZ0psAh2l1ImXIgQJ2-4d9Whjw8KM3qBNKneA2ZYqvNeveo1YRxanfmbZ5uxQA0lMum/s1600/1634744103426638-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgva2w3kknCQSXfmFAAOE6BnPNghoStEeLrOotT3zZPnqtQsHkCc5FQHP7ukXHoYtTSIVWCuFn8HC7Ck_1Rm8_4geBT2Agm8Fmyf3Uz6ZNE_b5HM1pg65ZsrjMMm2919LxU5mvHR7z9oMHN/s1600/1634744093464241-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgb2Ht1ajhFFRe3zvpc-8tNGgm3kMa9TITB5nYCDFi-FJNu0qhyphenhyphenHMo1h2PULtPKYyaFzAwc_K_EeRkToRUtl6ByW-cFAjUTZ9rLoeJsjiekrCVy-B6hOvpV0Z-itIuOnBYxsdTOLLmaDTs/s1600/1634744085744911-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGxfH6q5WcTMMmb7m9MgWEgFYASRIIeot-kCSSTzfLic38wNbvUC4JSxQV0RbBDdkjQQs9t7G6-5ysXOWP9ozmL8utZOAjDChVrJbPt92jn5KwHsRLU5wnBUoleTr4jhUahPSdju8zBTzb/s1600/1634744072356738-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0xLoEVGLm0Y9SropTPUiMf5r3ZgGQyJbGGcK2ome2zPYM7NIFJrdqsc-GiKUAi8H-vUgDdIjl9JF68N6zN1StCEYI2Ozxq4SJLtMAlp-12spuZWjKwlYP4MTYUhZ-HudCy3sNpBR6bQEh/s1600/1634959982481593-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEErzNceN1bkleO1Ke7SiRHQX8LBm_lNehta9cagXAygi-a0_CUtszv7JvhLZvo2fkjUpp81GpzMxKhAycrusjMjtgy7wDASaBu1aDrIBsoRhyphenhyphenMvBMPwWwlJKWhId242IyG5Pk2b4XIrFY/s1600/1634959868868038-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgBNG38mJn12xI3w3ZTWoHRGvNCjyyQooEjKRVWplf-GXyUcNEa3IKvqMrLbCpp6fwQ9dmIEiwuS3CYoceO7qm7HhaxStu_TGWinptQE1J3PR4T6MjMIkDu6cr53XISWPdw3zlh9vW8Bef/s1600/1634743959893049-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBSlT5SSmTBJlvybdisTSAwJRKm5wpoZBHldaQqXZjo-2wY9agjeDpMua1qxx_6nqbkdiQmxicdHiJvEaPl7DLcQx6458VDwGb-lKLEiiF5prhoXJDhwg2nm3Zc3Oo8NVHVtkkYrGppAG_/s1600/1634743922716000-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRqdF35mrxeXCiIZHC6jwsNt_mRzi45nwMgVGyxL82K346JS-4VtEGV2cZGI3juSLdHuGU9-W0cKrZt-r39EpWWytlVx0LL_s1Zw-Ejqinkb2tn9WhiAeht-eYlZ0sFvM5b9Ws0HT3IghB/s1600/1634743914814954-7.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOoIpEVnDLgrpyzCU9tJtHXb3l7MgH6aVr2s2u9lUrir-biSiKm4EZUmIzUFrhK1NGCCN0UggcyH1QC2uaBrutEMp2GKA6zAH9C3_QeH_vau9EDeK9bRELgXJNoQsRGtdxGdXY_QrNQdEA/s1600/1634745408109935-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhq7odnJBmDhpwTdmIunbRuKy5afQismxm9rs55i0BQgpR0KhIWS5ecJzpwGBKmg6I07L2A3YkiKxdR8dt9wdrG81gs4Zx8QbZpSx18bW3j4WQC7KhUAp6_EU4ufPFTckaIfGE6LVcongW/s1600/1634743851043143-9.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTGaNobSYUXPFkEk4le8hA12sqHsYXKPJ8l5KjYY3w1yrkvinv7qnxW1Fhn2wPEzzqauVSTnf73b6R6N7P7yLXYzi0ug642IWE_cYoNUcHEo-nvxcjUYhFLfWxUwN9iDI2msz6DlxqIw6W/s1600/1634959595698750-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI8eu9ijEuFrnQ9aipKRHh7FiAKBAgIj8vvBm8T9G_avK0-_xkllf-Ct_xepi6j_3Zr1X9iP-YZtmxFeZrt9Y4ikCG7lBZtifnusDsKR39-oYa7Zc1MgSxsyrsuygtByjlDOvY-i6aEq7i/s1600/1631646251321901-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRRSFIb7dXO2prak2cJlJgqe3nyWHDAqK_NfRFErmTzvAyBEnKg4xz-o1s6Dg3ZTeW5j1axM3H32McptvsF1AchK_nQ2umVpXdot6orwsez28Hz9SAe92c3wU3hGL4AMSgAQGQlmCbSlMq/s1600/1615874976737303-0.png"
+  ]
+}

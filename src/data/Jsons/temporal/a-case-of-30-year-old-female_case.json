@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "url": "https://medcases1.blogspot.com/2021/12/a-case-of-30-year-old-female.html",
+    "datetime": "2021-12-02T10:54:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "2 months ago",
+      "activity": "patient developed fever and polyarthralgia",
+      "symptom": "fever, polyarthralgia",
+      "diagnosis": "",
+      "treatment": "Tab. Paracetamol, Tab. Diclofenac",
+      "notes": {
+        "demographics": "33 year old female",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "15 days after onset of symptoms",
+      "activity": "patient visited rheumatologist",
+      "symptom": "persistent fever and polyarthralgia",
+      "diagnosis": "",
+      "treatment": "Tab. HCQ 200 mg OD, Tab. Prednisolone 20 mg OD, Tab. Azathioprine 50 mg OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "RF - Normal, HB - 9 g/dl, ESR - 110",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "2/12/2021",
+      "activity": "patient admitted to hospital",
+      "symptom": "high grade fever, chills, rigors, vomitings, loose stools",
+      "diagnosis": "Acute Gastroenteritis (infective cause) with ruptured sebaceous cyst with polyarthralgia under evaluation",
+      "treatment": "IVF - NS, RL @ 100 ml/hr, Inj. Optinneuron 1 amp in 100 ml NS IV/OD, Inj. Neomol 1 gm IV SOS, Inj. Pantop 40 mg IV OD, Inj. Zofer 4 mg IV TID, Inj. Ceftriaxone 1 gm IV BD, Tab. Sporolac -DS PO TID, Tab. Dolo 650 mg PO TID, Tab. Baclofen 12.5 mg PO SOS, ORS sachets in 1 litre of water - 100 ml /stool",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "patient is conscious, coherent, cooperative, thin built and poorly nourished, mild pallor present, no cyanosis, icterus, clubbing, lymphadenopathy, edema, mild dehydration present",
+        "investigations": "ECG, USG abdomen - no sonological abnormality detected, RFT, LFT, Hemogram, ESR, CUE, Malarial parasite - negative, Chest x-ray",
+        "lab_measurements": "HB - 8.5 g/dl, TLC - 1,300, N/L/E/M - 61/27/2/10, PLt - 1.19, RBC - 2.90, PCV - 24.1, MCV - 83.1, MCH - 29.3, ESR - 85 mm",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "4/12/2021",
+      "activity": "updates on patient's condition",
+      "symptom": "no fever spikes, no nausea/vomitings",
+      "diagnosis": "Acute Gastroenteritis (infective cause) with ruptured sebaceous cyst with polyarthralgia under evaluation with pancytopenia",
+      "treatment": "IVF - NS and RL @ 75 ml/hr, plenty of oral fluids, Inj. pantop 40 mg IV OD, Inj. Zofer 4 mg IV SOS, Inj. Ceftriaxone 1 gm IV BD, Tab. dolo 650 mg po sos, Tab. Sporolac -DS po sos, thrombophore ointment for l/a, I/O and temperature charting",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "patient is afebrile, PR-86 bpm, BP - 110/70 mmHg, RR - 20 cpm, SPO2 - 96 % at RA, CVS - S1 S2 +, CNS - NAD, RS - BAE +, P/A - soft, non tender",
+        "investigations": "Reticulocyte count - 0.5, Absolute reticulocyte count - 0.3, RI - 0.1, T3 - 0.86, T4 - 10.04, TSH - 7.38, Spot protein creatinine ratio - 0.75",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiLyrvfoD_q7ICOgb1uv5Hz_n4pBqKfscieOPP0GtIgNhYHbE6ntZgqkeMudvXg5cyWgBmBjROTESdf6uvYLOdgT5gKH_5cUHUh2IYzFARq2KUgdZ9pf-KclgUE5Co7HC0QCmHTfKsfrreTNEJ6l-T1VT48wSyswWIeFFPzeK78BS-SxsG4vrezlGgR4A=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEg7KyzdMED2Qfu3AA1BCL6SeW3ymeHOuvDuk20-x70Z36Ot9KlQGqFiovGkTbyqHu_GWeN_YFH8OtOSTQIbH50Ekp154l6H3v0bVoVGq10r4fkMyDcFVHUtya3z3jn1oIpvNaZLUr9vA7ROmdSyWS6-gxHXcOU6pHrnFiYHwiAKh3spmvjRiJ8TrCfHSA=w289-h144",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjvHG_Z75IVKYEKkI3So3mES9h6W7Njadx2t7quz3oc6jwvwPBYJ2rSPdB09VmxKEXub8jRGKE5rs9FhG2OgWrlK_dxkhv6HUqjMc62TaLiYL0eutd4mW9tLNhZWibLil4XfdxlRtouUwQK31h_9_sgzk4w3ZvIaioJKDfzhZq9wONGRMNHpvzXxbrmjw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEg85LMudOztxQoxKCeoWvwLDtfukXhB7afE3Ku8P9YGgP0xq94_EFE7gVq_--kEj0yMnp4cyVZpAb4lWWj1K4BfdYhc0IoSDjv64Tz6dJmgcDz370WJTlq6BZiXjAEKk5bvEF4Sip6yGtPN3ngM865dv5BYobR1EVScEZM2Z4iFjC77BT0M5otDrGDtRw=w207-h320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgEBHjKFFuEoAkSpD6TJLp-UJ76Tcb-02zfRLrE88jt9o_-qOcRpm4Wu3C-VYOQeYE5wa-kzvS6vEDvjngJ3ZmXmPCoIcITl1gwRZdElJFC9bwl_N9cCOI_QmrOdMAKg-KTeIdIEyP7_ilRSsKngcDdlJ8UH6whuF5nS24KQT-UmqEs4aTz5dilbS2xxQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEh1jUKCvFkiuNdrIM9AC3P4S9UxrrWN3lWIoR5X3c-CyH72JS83AcsCuQ1kTFyZwyX-XMlZaZDxeBEimTRqZTsr6-0yYPrq-cAUUTplC4CV2rhDwKeNSmf5MAVJHblrWj6IXWZiPjBLYwX13HO468rxKgFjqXusYZdyDmc-HO4MhyPSTQlKlr_QoSsMWA=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEh0Qp-1OKRe4gtrND79Q04cNiMg0cUiK1D1ktL9Swoo1uIph6_NkUGvNNEQu6iroOmzrD_fEmIUaHo72siapNWNFk-gFVhFOYyHByZjeRsRe4jMuwXaApzpE7_K7zl6pNJDSC6zUuiN6RzI7SuamoXEk2WKyEaac_wFWbNgsRzgP8d5kmDPWorsspVzSQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhqMxsJ4RHAa2yN_ldE9yjE-8DQ1MlrOxJ80rfsUHPJfvApVXFEy5N6LCPs8PE-0Ia8HOLQ5BOwIS2jdHav7CkA73oNRf5YZqYNms4uzgH15UDr0ObYhJOl6_oDTnWK7B1cr2Att2LDGSAGqXpIE3peyhqcgPVKF0IwSc13OLfnpLQpZGykc4xLKXGGjw=s320"
+  ]
+}

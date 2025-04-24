@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "url": "https://mounika107.blogspot.com/2021/10/35yr-old-male-with-viral-pyrexia.html",
+    "datetime": "2021-10-03T20:59:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "2 days before admission",
+      "activity": "developed fever",
+      "symptom": "fever, chills, rigors",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "35 yr male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "on admission",
+      "activity": "admitted to hospital",
+      "symptom": "fever, cold & cough, left ear pain, loin pain",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temp : 110/70 mmhg PR : 90 bpm RR : 22 cpm",
+        "investigations": "",
+        "lab_measurements": "GRBS : 200 mg/ dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "on examination",
+      "activity": "physical examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No pallor, icterus, cyanosis, clubbing, koilonychia, lymphadenopathy, edema",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "on examination",
+      "activity": "systemic examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Cardiovascular system: normal, Respiratory system: normal, Abdomen: tenderness at umbelical region",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "Day 1",
+      "activity": " Soap notes",
+      "symptom": "nose block, ringing sensation in the ear, vomiting, fever",
+      "diagnosis": "Viral pyrexia with Recurrent UTI",
+      "treatment": "T. PCM 650 mg/ PO/TID, T.MVT / PO/ OD, T. ULTRACET /PO/SOS, Syp. ASCORIL D/ PO/OD, Plenty of water, Fever charting, T. LEVOCETRIZINE 5 mg/ PO/ OD, Inj NEOMOL 1 GM / IV infusion",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temp : 102.5 F BP: 110/70 mmHg PR :82 BPM",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQzHJ64zX6XgKORudJ5vCXo0dx_fVqEME-qww_EWt9Hm3roQxiXeetF2MH0tTdFftdatxUNT5LIfvU_Qa7o9AjPvsZQiL6wFmyvYv_JGb34vx5M7GWBPA65lg99NtC_FKnhmL9zOTtT626/s1600/1633319810046881-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMvGS8sz03VECqztud2ScuKDzQOS9n4iLwkK67wy5C09y1nYWSwTeD5wirok4YlQNsaCpijnirt0pGwmJTTdIpEJyRvZrG282PDNPvG86UbkG8FL_n95WdEtDArc468n9umPFdn4KrGfwK/s1600/1633320310227398-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiygX2mitmSsGz80-NF3AfOSv-XbpggCBW3GjS-uN6Rlv1q1Vs2UxZvXb96kz9VpMr_bWZ-ejA6bEWY1TaBbHwa809kE3OS1_OWOqCFHfqp1hVXXs22lvUf-hNIE5aY4nTp5pcWng9Iu5Hj/s1600/1633319786248551-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk0UbItwQefdOWgXTdyxPqq0S8-qEt9Q2zwkq7iEy8Wn57J3TLHe6FmskRjsgFBin95QqrvtEmroIIc3Pwppy9s6QMFdRRq_MsS1e0297YojOUG-RzfWzO7-objukRtT6L88dwekzyyPH-/s1600/1633319760711030-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Giiut_6gRYDeX2K7bVnPCnCEGXeePD9ZrcFxpzgyMEff6XoAIs5-xbPrUm9RLkEiBfI1DsFEGn1dQKeBY8tCTriBs2O8TYj6alLaq_kLmhpwnjW9-orO6x_ARxUCUosdo_sSI0zMo77M/s1600/1633319750459782-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit5ES7FVCbr-mHlwsMgccLFmvXaFFMzM4InZsBeoLctYgKR5P_QzUnKFPiD27MwjG8VJH5deVa8mTCYzCCpMN1iIkHBaBDhZ6FIsB1fXi0obWY95BxZAb5DmW-2ZLeTVHX0XrsrKvqnzSz/s1600/1640785001064877-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgibmdinVgB2mvWy27Qgh0NJ43l81U1uqPc0eWUzlzQE2uybHXPoMzTQhb6d7F4ng4c6jacxItNwBa4L-TaDgTEAeAXhiLMLOwwU6Tpcl0tnYhBKQka0wCpASyc9svni7AVxIGaP0PeualN/s1600/1640233109157987-0.png"
+  ]
+}

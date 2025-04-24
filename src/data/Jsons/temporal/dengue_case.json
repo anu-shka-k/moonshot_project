@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "url": "https://keerthireddy42.blogspot.com/2021/08/dengue.html",
+    "datetime": "2021-08-22T02:19:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "20 days before admission",
+      "activity": "Patient had low grade fever, intermittent, not associated with chills and rigors, relieved by taking medication",
+      "symptom": "Low grade fever",
+      "diagnosis": "",
+      "treatment": "Medication",
+      "notes": {
+        "demographics": "26 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "4 days before admission",
+      "activity": "Patient had continuous fever, not relieving on taking medication, not associated with chills and rigors",
+      "symptom": "Continuous fever",
+      "diagnosis": "",
+      "treatment": "Medication",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "4 days before admission",
+      "activity": "Patient went to a local hospital and was tested DENGUE NS1 POSITIVE",
+      "symptom": "",
+      "diagnosis": "DENGUE NS1 POSITIVE",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "DENGUE NS1 POSITIVE",
+        "lab_measurements": "Platelet counts: 2,60000",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "18/08/2021",
+      "activity": "Patient was referred to our hospital in the view of low platelet counts (23,000)",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Platelet counts: 23,000",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "22/08/2021",
+      "activity": "Patient was admitted to our hospital",
+      "symptom": "Fever, giddiness, abdominal tightness",
+      "diagnosis": "VIRAL PYREXIA WITH THROMBOCYTOPENIA (DENGUE NS1 positive)",
+      "treatment": "IVF -NS,RL @100ml/hr, TAB DOLO 650 mg /po/TID, INJ NEOMAL 1gm /iv/sos",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temp: 100.4, Bp: 80/40, PR: 78, RR: 20, Spo2: 96%",
+        "investigations": "Hemogram, RFT, LFT, RBS, Rapid anti HCV antibodies, HBsAg rapid, HIV rapid",
+        "lab_measurements": "Hb: 13.6, TC: 2400, N: 60, L: 30, E: 04, M: 06, B: 00, Platelet count: 23,000",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "23/08/2021",
+      "activity": "Patient complaints of giddiness, abdominal tightness",
+      "symptom": "Giddiness, abdominal tightness",
+      "diagnosis": "VIRAL PYREXIA WITH THROMBOCYTOPENIA (DENGUE NS1 positive)",
+      "treatment": "IVF -NS,RL @100ml/hr, TAB DOLO 650 mg /po/TID, INJ NEOMAL 1gm /iv/sos, One unit SDP transfused",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temp: 98, PR: 72, RR: 22, BP: 90/60",
+        "investigations": "",
+        "lab_measurements": "Platelet count: 26,000",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "24/08/2021",
+      "activity": "Patient complaints of abdominal tightness, Giddiness resolved",
+      "symptom": "Abdominal tightness",
+      "diagnosis": "VIRAL PYREXIA WITH THROMBOCYTOPENIA (DENGUE NS1 positive)",
+      "treatment": "IVF -NS,RL @100ml/hr, TAB DOLO 650 mg /po/TID, INJ NEOMAL 1gm /iv/sos",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temp: 98, PR: 70, RR: 22, BP: 100/70",
+        "investigations": "",
+        "lab_measurements": "Hb: 13.5, TLC: 2500, Platelet count: 55,000",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "25/08/2021",
+      "activity": "Patient complaints of abdominal tightness decreased",
+      "symptom": "Abdominal tightness",
+      "diagnosis": "VIRAL PYREXIA WITH THROMBOCYTOPENIA (DENGUE NS1 positive)",
+      "treatment": "IVF -NS,RL @100ml/hr, TAB DOLO 650 mg /po/TID, INJ NEOMAL 1gm /iv/sos",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temp: 97, PR: 76, RR: 22, BP: 110/70",
+        "investigations": "",
+        "lab_measurements": "Hb: 12.1, TLC: 3400, Platelet count: 72,000",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "26/08/2021",
+      "activity": "Patient complaints of itching over hands, abdominal tightness resolved, No fever spikes",
+      "symptom": "Itching over hands",
+      "diagnosis": "VIRAL PYREXIA WITH THROMBOCYTOPENIA (DENGUE NS1 positive)",
+      "treatment": "IVF -NS,RL @100ml/hr, TAB DOLO 650 mg /po/TID, INJ NEOMAL 1gm /iv/sos",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temp: 97, PR: 76, RR: 22, BP: 110/70",
+        "investigations": "",
+        "lab_measurements": "Hb: 12.1, TLC: 4200, Platelet count: 1.13",
+        "discussion": "Planned for discharge"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgQIPtC5nP8dC_toS3tnSgzNYTYqaYo4O1Uk5AsnS1xjYxFBDa-tH5vVc6v2O39cUOmDnP0DfbcQVCiDQ3QoONSv4-jM5rn0X1KdGnaaDKtQh7xHxurXvQfEKKhD0jOLuMngVVY_NO7Y295Zz_VIMLxRPXkMW9FGM61bwsUE-MJv4z4szMP0DkxCaZ2Xw=w485-h399",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgJTJA1L-VQvHb45fpqXwIrcfmbj8DRXX6ORSexsXYyjUZDnEuvxVavUQW8Tv9ZHc2SwgBh2V9FwB-VRHaiipOQvZyxdtguJ8ROaDg72PnXW6PR8ay3GPVSEBhAvX4FA_cGlviz5bSCVKSmZg0U5fQT1PM9PUBdDjt--Pe6T4DisKHs4y3EDdEfi-s8WQ=w524-h330",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiECu2KeZ8QzSEGxvcPVpzsGc1VLZ_veYMdOIyloGHPH8d-fcZIeDbt_yFmx01Jzbmu6XTbJbFF8Ar70AqZgSMFRU0yaXs9TyAJDvoQzxAvZrEMXxzNqnLEncxy0nxWfNOroJ2dpIIMy7pbcPt3Qde4LrhtEb-hP0Hp3p7w3ag9zRc9K_ySB0McLHMnHw=w543-h418",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2dett1H6_wW6nsFHULfovkLVoLixD0-jzEV3lZg-d9Vub-Mi905TuevUu889jy2-UvFxuz7DrqEzYxjKPc9oEzdmrDgd7bjIHaEX7azzrbYYqfPbYRYuk5fNMDsBr-A-BOmmo_yhPfa34/w320-h297/3DEBF0BD-F770-4447-A82F-A69948255522.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUS7jgQsmGDBWPltREpW7DW3pMCMvw4p2vX8hiwEC84YsH7dCNqB8LZvHSThLGwaiihKkToaVRgcL1ULtidd3Ooxbv8GRoDd97FUhzSy1sC0O9_bxHPm2_8ANvroBZ7lWZ-6DhhjxgozBd/w354-h261/87248997-2632-4C33-82D5-68C9324F26E7.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZHrYzjQKtiXNbaXEqt284kDxC3qVM6R3ZJqOUNT74Vqijsl-3wRn8Ku2tY96Hm27seU7ab_EcMG5cqJDJId54l8mEybK_uzuyVdhQxcEJVrPpqyNEslQ4MJX22ZRkwIxwy3S_8MsDODJS/w320-h315/07C05447-09F4-4E86-9076-3A60E23E2997.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSNpSEX6jIBb9jWi9YFj1N7jWM2xndrth0x6dxO_QLIM4VQSYVgym3mtkx0W73K6lNY-vP7wDSo4G7p6_U5hxorwgGkmf8Y1_olAkbDmTnIDNH4_Vc8z0Iae56hsCv-MLs39YNBKDOGTGm/w300-h260/2051B904-D65D-499D-AF54-6E12DD3276B3.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj78IbAcd-UfcUT9ifHgitAAAPFkcXmzqZZNQbY30p19raZJ8ofZAYeCLAdZ1AdjGJXEYQIxX8tvsztro2SKduCfpB_Ry_QBtMfXnJ_3Ahl47KTzSgbIe0grd0mX2VeBJYb6mUvRpqFwpaO/w425-h270/9854B205-A9EB-4BE2-B18D-F029AABD5010.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUdVCwEGuofA1QC6EpG8kGpVcQJbvsGl_1IovUXwfSPGkZa7N_P-kyGLBBSNQLbWuFudG3TsWRhsS2Tw1R_nWTur984pNVVlS730L2aSzvkckaJabhoZtfGVpz8rcmIag9n6GhuSJw3XQ/s280/IMG-20210717-WA0012.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkMw8ciUdLavuK0LLcLJQc9yLf1uZNhI6QX-tr2_8rEb63w839jhNu-T_5oFiOqrkB3wRGNvxz_RSvwyQibTYVObWFv0MJdZvdZgnOPCfyVOdny9Myo1SQxKjT0sV_7QJ934o_bxzhkoI/s1600/1624028429572308-0.png"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "url": "https://medcases1.blogspot.com/2021/12/female-came-to-opd-with-co-seizures.html",
+    "datetime": "2021-12-10T21:22:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1 month prior to admission",
+      "activity": "Patient experienced seizures",
+      "symptom": "GTCS type of seizures, post ictal confusion, tongue bite, froth from mouth, involuntary defecation, micturition, uprolling of eye",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "2 years ago",
+      "activity": "Patient had fever",
+      "symptom": "High grade fever, chills, rigors",
+      "diagnosis": "Diabetic, hypothyroid",
+      "treatment": "Insulin, thyronorm 75 mcg",
+      "notes": {
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "20 days prior to admission",
+      "activity": "Increased dose of insulin",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Increased dose of insulin mixtard",
+      "notes": {
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "Admission",
+      "activity": "Patient admitted to hospital",
+      "symptom": "Seizures, post ictal confusion",
+      "diagnosis": "Seizures under evaluation, hypoglycemic seizures, epileptic disorders",
+      "treatment": "Inj lorazepam, inj Optinneuron, inj insulin mixtard, GRBS charting",
+      "notes": {
+        "physical_exam": "Pallor + mild, Temp - afebrile, Bp - 110/70 mmHg, Pr - 74 bpm, RR - 17 cpm",
+        "investigations": "Hemogram, Blood urea, Electrolytes, Chest x-ray, ECG, USG abdomen",
+        "lab_measurements": "HB - 10.5 g/dl, TLC - 16,200, PLt - 5.15, Rbs - 230 mg/dl, Blood urea - 13 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "11/12/2021",
+      "activity": "SOAP notes",
+      "symptom": "No fresh complaints",
+      "diagnosis": "Hypoglycaemia seizures under evaluation",
+      "treatment": "Inj Optineuron, Inj Lorazepam, Inj Mixtard, Tab Pan 40mg",
+      "notes": {
+        "physical_exam": "Vitals: Temp-afebrile, Pr-86bpm, Bp-120/80mmhg, Cvs-S1,S2 present, Rs-NVBS +, P/A-soft",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiiKb2txLo8D4mPBwbHQsEWspy8WmEMK8-DEFIvnF_K3Vb9XQgnt2cQeDQaZlSlzXDcd1dlzLTBCSMxcsXaSls5WC_8n-nk6Ds5fZ3TeaLauGdB_7hPAUJ5Cwbc_MiTA_KrWNP61vQ3qj-epdtc1xugvdOZR1cXjP7jQY-Ck2aHCU13g8Lnwlhr7YTuTg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEj0YDQa01V4oHeRbC-XoOo5MFzIxLwSUOXpKZXiaIlbWeoldfJK8DUUTlbYOnr6zh3iSFd_E8gSP_q_QtfF3e0PbIJrdl9h8Ka3GyRUrfZj2dnXNeL1gLY8cI0AuZpVoStZFEuHtcIN9u8jcrAtxHN91EnqTC3Zw83Wau0Gz8VK5lNKxzm0qVo21oOieg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEix8vYSWH3lTsCVtjRWh14dmz9TXnsQ98qDgstwS7z2nOSzOkLC7DohSckix3sRHRIlFjTzv0jSDxyeDSNSyMbVquLq-e6I-mZdGOMM4jJnxlainn-E6cOc-BNlyrn_nihed2TsgrZEE7nirU6dso6wUDVcHr9Ob1p9i9PPhmnr5KvnN0k3He0808ql1Q=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiasc3tR73Eo87su-kKK-rADXzCSIaUk0BmOtTCIrnlrb_oInzfZGvBIIHIDiBe-PnTEuiJM3SuVj5Y1GDJxxDFqYJqsHgYNfXXRGFSfZqry9sHsVY5E1qsBiWLwj90jqP2Af0GlIH3OQ3ElixldiUGLSclVNlG0dO_dXJNWUrpg_38m3QlbWiPoTL4sg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjlUieeA-r3LEoCvXsBNaAaxBf4eTd2qnRLQlvdbRrT9fJMXtrMGf3s6kpVl_6K9ZSTPO-N1eHcMgHDDB5W9Wm8DY3_dv1vy43tevV1X4P-3DTDBPyC7VTc_pABFXlO1AGmoqOGOWfpoLoH-zxfOyfiMrkn7S3AVpg2YXWrzoZK8z5OJSvcsyZHUt4-TA=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiLyrvfoD_q7ICOgb1uv5Hz_n4pBqKfscieOPP0GtIgNhYHbE6ntZgqkeMudvXg5cyWgBmBjROTESdf6uvYLOdgT5gKH_5cUHUh2IYzFARq2KUgdZ9pf-KclgUE5Co7HC0QCmHTfKsfrreTNEJ6l-T1VT48wSyswWIeFFPzeK78BS-SxsG4vrezlGgR4A=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhqMxsJ4RHAa2yN_ldE9yjE-8DQ1MlrOxJ80rfsUHPJfvApVXFEy5N6LCPs8PE-0Ia8HOLQ5BOwIS2jdHav7CkA73oNRf5YZqYNms4uzgH15UDr0ObYhJOl6_oDTnWK7B1cr2Att2LDGSAGqXpIE3peyhqcgPVKF0IwSc13OLfnpLQpZGykc4xLKXGGjw=s320"
+  ]
+}

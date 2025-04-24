@@ -3,7 +3,143 @@
     "url": "https://jyothsna113.blogspot.com/2022/01/58year-old-male-with-ckd-on-mhd.html",
     "datetime": "2022-01-02T20:04:00-0800"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "4 years ago",
+      "activity": "Patient was apparently asymptomatic",
+      "symptom": "",
+      "diagnosis": "Hypertensive",
+      "treatment": "T. Nicardia 10mg, T. Arkamine 0.1mg sos",
+      "notes": {
+        "demographics": "58 year old male, labourer by occupation",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "2 years back",
+      "activity": "Patient developed B/L pedal edema",
+      "symptom": "B/L pedal edema",
+      "diagnosis": "Renal failure",
+      "treatment": "Dialysis weekly twice",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "4 months",
+      "activity": "Left upper limb swelling, gradually progressing to current size",
+      "symptom": "Left upper limb swelling",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "4 months",
+      "activity": "Swelling in the left chest region, gradually progressing to current size",
+      "symptom": "Swelling in the left chest region",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "2 months",
+      "activity": "Back pain",
+      "symptom": "Back pain",
+      "diagnosis": "",
+      "treatment": "T. Ultracet",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "7 days back",
+      "activity": "Developed Facial puffiness",
+      "symptom": "Facial puffiness",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "15 days",
+      "activity": "Shortness of breath",
+      "symptom": "Shortness of breath",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "On examination",
+      "activity": "Patient is C/c/c No Pallor,Icterus,Cyanosis,Lymphadenopathy Edema of feet +",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is C/c/c No Pallor,Icterus,Cyanosis,Lymphadenopathy Edema of feet +",
+        "investigations": "Serology - Negative",
+        "lab_measurements": "Pr:94bpm Bp:120/80 Spo2:97% at RA Temp - Afebrile",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "Provisional Diagnosis",
+      "activity": "CKD on MHD",
+      "symptom": "",
+      "diagnosis": "CKD on MHD",
+      "treatment": "Fluid restriction (<1l/day) Salt restriction (<2g/day) T· LASIX 40 mg PO BD T. Nicardia 100mg PO BD T. NODOSIS 500 MG PO BD T. OROFER-XR PO OD T. SHELCAL-CT PO OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZXF9E846Z1EMWLbp5qTkjjRp92b4QM2RNwiU9BDIVbD4B0CCxGDQ3-GEu9kmEQLmFue9szzKYUlEXtBIYF-RX6S1WaDaPNxlo5h_OylTLQMqvGKQ6kJ3vGJISsnXyu5UBsOA3QTrsicY/s1600/1638454828824630-0.png",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQEJ_d-WOmCP-vyguEladtxi6ffupJM56Aef9McMO1cBeiAwXA8QXcqOlrm4MYlLbpPNK3yFR-n2W_3Qn5PY7z64lamRytP8nKEbSzgf0S4vW8kjfEtn_l3E2Bx7Xy3USspvsFHL1XINQ/s1600/1638454824529516-1.png",

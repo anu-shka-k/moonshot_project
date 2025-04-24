@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "url": "https://medicinedepartment.blogspot.com/2021/11/project-outcomes-of-bicarbonate.html",
+    "datetime": "2021-11-22T09:41:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "on admission",
+      "activity": "patient presented with severe anemia, hypotension, severe metabolic acidosis, encephalopathy and recent fracture femur",
+      "symptom": "severe anemia, hypotension, severe metabolic acidosis, encephalopathy",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "elderly patient",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "first day of dialysis",
+      "activity": "dialysis with 200 meq of bicarbonate",
+      "symptom": "hypotension",
+      "diagnosis": "",
+      "treatment": "single ionotropes for 6 hours post dialysis",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "intradialytic hypotension"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "afternoon of the first day",
+      "activity": "episode of bradycardia",
+      "symptom": "bradycardia",
+      "diagnosis": "",
+      "treatment": "atropine",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "bradycardia revived with atropine"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "second day of dialysis",
+      "activity": "dialysis with 300 meq of bicarbonate",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "before intubation",
+      "activity": "sensorium deterioration",
+      "symptom": "respiratory depression",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "respiratory depression"
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "at 10 am on the day of expiration",
+      "activity": "cardiac arrest",
+      "symptom": "respiratory acidosis",
+      "diagnosis": "respiratory acidosis",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient expired"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2L9ddVEig6bEpHkKDyCDG4deSdkxcWKMJEvHgr-O8qo_4SymiT6tSMrNWnSArhhBPCmlWO5TDpM7X4aIQkFrAL9N4nnpE77laN7fIn95vRmyW9uqYrkG8ykNJEyfiUGeltxB5mO8eDdA/s320/IMG_20211122_230917.jpg",
+    "https://resources.blogblog.com/img/icon18_edit_allbkg.gif"
+  ]
+}

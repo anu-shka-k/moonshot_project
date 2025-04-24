@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "url": "https://manasa71.blogspot.com/2021/10/a-28-yr-old-male.html",
+    "datetime": "2021-10-21T21:06:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "15 days back",
+      "activity": "Patient was apparently asymptomatic",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "28y old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "10 to 25 days",
+      "activity": "Developed fever",
+      "symptom": "fever, chills, dry cough",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "5 to 6 days",
+      "activity": "Developed SOB",
+      "symptom": "SOB",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "on admission",
+      "activity": "Admitted to hospital",
+      "symptom": "fever, SOB",
+      "diagnosis": "Viral pyrexia under evaluation",
+      "treatment": "IV Fluids NS and RL, inj optineurin, inj Monocef, Tab.Doxycyline",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Vital signs: temp: 101 F, PR: 98, RR: 18, BP: 90/70 mmHg, SPO2: 96% at RA",
+        "investigations": "SERUM ELECTROLYTES, Serum Creatinine, Serum Urea, LFT, Serology, HEMOGRAM, MP STRIP, CUE, USG",
+        "lab_measurements": "NA: 134, K: 4.6, CL: 96, Serum Creatinine: 1.1, Serum Urea: 32 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "DAY 1",
+      "activity": "Treatment and monitoring",
+      "symptom": "fever",
+      "diagnosis": "Viral pyrexia under evaluation",
+      "treatment": "IV Fluids NS and RL, inj optineurin, inj Monocef, Tab.Doxycyline",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Vital signs: PR: 72 BPM, BP: 80/60 mmHg, RR: 18 Cpm, Temp: 98.6F",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "DAY 2",
+      "activity": "Treatment and monitoring",
+      "symptom": "",
+      "diagnosis": "Viral pyrexia under evaluation",
+      "treatment": "IV Fluids NS and RL, inj optineurin, inj Monocef, Tab.Doxycyline",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Vital signs: PR: 66 BPM, BP: 90/60 mmHg, RR: 18 Cpm, Temp: 98.6F",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdgI6B3y1MUIislA5yXOxQ4UPfF_fl2WTid1ul2xpwV_J4nzT-TVydGDATDfYotnTZjWjL1EMiAuqIol__cvoVZVjrWlpWVAN0ulQf1FCRmkNnbwmbt2xRsngE80nV2UvJEyRb0z-e74o7/s1600/1634875564130345-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgneN2ziIkgn0-KwysoMKk8QXKlx9eh8NY8P1B2irthjR4KLG_s1i2JBnOF2iYsVxrpPV5SWfj-9IIHqzRvcESds5dOqJlLwBd2ZV19iW7hnPEubmV7NTB40wnTTLIX0gQcFiVY8dm2Iyj2/s1600/1634875558144364-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK5S3LRNom5QobJSEssQ0aAY4hXA1yrgUwYxdSh4iGYcK6xuKq-glJJp9W6kN1I22dB36DyzPTojkhVvanpEYqx8brICEox1qjzcR2BDDTyV3hH3CfJ-qCoBbj9UfyM3q_d-lsWPoc-Cff/s1600/1634875554167059-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdm6SQDgrTWhhfsAqouQdmVyNEVx1vLY8qV7M4xvmRRKrH7va4fSQvtVEEjlUCtn2nUKslz_DWMtQiSZ-4K2jwPMJM17uJexesNurNe8R1vm1Lwa0M-PM3iuExTbnOA48zrUJfkdUpfDD/s1600/1634875550173516-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyd0PpR9oJ9Tj9MYva9vBSdx8KylFlhvbCcz0xrPl_220_M7syJo72iBu_X872fZZYvXstU9ixJNTaROdf46BwZKdvPOUtlc9jJGx-vMeFsTF1TovvS4YaWPSO8lcskcmhzcwgSRlZu0Wl/s1600/1634875545209879-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2JwP_kOMyF2haCLToQx5Mgl0rmeDiHgBEcDvayHCFzKLnJ40ChOloekzHXSKZeg_xMygXb1zZfMJBPZm1LbAJt0gUWV7z8MG5soxsinhvDWg28IqeWoH9RmfQ3i87Hhp1Hnr0832FrWbH/s1600/1634875540244571-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwk-NzdpT1mzwdNSC222rUYWhaIaxDScVq3Y5olbw4AOrAKf-moPaIRdypXN9cLZrSZp5DCSZRqIB5qlP4xrr39C65By3nN_qVmwVa0rJH3gyYBX6ZBNAaqjTrTir7wM1voUmz3I0cJbxt/s1600/1634875534459104-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikqg6Vp0p9kl1E7a8yGBRj8q0Uevlg80KJmwk7Rivh_dQKFzJt-9vD_xtczFEzqarPrzi-XfcBxU4LOZEcpDYFJsv5rDvhYYI65k45LCe0jfxQpu5GYORC_rI8fx6ADJoy97qWqqF4YYnI/s1600/1634875530222321-7.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwj9qefoft7rpJhUy4Q7Ln1GIdTISarKz1_dlb0CdyMoYw-LFXJATjDLGP-9886oPQnJFidtezyiZjmBxu6UrNV5s5eZsYfshP2BY6Zu1QbES6LUW_e84y87BedX2CtRknxJG_R4mQCd4n/s1600/1634875525500248-8.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwJdUPqzgMVrhqP9yVpdCdluun5Ok1iexoVz3ZaYsAxlfBnmT8fjYX_fI2Hytw0XLKAQVUSdBQVnRQVhnK1oNi77XPc-XA6vitYF6uqZqhvFdjqegIUAfU6lBGITxgg-g7HcyOBQoofDmh/s1600/1634875521084916-9.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisAaJUVr8OYykKE50Miy9YiD_IboKe7SZBxSWVHRYf59FDYhxBnVZLhleG6W9b1X_dTrlPZVcbaSA0w7JcvjhX2IFJyNlZ9P3O61BT_wbFGZ5Fqxh1lWRnXocN22wBcuyMVEyogdUchzBN/s1600/1634875515852130-10.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZqeccsiuzUrw3repU_7b7OE5w4PT806xLqr1lXm8m4AEUxfOdM24fv2HxXYemHbBXj2LP31ww1L_S2bv7o9H7fLjODwqIrKfKimcib-D7hx4dpx3RFI0AeoGBzFhaHSc9NXYn3C2P0P5_/s1600/1634875510123993-11.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivx5rWphMDfl2oT6a-LNaPX5kN9izwY5L-2CFG3PPW5ShHubpZViGcjWvIFz8KxF8glKuBpe8MyPkdvJFcoRU1KWwROMw2xz9cajrCfawSa4yq2GWFnyNZKscgH5osIfxa7_a8vlkZRDUi/s1600/1634875503958721-12.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEingSd8_MUf9E5Uk3y-MyXu5-vN7E5UgR0sKztCI6o16Lq1bKec8DcKs9U_IYElRzoWNbPTeNXaJ2AFIlpQwWGKlADU_2e83-jrZcFNanlmrNC_fw_zgBQFBWqiXbukOsFgbggwSUUklobt/s1600/1634882093678677-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5TmpNIYivYNut_Od_tEdyylXYQln5xD2_tf6SWZvZ-4EaY7aPuxh8kNy13Lu89WDqHyed15Q79GbPxDf1pxXyXBjFfp4ETsbL5ytBibltbvKIIt2dEFyX0EVVE0CsfzKhP2d4fcqiA8_B/s1600/1634882087719697-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm_E6xc3elGEoYnL2cVEjBVbV9ZTxXxG9SMlp3KoRke7YyI89XVMxgExpBswSmS2bqX2ZrDHmr68eymtH4QL0pNml3671iEcjOS_7bvKfGNevaiFaIKa3zNLEO_isSNJH8qyaRK0RSBMl7/s1600/1634882079717150-2.png"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "metadata": {
+    "url": "https://mounika107.blogspot.com/2021/11/a-45-yr-old-female-with-viral-pyrexia.html",
+    "datetime": "2021-11-07T19:43:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1 week before admission",
+      "activity": "Patient developed fever, SOB, decreased urine output, and increased frequency",
+      "symptom": "Fever, SOB, decreased urine output, increased frequency, burning micturition",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "45-year-old female",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "On admission",
+      "activity": "Patient admitted with complaints of fever, SOB, and decreased urine output",
+      "symptom": "Fever, SOB, decreased urine output, increased frequency, burning micturition",
+      "diagnosis": "Viral pyrexia with thrombocytopenia",
+      "treatment": "IVF, inj ceftriaxone, inj pan, inj neomol, Tab Dolo",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No pallor, icterus, clubbing, cyanosis, lymphadenopathy",
+        "investigations": "",
+        "lab_measurements": "BP- 120/80 mmHg, PR- 76 BPM",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "Day 2",
+      "activity": "Patient's condition improved, SOB reduced",
+      "symptom": "Reduced SOB",
+      "diagnosis": "Viral pyrexia with thrombocytopenia, ? UTI",
+      "treatment": "IVF, inj ceftriaxone, inj pan, inj neomol, Tab Dolo, monitoring vitals",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No focal deficits",
+        "investigations": "",
+        "lab_measurements": "Temp: 98.6 F, BP: 90/70 mmHg, PR- 82 BPM",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "Day 4",
+      "activity": "Patient's condition improved, SOB reduced",
+      "symptom": "Reduced SOB",
+      "diagnosis": "Viral pyrexia with thrombocytopenia, ? UTI",
+      "treatment": "IVF, inj ceftriaxone, inj pan, inj neomol, Tab Dolo, monitoring vitals",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No focal deficits",
+        "investigations": "",
+        "lab_measurements": "Temp: 98.6 F, BP: 130/90 mmHg, PR- 90 BPM",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKso2h_1hcbV5LUv1fd_c9eeXyoXr-r49_xooSTXfwIDfG3LX040XMVpOORLWEnf1Q1lCvDV6dx-dL675ahfGy1tm_PUSKZZ6a5xGblcXGTzMxZVC87Kous47LV6OoqIZE1366O-VwyOt8/s1600/1636429066294971-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaGwJWLvCGXvgvVIbqVs7WbAsgB_IIf1quQUDuGQbK4j27i7rH3COAdtbKJiFL6ID19F9HKvqKScbnD-J0ds3APjtxkIKnuoVXLH1o2RtVKM_EJpzk2mcJixKeT7YBZNw5tuOOub-TEO6D/s1600/1636342861142805-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqeeKRBcbVDnYK7ixNxfyohvoUSAO7zQJ_Wgm958fvAXl8cYsVm-79NPUEkru36AC8ydwxkZavDsz57o7ECgLVZZ14XuPG0C_40EhiYpYn_Xln2AdRtBLA09iQ2pOrmRTOSMmxwINXvDIG/s1600/1636342854421561-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd16FxhvDaDiTLpjrVeArrEPz43P7dDhultDj3kiM4UEBG0PsL5-iMOF3MTxbJvvQ1E7b7MQ2_n6axSPYqlq8t06yNt7iYI4AGxxatZ7PxcVq7rUPpnyy_N0yl08eoN_qF6bocv6j_Pxw3/s1600/1636342850034842-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGIbi1NORz1rKE44tCa6Lj5UiLwox_PxSnIyOIiRMCf9PIvVnP9buGz9q1aRoJZG-kkJ5ci6VB9ednh0tPWhRlq8tvyBBU3EM7NOvliL87PRvp8BpvJxNiX3vNBxABD_TYDdkRVPSHP__I/s1600/1636342845416087-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit5ES7FVCbr-mHlwsMgccLFmvXaFFMzM4InZsBeoLctYgKR5P_QzUnKFPiD27MwjG8VJH5deVa8mTCYzCCpMN1iIkHBaBDhZ6FIsB1fXi0obWY95BxZAb5DmW-2ZLeTVHX0XrsrKvqnzSz/s1600/1640785001064877-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgibmdinVgB2mvWy27Qgh0NJ43l81U1uqPc0eWUzlzQE2uybHXPoMzTQhb6d7F4ng4c6jacxItNwBa4L-TaDgTEAeAXhiLMLOwwU6Tpcl0tnYhBKQka0wCpASyc9svni7AVxIGaP0PeualN/s1600/1640233109157987-0.png"
+  ]
+}

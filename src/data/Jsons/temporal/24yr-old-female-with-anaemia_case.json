@@ -1,0 +1,91 @@
+{
+  "metadata": {
+    "url": "https://ksairaghu84.blogspot.com/2021/09/24yr-old-female-with-anaemia.html",
+    "datetime": "2021-09-08T23:09:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "5 days before admission",
+      "activity": "Patient developed low grade fever",
+      "symptom": "Low grade fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "24 year old female, married at 12 years of age, 2 children",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient was asymptomatic till 5 days before admission"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "on admission",
+      "activity": "Patient came to OPD",
+      "symptom": "Dry cough, non mucous, non blood tinged, SOB (GRADE 2- GRADE 3)",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious, coherent, cooperative, well oriented to time and place",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient has history of recurrent jaundice (4-5 times in a year)"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "on admission",
+      "activity": "General examination and systemic examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP: 100/60mmHg, PR: 100bpm, temp: 100F, SpO2: 98% at room air",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient has pallor, icterus, koilonychia"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "on admission",
+      "activity": "Investigations",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Haemogram, LFT, Urinary electrolytes, Ultrasound abdomen",
+        "lab_measurements": "HB: 3.6, TLC: 4800, PCV: 15.6, PC: 2.02 lakh cells/cumm",
+        "discussion": "Patient has anisopoikilocytosis with hypochromasia, microcytes, normocytes, tear drop cells, pencil forms seen"
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "on admission",
+      "activity": "Plan of care",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "T. DOLO 650 mg/PO/TID, T. PAN 40mg PO/OD, T. ZINCOVIT PO/OD, T. LIMC66 PO/BD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient to be monitored with strict temp charting, BP, PR, SpO2 monitoring"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf6MBelLK9wYhYHNuqrz-ela9R0IC8835iHgucvwc9XWtc7sd5wdMlR_9kBERJbbrHmFMLfMhmBLMEDUZJ_tvqESUSzbUBCt5c184QzrsVecDzw-ZO-8VtAQ-iL5XwouoV0LbX0Quzqwk/s320/IMG_20210908_173125.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbfTwLHMgAg3u6M-tW7xGSVm83nyxaLFI1rAQDmfoixcjn2iDUZA1nS8KIs1jxd4pe5MJqLvNGOfCoaYjwcpVz8piEGDbTGGXjVAJII8N25Vp7d05D2fsDhc_MC6cAlDiLgru-ZabxHks/s320/IMG_20210908_105827__01.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUjfi2_M6l06lkzWi_nAFp7NdQgXdwhJIX4AiPa5VhZYDxBytPG_X3QNdu_O7ZrmVf6y8NHD7tk5AD72JIQbi7gXIWttfKaX8fd2ak6sBM-SUo6WYWZny3-gXrNC9UkP3WITpG4KUuMw/s320/IMG_20210908_095209.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2KrNjMRPkkmncu6wLV43AbV9MnnlPneq50YUL5tMP76bOnQJJODwQTU9Cc28J6bkRCuPG_7rNeMaE_OBUqw_EyqVjUoxLVjpB6XCRiiVzSOKklpxnr-bzh5g9KpHg29t3lTfXSquYzjQ/s320/IMG_20210908_095220.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvy1ib6M5OYvctpqAz1MCbLZWhfiG9PaSJRv7MINr2nh-qRtj4Bvac7lVyxuwk3hgUwAfGe7XKcbUFxk_j3E2H9VMcsFxrAYKEnxa_vZDLVp079tAjtdEvm-bcgcgh9TeM6Y2l9oLpFHc/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMwZdRt6J_njY4nt88pMTyTYXicMI2gUFdDdxb28DHuaVW2LrfUYLbjUnAmh_Pg7tVeOAbHIgb7teynyKq6Hm2Du4dFEhBASC-ny5bJ0NukBOYdM2X33RQWtJPlkcis3hCOT5ckpPJMX8/s320/IMG_20210831_190419__01.jpg"
+  ]
+}

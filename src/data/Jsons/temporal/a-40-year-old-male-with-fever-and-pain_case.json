@@ -1,0 +1,141 @@
+{
+  "metadata": {
+    "url": "https://mynewblogbhavya.blogspot.com/2021/09/a-40-year-old-male-with-fever-and-pain.html",
+    "datetime": "2021-09-26T22:04:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "10 days ago",
+      "activity": "Patient developed pain abdomen and fever",
+      "symptom": "Pain abdomen and fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "40 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "On admission",
+      "activity": "Patient came to casualty",
+      "symptom": "Pain abdomen and fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Vitals- Temp- afebrile Pr-98/min Rr-21/min Bp-110/70 mm hg Spo2-98% at ra",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "24/9/21",
+      "activity": "Haemogram, Blood urea, Serum na, Sr.k+, Sr.cl, Sr.creat, Serology, Ecg, Ultrasound abdomen",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Haemogram- Hb-11.9 Tlc-19,000 Plt-3.55 Rft- Blood urea-14 Serum na-141 Sr.k+ 4.5 Sr.cl- 54 Sr.creat- 1.0 Serology-hbs ag,hiv,hcv-negative",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "25/9/21",
+      "activity": "",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "26/9/21",
+      "activity": "Haemogram",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Haemogram",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "26/9/21",
+      "activity": "Provisional diagnosis of Liver abscess",
+      "symptom": "",
+      "diagnosis": "Liver abscess",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Provisional diagnosis of Liver abscess"
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "26/9/21",
+      "activity": "Plan of care",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Plenty of oral fluids, inj.metrogyl 750 mg IV tid, tab.pan 40 mg po od, inj.optineuron 1 amp IV od, inj.tramadol 1 amp in 100 ml NS IV sos, tab.ultracet 1/2 tab /po/qid, tab.pcm 650 mg /po/sos, inj.piptaz 4.5 mg/IV/tid, bp,pr monitoring 6th hourly",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "Day 4",
+      "activity": "Inj.piptaz 4.5 mg IV tid removed and inj.magnx forte 1.5 mg IV bd added",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj.magnx forte 1.5 mg IV bd",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQyIQi4Z3ris6mMB2jm8wVLZ_qMubVz9uuPEXPdcHOrqJPwijcygNgUcQSX485FJSuOtWLMmlK5anOXrx1c_Tjp7Jfv_W0xnbtz4bwlxSS46pXYA-Gtn9kjLy3KJixYVNRyM5AfzNqExxG/s1600/1632799599059962-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVzy-Kl_klCF7pqayOLCR73jK4BLSylGRwLy0_3RoRqqcMLY1BwNUcirM6fZz5jRWgiU8tJ0pFGy2BNVeTee0PEyvK-fVDzqN78XzqQ9URiCOCJbc3w9pThXVJZsg-8_r17bbFresAvrms/s1600/1632799591876429-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEuylRaKGuQGp4vgMvmwcHG1GFgAI-zITRxmgH4K2WRPrnUe2DBRa4yiYCEpkSPuDS2Hiq711L3YgUe6AcRjNULlwPGdcYwW86RZ5kM_H4EmAvvHKxTxtMWYixv2aZppDKrSZna_7YrY4U/s1600/1632803316151097-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfxnx0xmWTMnCbNqk9427dW5EIcxCPCeunz94ZWAKQmirVIP_OHq1gtY8V6hzyJuVhvAM_uDeR02SykvO7TycRD7zY7PbJ4zSjpMaPEVkS71FonOmi2qTBSLIgErrc0kF8olD-krJ9qVfY/s1600/1632723123219482-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-tZYEV5D8JRXP9ogIfgcGX7x68V9naoV39NdzigYO8nSrORp90Ttz42yk_eKZwvtGaGPsH7veUaT0Z0_9Q4AgXE0JH7l74RyaMCrrT_QtGh4hQQgBDae4G45NNMxxCvzoHfn6m_qpxb3Z/s1600/1632723117570006-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoKiLe0TOX2Uqi29fJk8I2G9rJPjpHz84d5wnOeyXgeDG57RKzNLr-wTg4O8woFDzN31wLweN7cJCqi4Rb42-jPShxRm3Hb9LERK30Ct3vpfbpNY1JYpRyn8sum138B6lVHAbu5LjatAIv/s1600/1632723732386945-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvRtHaA2j5uo1UovWQ_e762vNsTpa9oZfRe2n0gKZPOuLt1jygyqVlNLFzUUEPZC6474axUzvM7GAAado39JHGLodrfL9PjkZtY-k6ONxc5IEt13DUYNTF8lMt15HmBsoLM9cjr9j1Jpt/s1600/1632723991158174-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyXgeuf3e3Yij8Q3uX-87R3iG5EsyajpV_ycRwcvXDW8t8yUUycum9_3aFAmWP16XH6jcn2nDWyia81OS8-xNt7JGJy2z9ljyveEjToJZp0orGj0OCgtcX_NkCnROE2bsDDlVubsDEZBh6/s1600/1632723464640125-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAmELb9Zg-pim_GGBL1tvfbQL2xFe7-SGR3_PlUanVawDfvUaUiF-gRjs_qxxzVBCn2hbR3JG3NuadzzZQEKJcR0uchFP_mlC4MQBHg7fIlXX9fomcCJBghoFFM0WRQ-Fgj3FBZmSgrowA/s1600/1632803277766030-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiti7dTCf_ahbpU0hmMSalTBc8QGEWGROIKxIzU24Ec1aB7nXdcm5OtKOMg0mm2DJNmpnnStkDv8mi5bf8NAai5fE2mNJkaJZk6JvGRwyHNdA6tRmvZQDmDKpi0BPM2ZmWLDGU8Cs3koDIl/s1600/1632809591574840-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBDtgpAc-Qy7LWca1dLtgS2uvsR_5ZNnVvdccemnNy0bMpsnq4ncGXI5MSu9OAV_RDEeMEhr4z6HpNpZOnm-MRh9PCpS2Gh2CvKYaM810du8pcqVUYc1krzcPBrsQvZOjQHv-Q6IU0gfPl/s1600/1631927848912113-0.png"
+  ]
+}

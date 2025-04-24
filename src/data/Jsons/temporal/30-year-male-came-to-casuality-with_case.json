@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "url": "https://katanaveenkumar.blogspot.com/2021/09/30-year-male-came-to-casuality-with.html",
+    "datetime": "2021-09-20T20:33:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1 month before admission",
+      "activity": "Patient developed pedal edema and shortness of breath",
+      "symptom": "Pedal edema, shortness of breath, abdominal distension, abdominal pain, cough with whitish sputum",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "30 years male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "2 days before admission",
+      "activity": "Patient had high grade fever associated with chills",
+      "symptom": "High grade fever, chills",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "On admission",
+      "activity": "Patient was admitted to the hospital",
+      "symptom": "Pedal edema, shortness of breath, abdominal distension, abdominal pain, cough with whitish sputum",
+      "diagnosis": "Anaemia Secondary to vitamin B12 deficiency with Thrombocytopenia, Right heart failure",
+      "treatment": "Inj.Optineuron, Tab.MVT, Inj.Lasix, Tab.PCM, Fluid restriction",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor, Icterus, Cyanosis, clubbing - absent, edema of feet - B/L pitting type",
+        "investigations": "CHEST X RAY, 2D echo, ECG, ULTRA SOUND REPORT",
+        "lab_measurements": "Temp - afebrile, bp - 110/50 mmHg, PR - 110 beats/min, RR - 20 cycles/ min, Spo2 - 98%",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "DAY 1",
+      "activity": "Patient was given treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Bp/PR/Temp 4th hrly, Inj.Optineuron, Tab.MVT, Inj.Lasix, Tab.PCM, Fluid restriction <1.5 L/day",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temp:101F, Bp: 100/50 mm hg, PR: 64bpm, GRBS: 121 mg/dl, Spo2:98%",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "DAY 2",
+      "activity": "Patient was given treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Bp/PR/Temp 4th hrly, Inj.Vit B12, Inj.Lasix, Tab.PCM, Fluid restriction <1.5 L/day",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temp: Afebrile, Bp: 100/60 mm hg, PR: 70bpm, GRBS: 109mg/dl, Spo2:99%",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "21/09/2021",
+      "activity": "Soap notes",
+      "symptom": "SOB subsided, pedal edema present, fever spikes absent",
+      "diagnosis": "Anaemia secondary to vit B12 deficiency with thrombocytopenia",
+      "treatment": "Bp/PR/Temp 4th hrly, Inj.Vit B12, Inj.Lasix, Tab.PCM, Fluid restriction <1.5 L/day",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temp: Afebrile, Bp: 100/60 mm hg, PR: 70bpm, GRBS: 109mg/dl, Spo2:99%",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "22/09/2021",
+      "activity": "Soap notes",
+      "symptom": "SOB subsided, pedal edema present, fever spikes present",
+      "diagnosis": "Anaemia secondary to vit B12 deficiency with thrombocytopenia",
+      "treatment": "Bp/PR/Temp 4th hrly, Inj.Vit B12, Inj.Lasix, Tab.PCM, Fluid restriction <1.5 L/day",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temp: 102F, Bp: 120/50 mm hg, PR: 100bpm, GRBS: 112mg/dl, Spo2:99%",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "23/09/2021",
+      "activity": "Soap notes",
+      "symptom": "SOB subsided, pedal edema present, fever spikes absent",
+      "diagnosis": "Anaemia secondary to vit B12 deficiency with thrombocytopenia",
+      "treatment": "Bp/PR/Temp 4th hrly, Inj.Vit B12, Inj.Lasix, Tab.PCM, Fluid restriction <1.5 L/day",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temp: Afebrile, Bp: 120/70 mm hg, PR:90bpm, GRBS: 117mg/dl, Spo2:99%",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "24/09/2021",
+      "activity": "Soap notes",
+      "symptom": "SOB subsided, pedal edema reduced, fever spikes present",
+      "diagnosis": "Anaemia secondary to vit B12 deficiency with thrombocytopenia",
+      "treatment": "Bp/PR/Temp 4th hrly, Inj.Vit B12, Inj.Lasix, Tab.PCM, Fluid restriction <1.5 L/day",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "Temp: 100F, Bp: 110/70 mm hg, PR:90bpm, GRBS: 114mg/dl, Spo2:99%",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLZfVC-9CyyvSkKKC1kYvyDgsdj-sCJ4gDb4jsTQWAGpUx6RnUQNZ16SbMJnvkrPRHoriDLUUGki9cYzW7hjdF7icPPw-0iPcW21gRZm2QylePSBZ9O1Qn9PRFyiy04_h9hxpnjJfoUso/s320/IMG-20210920-WA0014.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYrlYaDDzKsxiNpRRCZb1ggixeJzt4QEOgwaaTX7aQnzQDwNFUoOBk7tU8Se121yLQik3eDjvabn4b_YJ248h7hyphenhyphenMD98XrawCxObyirCu02TjaHvH1qJYXYKsQ9mJqEWVGkcsaL54JUxUN/s1600/1632198758444438-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdvliUaAzRNU6YxVScXzHR9whXA_8gBECc8_zyXdDwsJgy44EiNlk9ur8ZQM19DpuG0lge8VNbkLhmxhvqoZ_gAWv8n89AxLMdnBOJvbN99pnUGoMvp-L5hbThUPGFNqm0tHCBCOHzPMys/s1600/1632198746720867-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicRJ7zxwY9bDDb4nMRsnNQi2GeKB0qq0Ej_8W0OCKak4eTtcTpG4PiNtWwOHRw5saQU4kFVmuLOvzlC7kH4_sqPElN6diBN5MKEZz0u3tfFsbdwGypl2RBSUnVbNYXWrZpiNnB_o1I3cdF/s1600/1632198742226917-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGaNJxyRc0uozxPrjLSayS9WWO1kygtcQubwy4b5g2ZNijg88SHAB0J9H7QdAfQAttg2BUWwEEVFqvz876P-HYCFzIa-7tM7LmMT-1uKnhTRXlP8gibbzcbcCteIAd4GaQH3Tbr-9ZokpX/s1600/1632464479732125-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEUQEsKfysdmBaiFaUBXCGwjYkNzxbV0p1d_zspODLyD8ULm3SqINuIGT_c2Hv-3NuvqbhSVMotWFu_g-6kjLKRM2x09ZQM5hK8JEP2IixD8a3I1wXMuWmSTgn3-TZQMVLDFwJMTxmA88Z/s1600/1632464467573103-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7Cdw4B4itUu3ae2f9yjzd69W7JvNigdo_qHOdpC6_79W8gm8CTUEWa1Gaeg0dEkxYs5SgLxzoXJGxewQS1QstgFYFFEI-WALpsgAtjFzFetFL2tIqDW4_Na1Ww87ovnaPd_dv_HtY0XM/s320/IMG-20210920-WA0011.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPXD4iIyehnBodIOrpsUH_KjV4YbDSj4hyphenhyphen-Jn6AbNx0yZMZcfARlmtTa4lnAk42yLE_YNCw6tvbqhVo5l6nb4D8ux8NBM54RH4mCfEQigSmE-YXpchsrXHQe58jEgWQZMncX0GczHEyHA/s320/IMG_20210920_173846.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja2sOgoB9PeV0ZboqzMMBCfyKMjxOACg8YC0T-Q5X79Jipa2siwd_-jTPCKX4c1T3sJJ2U5kQq4LK5eFo4Ld1sFHC1BQVXTCsZHqrP-Eqg4bD5h7-Yv0RmGh6U9wjyjct3g_HPA8Nn15o/s320/IMG_20210920_173909.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYrHJnZ-PTcnPqr1lA_wCqkuKvoq2LcDqXjbvHQTMbBgqR7sxd29rKHiWnpItntu1mksGhlCBrbweFwmBDUJ9DKnhYAMSNCrkIjwoQvQtKx9rccFzno83_RntmMnUG9k3Fwudr8La1Ah4/s320/IMG_20210920_173930.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirSllgV5QVYd2ymfQoDryGRn2dEGWVwPScQ6OQe6l6d2CfaQgwKq7YOkseBnoYuDqU-AbhrRO_eWjr2SEXTrB6TTj-Mg-KY_z58y18lSYutleBRB1UijUqju07GF5nUoRoSVQD7fkGZKU/s320/IMG_20210920_173956.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTtCanBP63FZtHQhYeeVfetxhaDnM3oWHQV3kbyVKKn38_cXyC9wgRZRRkTRyPK8vPXUhKtqnBADMC-FDcq_Dh-oevo-6jJ1Hfy5_PPkCcNeVysmgtW0ReY92oJaBMJX1UtPMTeP_mpkY/s320/IMG_20210920_174012.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSXkvBt5tuF-xc3edg6AQ1_zZ62ay_xgHxvj_fyk9F-EQJRaTb-QkDvN-ST6kZiBQNBhcdgCmAX9dDeWMEJba8gHKDlnwwnZNCB2afLtrRXOZgU5NhOp-vEkVvyTn2BtTTi87BDilw_m4/s320/IMG_20210920_174024.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNqNKTlw0OCa-HZQWo2MjIkJdYr_NzPKZq1gHBMJuYKcktxyNHW8gMJIRetvsBAkJ-3v2hzpzPKr1ZKfKT89og3EXmNmuetECBTf9w3zRNqYskMeQM08wI3VDUeTykNjsfgyzXw-aVI7Q/s320/IMG_20210920_174043.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix2xfEbf099pKA4rvzaHxxX3LeNCncyFQKYD0RDEIXnIcMcgTXiYjShzyXCMy-2W_NhJSKnKiN13w8CN44l1lc25l_Uja0gBC99reAq6RpLrVOmGRCDhQazBw7otWe4qtWMVU4e1N1JvE/s320/IMG_20210920_174056.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_8kltkyJcD9URD6DMcfTjJ-8SSTZ8vSkdnkEdH2b786hvq4E1pYRdew6KG9dsmERWug6C2n0v7Csn_CVKf3a0BXjVMu_MA6UzuTmZOjYzxRovt3DkazKr_qpbN4XArf5rK75kcq-kus4/s320/IMG_20210920_174109.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNolGgKxZMYiXcMUjBJCnatdpQRwGd-sQMAkBRaIns1Z7wLgzzl137SB6waPZYNa4VGlUaVgnNVZ_ZDGeJDkBNjLnMzWgfgDUa6_BaRb3e-mArkmRpohxQxjfqrjqwxq2Rre9Ip3-qe8o/s320/IMG_20210920_174125.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitNhpXj-f0OAOky8crCxrFRSwaaLmx8f-ryoPyfR7AAETQ3aNOuzRaNASwtmFp11mx5qR8c63JgRL25bgU6Cstj0JrjELSjPXUeBvshsXM9SLv0VZBeqb9v-0G5tQbXmGpBgA6gODQwN0/s320/IMG_20210920_174141.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrHzb89MyU9MxtziLw1lbc0e86STmrjlA_u0MOoZ9HUAcjpr5HEtwq8MQWTxlrCl75bwJEljRT81-Lp2mQ2Or_ERQj7FwyRtX9ErTNRDBjqZfFqWLvKMEokHrO-HNBvPC0Cwt36mMSxvY/s320/IMG_20210920_174156.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO3lN75TlmOBqsSxZoijdhFVBYw59yQEBNPR1wqyFiZxVp1yQSOlIfAzHZMpICi0Ktpa9RcUKmwF3Y2BSHtz-SAB4xAa2vflb4I2DLYE1TiyPEO3RFaLmRuDGgD_g0ruo_2_Q9QpgeAnY/s320/IMG_20210920_174220.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYw4Ua7WQZW9mmuAmxGmXbxAZpnDvQxDwhN96KTJ6tEhPdYXOOZrxL2hgEV9kSYKRuClpYtw9lXcxDLjm1njwAyc1Fc8yo_89fQ8Kgoojx7OZrjRq0Q_uqjdrZnbPqNRpPuG6HNP3HQ-s/s320/IMG-20210920-WA0024.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDqzHXfA2_EHCtMJVNiqa8twV50XPnuKTpEvNoDnbAVqavT7VNdOk2ybbuCqLoGm1Fb-okbmsTxa7XX4Wmo7IijbZBpSXFQKfU3ESwVOtBjxhnddi6U6Gzuv3fcI1WL6YO5zg9haJMWyo/s320/IMG_20210920_180007.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH4tUiayH04WVOUNrRoz5Lme86VDAQMj0ER8KtTXXHkTsLGDMmX1uLHBWaJA4yWCzwCc26rXiwNI2eWO3ulLv_2puSEF_7ykdvPl3NViDimq-qK2eZPqcDz2lvGOEXbHT0T_SVdIFWBmI/s320/IMG_20210920_175944.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxdO6igvSXU-z479y0TMIjGgw0xH3RsqDDk_g8vozTWasKQs9fa2jpyPBNdLJVMvlcrPd7EWxN-b84yt2CMdFwJ9voqL1jMzGzyIV-xATr8a2YmdFHMR4Uq_MDSBMUbq6QZAqcFhV4RU0/s320/IMG_20210920_175846.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikCn82DXTqO0J2wZzIy2o_04XaZd3BuCZcenN3IfhtYp2XwojGYodglaVTecovMzFt7Gu7JF9UCkhCFFswWhjkiyV2iJeVaw0gCqctbXYaf_jv0Dv11jp6uykh96TGIF8GjUDnTk2U327H/s1600/1632464435029804-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikiZ8Nrs-fOBd5otGyG1o0B-hXXlcZLMs0KXvXjj8jGFe-5Q5aEngf0ueepr3zhWpBKGE9P4ujrLjKRPC8wHtizcqmwzegMYOT1Qi58iUepcTsdGMHbKLUsBIrH27JUHxpsnWT2LJw2MZk/s1600/1632464394023077-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0jVo0s9VNzTorimDZvRYdU55Obf4aBIzc6pPZjeqdNxUru57NpLv_R3FThwHNTrmITaLXJodJT7BR28_BNwzzz4bK8Xwmo1yVZMZJk8cWkMBMAMxsX_SYi-5ScwW-l1-7Mjsm_PH78Jlj/s1600/1632464342153399-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfRZsYq0JINMZ19E_ls6mKmFVu783_0IgCzm1m8qGLW_-wIQ6ZRBkY2YgT03mvOVYFOO-Zqc9xwhR64ljlBZ3AsuEAqaBMYj8t1ygzezDQYi1qIR9OpTgWRrjkmPk60Jow0qhr8qnSXtZf/s1600/1632464087285949-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTUQT7CO1WScu1BCf04Xa6l3Q5QHEKXOxipVETjG-vHB6RVQrpawonLnQN_kc2Oj9uKYxLpMktvcVwwGLyJrD2f9ab4f0L-sCnlWjB7htKYAnPhVEaimR3ijkZHEPpQdNeBVnvz1PSluQQ/s1600/1632464077718890-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd-g_55Ak426RBdGvHY0ZcRIZeyDXDaXPU1qttsTvfxaWnSqTnQbPZFYkbakYGKg5BjbQ33NPfKD9kW4rrBIe1pY98sabAV0kxI_iELFcVflH7OlQn9bxPxtu4WZoEM9tPvIK1u42OZ-Df/s1600/1632463904134336-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpVF0xqv2aaYHbi_vYVhSGcSQ0qZEGay_aEX1egBHiikn2rQ6suS5A0_Z6Wiu1pIx7F6ol15-gP3ZaJVLV5-43n-S2Eepvd-4WmmpqFUPLiE7q5x6Szyn7DKWKAXC-VI9bPbz9wR7Mwbo/w459-h284/IMG-20210805-WA0017.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7_gPh5nR5aEpNXkphj8zOsAx5SkVihs3mmYKBpaiK5F7-KPZbLSXtx4vHI3jjtP7lDItlbuEdSGB2G2NKVVuCUaEysgnPDlZ_nbruArfZJqekemlFbCrYH7RidL8y8-PDRtcImwXHgA4/s320/IMG-20210826-WA0057.jpg"
+  ]
+}

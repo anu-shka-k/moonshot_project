@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "url": "https://mynewblogbhavya.blogspot.com/2021/09/a-50-year-old-female-with-fever-and.html",
+    "datetime": "2021-09-17T18:05:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "5 days before admission",
+      "activity": "developed fever and cough",
+      "symptom": "high grade fever, chills, non-productive cough, sob grade 3-4 at rest",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "50 year old female",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "on admission",
+      "activity": "admitted to hospital",
+      "symptom": "fever, cough, sob",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP-120/90, PR-74, RR-17, Temp-99°F, CVS-S1, S2 heard, no added sounds, no murmurs, Resp-BAE +, NVBS heard, Per abdomen-NAD, CNS-NAD",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "17/9/21",
+      "activity": "investigations done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Haemogram, ABG, Urinary electrolytes, Blood urea, Serum electrolytes, Serum creatinine, ECG, Chest x ray PA view",
+        "lab_measurements": "Sodium-309, Potassium-39.0, Chloride-373, Blood urea-64, Serum electrolytes- Sodium-139, Potassium-6.0, Chloride-99, Serum creatinine-2.3",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "after investigations",
+      "activity": "provisional diagnosis made",
+      "symptom": "",
+      "diagnosis": "Pneumonia secondary to community acquired, viral, left greater than right, With denovo detected diabetes mellitus, with CKD",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "after provisional diagnosis",
+      "activity": "treatment given",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. Piptaz 4.5 gm IV stat followed by Inj. Piptaz 2.25 gm/IV/tid, Inj. Pan 40mg/IV/od, Inj. Optineuron 1 amp/IV/od, Inj. Neomol 1 gm/IV/sos, Tab. 650 mg/po/sos, Nebulization with Duolin 4 repsules stat",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "yesterday",
+      "activity": "tested positive for COVID-19",
+      "symptom": "",
+      "diagnosis": "COVID-19",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "referred to a COVID-19 centre"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBDtgpAc-Qy7LWca1dLtgS2uvsR_5ZNnVvdccemnNy0bMpsnq4ncGXI5MSu9OAV_RDEeMEhr4z6HpNpZOnm-MRh9PCpS2Gh2CvKYaM810du8pcqVUYc1krzcPBrsQvZOjQHv-Q6IU0gfPl/s1600/1631927848912113-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxFpYFfRx0rykfIiO5JwbCaUcJX47FCSK-LtqRoSC_zmyJYxkQCeKUYgKrXargL5ISuhjIocTnagBbanEu2B9tiFSn-8vro5eseUMl-pbjL9N75Y77gYeLU9D0PiL-OQM8rnbxaRHD4CLt/s1600/1631927841924121-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQv7YOqGuC4AS1qEMeZyH0zStg5iTf1hZEJV-dYF8qHJuOiMION483d2UZ-il7C_oSygFlmGyPJmOQn5aI4W7KWb5Gci0Z1mUmTkXrf6FFHHQl67HSG8YGboPD-G9aIHmlzAZR-ytrYKZ6/s1600/1631927835815040-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSr2CDIQlStv1m34DN6nFxAzEMEelr-0fgYUhM16jZrdvSBOK2rBHHh0gKixvbLoFxHSlZyqY_2hOpPeESZyaaCDHYRqilakm4SAdfLp5rCl93zqtFe6nBlniX3gwkrfwMm8zatsOy3Xp5/s1600/1631927797063931-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiafZVbwqHPHusuouoQL8Yg1Z-_3fr7NRUIz0ZGmujOvTDDVkMOGQujiNcsrxOF5ENk183sN4rGYSR4DbUlWPUcQeHkarkpll3YS2-N3uX1lWXWeU6d00q064n1jqaDEeQbCo0mT2l2DEsi/s1600/1632066351871126-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQyIQi4Z3ris6mMB2jm8wVLZ_qMubVz9uuPEXPdcHOrqJPwijcygNgUcQSX485FJSuOtWLMmlK5anOXrx1c_Tjp7Jfv_W0xnbtz4bwlxSS46pXYA-Gtn9kjLy3KJixYVNRyM5AfzNqExxG/s1600/1632799599059962-1.png"
+  ]
+}

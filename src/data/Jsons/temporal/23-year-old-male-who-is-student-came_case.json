@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "url": "https://medcases1.blogspot.com/2021/12/23-year-old-male-who-is-student-came.html",
+    "datetime": "2021-12-23T12:56:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1 week ago",
+      "activity": "Patient developed fever",
+      "symptom": "fever, chills, headache",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "after 1 week",
+      "activity": "Patient went to a local hospital in Nalgonda",
+      "symptom": "vomitings - 3 episodes, non-projectile, food as contents",
+      "diagnosis": "",
+      "treatment": "medications",
+      "notes": {
+        "physical_exam": "",
+        "investigations": "hemogram was tested",
+        "lab_measurements": "platelets count - 2.20 lakhs/cumm",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "3 days later",
+      "activity": "Patient went to Narketpally clinic",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IV fluids, injections, tablets",
+      "notes": {
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "platelet count was 46,000",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "next day morning",
+      "activity": "Patient's platelet count was checked again",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "continued with the same treatment",
+      "notes": {
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "platelet count was 46,000",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "same day evening",
+      "activity": "Patient's platelet count was checked again",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "platelet count was 48,000",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "next day evening",
+      "activity": "Patient's platelet count was checked again",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "platelet count came down to 35,000",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "after platelet count came down",
+      "activity": "Patient was admitted to Kim's, Narketpally",
+      "symptom": "",
+      "diagnosis": "Dengue",
+      "treatment": "IVF, inj pantop, inj Zofer, inj Neomol, tab pcm",
+      "notes": {
+        "physical_exam": "Temp - 98.3 degree F, PR - 75 bpm, RR - 17 cpm, GRBS - 120 mg/dl, Spo2 - 99%@ra",
+        "investigations": "ECG, RFT, LFT, Dengue serology",
+        "lab_measurements": "Urea - 11, Creatinine - 0.9, Electrolytes - Na+ 139, K+ 5, Cl- 99",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/a/AVvXsEibhslnKE9OEj6Ts1iVPv_N2YdzBJ2cxbHId4D9gM5cCzKOWcn9OXrhTHY1F-vjZTgB5URhZxbWKs-mYltP8aDRPu56W6oLi3TBemvZAObTjGY9xG0UJZbtnfb4uaku4AckwjLu7Z9nI40lbgbeOFZ3MsnJUROOKXfG_X2xofcAS-2HxJBd_PPenI_LTQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhub1YGcjaE5FQ8wV_hbaKRL7ML7x8e1qmgiOsEO2FpSZgzte0dSiF76Q2l9WltVxaV5tR43OKVbVVtFy-jiPzQ_EXuSLe5box2FUHZVBiFeTrpywRbgc3XGanCChaGBVpPoHhgPeTNgZJ7AD0ySVDIs0bLr68b0XPHi8TfaQJrgvyrH3D9_oCVvE7sCQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEic9tAcMqRbVcAV8m0SIMJdj29E_MCyoF26yCoQ5RUq9p4rszfFJMjBPRincvN1N5yCF_SU-TLbpmYdQEVPfnd3ONr-JVWwTAw6yzNFrL1wE_vu5EbXepqiNI8gulrFT0UnLrGvCQmWr0lk_6uRcS-NpK8u90yP404Zu_q_gEbfVXh8gKQ01Yj5VvleOg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgyi2j2qoUlV_CebNTB_79uqFUrN-YESRvaybOSF0xg79pL0n2UVMY37TmuxIZ2J4p-rvlFh1bp9H1p6-s9aYuP7dYgaxMsfKbIeUtZ1i5T3VSCBF-3jgDlZbhOHDWrHC7FhICiwaUYLG8df2h00X-rhdHqgJLxRbnXLqZRWwYJufeCkPT_K6BKzbKmmA=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhVcDMLWMB_nMPsXeLVqDZUe0WbB8eHiKQX7Ze6ZXCcau9wPWwFjNUhxFEeCQmLmt4YTNhhBYWratrflKS4w1mu4ExnGywUKYi7BrAx3pkwChFmVCJICwiGG1AdtaZXkGzILMe2W-ckCPS5GKV_CtDPnEawb7V1QvNt0C8CjqxtTgADpQ9NZwPFpEV5qg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgmQVlZ9J5RwW-43HE10w9JG_WeSa6M0tlvEeQ0zhE5zKcB5-876s9zqBkr_8se5swHEexDbeBb3k0AuEZ_4r-q1iORamyq1R-JQiwERBQXZbIH2oXldgxNhBspJzOsVyRxBwDJoPrIDBDxmDOiw58qYDBn6Woa0ggMRihetb5dKMckkdsbWuCKct40sQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjQBOHPpmZQ4boqCHhgzH5yA07-rodR9V90pv2Gy-n2zwCUp6kgxHXZfV4CAqfCzR7HiENGgbNljfiP0nA731leqjZsL_e6I6yM7p6QWs1qtbESdXrdKkKC120T-sXtO2bdVlNDYEXCFpaFFXCaJP9he2KdZ8wcb_ZVpCaGceuKENTuq97cIhpI9PFAkA=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgQuezbSyMPWP9pmiCw0oWrqSI58eSfQ5AN_QsXhbSWS2T28MzxERN13m-Q6gKkSNooGquhHxwhxPjvlOCtJ8h6icE_9kEVM__aDbb9_BsGJZvMWJ3ZWXk360Nh-TXOAog8T-NPDOpQ-nzihSkNN69ksfMctGR5LUoNDmmvz4xLCTYl1BPX_Petxt083Q=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhe4-eCIBbxGr6imtajbro7LBj1cfB4IZJJfTCwygsur9fOI1fDJUVr5TJA17dCC0vzkzoII9DxC7YnVPs63mKTLkfKxnBWFo3Dh28Gio6nD_KphYiYrz4Ujig0dlcroBhFacivt-I6YjRyCbl00muX2zoDdGuXWvq8TLRp2PGydPbxPEKiMX8VkkA3DQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiLyrvfoD_q7ICOgb1uv5Hz_n4pBqKfscieOPP0GtIgNhYHbE6ntZgqkeMudvXg5cyWgBmBjROTESdf6uvYLOdgT5gKH_5cUHUh2IYzFARq2KUgdZ9pf-KclgUE5Co7HC0QCmHTfKsfrreTNEJ6l-T1VT48wSyswWIeFFPzeK78BS-SxsG4vrezlGgR4A=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhqMxsJ4RHAa2yN_ldE9yjE-8DQ1MlrOxJ80rfsUHPJfvApVXFEy5N6LCPs8PE-0Ia8HOLQ5BOwIS2jdHav7CkA73oNRf5YZqYNms4uzgH15UDr0ObYhJOl6_oDTnWK7B1cr2Att2LDGSAGqXpIE3peyhqcgPVKF0IwSc13OLfnpLQpZGykc4xLKXGGjw=s320"
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "metadata": {
+    "url": "https://muskaangoyal.blogspot.com/2021/05/61-year-old-female-with-fever-cough-sob.html",
+    "datetime": "2021-05-26T03:03:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "5 days before admission",
+      "activity": "Patient developed fever",
+      "symptom": "Fever, body pains",
+      "diagnosis": "",
+      "treatment": "Self-prescribed medication (TAB. DOLO)",
+      "notes": {
+        "demographics": "61-year-old female, farmer, resident of Chandanpet",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "3 days before admission",
+      "activity": "Patient developed vomiting",
+      "symptom": "Vomiting, fever, body pains",
+      "diagnosis": "",
+      "treatment": "Self-prescribed medication (TAB. DOLO)",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "2 days before admission",
+      "activity": "Patient developed cough",
+      "symptom": "Cough, fever, vomiting, body pains",
+      "diagnosis": "",
+      "treatment": "Self-prescribed medication (TAB. DOLO)",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "1 day before admission (afternoon)",
+      "activity": "Patient developed shortness of breath",
+      "symptom": "Shortness of breath, cough, fever, vomiting, body pains",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "May 25, 2021 (day of admission)",
+      "activity": "Patient admitted to hospital",
+      "symptom": "Shortness of breath, cough, fever, vomiting, body pains",
+      "diagnosis": "COVID-19",
+      "treatment": "Oxygen inhalation, medication",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "General examination: obese, no pallor, cyanosis, icterus, clubbing, lymph adenopathy, edema",
+        "investigations": "HRCT scan done before admission",
+        "lab_measurements": "Vitals: temperature - afebrile, PR - 120 beats/min, RR - 28 cycles/min, BP - not recorded, SPO2 - 75% at room air",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "May 26, 2021 (day 5 of illness)",
+      "activity": "Patient complains of epigastric pain",
+      "symptom": "Epigastric pain, shortness of breath, cough, fever, vomiting, body pains",
+      "diagnosis": "COVID-19",
+      "treatment": "Medication, oxygen inhalation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Blood reports and ECG advised",
+        "lab_measurements": "Vitals: temperature - afebrile, BP - 120/90 mmHg, RR - 21 cycles/min, PR - 76 beats/min, SPO2 - 91% on 15L of oxygen",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "May 27, 2021 (day 6 of illness)",
+      "activity": "Patient's condition updated",
+      "symptom": "Shortness of breath, cough, fever, vomiting, body pains",
+      "diagnosis": "COVID-19",
+      "treatment": "BIPAP, medication",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Vitals: temperature - afebrile, PR - 102 bpm, BP - 110/70 mmHg, GRBS - 159 mg/dl, SPO2 - 83% on continuous BIPAP",
+        "investigations": "2D ECHO advised",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "May 28, 2021 (day 7 of illness)",
+      "activity": "Patient's condition updated",
+      "symptom": "Shortness of breath, cough, fever, vomiting, body pains",
+      "diagnosis": "COVID-19",
+      "treatment": "Medication, oxygen inhalation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Vitals: temperature - afebrile, PR - 101 bpm, BP - 110/70 mmHg, RR - 20 cycles/min, SPO2 - 79% on room air, 90% on NRB at 15L of oxygen",
+        "investigations": "D-dimer and CRP advised",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvvtS_WZBImuuEriJaf7TLvUeMcxH4fZSBg6tKT00zI1gNFHWPRNOsmnxJDMJPt7Y74Dm8_7wQ8bFQikprKbR2zq5Bak_Z6oTIkp1XoYATqrfQ5ewWMLZsHzH6YxCwZSC2gheM_Yai5Q/s320/WhatsApp+Image+2021-05-26+at+13.03.10.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJIQjMIy6mifHxOocByAdEJ2mIlMbzMZu3Q-itCDIVwBZXumVeHmaEn7L9DQ1cBQngzJ3o7QBe8eQTYk1epg9JTCsZK2ziUE2ym8frTEeangfFyZNyRetDKX78JnZj9zeVbKCsB708Dg/s320/WhatsApp+Image+2021-05-26+at+15.00.04.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ-kHn7dNZhQHD1SrTUc42x8UCCg949DJcI9xWruCtDViBYH8ILB_mbIE2WgNIivVi01gmemlDNgijN1MUKf0C6cFyTBqmd4KbvtYRiUr1au0iGwrDCSrBh6fun9qDcgnAw__R2WSLBA/s320/WhatsApp+Image+2021-05-26+at+14.59.13.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjSIPTSXJxsFRfvRRl7SkvhzX16ybQMJO0t3SGFVFwTylbfoE67PeULdg4C2Mzq9KlvJ_Bu_4rPa8a-CjxJL-ddog7phrJK7ySrKEc-7x6tyHFMpc0WG5M1Plh-CN38g3a_Ga49UQONA/s320/WhatsApp+Image+2021-05-26+at+14.54.10.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8qOBeGyioSPomrkGeZgmYjSNtQU7CF3M8PxmPoO4YabGZkbL77Ph2YbK1czk0tprsNt8NWLYWu8M1Iy2Y3adYcFa-JIIDDAM0nXUjADfPzw8RCTBYjFYhxa-v671ioe5R2VDye763aQ/s320/WhatsApp+Image+2021-05-26+at+14.56.18.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHEFKdSS7ph4JjFGgzkMizrrEPhp4Li6gVt4XjEBpnxoee8_cLOLEqw-W0OgKTzp9R6MzWRg4BLYAfOk_A0YE92BeWJZPUJQUQW7XOSjFyQpmuKoe_gfYz1XRJI2Udl_bcM1YG2tvi9Q/s320/WhatsApp+Image+2021-05-26+at+14.57.13.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTwL3fBQdd56cWQwSL888tdiXZkDAKX_FhkLps6dB5gMqHkVZzawYqpgVzo-VqLOuL6xLtciwZdyNrbtqfQFBvzju5Ag02eTNIRMD5LzKnn78ovQU6Odt-oJBEt6SYzkJ4Ro_NQf_6VA/s320/WhatsApp+Image+2021-05-26+at+14.57.37.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWPGEiYP5l-XzNF7I_mr5nVKTYUx8gFHzGzMQr2gkOg3jlmVix6y2LIh1mtFxEmqa9FwWja6KOdwF2FLcodC7M9cOlWGnZQZ_wK9kRXagkV5zltzeWNHjS9HRLXOPP5DtJAINTC1M2PQ/w300-h400/WhatsApp+Image+2021-05-26+at+14.58.31.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMQduBEaFFYmQ9e-qwzWunuKwCTE13sIhztqDFvT4VRzuikp9fdx-9R8Na-I-GlrAZCQHx2Ex1OINL_HM567Fq-EQ5jsukHjAtEscUr7Lua_77_bOHlb741EsrJpDkeMF9jMiEPK7prQ/w300-h400/WhatsApp+Image+2021-05-26+at+13.03.05.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRF7l-BXRKZMJN5CrA5RwOeJiS0fjaqx4QclIQJDpUYRkQkg4l7WXca8hAEnYIWvFamOWoclesYBHGoYGOyivJNv7H6l6oGOH_WFLoCIuTxxir8UJe2WmJFcbaatjTXGOUNE1TvY5aVg/w300-h400/WhatsApp+Image+2021-05-26+at+13.03.07.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZpvGfdMuCdjaKbyBTEvgFxJx9JD-sE7iydakBq-tvpLO34-RKbUiKUZrYH4pxdOb6QQp0yAMgPROFU3XvYmBHkxSFktxpVHhltBrTREtX9jRa-uGcLqsLWykEjBpAy44zvQ54ptXYPg/w300-h400/WhatsApp+Image+2021-05-26+at+13.02.55.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnfG9iDk-jP6nFYOqXRnqplDnad5VE1uO0Ked-AtNwgq4cu7jOGae1JJ8OvzyK4kppAgCae0Fr-qxVY-gsecN1GH7W1BzaP-lFtTnjfBYJ6eGwYVKkfBepfwwFot0zV1j3lq2Fsi133A/w300-h400/WhatsApp+Image+2021-05-26+at+13.03.06.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVKL_XEeQFSifFgpwWHl5ggoTXJ2asz-WWBYzeSwApTsT_c4Le65A7jROEh8Al3ssL5-Rd3N1jyALlTbWI4_CQn5o8iJ6SWHEF1T3X0CcvoHT04zj7Y-u8ZKL3GAtDQhleEHjXzfFedQ/w225-h400/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVgjTaXA2Seow3KiUD0XfnEBqsFcL_6VaRRmb7Pvc4-yZi7WWf5ykHbSsM80HcNv4JoY8G0-heMqm5WavCwnoxgV6gW4Ndasb8DyfyZJO2TnB54aZ5XJsewebqIYhCvSxqJU9hjIldeg/w320-h290/image.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicROenhzksmTH6Rpc0Bh03SVF14FpzzgTYyQKxQoa6oBldMRjrW1Rm1m2CPT8HnWEzh7vgNFOiRDRC_Qh8Kwdl0pWBG-bE6OfhcoWuIEN6rfu4ySlS7MqQcyGPeeaYwyD3aOV24RU40A/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiZw_zP52THGc620Y1uIFuNuBgRxp-tsXNdYjhSTv7YtrUmZvCcL6RAXaovAyTu6T9RS7oZAE9DNzkBWazwjiQeUUxxnc7UzbIn27xjAgcOu9-EbILL91rgYNb7nWzYzES58t_bnBtRQ/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_njWqUNzeMTCAVoq8oaSOt0Sv7QApxQ2ve8XTdQFNVH7llcm3-SXSVjRlvvkO8zq5JpRs31I1dLQu-tM6t91PWDOL5mGcGMLZBtvsHaaCzNh9CsFwAjm8g-6Kw9PwlKM9SS3MlOnvNg/w284-h310/image.png",
+    "https://muskaangoyal.blogspot.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH1LH4DwVjz-SS8LMzwDPKwlQJF-gxJO8Qdmmj9HRlZdV4qdxD0IlJBpi137Hz1IAofAsw274plnFsH1FXnT2kx53pJiaVO3Z0JRd1OryiH4zZ9NiyQcl7xnKih8Y5/s220/IMG_20211220_122409.jpg"
+  ]
+}

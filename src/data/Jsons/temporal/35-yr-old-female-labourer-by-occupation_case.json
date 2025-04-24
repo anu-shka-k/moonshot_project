@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "url": "https://keelasreevalli.blogspot.com/2021/09/35-yr-old-female-labourer-by-occupation.html",
+    "datetime": "2021-09-14T12:53:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "11 months prior to admission",
+      "activity": "Patient was apparently asymptomatic",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "35 year old female, labourer by occupation",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "11 months prior to admission",
+      "activity": "Developed generalized weakness and fever",
+      "symptom": "Generalized weakness, fever",
+      "diagnosis": "Typhoid fever",
+      "treatment": "Underwent treatment",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "7 months prior to admission",
+      "activity": "Developed generalized weakness and fever again",
+      "symptom": "Generalized weakness, fever",
+      "diagnosis": "Typhoid fever",
+      "treatment": "Underwent treatment",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "3 months prior to admission",
+      "activity": "Developed fever with cough and cold",
+      "symptom": "Fever, cough, cold",
+      "diagnosis": "Covid positive",
+      "treatment": "Medication in home isolation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "1 month prior to admission",
+      "activity": "Developed passage of stools of large volume",
+      "symptom": "Passage of stools of large volume",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "15 days prior to admission",
+      "activity": "Complained of low grade, intermittent fever",
+      "symptom": "Low grade, intermittent fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "1 week prior to admission",
+      "activity": "Complained of passage of stools of large volume, semi solid in consistency",
+      "symptom": "Passage of stools of large volume, semi solid in consistency",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "Admission",
+      "activity": "Admitted to hospital",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor +, No signs of any icterus, clubbing, cyanosis, lymphadenopathy, pedal edema",
+        "investigations": "Hemogram, Serology, Urea, Creat, Electrolytes, LFT, ECG, Chest xray",
+        "lab_measurements": "Hb - 11.1, TLC - 10500, Pcv 34, Rbc- 5.09, Plt - 341",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "Day 1 of admission",
+      "activity": "Given plenty of oral fluids, IVF, INJ.OPTINEURON, INJ.PAN, INJ.ZOFER, TAB.DOLO, ORS SACHETS",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Plenty of oral fluids, IVF, INJ.OPTINEURON, INJ.PAN, INJ.ZOFER, TAB.DOLO, ORS SACHETS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "Day 2 of admission",
+      "activity": "Given plenty of oral fluids, IVF, INJ.OPTINEURON, INJ.PAN, INJ.ZOFER, TAB.DOLO, ORS SACHETS",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Plenty of oral fluids, IVF, INJ.OPTINEURON, INJ.PAN, INJ.ZOFER, TAB.DOLO, ORS SACHETS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "Day 3 of admission",
+      "activity": "Given plenty of oral fluids, IVF, INJ.OPTINEURON, INJ.PAN, TAB.DOLO, ORS SACHETS",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Plenty of oral fluids, IVF, INJ.OPTINEURON, INJ.PAN, TAB.DOLO, ORS SACHETS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "Day 4 of admission",
+      "activity": "Took for endocrinology opinion regarding high TSH levels",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "Day 4 of admission",
+      "activity": "Advised tab.carbimazole, tab.inderal, tab.shelcal",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "tab.carbimazole, tab.inderal, tab.shelcal",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 14,
+      "time": "Day 5 of admission",
+      "activity": "Given tab.carbimazole, tab.shelcal, tab.inderal",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "tab.carbimazole, tab.shelcal, tab.inderal",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 15,
+      "time": "Day 6 of admission",
+      "activity": "Given tab.carbimazole, tab.shelcal, tab.inderal",
+      "symptom": "",
+      "diagnosis": "Denovo hyperthyroidism",
+      "treatment": "tab.carbimazole, tab.shelcal, tab.inderal",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLxPqCrwNKmiKe3ob9m9vjkhFxn-VVl92pMLN-Mj99oyyQkfcWIptgjcxxIT0hYXLnfiYb9V4XcQixLCwm3mMwUDgxXadQ59MMblMe63gaTAp5mVVzwy9UDujhnJ097Cdw9sFvLMIfbw2A/s1600/1631677682905331-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhumCqiBOWTUk5GrdLP66D65acEArBMj9M15UoPygn-Sl-HsNANGmNOXJQ2ouu2x-Sd601A8N7XdN2a8hwLJXyTQVPThGLi0cE4IWDhIpYSZ0K4fABcSjg5YBeYlY8L0Ysv_QsIl5tGcMFk/s1600/1631866634703048-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigItE0ZagVyRZebsXJfUuRJdFDM_i1zOq3FMjR-QywEloMjS91YfuIp5xBlfabZCJJt-zVtGgYiPqq37PX4bJOpMoxuF-A84PTyU30FTMexomeOa6dtkkPig8dO8M7Db1O4x1twvI0glhu/s1600/1631655198546047-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5qaXoI-Cv5XPzdwF6tagIRZZKpKFrwhiRAHb0kd73P3AheWqmTsnchbwl8XeN5Trxsm3QOLiKRO35r7NuF82EkQJDxMK_6jOJ6VHKi6Fdhg4iUNnG1ecZEzaj7jwTxOxYbthvaEl3D7fr/s1600/1631655194262013-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRm_B17i9F8yNn-yq8GxsWqgJ9j7bbJThJYg6qu6D1tGv5UuEN45Ooyftdi6ym5kVWBuWwfYBmlMLbojp4PiGQ1S3awKBCy0qmSnFBW0npxxGC595m9rLMc5OLdoPkD4OfRFFulHvs5jJG/s1600/1631655190105232-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNJtmul7zcDMSpd7t5jbntSFWK2ZHjK_V3JqLwzAyw1CS1Q-RAzNl0fJkTMFLBPySIL-kI21mekNBFQTOYU5luO_-N396qCvJoKyBhMZJDhTMHCQIL7P_6xlWSwuEZXiYhk89Uj5rcMwWB/s1600/1631655185637201-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBFSnNqz873EEElAz8fd50vHZisamp1cGyOO4jP4KPuzzRrH4kWsW5ma9XFp5jYk36vC-dPo23YBbZJ8w_FsjFfvYNx7jQtba8DeqM7GFrhHhzahYIlQIosw1v0wWnYuLozOs03gckFfeY/s1600/1631655181176805-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_V8a9C9LgJwJxZNWilB72ppAo47cDJvhNyprY8cSsvYcOe7SV1mqTghxEEf04Qvu5thS3uUoN3vbsl6YXYBsEAm_-POZys867yTPUnuWYY2VtTTxAafkbIkPZUfP6enyEGTeS2f8pdL04/s1600/1631655176317745-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZZ6t18LzJk1C783sjVOtjE6jpLFHDR_ncYDLH6zBuRr8h7Ce0NCt7PhDona6vlAU22AHY2PyzjvgUv-bMHOelFYbF39_Y5IcP5ugJEkDx7FGryjQzrOcghCBuvP-A1DmWQUqDtKi6Y11U/s1600/1631866628965797-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcQ84KxWUdpYGhqY_LiYSM59UraLcF8uk48Xp1Gdu7KUFCzoFNog_aGpnDTHtX2sV85x9SNsEQFFTaaXNVAoKS6wpdlIrJudawluy15SNXNjC1uWcICpDfSTdoTrl5fxrgN09xmZ-6z8C-/s1600/1631866617952916-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjURGfTpsWf360IvOS9Y6Miph-016ZsjHkjDkDcWw6tHS_35pmlAoh5A-v78mV7b1UUZHBpJCponxz4Z_MQ3IbJe524h6cjPX7lA7Lez-cLclw6p_Bj9DGE9lKbhzqbxEeXUq1ykxZd4F4H/s1600/1631866603614174-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6RuKeZjEX0z6Xl8VlGBgYrzuimYxjoOthPVNu2N-ZF0o7rw9Ym0g8dAGFkZDWjkJkiyw-ArRFENlEF_FqXjeCpnATkXvKLjETuCcG3spvqgHlJ3FI-O779w6FJZgS7GG5Pxo3xreQl9EB/s1600/1631866583900679-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVZoFuzyhZmwO5EnIpvKOV6RHPE1x3diibJZT83q1_GAU81EtTd6DxBgtQkdv1sq8UO9Lwi0qI3chPKE8G9E6HhURhU8vd-tC-HnOTXpOMX3xgw9fBEptkX2wO77jnCbdhyphenhyphen5BJE7Evbq1F/s1600/1631866523478014-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCdA4-5CjtbY1qNgRg2NbGPvC1_oVQj_1c9xypXKzioSHWLgMZBVwDZHGwoLhI6EP4bWEG_Oil0FqeKXRv9nsKsmpQM4cY2KwvMpZ-wZPOkgLaPTx4_LA9lONpKi7inCoFBxZnX58Zev9f/s1600/1631866483569944-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0GDFBuzlQynTnMJU7LEoxIm18xnguC-103AaDV6TXvaxW3HwDNB1_mxYskoAAG7L1l86w2qLi9ElwOWCv8RnEy5My6vToWz3eT4UupDUKVFMdC4FYU0c3V0U9fpcWWym3icB7FUro3dqk/s1600/1632061372395539-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihIVvVKhWLy-ZPw3gLYj715d_8UF5fqflAV4KAF2JsnIkkbm-ze4wDuxuZHUP9uNOST2g1DkcZeyDqk3kOgSWqkCzaukkPvoykYy7yTuA05BB_YcaKZvp3LbMRNb2_K4q2AgyZSebwrF0F/s1600/1634742185669424-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI8eu9ijEuFrnQ9aipKRHh7FiAKBAgIj8vvBm8T9G_avK0-_xkllf-Ct_xepi6j_3Zr1X9iP-YZtmxFeZrt9Y4ikCG7lBZtifnusDsKR39-oYa7Zc1MgSxsyrsuygtByjlDOvY-i6aEq7i/s1600/1631646251321901-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRRSFIb7dXO2prak2cJlJgqe3nyWHDAqK_NfRFErmTzvAyBEnKg4xz-o1s6Dg3ZTeW5j1axM3H32McptvsF1AchK_nQ2umVpXdot6orwsez28Hz9SAe92c3wU3hGL4AMSgAQGQlmCbSlMq/s1600/1615874976737303-0.png"
+  ]
+}

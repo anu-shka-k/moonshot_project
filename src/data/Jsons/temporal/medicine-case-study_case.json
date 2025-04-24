@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "url": "https://jyothi97.blogspot.com/2020/05/medicine-case-study.html",
+    "datetime": "2020-05-16T08:08:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "on presentation",
+      "activity": "patient presented with symptoms",
+      "symptom": "falls frequently to the left, left foot and hand worsening, rashes on face, swelling, hair loss, fatigue, left jaw pain, dyspnea, oliguria",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient has multiple symptoms, including neurological and cardiovascular issues"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "during evaluation",
+      "activity": "evaluation of symptoms",
+      "symptom": "swelling, breathing difficulties",
+      "diagnosis": "possible congestive heart failure, kidney failure",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Complete blood count, Ast and alt, Chest-x-ray, Ecg, Echocardiography",
+        "lab_measurements": "anemia, increased Ast and alt",
+        "discussion": "patient's symptoms may be related to G6PD deficiency"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "during treatment",
+      "activity": "treatment of symptoms",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "cimetidine, Nattokinase",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient was given cimetidine and Nattokinase, which improved her symptoms"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "during investigation of rash",
+      "activity": "investigation of rash",
+      "symptom": "rash, blurred vision",
+      "diagnosis": "Behcets syndrome",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient's rash may be related to Behcets syndrome"
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "during investigation of oligouria",
+      "activity": "investigation of oligouria",
+      "symptom": "oligouria",
+      "diagnosis": "possible infection, oxidative stress",
+      "treatment": "increased fluids, antibiotics",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Urine output, Urine examination, Ultrasound/CT abdomen, Blood tests, Cystoscopy",
+        "lab_measurements": "",
+        "discussion": "patient's oligouria may be related to infection or oxidative stress"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsSwfy3s9ii9rZgZHdTXZ28YxuWFUNMecRXmxScOJG5sJSZqDpZXJWo09qwXU9U83MqaUF9STVyxvs8g4tOApycuqNFvFe6_2JqW6Jpe8FrfpRKivF5kNCJqEmhwAidsOkdTniEq-TxPk/s1600/1655708593845437-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiVbXQoMRKkFP6c3K3XwQwGUycUjlwT58HNcWT-lNV4zi0rm1A6lV1KgQXOzBqkjVH3hyphenhyphen_LNA68-unwf8QDLIhBGeCsQnkve4BL8fPvWBTiONuLQ9hywkirOlZtit1OmJt69EC0V9Yvm0/s1600/1655715217042138-0.png"
+  ]
+}

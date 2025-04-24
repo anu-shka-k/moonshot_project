@@ -1,0 +1,395 @@
+{
+  "metadata": {
+    "url": "https://krupalatha54.blogspot.com/2021/07/a-49-yr-old-female-with-generalized.html",
+    "datetime": "2021-07-13T09:57:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "13 years ago",
+      "activity": "noticed mass per anum with bleeding",
+      "symptom": "mass per anum with bleeding",
+      "diagnosis": "haemorrhoids",
+      "treatment": "operation",
+      "notes": {
+        "demographics": "49 yr old female, mother of 2 children, house wife",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "3 years ago",
+      "activity": "started having muscle aches",
+      "symptom": "muscle aches",
+      "diagnosis": "",
+      "treatment": "NSAIDs",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "20 days ago",
+      "activity": "had fever",
+      "symptom": "fever",
+      "diagnosis": "",
+      "treatment": "treatment in local hospital",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "20 days ago",
+      "activity": "started having generalized weakness",
+      "symptom": "generalized weakness",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "3 days ago",
+      "activity": "started having vomitings",
+      "symptom": "vomitings",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "5/7/2021",
+      "activity": "investigations",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Vitamin B12, Iron, TIBC, Ferritin",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "10/7/2021",
+      "activity": "investigations",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Bloop grouping, Vitamin B12, Iron, TIBC",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "10/7/2021",
+      "activity": "ABG",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ABG",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "10/7/2021",
+      "activity": "HEMOGRAM",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "HEMOGRAM",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "11/7/2021",
+      "activity": "Reticulocyte count",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Reticulocyte count",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "11/7/2021",
+      "activity": "SERUM ELECTROLYTES",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "SERUM ELECTROLYTES",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "11/7/2021",
+      "activity": "SERUM CREATININE",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "SERUM CREATININE",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "11/7/2021",
+      "activity": "BLOOD UREA",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "BLOOD UREA",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 14,
+      "time": "12/7/2021",
+      "activity": "CUE",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "CUE",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 15,
+      "time": "12/7/2021",
+      "activity": "LFT",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "LFT",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 16,
+      "time": "13/07/2021",
+      "activity": "Serum calcium, Thyroid function tests",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Serum calcium, Thyroid function tests",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 17,
+      "time": "9/7/2021",
+      "activity": "ECG",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ECG",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 18,
+      "time": "16/07/2021",
+      "activity": "Bone marrow aspiration",
+      "symptom": "",
+      "diagnosis": "multiple myeloma",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Bone marrow aspiration",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 19,
+      "time": "9/07/2021",
+      "activity": "Rx",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "T. PAN 40mg, oral fluids, T. ZOFER 4mg, TAB NODOSIS 550mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 20,
+      "time": "10/07/2021",
+      "activity": "Rx",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "oral fluids, T. PAN 40mg, T. ZOFER 4mg, TAB NODOSIS 550mg, Protein-x",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 21,
+      "time": "11/7/2021",
+      "activity": "Rx",
+      "symptom": "nausea",
+      "diagnosis": "",
+      "treatment": "oral fluids, Tab PAN-D, T. ZOFER 4mg, TAB NODOSIS 550mg, Inj ERYTHROPOIETIN 4000IVS/C",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 22,
+      "time": "12/7/21",
+      "activity": "Rx",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "inj.optineuron 1 amp, ivf. NS RL, inj. erytropoitin 4000 iv s/c, tab.pan-d po/od, tab.orofer-xt PO/BD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 23,
+      "time": "13/7/2021",
+      "activity": "Rx",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj.optineuron 1 amp, tab. pantop 40 mg, tab.nodosis 500mg, Protein-x powder, I/o charting",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 24,
+      "time": "14/07/2021",
+      "activity": "Rx",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj.optineuron 1 amp, tab. pantop 40 mg, tab.nodosis 500mg, Protein-x powder, I/o charting",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidlR8HVrHuxwFX4jK_1fypCvQ0huEuPuhVIkfIjJmyL5AMN8VOVfln4wxen5HOR1PLOQ-EBtri_X7eUK_b8iIl-4O-pvXxf7PpUcniNb8w8soemcEi5ibEwpwJ91LZSqpl_RKzrW0tWZ8/s320/IMG_20210710_115810.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiox6_cWSBfaQtGyzXOzQalIedX0TgYotJjGnKxNHFtUeQCcgImtVopyAGbxhKfFtZB5SwH-b3GtII14_bzm2P48aO_6LN9F2wQa3Paw9cZJm6CqTvuQsxKGawh-Q3yndd7u6VByQuiRjN9/s1600/1626255216284710-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjsI1H42NL2eMVuNqBcdZCClP3b7ioyx1I7pyVHUSlTaC4AuKw4y-F9YP8weVd1GXWImiLcJK-ZZoRut35pDtWPasedUJFYdEGC8jGBx0HVFPQprIwt9gHGglpU-0wGlZ5PCqUTk3SssE/s320/IMG_20210713_145257.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmEYmIvOdYLCQ_eF5IFMK-L7tTHcjB2__UTxN2XCuMB1-HGsSFDChjEgm8tJp9jwTfif8TGOwoKDKebbB8_mhdyeCh-ZIb_mL7SbuFPUjCwu4apghRUI4B_T8MYzSfAfggtqU5D15diI4/s320/IMG_20210710_173956.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheTHH6smLt750Qw4vl-OvXeGrtwIwfPL3_x_BlJoBAEUwCBmb2AgWPUjMMofPnbvst9wtJiVKXmNxUKccjfEfXBhQNzk1yvtwewbvhzeMQKz8xQy3DpcpBTEp047HvluXyqNJW_HLGcEo/s320/IMG_20210710_174020.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyhBTkOUtbGoHVzbsUktSvhEjExfV-vFuQM3dY-ohQ7XD6bcHPy00CV1q2xVpRNDhqbUkgcBcDaJSzyfjtXoz79eJOjRCTJtZuyEcpXzETqGy-AGx9MJuKBZp4VgfLVpDIgdexklg_PeE/s320/IMG_20210712_125513.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1tTRXe6Irki2pJZ2B_SI0gYQhJ2b6gpqdQLVRSY8lftcjdjJ-KLBXAvBw6IxjxVSmN1cWIap2AuLql2EbBeeCZbhC3l6tGYztYkXCiG9R9ontbE9Y-D0iqKoG-7L30CQOOB0EpmCHjDGm/s1600/1626344051979449-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj3xSQWB1hLx5w-iku9a0YdLX9oK4o3nA7-djyTtoJFAYxfkRKUErpw2louGNpvnaLKFYBpH3e36jq8OuT1ZWrqMdjA5c9Inuj065iMvXACew-KL0lbokp-mBVzWsmnKnEExngd0bSrE_f/s1600/1626521283047956-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiLkoGc8-jDtLJ00mTXR3GGVPFHYJnYyN9mYIb1rjF4SIhTRxv3CIcNaT1JAvQirF5wRDxO8-82nGv2KTvutjilFgGXHwxlYtw211kRJ85xjuAPGfiOWOBMV8qzntfElQx41GKLesMtAZe/s1600/1626521272784301-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfPDBa_BAv_FY06VCViD6jl1J8MQqiH988JF84kXbTJy5ZKnc_u13M3chobi_2Ey2vT4MlKkZG5t7WVoI1-s57SzJrTNsu0yQiJXFZLKS4niODxt9gu9w1YMZ6OaFVZeEewCz4yAE-Aem8/s1600/1626528934180369-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv1z62c7Reuy0UXPmwT4H2MgY8yOozPH-aRwQhoKLgFAgJLJR3FS92Xgf25syhe3dTmHgHY1DsstSm_vuvoZI74vZEJmf7bh0eXjdsHPuRREvqCe0tcNJUt2ztScaZxbccXCtr_185DtbI/s1600/1626528928641253-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuYjL7ns7XcagGJBkRSfFXCFLw2mK7ShYpZbSaM9gqBudQvmMI4AezjF6pvHb8P7vHBgR7o5cOV5MNIv1WaFMpeFL_7fRLJKc5ApWZ1CkTxFKxtBZFrMZobWsX9VVdIGMpkqIqE8gGqTjO/s1600/1627109360906533-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBb9oCGw4jKLW_WGlxrFdPAWFqYjfQXPxuwPtzScel3BFGncP_6_EMQxKiIFCLaPWzE9xitF5Y-98VB2dyrLSqprhS-otyzS3ir-ompsjRs7Dvul3XjIwgwiQRS7lD9g2yURXgQ6Qs7ba7/s1600/1627109353192356-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFZXLGB12P2i1PT_VjSwhOyBbI8bBr1-4NURmY2da9O7qhLvsymKIWh4hf8nYjXqieQqiD0DHnv65m-bqKQnOKgIRw6rKlHEvRHOKvzQLGHi2ltKOIUyIN_tm3Vn5b0kFqWAFNKK0Mual-/s1600/1627109347120519-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb_v4OkjGSAXtR_LK-RkLKYr3ubEaGFW7i8eamy8wSLIOtGzZFyazaRphHS5zC16y44lZiMkXrjiZVAv2g_ASCZQY1hO8jXrc9qU-OqZAuRdY_q0-mLgRzGTyQds1ttedDiMyo32-n3m2h/s1600/1627109341084989-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5muK-wBij5wjSR3M53uIzU79D4MESpRLJGpJ5eLE0g0Pu07suHk7ciwh4ktMVsY8z6EPc7eSCENnwA7S59T_Nns3cCBwzYngHLXmwHpc8kOl8SLWNLBPtoUYEuOx_dWWtYe7W1vhSPY2J/s1600/1627109334669019-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9e1KTWWyRRY8qNYBIqJbtlNthYdNidYMffm8viOkzxZXKX_rh7kTze-CN6-wvIIRS-mPOFZ7-EE_L4iFiZlTBcLCFdYocZkp-8zX-Zv5TGN0wwTfEuNIhpGOCyp1J0vmnNLF83vHfRrp2/s1600/1627109326296058-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX3L28dHB_xK09robyiunJIzqOE1Kvkk8tSvuRFBnL1IQzqjQar2NYygqa1jwIFpvDLdiOfjcAtQ7CarlGoF55Yk3HQGdldNyK0vF-7-gBSIJVho92eLUXePNnZS6FOGqqYI45XLTXPhum/s1600/1627109314143738-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuFvdmKcxL-M5qNvm_UAiyzhL21rtl3sN3BMc5a0o77jwl2PH83vECEPx44vnBIzCQ5w8Qcu9sAI6XQ98YWLyfSSvmePL1rGnW_DFCqknzDnUkHAXfU2Ri6KEPuuDjwOKJiaybQlDvFLjT/s1600/1627113587078189-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKLvUvz-eOIbjflrBQBOdqXiUVbq1l8l0Pi93NdjEj92OAMGR2LlDNMDDv9mlewVsKFC3vwO31MLRT1TSr1bvrOauova7WGYB35zyK39IYttOlZ1EneGxI3842dSnsO4U-p3ldyfQO-_tR/s1600/1627113582335640-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6FbSqzPSEhRPoWeM7mSysJVDnmeE0bRJdKd6NaZzG6uBoATjGsA8ORCjoFA7pYFetOog5e2NKrAwdekgxpRb2lMTnCj0wzGrSXcYz-O_PLBTBU_4hy0G82dVug50-7k0ohsDK4EV7An_0/s1600/1627113578495494-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKGHONw2EBwR82rwfFAsX8_vzWn7pVDSMTABi4JVcpo5tMrdfFaMuRGeIeXRK7LlsJZz45AOfStl8Nn2Li4PQvhD9d3U-_fpD1wgu27b1tnuwYNOj91pMgDTQEeWa9Gm2JZoDfzoD-l5Zr/s1600/1627113570075314-3.png",
+    "https://krupalatha54.blogspot.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0NylZzT8APKmcNI-Ht-XeLu7OTBT_q5LURoxUmnlmR8tad7li-bwFKo6DtoNYWTYIr42uI2GocdAhoZJSmBKCDD74PS38pilyjiELiQvCkMuQJ32LnzioazJgCfbQoIo/s45-c/erl.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikO9SqiM4gl3tDV-O3NSmF4WoLZL5vBv7guoE33d8P555n0qkPVGgtCy3iNYHKEK66_DN3g_iLbONouidMlB7O8R3miKA58hg2CPC0MM6tGkyOCEv12czZSAj7AF9a0XwWzsGL-wm5lSHu/s1600/1632379285699569-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixvvlUMVpunytbTQmKQZzJnOe1Q-oMU5TbYvCah9spxKzSpVvpu9fngGYEdd4LQPBjwcviy16qMFhcD-p3tthZlKd2EM2TmJA_-Ht70s9__If69Pgui7zd3FKMUhRTYb10vbqOR5Ni94ri/s1600/1632058691083052-0.png"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "url": "https://mounika107.blogspot.com/2021/12/a56-yr-old-male-with-crf.html",
+    "datetime": "2021-12-22T20:21:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "20 days before admission",
+      "activity": "Patient developed bilateral pedal edema",
+      "symptom": "Bilateral pedal edema, shortness of breath, decreased urine output",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "56-year-old male, farmer by occupation",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "15 days before admission",
+      "activity": "Patient developed shortness of breath and decreased urine output",
+      "symptom": "Shortness of breath, decreased urine output",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "Admission",
+      "activity": "Patient admitted to hospital",
+      "symptom": "Bilateral pedal edema, shortness of breath, decreased urine output",
+      "diagnosis": "CKD",
+      "treatment": "Conservative management",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Vitals: Temp - afebrile, BP - 160/90 mmHg, PR - 99 BPM, RR - 18, CPMS - Spo2 - 95% at room air, GRBS - 115 mg%",
+        "investigations": "Hb - 8.1 GM/dl, TC - 8,600, PlTC- 2.79 lakhs, RFT: Urea - 145 mg/dl, Creatinine - 14.4, Uric acid - 6.7 mg/dl",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "19/12/21",
+      "activity": "Investigations done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Hb - 8.1 GM/dl, TC - 8,600, PlTC- 2.79 lakhs, RFT: Urea - 145 mg/dl, Creatinine - 14.4, Uric acid - 6.7 mg/dl",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "21/12/21",
+      "activity": "Blood urea and creatinine levels checked",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Blood urea - 167 mg/dl, Sr creatinine - 13",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "22/12/21",
+      "activity": "Hemodialysis session done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Hemodialysis",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "22/12/21",
+      "activity": "PRBC transfusion done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "PRBC transfusion",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "23/12/21",
+      "activity": "Soap notes",
+      "symptom": "Sob reduced",
+      "diagnosis": "CKD with secondary hypertensive nephropathy",
+      "treatment": "Salt restriction, fluid restriction, Tab Lasix, Tab Nodosis, Tab OROFER XT, Tab Sheltal, Inj Erythropoietin, Inj iron sucrose",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Vitals: Temp - afebrile, BP - 130/80 mmHg, PR - 82 BPM",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "24/12/21",
+      "activity": "Hemodialysis session done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Hemodialysis",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "25/12/21",
+      "activity": "Soap notes",
+      "symptom": "Sob reduced",
+      "diagnosis": "CKD with secondary hypertensive nephropathy",
+      "treatment": "Salt restriction, fluid restriction, Tab Lasix, Tab Nodosis, Tab OROFER XT, Tab Sheltal, Inj Erythropoietin, Inj iron sucrose",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Vitals: Temp - afebrile, BP - 130/90 mmHg, PR - 82 BPM",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "27/12/21",
+      "activity": "Soap notes",
+      "symptom": "Sob reduced",
+      "diagnosis": "CKD with secondary hypertensive nephropathy",
+      "treatment": "Salt restriction, fluid restriction, Tab Lasix, Tab Nodosis, Tab OROFER XT, Tab Sheltal, Inj Erythropoietin, Inj iron sucrose",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Vitals: Temp - afebrile, BP - 120/80 mmHg, PR - 76 BPM",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgibmdinVgB2mvWy27Qgh0NJ43l81U1uqPc0eWUzlzQE2uybHXPoMzTQhb6d7F4ng4c6jacxItNwBa4L-TaDgTEAeAXhiLMLOwwU6Tpcl0tnYhBKQka0wCpASyc9svni7AVxIGaP0PeualN/s1600/1640233109157987-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAvPOWiO27A9WqbbtXsCA8MLsOIFGM1zwsq2zLg2GjuJbINN4fXeyQgjT8Xlfd3pgru8sUqyI1nZPhyphenhyphenCVtT5WUFWdbo0tXCRYbAlqCeI77Le9oGDO_dNuN7VScpVbD5ZFDeEkYXLplUd0l/s1600/1640233103242986-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLGBVJvl3WNpyCk9ERzXhM5fWmNV3whdCtWxuE7aW4iVh7hhIbuSoo36kUfRJ4s7Wwc40P_B_dtPy5zvYN4mVBkVsj8kijCpavCvDo3xI4hSJ-JMvceIb7HLxwRN9sNIb93yRQbhy-q5IV/s1600/1640233096658313-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFBKPxjx6kf7lLtSHC17k2u1PxEiaWGYcfrb63kdZl0XSNr3bJzoUa8pbJzSB8KAV62sYo_sQ285SR_5CT7RvTUu2MlKHU0XFb9UakO-rcwwJ3fzEFHpxYqrHr1hTNbDjXak7lgaTF57sF/s1600/1640233088564015-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmW9O_2kxTDVS40woBOueeqmyxqwzl2kEWh_XkNCoclt6kxE2-PbxalVPuzLxI5UB0bMAClkFToKxp8JbRNl2HfEDnRJL93UvNzCurWIOZLzbxxeIWHBn7H96zdyUPR7k8F8xjebV3xPzV/s1600/1640233082558271-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg71MyXTODv4sbDJb20OfrO09FxhtgBuxjjvEM3bUcogtm4q4PV7rrhp5H59Medx2z8v2b9q31olsKgIh7RAu4dQeZ4fJy7xhxdBGn_iPFSV6lVsNKrfjNvZhlEewrSyHLNLwgfOi1HLpz0/s1600/1640233077178516-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit5ES7FVCbr-mHlwsMgccLFmvXaFFMzM4InZsBeoLctYgKR5P_QzUnKFPiD27MwjG8VJH5deVa8mTCYzCCpMN1iIkHBaBDhZ6FIsB1fXi0obWY95BxZAb5DmW-2ZLeTVHX0XrsrKvqnzSz/s1600/1640785001064877-0.png"
+  ]
+}

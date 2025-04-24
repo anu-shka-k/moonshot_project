@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "url": "https://manasa71.blogspot.com/2021/08/a-40-yr-old-male.html",
+    "datetime": "2021-08-09T10:40:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1 week before admission",
+      "activity": "developed fever",
+      "symptom": "low grade, intermittent fever with chills and rigors",
+      "diagnosis": "",
+      "treatment": "medications",
+      "notes": {
+        "demographics": "48 yr old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient had fever spikes for every 6 months due to filariasis"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "4 days before admission",
+      "activity": "trauma over right lower limb",
+      "symptom": "swelling over right lower limb",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "patient had swelling over right lower limb since 20 yrs due to filariasis"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "2 days before admission",
+      "activity": "developed pain over the swelling",
+      "symptom": "pricking type pain",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "admission",
+      "activity": "admitted to hospital",
+      "symptom": "fever, swelling, and pain over right lower limb",
+      "diagnosis": "Dengue with right lower limb filariasis",
+      "treatment": "IVF, TAB PCM, TEMPERATURE CHARTING, GRBS CHARTING, I/O CHARTING",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "conscious, coherent, cooperative, no pallor, no icterus, no clubbing, cyanosis",
+        "investigations": "HEMOGRAM, DENGUE RAPID TEST, MALARIAL PARASITE TEST, LFT, CUE, RBS, BLOOD UREA, SERUM CREATININE, SERUM ELECTROLYTES, ECG",
+        "lab_measurements": "TOTAL WBC COUNT, PLATELET COUNT, PCV",
+        "discussion": "patient was provisionally diagnosed with Dengue with right lower limb filariasis"
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "08/08/21",
+      "activity": "treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF @ 75 Ml/hr, TAB PCM 650 MG X PO X TID, TEMPERATURE CHARTING 4TH HRLY, GRBS CHARTING 6TH HRLY, I/O CHARTING",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "09/09/21",
+      "activity": "treatment",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "IVF @ 75 Ml/hr, TAB PCM 650 MG X PO X TID, TAB AUGMENTIN 625 MG X OD X BD, TAB PAN 40 MG X OD, TAB MVT ORAL OD, TAB VIT C ORAL OD, TAB DOLO 650 MG ORAL (SOS)",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5heekW7R8iz5AbPa4RYnVlLhIvkXkbV1bb5OKfdAm_jfygdd_mBHhWZKJaFub7Xp4hEbtzyUOUkntwnNeSCKjdWMPgwhzl3dCnybw3mHQbjQLR8HE_yxxxeuZ8Xt3sHqfhcuyP5ebI1KV/s1600/1628530528867300-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYmHWagP2CDnBwKkhN5MkZvxGYR2fTGnRnI5259Erwq6ffyCd44G6753qd9K9nC3j_p77MfENHTlgUUtSsW5xNZTSCE_1x7ZqBawxOTlWCt6LE4BZMFPiSpMzVNl8cRWwhRLp6Gei5RI4-/s1600/1628530520931583-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ACAkSr81b-11-BEP55E97jOIpNznYSQL1yBC5u13BDkQQ3nckiyBlUW0yvkXBy9LPtiANzl6TH0Ohv17seBAZQ0sq9B34XnfxbglD28xeJig8fkcRzyDcmswBLE4VzX1ZSCFmsdTpm-L/s1600/1628530483233347-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTU6HHQaC7BjEDYscYdU_GIVRITXr1cW4pLU0V51ojvw09_We__Dtngzgj_oZ22ypASm4HhYXwthacMtPnTKot8rXi022-EQJC5TpVQez79mhaISOkLG_i_UAkxsWo0nMcLuCjCte9d7vN/s1600/1628527970082817-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho4vQxzKeyvqcP8A57gE8CsepC0LTASmyGGcOevO7ri3To6x2Pf3HeYCZ_VdMCixTrjNk6i3v6w7hLFL2xyT2GYIZGjoTa41WSmHevZK-WoYI0KSWN7ixa-2gFY_5mg2sSElx4PBGVdAC6/s1600/1628527960772804-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzuyzmIUWb73WgMtzBqjtEklz1jB7tUDtQOEQfTGbTBRWZOOB7xAcJMCTHx169fm9qSpumkX7zC3nczfzmEz4ZOJpvARCfPz5J1niewUfZETbECQa6PEFFIQQpQ0yHWRznAn6kcCR9wPUO/s1600/1628527952343632-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUO9WvGYF7hQAVCrpQsVOA7JNMNgqSSGFyQn7yTFVSj3DUl9Fbb1IUnPcsslimgx_Z0_1l0I87usfQXa8OM1O-D2j1vhvd2prAyTocLFT79IgCveGacanVI68ssavPrtmRF3OSM68u0hLp/s1600/1628527940795488-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWmjE-IGNq5__3Q32D3w0EPeQTXi4-PXWi9dZKlhne3lJpz4deygRA7CtYXpgg6ValgtJ-5PK1fieLUwKaePf_RYkgubeKdM487wjaepkBXRNzwGA5HCa8GYCoG5tPx26fiS3NeH00pwVl/s1600/1628527933424774-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy_9lIFRzfpOu5ysPTnUJhTKVGs2bsIa7iowZoyrmngGWCX0sqGMeWJ-Oq7tK4TTBmCHjOSQD9EUdHZGL33BIzMOjbrHI-oymsJEGxkfAElsDS1oJ14NCgkplfhSBzV-nytdRWEIAFzQ2F/s1600/1628528964345342-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgylA25hwDp6HB84Jk-U09cQune4H5-trhVuZTxakdHMwhN8gnwLKRuidpZ2YLPdEcxTo5nDIYjbmUjzKmd8TsZTU8aKVf-9deEK1KPY3J54TeNpbSsTcikrUjB_yC7coJpI7Q9RzWJcH9j/s1600/1628528951022130-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcZDJhK1Q2fUBFJOcNAbBrmo4uJNVMM6wEj0uTTviqs1LOAcyoQvBsUJLlmJ48dQ2qA58xFDYsqVWkEtKzTf13jKonoPw5vC4o_Rw1bf2Gmi-lE3LN22RjHwj6nEahu2v2R65r-NYY23MN/s1600/1628528946232784-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXu5pWwrQbrF2VtnKDlspBM5SmXcVA6RwDgdpB8R-HZ_y0D9KnaNePZswE_SW6S5URVNMp0Vk_UF837I5YBhgYUl0OfHo8YtP3USr8orR1DoK9xyRXSlv4PcLg_ec4qdV-NmNWqgGMPyWo/s1600/1628528941087388-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2FiPvZ5OEsgkyyGEfUWGHAU2R_15bZ5vLjgFe96y9_EQBeIHiyLV6EWbGjoBV2o-RExcYbs7CJgMF5yyRcYxbtHlM2lcRFBV9bzEZCyE6Qdqmm3vbAQa4I9Rn4znsvai6bgZSStT0xoN1/s1600/1628528935717900-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhCHtHBgsrLZrkdkCdpcbZhbjlKqekgkN1wlpi3ayYyN4VQIbJV_cA9ystMMcqI-KWM7OnVB6jwBov-BeMixw0bARmu-ndyioqB9KocKyTOM2sMjPQlne5dupo1WciRY4fRyLFLDReDSwZ/s1600/1628528928436279-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLD7GpRLOgor3ECF5zn2W09bMToOEZijiELmDi577Ygcws8xZmR6FIbRfdffma7fkzLlTHtcURehR_GjVI_xUQPtyLWc0N7cejWP6QCOyPi-ctWbNUkScxbjK9dgbKJ8T2fy-CW3xTzUnS/s1600/1628528923103836-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ5rQ1Qo-sc4vXZZIfbrTdADPfC-UJuaoQiL1rCX6wpNufhG3NxjgLQV0xmv3wdfPuytnoOmwLFxKFRBFFErgiseu8PYE0AOzfqmB5f1LO0jkkIsEmbINNGlKjepqMnGDZo3L-HmVD7JzT/s1600/1628528917400070-7.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQQM5hCskMRksxUynqnTWeTNyoaagNqZ6tLs_93-hCUCGM81a8wWAhjRtZ2MlipZwt6-6yf4DwHx0I2IG2cppwRShSXGorUS4tE2GoXmDLkVm7z9Z3VsdLk_HUtFqb5Axny4JxJX-H7r1i/s1600/1628528912310749-8.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEityLyMxXvuBWw0Ew4o4Nu3kDcuLQpLCp34IHzbq82qnxENu5S7UwFIBqApGt_wzp1ltFaQzNHcsr9uYqlOZXOAxo6zaN6U6KbDudsJPNJftAekGT5pB06OSWsexGuhuvEMgnpycdJ5uPci/s1600/1628528906767487-9.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiHxmYQJRYg6SBJiKSF3QLAd76t8_ldSYi9VYfWC-Ber38dG4KQhA2DWJQkyNxtDd9kkLr2uT6l6ZDzgih9t0H79MQiIo681djS8cESdguMA8-wo8bQRv75N40mFS5lNwszgV-TvI88y7h/s1600/1628528896955166-10.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyH-UmiQDAAFe08CI9-BtM65l3HBQcgt3Uhlni0c65ZOG8XtoWdkuQAo-_-5VQbZdNC4xxA6DTz5_fPhY46MQ0WPTytqf6sLC1r0LC6tdpgqTmUn6_iVbAtg-EUajMUQ162ssj-G1nkfjA/s1600/1628528883413852-11.png"
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "metadata": {
+    "url": "https://medcases1.blogspot.com/2021/12/year-old-male-came-to-casuality-with.html",
+    "datetime": "2021-12-03T02:01:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "2 months before admission",
+      "activity": "Abdominal distension started",
+      "symptom": "Abdominal distension",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "33 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "2 months before admission",
+      "activity": "B/L pedal edema started",
+      "symptom": "B/L pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "2 months before admission",
+      "activity": "Scrotal swelling started",
+      "symptom": "Scrotal swelling",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "3 years back",
+      "activity": "Diagnosed with liver disease",
+      "symptom": "",
+      "diagnosis": "Liver disease",
+      "treatment": "Medication for a while and then stopped",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "3 years back",
+      "activity": "Diagnosed with diabetes",
+      "symptom": "",
+      "diagnosis": "Diabetes",
+      "treatment": "Metformin 500 mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "8 months back",
+      "activity": "Abdominal distension and yellowish discoloration of eyes",
+      "symptom": "Abdominal distension, yellowish discoloration of eyes",
+      "diagnosis": "",
+      "treatment": "Herbal medication",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "8 months back",
+      "activity": "Diagnosed with DCMP secondary to alcoholism with Chronic Liver Disease with Alcohol Dependence Syndrome with DM-2",
+      "symptom": "",
+      "diagnosis": "DCMP, Chronic Liver Disease, Alcohol Dependence Syndrome, DM-2",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "2 months before admission",
+      "activity": "Stopped taking medication",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "Admission",
+      "activity": "Admitted to hospital",
+      "symptom": "Abdominal distension, B/L pedal edema, scrotal swelling",
+      "diagnosis": "DCMP with reduced ejection fraction, Chronic Liver Disease, Scrotal fascitis, Right sided varicocele",
+      "treatment": "Fluid restriction, salt restriction, Tab Lasix 40 mg, Tab Aldactone 50 mg, Tab Met xl 12.5 mg, Tab Thiamine 100 mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Mild icterus, edema of feet, scrotal swelling, abdominal distension",
+        "investigations": "Hemogram, RFT, LFT, Ultrasound",
+        "lab_measurements": "HB - 13, TLC - 12,100, N/L/E/M - 67/20/10/3, PCV - 37.8, PLt - 3.13, RBC - 4.81",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "4/12/2021",
+      "activity": "SOAP notes",
+      "symptom": "Pain in the scrotum, abdominal distension",
+      "diagnosis": "Heart failure with reduced ejection fraction, Decompensated liver disease, Diabetes mellitus, Alcohol dependence",
+      "treatment": "Fluid and salt restriction, Inj Lasix 40 mg, Tab Aldactone 50 mg, Tab Carvidelol 3.125 mg, Tab Thiamine 100 mg, Tab Metformin 500 mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Afebrile, PR 94/min, BP 130/100 mmHg, RR 20 cpm, SpO2 99% on room air",
+        "investigations": "",
+        "lab_measurements": "GRBS - 114 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "6/12/2021",
+      "activity": "SOAP notes",
+      "symptom": "Pain at scrotal region, SOB",
+      "diagnosis": "DCMP with decompensated liver disease, Diabetes mellitus 2, Alcohol and tobacco dependence syndrome",
+      "treatment": "Fluid and salt restriction, Inj Lasix 40 mg, Tab Aldactone 50 mg, Tab Carvidelol 3.125 mg, Tab Thiamine 100 mg, Tab Metformin 500 mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Afebrile, PR 90 bpm, BP 110/70 mmHg, RR 20 cpm, SpO2 99% on room air",
+        "investigations": "",
+        "lab_measurements": "GRBS - 114 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "7/12/2021",
+      "activity": "SOAP notes",
+      "symptom": "Intermittent pain in scrotal region, SOB subsided",
+      "diagnosis": "DCMP with decompensated liver disease, Diabetes mellitus 2, Alcohol and tobacco dependence syndrome",
+      "treatment": "Fluid and salt restriction, Inj Lasix 40 mg, Tab Aldactone 50 mg, Tab Carvidelol 3.125 mg, Tab Thiamine 100 mg, Tab Metformin 500 mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Afebrile, PR 86 bpm, BP 120/70 mmHg, RR 18 cpm, SpO2 98% on room air",
+        "investigations": "",
+        "lab_measurements": "GRBS - 131 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "8/12/2021",
+      "activity": "SOAP notes",
+      "symptom": "Intermittent pain in scrotum, SOB subsided",
+      "diagnosis": "DCMP with decompensated liver disease, Diabetes mellitus 2, Alcohol and tobacco dependence syndrome",
+      "treatment": "Fluid and salt restriction, Inj Lasix 40 mg, Tab Aldactone 50 mg, Tab Carvidelol 3.125 mg, Tab Thiamine 100 mg, Tab Metformin 500 mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Afebrile, BP 120/80 mmHg, PR 87 bpm, RR 18 cpm, SpO2 98% on room air",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 14,
+      "time": "9/12/2021",
+      "activity": "SOAP notes",
+      "symptom": "Intermittent pain in scrotum, SOB subsided",
+      "diagnosis": "DCMP with decompensated liver disease, Diabetes mellitus 2, Alcohol and tobacco dependence syndrome",
+      "treatment": "Fluid and salt restriction, Inj Lasix 40 mg, Tab Aldactone 50 mg, Tab Carvidelol 3.125 mg, Tab Thiamine 100 mg, Tab Metformin 500 mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Afebrile, BP 120/80 mmHg, PR 82 bpm, RR 18 cpm, SpO2 98% on room air",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 15,
+      "time": "10/12/2021",
+      "activity": "SOAP notes",
+      "symptom": "Intermittent pain in scrotum, giddiness",
+      "diagnosis": "DCMP with decompensated liver disease, Diabetes mellitus 2, Alcohol and tobacco dependence syndrome",
+      "treatment": "Fluid and salt restriction, Inj Lasix 40 mg, Tab Aldactone 50 mg, Tab Carvidelol 3.125 mg, Tab Thiamine 100 mg, Tab Metformin 500 mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Afebrile, BP 130/80 mmHg, PR 85 bpm, RR 17 cpm, SpO2 99% on room air",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 16,
+      "time": "12/12/2021",
+      "activity": "SOAP notes",
+      "symptom": "Intermittent pain in scrotum decreased",
+      "diagnosis": "Ascites secondary to heart failure (CHF) with Scrotal pus",
+      "treatment": "Fluid and salt restriction, Inj Lasix 40 mg, Tab Aldactone 50 mg, Tab Carvidelol 3.125 mg, Tab Thiamine 100 mg, Tab Metformin 500 mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Afebrile, BP 120/80 mmHg, PR 74 bpm, RR 18 cpm, SpO2 99% on room air",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 17,
+      "time": "13/12/2021",
+      "activity": "SOAP notes",
+      "symptom": "Intermittent pain in scrotum decreased",
+      "diagnosis": "Ascites secondary to heart failure (CHF) with Scrotal pus",
+      "treatment": "Fluid and salt restriction, Tab Aldactone 50 mg, Tab Carvidelol 3.125 mg, Tab Thiamine 100 mg, Tab Metformin 500 mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Afebrile, BP 110/80 mmHg, PR 78 bpm, RR 16 cpm, SpO2 99% on room air",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhqMxsJ4RHAa2yN_ldE9yjE-8DQ1MlrOxJ80rfsUHPJfvApVXFEy5N6LCPs8PE-0Ia8HOLQ5BOwIS2jdHav7CkA73oNRf5YZqYNms4uzgH15UDr0ObYhJOl6_oDTnWK7B1cr2Att2LDGSAGqXpIE3peyhqcgPVKF0IwSc13OLfnpLQpZGykc4xLKXGGjw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEi_9gHriP28uhM6M7orKPRpkLyy2GWRIUPIj9OmNbFudijNeukxU2QN02ZmpFBeoQLTBTPw-2XuQOS8rVjh9LZDI1krCanasPmM-L5VbtntKj1INxK56d992nzs95U-dBByBpcBEyxjrzcTRnq2XgX2disErgyQgAv291wOeNAUT9dgc_fLqOnY6NZHaQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhSyUqHBw3hcUuAoeKw81NXsXADYDn_VG2ju0qUGVhE9S-DdMtrQ8exTOwVSw1vYtUaUHy3K5I7P4uz35vyCJCeZnWjnNUyk6ztn2AV54fcCFsTkp64YCo8o57qLgIg6qYmNzCqaJfLyJZe6tY52ddhFluKvzmsQGh5clkB9j7rE4RHafy07Q-gvXYEig=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhBMeFtFG47VELLAdlZNPKW6_GBoD3x7HFT8Q0kSnKNYDEAf-ZSTA5jMIb3ZMJRaNtJyG1oGq1w-ZppOnQS4coMYd7-YiwncUGCeJWCErwJq989Mr1FlywMV1IXfT95dxCP2KwMfTwzIyKIXc1gpsKE8LWDp9kdJPi7qy2BexuLDIrUEOMDQcdVn55ESA=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgqWCvQ05M6I61zzBtSXuF3S7c6o4Uh8H0yJkRRRqFTiHCkfeH8jn82W16c64-IpcDJi-0xDO6Mk5ar76WqIWMC_CAOoyCDVPuTvCM_lOj3o3qnK-gkHnMEgIr3eZiflZpICJhQjtWxpzZn84ymed4D_toaVU09l3eUGgUkb4Mda0dv4DW6KSpUg9Bfog=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiOZoOZsGSj1BwKh2_ho3kf4Sa4sYEljFfmH6s-oJeAgQqebK4Y2szeKNBz8xIYSbGCi9n0VjibPgiQQ9wivMPQdbOdz8R9Qdp-H-Q0pLMQ0Ruyp9zeqtSS8hyQzfM41OKehfVYYDMv-lHeaY8_TWZv1DppEOLdSK9OZtNqJv77CVEmnxgqHtDaAADaeQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhQucznp5d3Cb-MHwm5PAVf5iYOqr-khTTSLAcKsiyIuqmLBk0WELvOppLcUfgntejb4x294VUY6b10MViAtYq8pyv_YsTrrr6rdxv5-hCoMIzCkFHuaUW6NsUse2sDUMPYWtWbFDQQVnKxpWZya9d_Tue5ZNKINWyizRfXV6SzMAjU85Dx2ck2Hxyw2Q=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEh2NsPNd3WowFAhHBGjKiihbUA0nwkGIAO8A9Jpf_Fxi0uyFP-6Cnwoq_QjPdwK-6olzeww7qbxYlYtcHOR0FGysaLCTRhWXGkFFF6LovlOsyM5BPdM2006qrATVyJXajR7z5j7TfiUTeWP9tj2bvuQYN11aGo6xTTDWALRCFDylILA_voE8VocudSFDA=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjjt6nyCDvMRB584R4UzWA4bIdBD2tpFXcKUyLwL2Tc--AAXjE-n2Ugt5XQGxp4DghE0Ir6n95agZDhDd7jFSMsaY2AgInedWfzzFxEJkp034kyOqeVEE-XMzOPa63V3qINjnWjVAO4ShXZKTzeHSoDm0As1JzpAA0eN8nqfBG17M7xctQ6UofDU--8Og=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjQCcBoZLrt3De6XUDkjHwFuy5dmvMQKcmiPZmAixCjkV4NcHSi2Wh1tWsbrAixizC9mCmSTjKMh6WJoNOdWuFXfcNpWRZVREciz8YmtBOOtepZt8nq_f3nL4RbY_vpCZmPVljz2zDyJT0_4G1GKlhYw7pvqp-En47D7rZK1JyG_vwoeAD_qPNFRamyRg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgWdV6kf-ZoiWVD8khCNq2_rPSmUAfECpTul212GZNd4cgtvHeSpJxbf2EOSFoFIecz3Avic5j9wVmN_1opD5wR8rYodR4OOGK823bMcgDpWYt6KCO70TAS9vd5LskjiY9ocobhPa7puqUGwq1cxali0MjItYmilFORmUJgVxo2PDSq6gG1ad2wCK-Nhw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiyLD1_bbiDKUdtD9C9i2G7R1By9gBUfsgJcsCrCnR_nyrQ7UiVX4gAH-lL7iu3og54poQMvDZz2QT0XWrCg6rB3UxghS-Je3i6-WS66sruEVZknLodUb1T6mE44uMOaXPWOxgYAtwAlZv47K8clz8GFMTgq_tRyadIsNUMMSDLGwRfdvSZleTLnCn5ow=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiQF1oAm672EMW0S3-_Y0M5qKYLDljyx-Pz0vVhAwe7n61zND1zu295g3xwDZab8SkC3_388e_K9jFgghPli6lbPZW0OfBheepcXpWPKFFmEuXr-JE31h0Mh_5IVx588XO0zzcsdii0zkrGd-n5mtfLvx4aUfBeYcIYZYiqjzof4FgBndZBjUJwRQmiHA=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhI-2SY8d0n7AMpGvxQZmrtnyCxTDqfYmywS8xkLXkIXmDsniVf964UlN9-Iyq0s4lOdbiqo-H7rZf0ruKnI2FxZoPBmaO8l6pIn-ZqXllmV6koNbACO4_ghUyvlq_mBRTG5KpsBGD6mDPBCQrtnUjexkXoHQ2zspVzE7Ov1MlfhyShMTAj92Y-6UJXRQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiQFPxzfO-zEENJxriO9--rmx2b6F3KgO77td4oDd-WAXWUtrQJabResTN3yAyNgL7ZCuhFZ2dpEotP7t84rOcTo3ZtEh2e0zogh8umOxfGInsf28Osz64WpfBJBB9JvIrGQksGNnyBY3zoyESRwjbGBrJPK101dwOSgOX4vC0G6kbc5thri8BVUaqK1g=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEj_uwAfQRGDlS6WesgxHCl2CP4GQ6uMxPXJvkqyxC_akxOb2bnKuP-xYd3hAdNcJcIxsQRmyDttxiUChS9K-dC8A9MfvI6Sb5AsprOoGlfic8rXNqOWGVJZKF4sslR_XZisoFMnPHDWOSD4-p5ARtpIT3jUryQX_khEdDnyY0ppdbLL_JruRuflwghVgw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEj0l0QSXTTCzcfsz8viQjjQlMFemST8JJux5mFwFeAGo0PubHft0K3_DOu4jnooOjIWbwEO-Izd3C7K9nevN3evHMqpF8gWqkpPu7cGzUeSUtCsdXsx-qkl2DWz9gsjDzoV9GbnFDe63R1Cvtdd993F8AiWYvHGPxBw10KNXwd1G0xZFKk-g3Ld05P61Q=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhURbKAQ1IRdmp881z3M_WjQFqU-7rmUh9V-cB_CT0r-DIZxbUc-TEImN00rZe4gl6I262jj6YLOFRLOk9pL-6kVjhIiOykt4qkY5OyypA5eEnZJ05ZV-TFeOj1Djx25X9dWlJPxaiMbUur-fHxYeAMfKMjABYs6bBKuMtk0lX2E3284Bv60iy53qnT0g=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgcs7DWjPIF6XEP-SgT60uBan0yXAFzQyy9P71C353BYNGoaoXxOEzdV4HcHr5Uq-RJIKJZyGwQvWpHwzcpAb7NLnOdt_rEDkkHzCxnEsXK20kKtF-OSGvjauEL7baeP6_z4pV8Crnj2sfpjALrhdMxl_fOLGo8vMoF3Wembv0QD8mmXU25F9K9oJiPMw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjmccr17mgDfRwmEU2qnbBr9XvzIzhnPPgOQO-iPns3HF6Ddiu5Oo5ui7ITiFZ09uT_H7lMDjZlz4RjireyLUj3IlRGC0u_kqjtlmcsFpL6Q-6l4mUf1PJinZHoNgDU8SHzb5phDQVyivD5BU1C0RRS2AChGw9fwUk6mVQF7WrpDGrq2rnv1QnMbw7wIA=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEit0pmZecxtvIxATVxUbV5oreop3rpSYI2EzXFUFTncj3Dgd4jNAvBOVgfmJbhYeUgGguVkbVRnQCSHgLFSK2Bjcml9eJZXRZq5-Ue4cqPjnCyKrVvcMafGjv1qb-QTrY8FT4mzWOEIJ_a-uB1oDrtnjLZNqUae235wni7ugIspsunl9bGFO5XNriKFMw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEi_E91QHz4Q8R0IfDCHtGQmkF2Teot1h0mZe3-kjpyFD1xTo9xCZkmxsTS973aHd9yWlqZFYcaUO6xvubF-R5ygG45G110lIq_cwl8GiAuk9FsK7E0KwA9nobyrkzbZ2lIh1Aixj9qGDVXpYPcvi9UJ8gImshtIaaL9BxwZPhhqCu4k-9w-R9v8MCd-cw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEibqfrNptNBVrl_EoZzzCbFycHXuU9cusEA-i3EtV1wKGr1-migKpkD9tmrV1fgW4SfuwJ-BMwpoXqxEFRQ3ujTp1al7O66SXW0oN9DUoUszakmRQqZX_QxUN_sipRV6VwprBW26zzxCvyOtNW1lvmkk_CYMGqx8WKI2GjP_qxf_w_yAlIzuKXY6sYoQg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEi31dNB9TY_fBP4SMLdvpaGtwobvJcz5SZCO_X8zEskQQhFYfU2JGy5BMoYHMdDJX3Qv_CjKyCaMWRcLai3j72HBj64dBuOfIpMq0Icd1iWqLaiBeO2I_LipEakCGnHDurVOv_QEl4LmWaSTmmEiBkop0cutcJdIc-ctRbtJTxx1kmPz7h_JbDuXtU_KA=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiLyrvfoD_q7ICOgb1uv5Hz_n4pBqKfscieOPP0GtIgNhYHbE6ntZgqkeMudvXg5cyWgBmBjROTESdf6uvYLOdgT5gKH_5cUHUh2IYzFARq2KUgdZ9pf-KclgUE5Co7HC0QCmHTfKsfrreTNEJ6l-T1VT48wSyswWIeFFPzeK78BS-SxsG4vrezlGgR4A=s320"
+  ]
+}

@@ -3,7 +3,188 @@
     "url": "https://katanaveenkumar.blogspot.com/2021/08/25-yr-old-male-with-shortness-of-breath.html",
     "datetime": "2021-08-26T22:17:00-0700"
   },
-  "timeline": [],
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "10 days prior to admission",
+      "activity": "Patient experienced shortness of breath and pedal edema",
+      "symptom": "Shortness of breath, Pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "25 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient experienced shortness of breath and pedal edema for 10 days"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "3 hours post binge (90ml whiskey)",
+      "activity": "Patient experienced worsening breathlessness",
+      "symptom": "Worsening breathlessness",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient experienced worsening breathlessness after consuming 90ml of whiskey"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "Admission",
+      "activity": "Patient was admitted to the hospital",
+      "symptom": "Shortness of breath, Pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious and cooperative, no pallor, icterus, cyanosis, with clubbing of fingers and pedal edema",
+        "investigations": "Hemogram, HIV, ECG, LFT, Serology, Chest X ray (PA View), Usg Abdomen, RBS, Serum Creatinine, Serum urea, Serum Electrolytes",
+        "lab_measurements": "Potassium 3.2, Creatinine 2.2, TLC -16000",
+        "discussion": "Patient was admitted to the hospital with shortness of breath and pedal edema"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "August 25, 2021",
+      "activity": "Patient was given treatment",
+      "symptom": "",
+      "diagnosis": "Probable diagnosis: Kartagener syndrome, Viral pneumonia",
+      "treatment": "Inj lasix 40 mg, Inj Thiamine, Inj Levofloxacin, Inj Doxycycline, Inj Ceftriaxone",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient was given treatment for probable Kartagener syndrome and viral pneumonia"
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "August 26, 2021",
+      "activity": "Patient's condition was assessed",
+      "symptom": "",
+      "diagnosis": "Viral Pneumonia, Kartergenour syndrome",
+      "treatment": "Inj Levofoxacin, Inj Doxy, Inj Ceftriaxone, Inj lasix 40 mg, Inj thiamine",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temperature-98 F, Bp-90/70 mmhg, PR- 120bpm, RR -17cpm, CVS-S1,S2+ RS- BAE+ spo2-96%on 10 lit of oxygen",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient's condition was assessed and treatment was continued"
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "August 27, 2021",
+      "activity": "Patient's condition was assessed",
+      "symptom": "",
+      "diagnosis": "Viral Pneumonia, Kartergenour syndrome",
+      "treatment": "Inj Levofoxacin, Inj Doxy, Inj Ceftriaxone, Inj lasix 40 mg, Inj thiamine",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temperature-98 F, Bp-110/70 mmhg, PR- 80bpm, RR -17cpm, CVS-S1,S2+ RS- BAE+ spo2-98%on 7 lit of oxygen",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient's condition was assessed and treatment was continued"
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "August 28, 2021",
+      "activity": "Patient's condition was assessed",
+      "symptom": "",
+      "diagnosis": "Viral Pneumonia, Kartergenour syndrome",
+      "treatment": "Inj Levofoxacin, Inj Doxy, Inj Ceftriaxone, Inj lasix 40 mg, Inj thiamine",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temperature-98 F, Bp-100/70 mmhg, PR- 88bpm, RR -18cpm, CVS-S1,S2+ RS- BAE+ spo2-98%on 7 lit of oxygen",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient's condition was assessed and treatment was continued"
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "August 29, 2021",
+      "activity": "Patient's condition was assessed",
+      "symptom": "",
+      "diagnosis": "Viral Pneumonia, Kartergenour syndrome",
+      "treatment": "Inj Levofoxacin, Inj Doxy, Inj Ceftriaxone, Inj lasix 40 mg, Inj thiamine",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temperature-98 F, Bp-110/70 mmhg, PR- 88bpm, RR -18cpm, CVS-S1,S2+ RS- BAE+ spo2-98%on 7 lit of oxygen",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient's condition was assessed and treatment was continued"
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "August 31, 2021",
+      "activity": "Patient's condition was assessed",
+      "symptom": "",
+      "diagnosis": "Viral Pneumonia, Kartergenour syndrome",
+      "treatment": "Tab Levofoxacin, Tab Doxy, Inj Ceftriaxone, Inj Thiamine",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temperature-98 F, Bp-120/70 mmhg, PR- 88bpm, RR -18cpm, CVS-S1,S2+ RS- BAE+ spo2-96%on 5 lit of oxygen",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient's condition was assessed and treatment was continued"
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "September 1, 2021",
+      "activity": "Patient's condition was assessed",
+      "symptom": "",
+      "diagnosis": "Viral Pneumonia, Kartergenour syndrome",
+      "treatment": "Tab Levofoxacin, Tab Doxy, Inj Ceftriaxone, Inj Thiamine",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temperature-98 F, Bp-130/70 mmhg, PR- 98bpm, RR -17cpm, CVS-S1,S2+ RS- BAE+ spo2-97%on 5 lit of oxygen",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient's condition was assessed and treatment was continued"
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "September 3, 2021",
+      "activity": "Patient's condition was assessed",
+      "symptom": "SOB subsided",
+      "diagnosis": "Viral Pneumonia, Kartergenour syndrome",
+      "treatment": "Tab MVT, Tab Thiamine, Nebulisation with Budecort",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temperature-98 F, Bp-110/70 mmhg, PR- 88bpm, RR -14cpm, CVS-S1,S2+ RS- BAE+ rt IAA crepitus + P/A- soft, non tender",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient's condition was assessed and treatment was continued"
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "September 4, 2021",
+      "activity": "Patient's condition was assessed",
+      "symptom": "SOB subsided",
+      "diagnosis": "Viral Pneumonia, Kartergenour syndrome",
+      "treatment": "Tab MVT, Tab Thiamine, Nebulisation with Budecort",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temperature-98 F, Bp-120/70 mmhg, PR- 90bpm, RR -17cpm, CVS-S1,S2+ RS- BAE+ rt IAA crepitus + P/A- soft, non tender",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient's condition was assessed and treatment was continued"
+      }
+    }
+  ],
   "imageurl": [
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7_gPh5nR5aEpNXkphj8zOsAx5SkVihs3mmYKBpaiK5F7-KPZbLSXtx4vHI3jjtP7lDItlbuEdSGB2G2NKVVuCUaEysgnPDlZ_nbruArfZJqekemlFbCrYH7RidL8y8-PDRtcImwXHgA4/s320/IMG-20210826-WA0057.jpg",
     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjioER2RwDfwgmWhw5AZfY6kvCI9d7WkUxGrT3rdC-61BVzFi1W-ZDO8bNuy_gg2FM20cLTEnjPlAe3UXFTRrX56UheUtO9FtqqsE3bDXY6JUG-asMzdEIgVf-ACVNaVADjDBVok2VjoH_Y/s1600/1630043762045020-0.png",

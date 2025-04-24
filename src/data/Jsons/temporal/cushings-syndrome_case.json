@@ -1,0 +1,324 @@
+{
+  "metadata": {
+    "url": "https://karnativaishnavi.blogspot.com/2021/08/cushings-syndrome.html",
+    "datetime": "2021-05-05T09:48:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1.5 years before admission",
+      "activity": "Patient developed itchy ring lesions over arms, abdomen, thigh, and groin",
+      "symptom": "Itchy ring lesions",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "19-year-old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "1 year before admission",
+      "activity": "Patient developed purple stretch marks over abdomen, lower back, upper limbs, and thighs",
+      "symptom": "Purple stretch marks",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "6 months before admission",
+      "activity": "Patient developed abdominal distension and facial puffiness",
+      "symptom": "Abdominal distension and facial puffiness",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "3 months before admission",
+      "activity": "Patient developed pedal edema and low back ache",
+      "symptom": "Pedal edema and low back ache",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "1 month before admission",
+      "activity": "Patient stopped all medications",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "Admission",
+      "activity": "Patient presented to OPD with complaints of pink striae, easy fatigue, weakness, and low back ache",
+      "symptom": "Pink striae, easy fatigue, weakness, and low back ache",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP - 160/100 mmHg, PR - 96 BPM, regular, normovolemic",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "Admission",
+      "activity": "Dermatologist opinion was taken, and patient was advised to use ointment and cream",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Ointment and cream",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "May 28, 2021",
+      "activity": "Patient's 8AM serum cortisol levels were checked",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "8AM serum cortisol levels - 0.46 mcg/dl",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "June 3, 2021",
+      "activity": "ACTH stimulation test was done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ACTH stimulation test - 0.73 mcg/dl",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "June 25, 2021",
+      "activity": "Patient followed up with improved symptoms",
+      "symptom": "Improved symptoms",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP - 160/100 mmHg, PR - 88bpm",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "July 5, 2021",
+      "activity": "Patient followed up with new ring lesions over legs",
+      "symptom": "New ring lesions over legs",
+      "diagnosis": "",
+      "treatment": "Tretin gel, Tab Atarax, Amorolfine cream, Cap Amoxiclav",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "July 2021",
+      "activity": "Patient was diagnosed with COVID-19",
+      "symptom": "Fever, sore throat, dry cough",
+      "diagnosis": "COVID-19",
+      "treatment": "Home isolation, PCM 650 Mg /po /tid x 5 days",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "August 6, 2021",
+      "activity": "Patient followed up with increased dose of Tab Telma",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Tab Telma 40 mg OD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP - 170/100 mmHg, PR - 88bpm",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 14,
+      "time": "November 23, 2021",
+      "activity": "Patient followed up with complaints of increasing striae and abdominal distension",
+      "symptom": "Increasing striae and abdominal distension",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP - 160/100 mmHg, PR - 110 bpm",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 15,
+      "time": "November 26, 2021",
+      "activity": "Patient's Tab Hisone dose was stopped, and patient was monitored for adrenal crisis",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 16,
+      "time": "December 1, 2021",
+      "activity": "Patient was observed for one week without episodes of hypotension",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 17,
+      "time": "January 21, 2022",
+      "activity": "Patient presented with giddiness, vomiting, and loss of appetite",
+      "symptom": "Giddiness, vomiting, loss of appetite",
+      "diagnosis": "",
+      "treatment": "IV Hydrocortisone 100 mg, fluid resuscitation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "SBP - 40 mmHg",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdfEwwWeM3LT1np_ehfCLz7TrwrCWhdBC6S-72OpFTBYjoW4kzSUFLCL8hKE9ARuGNx6a9IhzQuA5BO1srW-6ODzPh80ozicaTyTuQySwHdHbhpFDnGv1jwlHHihOFBCaNN8LA1nCNkWRN/w200-h320/Screenshot_20210809-100106.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlzGRl5i9Q9ndtd6ij4mONNOPOO-p8AoQPzEhxTqJiK_yTu5wdY9ZfyMiOUWNJ3YUrpNHgbXGfNTb53faHfrBxGv_JPYBSB_M9nTWnSLi9QVweeUYZBHP52MsGN9PQ1Zbb4l6smbmWQuEK/w285-h320/IMG_20210528_125317.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3wDTplQ7G62NogKzrEVH5Y6qD6_KHkYDbcqNaq1cUdpuAOgrMgwpGTQR_2HE_W2Q8mp71SBIQgbufDWlbjOtF6eW6-DHHOsjfcWheFzql-SSmL-tGe54c7eQmQQASdOOAzY8VLKUEhIpg/w341-h443/Screenshot_20210528-122703.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoV-TuP7Y5uXBsO5ifsvujp7ZoNmXK9xBJhvoS5of5WTRavhua5Qsh19_S-shD_ImIzzns6dBj3MMhb4NflqI7bb4GGIE1VrRDxNc5FGZTVfAusruq1KyAtyv9VW3izHQJUHQqfNp3QUqP/w274-h410/Screenshot_20210528-122708.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtzqpi0QzxfLE2zEPgCj29uGLtOCI1SsqFLpOPIY-pIT8R4Z3iypE58ByrUiG6x7BfETDK6QX4iPtueqLabvMGDtGikS6IspB16ZTzEYfPir5oHcFD-xPKB_RvW2uNrgmptrR21zqWDuVd/w324-h368/Screenshot_20210528-122710.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZw5-yDVBEd0XBGuRwufzGk06fLya3TS-joYX4rblTWnm75whMcXh-_DdWrnGkyiAExzmNdcDl07h23-dt9Fgh95dpSv8DVlABnYUmM9gjgpMoH5HK6WZGUz2G5XztQftdMBUylK6baFRR/w310-h320/Screenshot_20210528-122712.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTzywoIfYTCiNA9MhImL8GQwnqEUwSyaZJakI65SvODBArLrysWjIUhhSihsIUJuoKDhHOafdlkP9ulosksQCTuJp16ft8Csb5XpIGcQG9hdqbHFPtUpVo4iBRDQBQrBFQvKLT8xUTL3h/s320/IMG-20210809-WA0035.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh_ssQ3h0d7pOyl8Nc9mR2XUIlrWbXYLEQ1sCTxGLP0YYHneAf3s8p8iWEp9n0_AO2rXKueyhYiv5Nbg0puXW4Ziq5Yp2XcanKdOXbdps2IYR-WNGQn6mss9HYkvsZ2TXz-l0x34MTj9DT/s320/IMG-20210809-WA0036.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhyztDADc1j76O4ooW11D6bBuzitjvShigu9zsltSlMXwo4t9oh7vm1DEahVFcw88kgxCLfsgGh7wnVkdg1_zH1rmnWmBpvAMZNqlCzXCNSoGhxuxIdMcwH2izQ1kXNx-EDm03pBkL2OmT/w249-h320/IMG_20210809_121441__01.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUqHhNJiURdQ-zWMZJn2JJddGbflq4MPexdr3zkOSP34_goGCVU8XWIXTmxH-drcEsZuwY-RzRx-qpZO47Rr5WtYEh1vA36QkcHzPlkuxoXyCDeYQPC8KszF7NqUuBOqE3t_CSoblREGbf/s320/IMG_20210809_121236__01.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR6qjYieoR0hoMa6q1T0EYAVETVXABGTGaVhbACMZ9gAw2u33NRK1rRmU_odpbCbRuId1H2tmULiC3SwRZimL7Xcb-xh4j0CFnF13pmzrk6Qc2F1FQcSnRqnW9myXDLkSgQTfW-Kymg3Rh/s320/IMG_20210809_121351.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjusa2zfurSEo06vz7rTsC89mfhlKzvta3yzCci4AcpGO_KztVg23eBeqxpbCtN8SAq3YdxSp1gjQOo4PVtuvsv9horXOSWThX3hy_FVo80Nedsm-VK78OBnn9E76L8vaTJy2kaPpYyVa7G/s320/IMG_20210809_121118__01.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidX1VV1ZpvqUA0HYQ8f4gN15M9WE49_MQm8Bl3lhOWYNBQU7U-ilMqXnHDb5JTySFHH8ofr8LjdpVB9xCaiVDVOFyPFlNL0Lj9XqnHDwyQkeThIkw8s1SXa-SMWUQTuMP2X3BiFGPKoLtX/s320/IMG_20210809_122538__02__01.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLO9x1vOYEQCzWoQFqobG2hcsRWi44EPJhy8HGT7LA9TZu2Lj88Rpum4aWIW70zm8XOhoXy42TO-WMeBPUmQWvGfasRLongCjQycohVMgpw-M9ptWO3Ibbote_N3vQlEBur-KtdAByK-1p/w320-h306/IMG_20210528_111641.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3I4iJNMZyyHSTR1KWHp2GbrWgVNn0aVdD8PMmzCkw4PBBCpaBR_17AOL9Sp3CBo7SvE16wzHOXri80FsEC1779MDeBBGLMTFBQwnvWpv9wJJlsikSpk1DJj3xFw6lOVOuuCUePUq3Rohx/w322-h320/IMG_20210625_131015__01.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglbYD3raWQNjSzrtQByBLps-WJiz9LvH6Ql2BEjjyyqWnAx93LWBpXkFcLFLOQh8Nk7SuA2uQIb_Ers122o_DQfEBiO2u-eAVY-tOvgpvnByDQa649PXbijJTUl2QRLTr_-ME-DJQAfSqY/s320/IMG_20210625_131019__01.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHBkARET90HyPx3-64R-m4iz7QMuurGjKwNpajGnv3charuYzBf-15vyPjRGJJLwPjYHyN6kNJFzFcO1-FKhJF7SfLtR5VPLW-RiitdVUWP8m2ZHgxWyL8aMp0FDwkS-jTpZQ__hWu93vB/w277-h320/IMG_20210625_131024__01.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCfDHDj77u0Eipi_t9GhZZU71arLP2ASs3tP2GPWVvynJD2amK_E1RlkIcT01ZUeD9Xd4tw6NtGetncxInP69fPEvhE4qeVR3yPbYNhEiioZr8qlXJSj7O8kbGPSDC29bcnhTow1UGEl6V/s320/IMG_20210806_104125.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYh4Mpc_eqZoPCsu8PCpVpRCyEq1b0_y4C3266pWxini3pNYNgj7BxAoTUwtR6crI4t_3FN_hqPcL5sDTIWaJLjwfM7VqMs3-7HrlHyUfdlQ5KBPZJARko6plesGyyEI2jo0ao4RPvsEmT/w279-h320/IMG_20210806_104131__01.jpg",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEg-MTPqI2opemqJXH2UceWTczWwalQxWdvF3ydhudxlUhj1pOOHStkUnzqePnJVuZ0EXM5gr-GSiqxLMg3zC6WRvfvmC_Bf3FEUkAZf-xkb6VHfpS5KhPGz0fmK34F-6f_Ff3NvC_LXI2A9BN9pYxwNHKcUWtKxJ9bGcC3F3RN48m5Ep6I44K-Shy6Emw=s320",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO5exzVxQ59rJDrzo0IsnBiSUDUS-bCje66KtU2y6KP9bhY0e1qIfvBJPh6hBMLZlVMIE1ZHu0THnPEk_CizgxIiJmGGwsIPmxardmOkECvq4Nb2iKK7rOta_R7-TLzmNFejUSNg9ag74W/w293-h383/IMG_20210824_151942.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGxJECY7CfMiDjjCrgAJnxz2ce9rrl4sAALt_J__gUFbwgicSGdxFt5G5Qp0w_L-h1vAtHSiz30TSyRAjQ_R54sUPcPMamZivCwetjzWslq_bYlIap-mddE01pxACC021NTGJb32u4elic/w349-h380/IMG_20211123_110559.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO-qphXyUMIuoX4KsZF1E1HGiva1G0h47RPVstFAS6m-JjPTGJn6-jX_JOLM3Br_4bWFL7LWTdxsJ-9s4QmPRs7aY7T3DVxsXw66mHd5QaZBrR0EFvgLXIHTBzVzxjwO4edjYL8ObAnUth/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy61UQyQ0WzNBDq0KOhe7cmQPCioX5MXeyOQkLPKWWImtIM_hdh-HcCFIjQ4ad54z4BtBVRB_A6VvtEjM7B8y25oJ2bHbY0mCS7kkCZBSClR0ZrFA6x_QWkMxPrX6osQjJ0bQRaolJo6fI/",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo1bpPiN2HSj-E-SSZmbPucjlBhLrGTFXctrEpwSBz7Cs5KekG8OkcEFBXOTlVAnIPGIBhpZciPk3R7FeirJnRSsClCcpqt38Mmj84nqYjn_ZEQMyVNQ0m_kylNj-tPfkt5MvykSd44vPW/",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEj3nCmXvKG__iwB-JZbbVJcHywx8Sq4xwCxhIwrSx40FKdOktb6CdK4Fmxo9spVx_VrHN8rwfhQpHba7eeW-EUI4uy9k4luRH4EuJpL-AFwk5-mwvB0ESw4QxjrS3Mss_qSKgECUwFWgMpjeWY-7q5ugQRAut3LoY1_fBE_SfRACojNEyBrK2m-teuz4Q=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhUFGH-hvYTcPybUqBRf7OztgssfJAMJEUlBBFxQ9O0e6fSXmlUJEYagkh4e_qJCWvQIH7QMFIzlN1jc5f_ze9eyz10DW2xcUBpFBlcuNwxVSqWFCHer9Ct1r5-NhFcydtIyn4sbeEC1L4ydExXpZhUjcNIOpsxfa8ahgawovnRJu_4J8ddwrYuW7n6fg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiUqrn6YNLRxv2QED4JIM-xhKKEH79kVDq5Iwq8nKQT4-F7698peE_hxcDDQ6IpGvHWU8XA7Nzy2AH5BCieTsKWWmCwYLOMgnId-mZRIBG2c-itdFTqmLVZ7tgpRvgEs5WIJ-KTPaUGkpOUjr70ZwoammwwBFj5Z4LTHlOGRM8iuzsQGvcnJ1Q3hCiNkg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiYSihrDLLIzr_0QtG_XBkPwktcuM4GSNOShZ4WTel_o54Aert3CLBQGmzZt4zlXYkhbHb2fLFyC1njJRxKzz2CoaOZdIrCA5OBEjsDUFWDw5hiGUw_t5S9YtHIBPTGQ6FmWPca4w7579GpYb7bPuWRudZ--C-iQxDWCzafhjM4quXM-fpCjCmbsbqCIQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhEC0z7X1ePuQefXi9x8uwCnp2R2BZKbRk8DEY-sSdjVppJZyDLcuTEoGlt7KLqa_TMxtVfs6XRnC_KFr90W5YtarhV5obaZqqt1W_h-yMbg_Pk5AbxiHUwh6YQcndVciJQah1dU1crkFWPwWqdQT5etcjUsxnFRQoMB54Jb_pweT_UM9LsRfp7YyAU1g=w391-h385",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhyf7Jf2cTwqUDtwwRxDeN0rhAc8LF27k6C7vFYJSzqQBFI_UIrwRPBcRsa52AwUTHOP1iWYyvpjnI-umfh63wUrklorSNwjSHLWIDMIy9oIrp4eeAmtXNM5pO6Xw7uzmZJ0TeWYL0HFPI2G1SQDQwNXE1mHVX4E3t9VCpLJCvIi5YZC-yIIgaEELrchg=w363-h412",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEh7REhfpXCAs3YRZYn-AghZbKR1v_Job-u3yGCMR5OKLK2-ZKQvu0cs2jKWBVFWh84Z5MhwT3jzdNl7HjN_Qz9gDxOzYSZUbdbJfs9ViNcuu8iFSE3ey8IHCOUvsylcLacRJ9dj1e9JIaAr3wTS70B7F4vvCtvYUFmGFstwgZcQTPMZ5wAZm0_OFEMx8w=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjAvAvHdJtf9uKYtUdKiqkE8FWwB_NwmepxXJIXWXI6x-BdkX6URaRvC9vpJE3f7iZPXi_qaCsCQoCQR9Cdl5xziUan-GAYS2l36d3TdBz76jLwGLOS5SdwIxO7X34im2wFMoiqaoEwSB6XTbqyt2lPEjmku2naE9rRwqJuHL5-eYbBHMRaB4TVqOo8dw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgVBLipqQ5yrkhfJjXFuovnrpmWUBTHdBhuZrU7gAKqQn37khU2yP1-vkL9SNrq8wM9U1tuyAZhmWu0Nn1M4GJyAGVzPIkQ8eigEsNEI_hA557rPRY6rWEJUq23lBJgEu2yot9KQ8b86u47Q2dl53rFrMkrDidZcv_p4RwshYPljfuvEN3SuyADXAilog=w345-h228",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhwoEu26-kb0RwjcMsuhkLZMsBiDcUD4riHWthyqjZWn6H-AIbCXuvRx1p0RRln3OcoIYpYBRs1iXuLfcHdmDzwbxY5Nkp_oXWnGqt_owa5F9IRHGensPBkViCIt5FJhbfOllFhhKO16G-RJEEG8FT4rKFF9AVtO_O-zMaFdwY_WoBUPxgyxfRRC7oDcA=w374-h230",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiCECn9YWUWic7ShRxzc1XcLwPzIBG3uYnsuy670vY5cWahV2LwDYx2bc1R75NaNa_La8_OnvuK3OXSNp-Q0fqYdh_-mNg-ByHN0euhr7a8VH0ivOKsq4AbNhOK9Un2bl4gXUurhoaWy6Pun_i1In2DlEm3rNr1qa8xW4EjljPRfxOH5era7G3Y3NNFxA=w380-h229",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiY-pM23d4ta7epALyg2M-woXZRN2g4B7gqi5MtBVvG6xCHz2nbiq_Uxm79w2z9M5qKCcB3YLn8mkBbxQnAgieZslG3MKWTKhd7SUSQ0SXLxbe5b2-NOUJEW-u7vC1AdItm1wn8oY4fF3_1v912RbVeHtwRqUZ3NLt9N_yqE_I0CdMaIJY-CzK1eRG2Uw=w344-h205",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjEQtsBDVcjzh5POEy-oEZ3ul6BRPeSyXLcGNfXhs5X6wSwGnc5VtXH2xxkbpPsOwotVWHXx7YmKeDLElt6ya0ACDlFGv36rNJQ2LqgkCGTYjf05GmTioM0mSeA5y9N5cCQItU2pX4xVDuNWrkRlEEKj-p9VgFd-s1Kg52KJ4uOgB20Qw9QiacEQghZwQ=w348-h225",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEj_5aqiu3DEeA3gy2iQ2eKp655TEF5rJAGtA1WGeHRemyl1Cm1DjFg3A0UK38WmXgtt1MuR5x6Ze2-OyThNnYE0Dqunz2BPIPfLMh-KL09ZnRJSBR2gvvJOW7iYLPiqX2nvJRZxzhncioY0VTxLd-VcGWJ4h7PSj9DMG_l4wYEqpzqPnKfIok_q_P2tDQ=w344-h228",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhib2KcoHyLs4WAsfC1e7loja3lrxuXgLw95Ar3TCjWEPZpEIgLiKaHArWWAqObAyC2Oc97NvVdB-WQALK99ACJoJNSb1pfioeqCp5EhQqe8f2d9hpGFwmJK92L7Mijj0L_-Vjro-1Jmz6Hty9aVbkpClx7K6UWkYSOKJlNUwhCr5bGLxnPQOoDn2FhVw=w408-h254",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhrDV4dAEVOTrX2kC_sbkNQAuG1gg5VP3GrYzGsJhAo1oOtVCry-PAMPp0B3brmRXO6FTKRbHrg2zhaOz_JpmDZ4YIUd_85RtaYVU1wPR3j4xYYGUM5vnofE9guyqyk7V7GYI5VPrM4hipKLlVmsnXCX4DSkSx66j3Fzv3Zj37HZHSDCA9MhYc09cY-Dg=w409-h284",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEj1hihLKnf3VG97LsBnrweBuVSconQaHqTfqhDtQDYHrrnWnASdBw9JT0soEGuVoHRevcQ8OnmHGFIcfg80rpy569IRLGCai_v2OJ1fdM1v7hO9s_ppoMAggJjyyFSAv4giKql79SBON4NEmGlqwSYFXWv9tkIScEpVwEplaVifvf8JPsWIYIGArdH6kA=w369-h356",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEg3KYeZil6tyjsxb6NphGPSy95Yk_aimFBOklYuWuL2kQMPl48FjJsX7my74V61JdZe66vtqpfK4-ICgBKaIyJ45o4_o8zW_U8iqkWIDzVDAYZNGQ3wxRiSRT8HqGuRgZdVw3Rk5Ft5eBReDbMxjkM5RNwz7ysMjqa0OUcT_N7ZliEbHm3tLu781FZdCg=w314-h383",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEivfmwODNYO1gvnYNI4xebV8qbzeNsn5RVxogYoUTs0MY3MoBEfYuYk6-Uj6YDSEupy8aBbIYZHm1Xlf8X7WfvGmIyHcR5UQin7BehVTV0R5AX7Q_eUPEcgumLj4M6WwKXatLvulPdwFXVeuwDfGyYd8QWMHt4MsykYKMKu9_UWS5I5WrH-fGxmtqVW7w=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEizTCW_mLr3iTjIUnwdVkP4JAzP-hycNHJgR0-hH4lD2PyyM3pv44tBEruhi7jimV1hVmhL_Rc3mspjQPsypd6_7z5jv81dSf6VHew7E2KJsx8FvQDLi0zgdfW0e04YuGLKzt_W6NG6LK_jMEetZmGk6l3-YNYRd3HCChpEUknJcMTtZEyequ-SXysM7w=s320",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5BGTrPnGwntmhm4V1-J_0m4gc7JMdbQGsddAjkosijBpopTHIEpa0ugISF4fLQ7nO6z8zejZUxe5j2NtT66hNoGxdkuifFX7Uw9o49OqfKozAtmAZ6zKqeDZfxzpdtyEpPQhUEZGSPTSsY-pLzR99jAGFXO7ffdLwAHt5UlKOAOz-YK900DBamBmOBQ/s320/IMG_20220530_145911.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd6AGlGIqhYuNEqvyXLWlLKAPSmYgOHCveW7l3LqR36ggMcXt6ANc6tlNRvUemgSaCMgNY0N4dR8g1Mjqtnl9_lFTFrECaUDL1xjBewXAw6qxyUu503ZKNxyIih_Q2FHi0eUzHNVlvnZDNENcFgyH_mOF3LuBc6oz4hr-zqyuaAp43dZAP8Ci-3s43Fw/w371-h278/IMG_20220530_145915.jpg",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjOi9wYTODdUR5_1qcgXy2QscTLaye6e9dibnY8MMcnFbee8V_XFi32B-oNW18khWTeoc3d0XL5BTcVdFuXzUHqjw_T_rxKdeH0JPma_eeib_gDxljXo2NQznEpxORzfLlBTpjPPpM5BS4qx_-KcabwzybYsqub3Vy2dGn4pooremxIyMSTkFOncNPu6w=w365-h253",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjpYItvIzGPx-3d0wQpdzRVMkuNA6jWubCU0DqFGvuYSeOWD0XlmFVGfJdg5_vgp16XrIEfq0NClygIKgxDEgRvNFCZ2P0YWhz5nFKXcRsKKHNXS5hFDnEi_j9iqWqNU4bIGbVRiz2uSDxon5NNoA00dpmO6dK4nKXCdB5ZwGbGu13xEaGsihQJz3ULQA=w347-h227",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjwXkWNpHAWYkk_JCH1O1TIc44Q4zx5zb0KlueELiG7f2DELkbHnV9attJV2KQhxlC00nOZWUNV0dNLTkTOOKqOzqbNCMVDh33_vMQm7MLA_F-yorjaYveOUPQZLUhkZ-2Xw5yS_O7-Qx1Y1tF3RAjD4qanadu35U9L9RDmXSnCBnAbmUCi08ekykrgsQ=w410-h228",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEi3Tv95WEE4LxZeHO-jSoeBpoaht8wgfvVZn-EyCruVqbNHtOXXaG0H1-ixjNZ-Xgv2yx4trHVeDWkyEB8OFupQoiDvY9MTUVhnwRZXVApspCfFDgQTE0_BpxwfICQ9HaO7XZlkPzd5nWoGHN2X0oIzW0vfShV49vV67_GSCbb7loVceINLJX792YyViQ=w313-h402",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhi1xasnr8elVXuQ1yzBho9ohUpJ3FEHGQYe37JTntq5vazLg0GfDqI1rormQuNUpbVYV_Y_0dlwQi5FYJk70sVD8OQyi3QO2UxZ0mryNfrClKeBmVuNG8DoO1pyZPwFmEsOwMBaQ0MNDXzSQmkpoFCwl6rZnPYYCawdi25k5sJ_oqmPRvUkVTHQZxlwg=w350-h334",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEi1Ue_xmfgVYKvVtnPAliz8tK1E6Wj_uE6tzKHefffXa8vUEpmF3MilYiL2ikpTpzwGw_w95CewUc_GmRDn4oUhNEPoeYy15s3o5ThiAJ9rkAyVlMgQZvFMpmb_oblYrXmCev7gFve6y2_4xtsDUhKOV20Ew-OSaO0CoTDkGkZaeHQV-btoQg-sRyN3Sg=w391-h324",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhTRiBxEGgSWYBuaipHXtZdImJUEM4yiG0K7s4Xwb-AEn1AzB2yP1JMW-yyFOSvzL8WOIpjtSBfZyHEANtKptGPpbbZUQPhPmFnR4DCvNpzB0AD8lHf9AXUZtDTs1Z1yhGm6B1Bc4LXuuUA3Fuyg18nXhTqn9zsjtxT6pHPgiE90az_SvDWCoHea_7EDA=w321-h297",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgJCcAn3KNdBXy10bYqR9CmK-OmhF7lYxe_JaBvOQIJ8Pb35wN7MrQhuiqgJ_kXtI_X8eXJm6j_eIx7gHJEqo47WW1xP9zG0U53AdkFvpe61KESyCqHkxovcqn1RS7xmp9S8xkWOXKTe67SESyWt0baxT1td6-AkwFsOoBoL3fSuQQdSZc677j3gFr3fw=w376-h356",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhBp2i-HP8syr83p_iQPeyIp4tZmZJAj4j_uDqfPLd0zEK0D8XQxLX2oacyIBq07yOGb001TXHZaQRl-90YWrorkmIf3vRv2x1Ho3hUmoR4gWP1h0osEEjXuSCq5yRRdHZojMUq1LVxNVBKjv3MmkpYB9gOqTPbDK7sacnWb0c74BZIKSpS1Ep91o-qoQ=w362-h248",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgMUByPkCBfi9FbloDcyjSxULMo9A5ionhVh6RWf0uJI7K4rXZnaQGoBncmCY_GKqHdm7ZsQEVKkdMgrGeH1BtqM82Exr8BD6khOaYnIumoXUp8lYBBSQ5D7_ARuSFjZjLY0NjwQHpx755mWdSRzpt3S8lefA1h-J9gsRfsZS23vhYPm20RZxvt_HpkJA=w352-h211",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil9H95F5LY7RrY4e3CFGP0pxcTYELJj3GKjnnwF71xGA0ESduS4b5FluIPNkgibdT8MWCyT1GhTixNeRgzJh4lSydf-JmKiTpwFCsNKjY8oSIIOazDl6FC1B4L82zFE7nj4iIk_Xhech_w/s320/Screenshot_20201218-083945__01.jpg",
+    "https://karnativaishnavi.blogspot.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDe-Aj3nc8CNbtH96lYeO9MjOtnveri0hiYBa670e8H8rEbt4DXQmF0w9NIAw9_YST0yphYwMk9IWHIhGedPmFUYqtxqHfsK4vkkV29tlFOFVuf5pz-eDvbVLAb5MyQ/s220/InShot_20220207_233108937.jpg"
+  ]
+}

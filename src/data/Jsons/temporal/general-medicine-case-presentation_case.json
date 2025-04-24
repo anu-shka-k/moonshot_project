@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "url": "https://nehapurohit115.blogspot.com/2021/10/general-medicine-case-presentation.html",
+    "datetime": "2021-10-05T10:53:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "5 days before admission",
+      "activity": "Covid Vaccination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "40 year male, farmer by occupation",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "5 days back",
+      "activity": "vomiting",
+      "symptom": "fever, chills, rigor",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "2 episodes of vomiting, non bilious, non projectile, not associated with pain abdomen"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "on admission",
+      "activity": "admission to hospital",
+      "symptom": "fever, vomiting",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temperature - 96.7 F, Blood pressure - 70/50 mm Hg, Pulse Rate - 80bpm, Respiratory rate - 18cpm, SpO2 at room air - 97%, CVS - S1 S2 present, CNS - HMF intact, RS - BAE +, crepts present, P/A - soft, tenderness present in right Hypochondrium",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "after admission",
+      "activity": "investigations and diagnosis",
+      "symptom": "",
+      "diagnosis": "Fever with Thrombocytopenia with Anemia under evaluation with AKI",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "after diagnosis",
+      "activity": "treatment started",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Intravenous fluids, Injection PANTOP, Injection ZOFER, Tablet DOLO, Injection OPTINEURON, Injection NEOMOL, Tablet ULTRACET",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Watch for bleeding manifestations, Monitor vitals"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRnH_OLRCc_6DvsFpVmHUE2hp6mkmIltQemPCMGlzE4mJEgrRQXufVJKjMRl0N5b5Oj_UKjkXSSLZu0IIbHUKatzmz6BNNn2hi1WmbojTZlLNFdrmrJun3plMXFcwTOUoCqepP9u9VFfvv/s1600/1633456377603125-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ8QCcZn1dZEupiJFxqPcD9SigtptFmqnJAvou8keia8jCLg5GxMDnLjk9L2sIZZJPA7mTbIsWbKP-TbQaaQJbdWk6bPvXK0Aqb7bPOPazO-FbH-y_sM2-MDloZHIV1bONaY8_p_iJfDPE/s1600/1633456356605414-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJj6xWbtMqUpoSkTl6-pKE0Y9LQ98uv6neCB_F-1HMm-S6tkmMy2_puy0KVMlvGR8AapA6RSUDdlDDiMBv1ysDnHzOHy0ClkElLxCvR9N3uKjcTnggRxARXdliTEhqeCwZ8gMclZyLRU7A/s1600/1633456333777909-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxr7yZFw11jS6nMe4pmm8cR-R2cNIt2g7dDrBOF_yq_vMLq4lj5X3_YeVUfibTea8NfjaFrtgqUtFnWcPFnz5Few_3T7wDziiiEceYtjgXgOMC5OT245yMbR1R-Yj1HltlfpavFozZQTv3/s1600/1633456309456562-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9tZ8q6slabhpGbNrtt8Y94SlrGp74-o_vkXxWowTLrOUEuIQNtf6uFStylzbmrAkhqpvm-wPA-1EnrdlLgGrDUyLW2SH4x99baFH5VpoNnJ4rwKiqYH-JUJu1yB7vxqadb1oggran_I2n/s1600/1633456298148778-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjttoQ5kAdiIyPThB1l5Z7a09VjsZhb-zwEFSYaplxiUdnn7jHHOKFp-09deHBNSz0vlaHV15i4TIOZh4ZeITRN5Xbu5yF6_CwnqJEPu5DMdPw1cLKEotLdGrQf1S3aPH51eV1KBbUeRxIy/s1600/1633492480052653-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg_0aQHj0VzMbo4pnJWbRsKeHab0el-y6us0i1xevA6w_xUwCoeTpXRUpvSLcg7oeTn7UnLUlND0RjBTt-OBWqkpn6ZExwC8l7_1njIjyzA_GmKtK9_9u4gtj6yVsKTx6aOIfgH4Q1129u/s1600/1641965397528001-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilLl5QtLmbCSDD_2wwvtjGPPoX1aDOv7P8JVQZZkT_xoMvvvr5WB-e9Ju3yQcO_z2IKZeRVgz6uXYs411NHikYNJgBoFU9bmudWTgRWENAizkYZwKKgPK7MWHR1k_h6d0O7by62-GX-J_W/s1600/1619435911154267-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDL4s3oO9vnxrbMUUzbny_bbZoycc3dEeXeZJHUfqVjDlrUEhcvtLrysNKbOkuvXTALHJrDKNglhqj0KXBzQ6E56cnxPirffJLRycDkjg4M51lM0el0ZGzxp42mYT055KlgLvGBFvObgI3/s1600/1641198492655860-0.png",
+    "https://nehapurohit115.blogspot.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN-L29dSPYYImM7BRMpMGFEK8om1mwBGpUkMK0bNyNyPEC2k3Pn-2KRG2A8RYgKBK2l_Ckk_ghtPedIx34UKZOhEOHwCRVcQs1L-9aupfZD-5tmUpHVSwb4-1dNqNhc-Y/s220/IMG_20200804_164010_982.jpg"
+  ]
+}
