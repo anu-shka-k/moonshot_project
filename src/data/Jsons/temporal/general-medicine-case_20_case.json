@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "url": "https://roshinireddy74.blogspot.com/2021/09/general-medicine-case_20.html",
+    "datetime": "2021-09-20T04:47:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "6 days before admission",
+      "activity": "Patient was apparently asymptomatic",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "45 year old Male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "6 days before admission",
+      "activity": "Patient developed vomitings",
+      "symptom": "Vomitings-1 to 5 episodes/day, non bilious, non projectile, non blood tinged",
+      "diagnosis": "",
+      "treatment": "Treated at a govt hospital",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "4 days before admission",
+      "activity": "Patient had involuntary movements of both upper & lower Limbs",
+      "symptom": "Generalized tonic clonic seizures, froathing, tongue bite",
+      "diagnosis": "",
+      "treatment": "Managed conservatively at a private hospital",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "2 days before admission",
+      "activity": "Patient was conscious & coherent, talking",
+      "symptom": "Drowsy state",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "Admission day",
+      "activity": "Patient was admitted to the hospital",
+      "symptom": "Fever, chills, drowsy state",
+      "diagnosis": "Altered sensorium secondary to ? Hyponatremia ?Alcohol withdrawal",
+      "treatment": "IV fluids, Inj.pantop, Inj.zofer, Inj.neomol, Inj.thiamine, Inj.Levipil, Inj.ceftriazone",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No signs of pallor, icterus, cyanosis, clubbing, lymphadenopathy",
+        "investigations": "",
+        "lab_measurements": "GRBS:81 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "Day 2",
+      "activity": "Patient was treated with IV fluids and medications",
+      "symptom": "Fever spikes",
+      "diagnosis": "Altered sensorium under evaluation secondary to ? Hyponatremia ?Alcohol withdrawal",
+      "treatment": "IV fluids, Inj.pantop, Inj.zofer, Inj.neomol, Inj.thiamine, Inj.Levipil, Inj.ceftriazone",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No signs of pallor, icterus, cyanosis, clubbing, lymphadenopathy",
+        "investigations": "",
+        "lab_measurements": "GRBS:116 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "Day 3",
+      "activity": "Patient was treated with IV fluids and medications",
+      "symptom": "Fever spikes",
+      "diagnosis": "Altered sensorium under evaluation secondary to ? Hyponatremia ?Alcohol withdrawal",
+      "treatment": "IV fluids, Inj.pantop, Inj.zofer, Inj.neomol, Inj.thiamine, Inj.Levipil, Inj.ceftriazone",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No signs of pallor, icterus, cyanosis, clubbing, lymphadenopathy",
+        "investigations": "",
+        "lab_measurements": "GRBS:81 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "Day 4",
+      "activity": "Patient was treated with IV fluids and medications",
+      "symptom": "Fever spike, burning micturation",
+      "diagnosis": "Altered sensorium under evaluation secondary to ? Hyponatremia ?Alcohol withdrawal",
+      "treatment": "IV fluids, Inj.pantop, Inj.zofer, Inj.neomol, Inj.thiamine, Inj.Levipil, Inj.ceftriazone, Inj.Lorazepam",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No signs of pallor, icterus, cyanosis, clubbing, lymphadenopathy",
+        "investigations": "",
+        "lab_measurements": "GRBS:112 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "Day 5",
+      "activity": "Patient was treated with IV fluids and medications",
+      "symptom": "Fever spikes",
+      "diagnosis": "Altered sensorium under evaluation secondary to ? Hyponatremia(resolved) with alcohol withdrawal seizure",
+      "treatment": "IV fluids, Inj.pantop, Inj.zofer, Inj.neomol, Inj.thiamine, Inj.ceftriazone, Inj.Lorazepam",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No signs of pallor, icterus, cyanosis, clubbing, lymphadenopathy",
+        "investigations": "ECG and 2D echo were repeated",
+        "lab_measurements": "GRBS:123 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "Day 6",
+      "activity": "Patient was treated with IV fluids and medications",
+      "symptom": "Fever spikes",
+      "diagnosis": "Altered sensorium secondary to ? Hyponatremia(resolved) with alcohol withdrawal seizure(resolved) With pyrexia secondary to UTI",
+      "treatment": "IV fluids, Inj.pantop, Inj.zofer, Inj.neomol, Inj.thiamine, Inj.ceftriazone, Inj.Lorazepam, Inj.Levipil, Tab.Dolo",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No signs of pallor, icterus, cyanosis, clubbing, lymphadenopathy",
+        "investigations": "",
+        "lab_measurements": "GRBS:110mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "Day 7",
+      "activity": "Patient was treated with IV fluids and medications",
+      "symptom": "Continuous fever, abdominal tenderness",
+      "diagnosis": "Altered sensorium under evaluation secondary to ? Hyponatremia(resolved) with alcohol withdrawal seizure With refractory hypotension",
+      "treatment": "IV fluids, Inj.pantop, Inj.zofer, Inj.neomol, Inj.thiamine, Inj.ceftriazone, Inj.Lorazepam, Inj.Levipil, Tab.Dolo",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No signs of pallor, icterus, cyanosis, clubbing, lymphadenopathy",
+        "investigations": "Repeated chest x ray to rule out pneumonia, Did usg abdomen to rule out liver abcess",
+        "lab_measurements": "GRBS:123 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "Day 8",
+      "activity": "Patient was treated with IV fluids and medications",
+      "symptom": "No fever spikes, 1 episode of vomiting",
+      "diagnosis": "Altered sensorium secondary to ? Hyponatremia(resolved) with alcohol withdrawal seizure(resolved) With pyrexia secondary to UTI",
+      "treatment": "IV fluids, Inj.pantop, Inj.zofer, Inj.neomol, Inj.thiamine, Inj.ceftriazone, Inj.Lorazepam, Inj.Levipil, Tab.Dolo",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No signs of pallor, icterus, cyanosis, clubbing, lymphadenopathy",
+        "investigations": "",
+        "lab_measurements": "GRBS:150mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "Day 9",
+      "activity": "Patient was treated with IV fluids and medications",
+      "symptom": "No fever spikes",
+      "diagnosis": "Altered sensorium secondary to ? Hyponatremia(resolved) with alcohol withdrawal seizure(resolved) With pyrexia secondary to UTI",
+      "treatment": "IV fluids, Inj.pantop, Inj.zofer, Inj.neomol, Inj.thiamine, Inj.ceftriazone, Inj.Lorazepam, Inj.Levipil, Tab.Dolo",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No signs of pallor, icterus, cyanosis, clubbing, lymphadenopathy",
+        "investigations": "ECG was repeated",
+        "lab_measurements": "GRBS:110mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 14,
+      "time": "Day 10",
+      "activity": "Patient was treated with IV fluids and medications",
+      "symptom": "No fever spikes",
+      "diagnosis": "Altered sensorium secondary to ? Hyponatremia(resolved) with alcohol withdrawal seizure(resolved) With pyrexia secondary to UTI",
+      "treatment": "IV fluids, Inj.pantop, Inj.zofer, Inj.neomol, Inj.thiamine, Inj.ceftriazone, Inj.Lorazepam, Inj.Levipil, Tab.Dolo, Inj.meropenam",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No signs of pallor, icterus, cyanosis, clubbing, lymphadenopathy",
+        "investigations": "",
+        "lab_measurements": "GRBS:110mg/dl",
+        "discussion": "Planning for discharge"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEingj97zuiZD-Xt76Ff7zaLaCCRuoiO1LZAVKxJ1GxDFrNjwBIw9pnAqWH7Zik41ZSlGad0of-vR3EPBK7ZVaJLcWzIV_XSSjAVWYL-ne0AJyd5x8zk8Q9R9yx2QdZP_kTav-5b-zVrgV4r/s1600/1632138459435982-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwFnwzIukNeFlG8Yz1iAPPgr9SMjEOQR5bBbZp8Fp1TPhps-6UmnZe02InTMjJ9BiF6MtANKqvyw8hQx_08Rm0tJwoTW2JRox4amibBGptPgDIqAzyta2zmkm1RRvaj_SSZJyKwh32uDst/s1600/1632138444400064-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmwgtCQCM63dGGpWICTO34iN2KnpaTa1Ak05aXelsqMqvuM75CxuEY9dirVEoiEFhEh9xMswhDfYAKJLY_OEaw8DZ5FxwVItnSbyPG4wfikTuxUFImBmruo5uAV4ygaWxeAIZJ6OAlIF1q/s1600/1632138399617791-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQZAGRywOdwEdTXYHLRHKjBHRDnhyphenhyphen-0lrfzIe7eeWJRt0F22k0a9c-d9KtAQyg_0Nehs8YMwAC96eHLB0cCX0aDlBnyuZRruVjnPuTWI2RCazLSKSPKxIJ7TFX10hJiIWc5btgMUKZHvhw/s1600/1632138943246071-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl6L4vCkFRzGjOGLpkZWtjBK0MpMNaJz70CNy53aiLy7BN6rwmoN0KoMfHUiDM_OqQLt5Qh8qeII9RnstZL_g9-nqTbHzAxmkmYQ0GKWKTTlSnPt0CmhKEVSwRTyOmoEeh6He8kgGWDTcJ/s1600/1632138933214544-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq3s8Kkw_73szgCmXw0ywmGYnvwjWR1unlR2hvMk6IdMaE5ob8894MKrr_K4Z6acMXeAH6w6L7kTl5w-7xBRpU7IhhkPcm8VeiJtfxvMkIQPKlXqpge3diAPvRlPnjNYehyphenhyphenny7OaXQuzsG/s1600/1632541720483009-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidx_unRKqE6OwOBht3GmhR1gUb2f9sTXo9I9Njo19EGsxGXUveB1H5sB8lSHkx2PHzGfBmpzAb6OiWPr1Hxznen_MgdyRyk5ATxLjbIGX7J3IQVNIxaUTKfUkP3wjHSmQ_-R5c1roTpLU9/s1600/1632303766780635-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ExneUQOOHAnmr4DKrAoXmeCnEfWrXB7y3wPAtUx82ilPeU-OZIeyJOmF2ruIvWyGDB9ziKnGstENOKe7yGtXeg2rNKbADgW_Sj-fyZ7XUOe0TcHIXvd43oB2lzCUWOBl2Uo5IMfffsHa/s1600/1632661599847225-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEPrPGum9Vaz6cxjfQy-1LJMSMDj2mb2RUGX9ncOsA1SopHsHBkWI3Rh469f3o-M1EZ2HFuhu2hT3Gh7NFu8JKpaAiZ-daRwmbdx8kCx2rhfTxDEw29DdLGp-wG4BBj1KYaF73RKLMjtvv/s1600/1632467083234758-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVmvptJFAgEkHmfxZEWYJQARnk7uWWTk7ikUuUvdAcBijcJWwBHB9FJ2jS2u9vqLc66Se3bX-cEm9TIPHwjJXI0P0ohlroTr4rp5bbn_vqk-bnHTYEbRW0g6Fjhed72D-Ev13Ymb_v4BAG/s1600/1632466993055924-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJZnZCAprT3u8_IE89NkCwoKwVRO9i-qk5nPxn-o47leVXIjauNE-jbMgR_c1JEqD5494yEHP86NDcHVCxnJSQsjfcar3J-SP8LiNwxTwwlzhRi8Lo5oYzKWYXNQx9kSDOZkEupZ5KOwHS/s1600/1632681105692543-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDiKUsSZ4WjA3UNLNffL68k4EHr0OBqm7YyF-X7vrMVT4EUh7cQCjwaDqCQUcldSNQenoxGkqdvSxKnmPBmxaT4HNcXWfFQP05dX3u5RdsJWhQ25eJslP-kx6AIVALpcFUsr0obRcFVWdA/s1600/1632627668203461-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSCdYHYWopXTsuoESQBAUOOB_rGkZVE_lmcLcR8ZSaq3iQtxj0m64pT3Qxk5Kk-n4tociTuTlkUm6tsLzhCtVdFpJEs9vBIUiatlHVrVgle4M1KVAZDP4HfdQK__tQK26rIolb7yifIsq7/s1600/1632662125149577-0.png"
+  ]
+}

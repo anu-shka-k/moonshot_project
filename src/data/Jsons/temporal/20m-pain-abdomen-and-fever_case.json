@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "url": "https://pranativ.blogspot.com/2021/12/20m-pain-abdomen-and-fever.html",
+    "datetime": "2025-04-26T14:54:16-00:00"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "4 days before admission",
+      "activity": "Patient had fever",
+      "symptom": "high grade fever, associated with chills and rigors",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "20 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "1 day before admission",
+      "activity": "Patient had pain abdomen",
+      "symptom": "pain abdomen in epigastric region, non radiating throbbing type of pain associated with loss of appetite",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "on admission",
+      "activity": "Patient was admitted",
+      "symptom": "fever, pain abdomen",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "No pallor, icterus, cyanosis, clubbing, koilonychia, lymphadenopathy, edema",
+        "investigations": "",
+        "lab_measurements": "Temp.-100 F, PR- 91 bpm, BP- 110/70 mmHg, RR- 17 cpm, SpO2- 99% at RA",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "24/12/21",
+      "activity": "SOAP notes",
+      "symptom": "pain abdomen reduced",
+      "diagnosis": "viral pyrexia with thrombocytopenia",
+      "treatment": "IVF-NS with Optinneuron 1 amp iv/of, rl @75 ml/hr, inj pantop 40 mg IV/od, inj Zofer 4 mg IV /sos, inj Neomol 100 ml iv/sos, tab pcm 500 mg po/tid",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious coherent and cooperative",
+        "investigations": "",
+        "lab_measurements": "Temp -97.9 degree f, Bp supine : 100/60 mmHg, Standing : 90/60 mmHg, Pr - 70 bpm, Rr- 15 cpm, Spo2 - 98%@ra",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "25/12/2021",
+      "activity": "SOAP notes",
+      "symptom": "pain abdomen reduced",
+      "diagnosis": "viral pyrexia with thrombocytopenia",
+      "treatment": "IVF-NS with Optinneuron 1 amp iv/of, rl @75 ml/hr, inj pantop 40 mg IV/od, inj Zofer 4 mg IV /sos, inj Neomol 100 ml iv/sos, tab pcm 500 mg po/tid",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious coherent and cooperative",
+        "investigations": "",
+        "lab_measurements": "Temp -97.9 degree f, Bp supine : 100/60 mmHg, Standing : 90/60 mmHg, Pr - 70 bpm, Rr- 15 cpm, Spo2 - 98%@ra",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "26/12/21",
+      "activity": "SOAP notes",
+      "symptom": "pain abdomen reduced",
+      "diagnosis": "viral pyrexia with thrombocytopenia",
+      "treatment": "IVF-NS with Optinneuron 1 amp iv/of, rl @75 ml/hr, inj pantop 40 mg IV/od, inj Zofer 4 mg IV /sos, inj Neomol 100 ml iv/sos, tab pcm 500 mg po/tid",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Patient is conscious coherent and cooperative",
+        "investigations": "",
+        "lab_measurements": "Temp -Afebrile, Bp supine : 100/60 mmHg, Standing : 90/60 mmHg, Pr - 68 bpm, Rr- 14 cpm, Spo2 - 98%@ra",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_orLBVTjS1P75H3IguqxvENIMF0fkp_nYecyfGeShvC4Gs3F8RRBDjf5Xg6qbxMAMI7nsXKTbT8T6EAfsG6WiqMVyIehg6VNrMmI79UdQx29SMPndN0WoIa-B8vbcsfDp59iAVDTaVoE/s1600/1640293745171488-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSj5kWlhN4ez8rvziTC2Vxk9rDI856JpQxNDYyYUIpsamUDmBKaLQOJRNY_8Ip0pOyNMoES8KtRrJ9rL2JSRTfU4v5T9Kc-s-5-GJnSMvn84DwUsZOPaS_57Xek9qJE-6W_XZgpPnkGW8/s1600/1640293720347615-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm2jDOSzieSHUNCR65PTDievnfuSl2lWVy7jjSCGrB6dntR3sV_GSrHJkFp_o2tEs17hHjQgl5wwTZ_1IeE-xaNR8utTCkmqpdQpCrBX1orGEfh2V7QiasDxhG62cceU7f7iO0rvnoRWo/s1600/1640293713040443-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoTtdmmdyw_K2Q20G42OMx6n43wBX73EZUErDlCHRv6tpmhvAFXx4k4saq1eEzl-1RTPE9IJQUr-7XHoRTtwYTO-SKxKpfeiKiGL6-WPG5BGhtY-LO8DXKomv898LEr8ipgkt9-x69-n0/s1600/1640293706616082-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5n9kYJnoQu9C8HwKp7f-uUpbu3RW3KS9XjJ4qB94KE266P8t_i5Ix8a1xUZvUYTBAGcva7XzS-LbCEsHZSl59Gmp8giowHyvw_Zai5Wq0bHa6VEeAlU68yFHAq3X0aFugLVJ8Yd4yte8/s1600/1640309209440820-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgcv7zZp5WwqhW25iT31FwjPf3z3jZD1z485BU5ypuPBJuncrKn5jioVwYiWhFu8lPcTN4pRcgMybhojbftFao7SBpyrz466CeZ9QzqiukXmgPbsTnlLNUdDpyi4H1nwz5cu-Yv2p8N28/s1600/1640309205400429-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9tOgiBWGzemiGW6dmh2fHhvq0x1pMbcUPB4l8QZK9lPKgBfgxCCkEMSdTro9sfoMLfQ4D6uWVSrzwbMelRCs9PkeoPK3YdSNOfwuiSetFzywC0wHOFL7Ig4scbj87jpMDI7bb3AvkC40/s1600/1640309202075651-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvkHz_IgfJQrYuhuBrDbrl9TQn5njal0fOL-MdbvSZzqmz_3szbZPQ_T40GPLkyNQZtf-7lEh1n7ZjPKhXS-IHpgfVEg4tjgoFFyWvLWeOTcHzHVIBI3bDUn1mClMOIFWnPKrHlCw_IM8/s1600/1640309198615095-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXUsw4NGLExBRkBCiltuN2cdVXKXgzCrVDyYn0yptK8qwm3-VP252PeW7vc840fI6226fXjKXQreAlVnv51PwC9xkPRCQvk8Lfsi9ew5P609EUKKm9KGYrLzLLNBVl2YA9qD9D5fvlfY/s1600/1640309194793615-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe8yY_LhIjwhLNXSa1pGaDKJEtE26tw6359-sMQz2uCnHPxtlUgZCLQshyMW9kdw6_NaS9pYndePHIPXx0BPDHmDfvT7z8T3YEo0UMuPAcKKOPdKqqKF0NaRyLI1XIVUqXooK8GPUYEPM/s1600/1640309191267304-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn76m64gDkJHv7gckx13Y1SNOffwCUvRY6hJeBL7InLYwMXd0MhmLxC2VrwaUzOjkX71aqkEvEHPC95JJgwsUqKrrQqVE1oYdo0UfYH5s57e87d2mTnHWaZysBGOYDU-hL4mf6jG_GEeA/s1600/1640309187333507-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLzjunYZLqT_cEUDG7kKB4ZhIyGyS-EzWoXfHOtiM2Fe0_ZWx-GWVc9vAz2PTZ7BlFU3KGKh3t0siVCt30OuzVn1ChBSwaQbQIY4z08fcD61eu2seVewLdjNad4VADjbPh-NkJXq2yXv4/s1600/1640581001899726-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mHbGVvXGmWJQA4RatylOhdPwg9VHUimf4OMuoWP6m6j8suU57gu4-wfh8zImA6ea21TBlUadYLXcxKDn2gawQC8xyQ22-8O3aePTnAVAuTQqfJ7GndI5xe51lOzOsMO5ksPeRsSTqbA/s1600/1640580997418188-1.png",
+    "https://resources.blogblog.com/img/icon18_edit_allbkg.gif",
+    "https://pranativ.blogspot.com/buttons.blogger.com/bloggerbutton1.gif"
+  ]
+}

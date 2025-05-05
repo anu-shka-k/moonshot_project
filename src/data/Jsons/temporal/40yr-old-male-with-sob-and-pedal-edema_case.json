@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "url": "https://rollno52.blogspot.com/2021/09/40yr-old-male-with-sob-and-pedal-edema.html",
+    "datetime": "2021-09-08T23:39:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "3 years back",
+      "activity": "Patient was apparently asymptomatic",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "14/6/2019",
+      "activity": "Patient presented to OPD with pedal oedema, decreased urine output, and SOB",
+      "symptom": "Pedal oedema, decreased urine output, SOB",
+      "diagnosis": "Dilated cardiomyopathy (DCMP), mitral regurgitation, ejection fraction of 40%",
+      "treatment": "Ramipril 25mg, Lasix 40mg, Aldactone 50mg",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "Time in between",
+      "activity": "Patient visited local RMP for symptoms and used Carvedilol and Spironolactone",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Carvedilol, Spironolactone",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "20/4/2021",
+      "activity": "Patient presented to OPD with abdominal distention, SOB, and pedal edema",
+      "symptom": "Abdominal distention, SOB, pedal edema",
+      "diagnosis": "Mitral sub-mitral aneurysmal posterior annulus",
+      "treatment": "Tab Cardivas, Dytor Plus",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "8/9/2021",
+      "activity": "Patient had SOB, cough with sputum, and abdominal distention",
+      "symptom": "SOB, cough with sputum, abdominal distention",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pedal edema till knee joint, clubbing present",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "8/9/2021, 5pm",
+      "activity": "Patient was given Ramipril and shifted to AMC",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Ramipril",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP: 80/50, PR: 90, SpO2: 93%",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "8/9/2021, 7pm",
+      "activity": "Patient was started on Lasix infusion",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Lasix infusion 2ml/hr",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP: 100/70, PR: 95, RR: 37, SpO2: 95%",
+        "investigations": "",
+        "lab_measurements": "GRBS: 113",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "9/9/2021",
+      "activity": "Patient's cough decreased",
+      "symptom": "Cough decreased",
+      "diagnosis": "Heart failure with mid-range ejection fraction and pulmonary arterial hypertension",
+      "treatment": "Fluid restriction, Salt restriction, Lasix infusion, Syp Ascopil D, Tab Cardivas, Tab Ecospirin AV",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP: 100/70, PR: 88, RR: 31, SpO2: 96%",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "10/9/2021",
+      "activity": "Patient's SOB decreased",
+      "symptom": "SOB decreased",
+      "diagnosis": "DCMP, Cardio renal syndrome (type II), chronic alcoholic, chronic hepatitis",
+      "treatment": "Fluid restriction, Salt restriction, Lasix infusion, Syp Ascopil D, Tab Cardivas, Tab Ecospirin AV",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP: 100/60, PR: 88, I/O: 700/900, Weight: 63kg",
+        "investigations": "",
+        "lab_measurements": "GRBS: 120",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "11/9/2021",
+      "activity": "Patient was drowsy but arousable",
+      "symptom": "Cough with sputum, drowsy but arousable",
+      "diagnosis": "DCMP, Cardio renal syndrome (type II), chronic alcoholic, chronic hepatitis",
+      "treatment": "Fluid restriction, Salt restriction, Lasix infusion, Syp Ascopil D, Tab Cardivas, Tab Ecospirin AV, Sup Cyproheptadine, Tab Lorazepam, Tab Pregabalin, Inj Lorazepam",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP: 90/80, PR: 88, I/O: 500/200, Weight: 63kg",
+        "investigations": "",
+        "lab_measurements": "GRBS: 113",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "13/09/21",
+      "activity": "Patient's condition was monitored",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP: 90/60, SpO2: 99, PR: 86, RR: 36",
+        "investigations": "2D echo screening: A P",
+        "lab_measurements": "GRBS: 136",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCF1XzKLTY72u1_aiBilLpVl_jHudq_xVFVzr_3Wvi16YrL5ZQNDFDEifQfc6ep3-i68ZqZhingt7Uwl40tR-chUwCGr4VcUiKGbuxLIxRyUwkvqwuJ4gXq1OMBq5-bSYWJ1IBf2vh1RT6/s320/IMG-20210909-WA0045.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6VukTzp85Eft89k21p3TdzUiG8gfIAcniPOvnEpczOa_vwqmYpI0XzgEwzYIttq_68DSZQ4RlwDRBr-GWrqEXNGMTOEyiCNZd_3g7P8hRmcZneAj-bHQMi3AhaXPBke68TvwWrNheRgeB/s320/20210926_160638.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhN1GFUMfxnlaT9UT-RpdugzmJLmd0B0Vb0a6dNfwJp1zKMs18HlNE6ZYq0cThO5BOw_a0fbHu4oYH8zQe5gd9NEUgBUiD-uXiEKtTQzV273qt9RUE0wncMnOO_RXIPTvTPRmI-HvSIUeF/s320/20210609_191703.jpg"
+  ]
+}

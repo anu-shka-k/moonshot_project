@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "url": "https://rvnlokeshmedicine.blogspot.com/2022/02/65yrs-old-male-patient-came-to-casually.html",
+    "datetime": "2022-02-19T09:07:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "5 years back",
+      "activity": "diagnosed with hypertension and diabetes",
+      "symptom": "",
+      "diagnosis": "hypertension, diabetes",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "6 to 7 months back",
+      "activity": "started to experience Dyspnea",
+      "symptom": "Dyspnea, orthopnea",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "19/10/2021",
+      "activity": "underwent CAG",
+      "symptom": "",
+      "diagnosis": "single vessel disease - LAD territory",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "CAG",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "19/10/2021",
+      "activity": "underwent renal angiogram",
+      "symptom": "",
+      "diagnosis": "bilateral renal artery stenosis",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "renal angiogram",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "12/11/21",
+      "activity": "PTCA with OM2 and PTRA to left renal artery",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "PTCA, PTRA",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "15 days before presentation",
+      "activity": "started to experience SOB",
+      "symptom": "SOB",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "20 days before presentation",
+      "activity": "started to experience pedal edema",
+      "symptom": "pedal edema",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "presentation",
+      "activity": "presented with SOB grade 3-4 and pedal edema",
+      "symptom": "SOB grade 3-4, pedal edema, abdominal distension",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pedal edema +, Temp afebrile, PR - 100 bpm, BP - 150 / 90 mmhg, Spo2 g 70 %",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "18/02/2022",
+      "activity": "intubated",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "intubation",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "18/02/2022",
+      "activity": "2 hrs of hemodailysis",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "hemodailysis",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "UF IS 2000ml",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "18/02/2022",
+      "activity": "started on ACMV - Vc mode",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "ACMV - Vc mode",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "19/02/2022",
+      "activity": "1 session of hemodailysis",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "hemodailysis",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 13,
+      "time": "19/02/2022",
+      "activity": "1 cycle of CPR",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "CPR",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 14,
+      "time": "20/02/2022",
+      "activity": "SOAP notes",
+      "symptom": "",
+      "diagnosis": "acute left ventricular failure with severe LV dysfunction secondary to MI? with pulmonary edema with HFREF? (EF = 35 %) with AKI on CKD with past h/o DM and HTN",
+      "treatment": "Inj. LASIX 40mg IV /TID, Inj OPTINEURON 1amp in 100ml NS IV /OD, INJ HYDROCORT 100mg IV /BD, Neb with duolin and budecort 6th hrly, RT feeds 200ml milk 4th hrly, Fluid restriction < 1.2 l/day, Salt restriction < 4gm /day, Strict i/o monitoring, Vitals monitoring hrly",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pedal edema +, Temp afebrile, PR - 100 bpm, BP - 150 / 90 mmhg, Spo2 g 70 %",
+        "investigations": "",
+        "lab_measurements": "GRBS - 126 gm%",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 15,
+      "time": "21/02/2022",
+      "activity": "SOAP notes",
+      "symptom": "",
+      "diagnosis": "acute left ventricular failure with severe LV dysfunction secondary to MI? with pulmonary edema with HFREF? (EF = 35 %) with AKI on CKD with past h/o DM and HTN",
+      "treatment": "Inj. LASIX infusion @4ml/hr, fluid restriction <1.5L/day, Salt restriction <4 gm/ day, Neb with duolin and budecort 6th hrly, Tab MET XL 50mg RT /OD, Tab. AMLONG 5mg/ RT/OD, Tab Ecospirin AV(75/20) /RTO/OD/ H/S, RT feeds 200ml milk 4hrly, Strict i/o monitoring, ET & ORAL suctioning every 2nd hrly, Vitals monitoring hrly",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "PR - 74 bpm, BP - 160 / 90 mmhg, Spo2 97% on FiO2 21",
+        "investigations": "",
+        "lab_measurements": "GRBS - 152gm% at 8:00am",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 16,
+      "time": "22/02/2022",
+      "activity": "SOAP notes",
+      "symptom": "",
+      "diagnosis": "acute left ventricular failure with severe LV dysfunction secondary to MI? with pulmonary edema with HFREF? (EF = 35 %) with AKI on CKD with past h/o DM and HTN",
+      "treatment": "Inj. LASIX infusion @4ml/hr, fluid restriction <1.5L/day, Salt restriction <4 gm/ day, Neb with duolin and budecort 6th hrly, Tab MET XL 50mg RT /OD, Tab. AMLONG 5mg/ RT/OD, Tab Ecospirin AV(75/20) /RTO/OD/ H/S, RT feeds 200ml milk 4hrly, Strict i/o monitoring, ET & ORAL suctioning every 2nd hrly, Vitals monitoring hrly",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "PR - 98 bpm, BP - 150 / 90 mmhg, Spo2 95%",
+        "investigations": "",
+        "lab_measurements": "GRBS - 152gm% at 8:00am",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjwIzMuNizfWJlNCwe46zEX2IyXDw64-NJLz9d_hx6Oxa_kIrTiEpoE6q1F7GTCsxpUrM2p3o0I5bCRkS7cb54uVmZSWFhpwlHuF-KvwFS4j8MNcsxdL3oWVQfETnp2C4iHjebh4_XSoEiO2TNXBjnW_IWEq2heTNRkVd1zkY5sN6dCapOvEr63kRqJXg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgVq50AshUGGH34CKERVyLO0elDvJd_1pHEyp-60l2XYznLCBytVpyf8Wc9bSOh_j7kuvJm_ndRTV4wIXV-tHWaT7_xpTtwBh88bwlFi-ce2t5-kngybe6SNOpRn3Y1g0LMkyWt28Sz9VSEK1Gx-4iuzo7qVNaanfeFfdTfxjRfpORb8F8OyxfnMhMP9A=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEikRg7gda7-grMqq1Rapo7b54v27M56_sMCYHWzLbPAUBnrkV9rI_ZGEB_bMKNwucVnKlvV70HEdXAknO6cOmObu5TpY97pe2ktoQ_JS4pbpZzy-3qfKIvwV8OG6KHEsR22p19-6UbRe-W74SAgNBWNUqb00SsBvUH50QGIzqX3B06emrelLmQfMpW_6A=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEisYBFvhaTN9Kyf1Ro_X7TLi7QHdLsRBpmCsI08gEMDvQa6uxUVr6ijo4OC-aDxMc7qv0IIlXg3q1ac0sJ3Hn0d95gumC90sTMmU8ZHOiqIEl5q2Xfxa9Rup4uS5g7jWY0N4xCNMctIbNefA1uMZRLhGVkhnQm_IhZg2mnZJE4WkT0kejdkX2ojm10nyg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEg4GXmzepbddpx5GbqFQWHnsTCDkm0OTOwjgxf2Z0C8C7_aHcICj_YgE_1VU7yZiUyLfs6V78KkhZ1Z2RE1Lt5s0MlvIV8bRFWK3A3ljQZ9mmZgwH-FgrGhLKogeu04uUeK2IYcEIOe12kz1UVZHTMl2p5aFW0ikiMRpyOJO6wu0I-8aueKkjyiqtkRkQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiZvseYzbP9y1dTwXSzrnpvWHk7nlrAlXziEHv7ROnitooGRYp_ZdIQdXJE4YDVAODzXYnYKFAMoR1k2RaHXAObEfHQQvd0J8I84hHn9gP6lxam0cyjQQF_j05UrwIazwgQFlwdd_k0nvxUiDWE6Y4BUcHD18s3AmUCnbkG0OvnjTzBwMgwZ3vKXkKeBg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjWbSxDOG4OhKR2J52cEqLyioDApz2BYuaCASLqdfoNrVOYO5VzWe2CZtucW2-w3nTnkpEks1jAOiXL_XZp-3mzJCBMpShzqBz191Mt4WXqEQh21sBOKGxfJpS76NFO6BhXoH6o-TMH5S8uapZ-ZkAr40W-Xmqy1WCy9cPF5gZwjiAG0G6WUJtBw8lmEA=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgRY9IUKyORCNFiUDyjWmO3Mp4JS1N53c7ttScu77Q_wk1bA4bode0Jg6HfM5A-uyFvCg64crubfIvXoM3Bl-FCv4-G3HoJUSgmft0Iaa4MKIRmqSdNqPAJl_F11iN5A7LUP9SE2TWXrpJTF5VOF3SIjF9ExUjU6MXuDWfpOED_F1Jg46gZt88UJvuthg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhKjNXV0Cu4aoqMTiYA2fDmArbyKLLqaiv2dvWDWiDSiCzBgv8hc60fqzf0OgALf8IkROMuOuu4Nq2Ocj9fPUBNSyKMcrdzlFyQkSN1434D3parD1w5M3wKMY8QOaRnMazIr0Yepy_Lxfzyfe4TneLyHrRiSmsV95-ejttGcahQ3fqh7s0COphiO-odKQ=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjHc93f6ObYu2AfTgft0QHG7TViyALTy20VIBXC999cnKZqtKXzGbsEc_7kFYNQWqu4c2fATmEIyprb-AbiDle57VAHaOyHAdOdreECtS-ypBYcHrvk5MPRMo_ey4pmJgsDYHxJsD8ypYryKY19AYHUJAcgAN66hIP1xue1ctxIIR6WvO5pBHc2tkRHsw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEit94DR-73J1m97BL0GQC4O8WfSNqFF9ODTWo7QSt0OiYZ2PVG04glaLfzfEDKADsF8RB18xNaDF7nOTD_MheFtAv35MWCID_z5IfrX27Klu4rnzltZSoaouQm7o6yDRGh6psV2yqsmBzZK0I1QnOVITF3ddJDGzC2M1bd5va6oJJTurfK3OF33I99LYg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiuuGgXYghf84-nTqaw6Zq6Mw5sEEVQ1uf04OAcONmgl541A3U0ItaCbYcckvBDPMYyWnq-v3Jqc_Q0oqgYiKlC8rNaiLbXbD-7oeUU6cF5PfS8CRByhID3mUitqzIsazY6glvUZenIHymrJCL_JFtEmmAKMbwLxmyjrRDxrE6vDevpEGKMqrAeOG6teg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEilXXX9qgF_j1cb-ioN8ZccJYGhhBIE-BdWH8BGW6a767DgpC3LOAHtfTHfBsRp1hQyCNFChm_N3T0K1_dxof0-VNavKhgoKUCw2bPUFepZ-2iLbRo_CP6MqWb_F3V-BY4FRpV2YzJN_0-Sf-x_Q-uOfnoMrrGGQXRDc-jdpyoHTlpGVjaLCrYMO8t7Lw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhzbXR5qTYSp-JUZ-cI1yb3x71ajQIUsInIcUFG-TWcmMgzXwULTR2QLBR-i3iP7-oQHCpnHijqg7KK87bj11nWdf9h80eWX2WKCDLUTZKlK7taIfiavf52_HS2l20aNGHXYIWmNyV0MR1gL-Bw0AQLeURyOo2Kpx1xkywlhjEgO2h1qEmWlqwwLrh5Pg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiHyKcEEGIzCDKUaOHYwUUwQ_WjLivc_XHkz5MP5ufaiUVqj0YgKAW6Z2Cz--pUkrFdxzOnLWIQ--7UUnkSb7whmT_ljZgA6gB2Z2MTvEKfZYOkDHpzNVbF0fPCo048lvkjAIQL5RdEvPhEq36gHPDvfMnqg8wcbEJUa2wI15shCFNlNREJ-krbrzNFOw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEijZfktKlwCgtT1xEJSGoxMCzUx5SLeBcFOGoTlOg6RJTU6uKYpVjtNjT96T69YUwEE2VoYIuTmTh5tXuOWEQ4RFbcwXqghGaVcrLCNq_4AL3mOYPicpBaP0SGUA2cPmoextm9KVuK7i7lJVAk02Ny7x7JdDTkkW945Rt-A86SEghqeIzE-BO514KzDUw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiOW3_MbEOr_GCu03363tZ28EZNW7vDSwYPUsyZLLmf276rkUTn8HVlIO8tjxhhXiGvc5J9z5xMG2gPp0ekWa1F8aTPEOERa9d9nFCK3pJ0KAWERzE2q7SC9ycHTD7QknVODdPehzE2M9WgVMCzxH0rW_IWM3Yh22DEAbt6g3saqKDfpxNVl9hAph3HZg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEj4P5ZzlCRQEynhpuO1GdBCyfvAmtHQkUCSGDa95sPQvoMcwehxfkhGT8TarHXywshHPcJWW_onqKNJ11-zXTHcpsE7hn4wFi3VSI21CI9J-TurvF5M0kz7GCvo4B6DP3QD_LoPy35vP2j6OkVo3cQ2tEhtssIlv7O34gJYtt4esPyVs2aWXU_X8AFjQw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgkgk-cyklHqSXZtbW6mW-M_R7g039iGH5SG_RBqVaUMJRaoT2Mat-KBwJKAPsTPDd1WgL1uhuh2wbtdEmte4zqyMCoDlQHqdHdF0Uo5lVx8HS0rtqOnzvVuKSz7DBUAzI4DNlFSnrTqWJwLoFGhCH82_NyUvQdKg3gxQmNbNli2p8T-_Q-Efoe4Ibmsg=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjur-5JwFIjWYi6nd1v6kqW7arXrN_Tq9etdmBoGEhHMh92bLLXZCyOt_kbMqxdn0-k4QynvM1oXfRr05P-zNpdmjctuF28X_ycQ26zTsQJBlfruyhi05IvP2rRSxUBRbDPQ_ovgsy5ia_fa-DJcfGBMtilZKaiOXPOHEvP5RQP3829zH4MkISzUl3NOw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjH56d3VRI1h1_ydKOfsM9WNucSkB9GaGH9gB0lBaOHPov5eEZzessgvBIL7tMVHvGCnUOOHP-RDGdPXEsLcsuyAMHcSzJY25OxA5jk7ssuztyYe33wi0Le1RRv7_AB3kD9iAMSPcM4Z880Sa4ANwpwMaPxbqqML1T8ME6B3r-hZlUAENtHftJxtoVPkw=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjckXPzVenJoX8KyFgDqPYDvLGXIoTR1D8Pk4AqEAI7h96IyZE1QNXgXJOJdoW0cO4OQL6d9_-Bgzmeu_SCFjhPbOrpyOgcXU242sUkPU7QjZs4PMSmFeoUODnLnwTQPVT7tJen9munOltKsBmSMNsMZSTsY_GcK7AGFpez4H6NpvJIfkZBHUsbxvN_JA=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEh4-j_Y4cAb73qROp6sxlmeAjU1LqHFrX6s_HejrVMB1jWRF9I5O0wS1CMJTSRYLlW7EgO2eb6zlfwBg0t4Vy64PbBMB0ZnH5VlgbC9Cb1HPKcqoyig0wIpK_kySU913TpKGsoa2J5_zfFUnEMaHx4oU86lYp2YLTJMAXmeVV9B7xB7siT3KAN8ycnXhA=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhm-SxdTl6qpaGiG-qn6XUpxceSdubUj_2TbV2V_kdi846ZULaA_FXyOgsp9sHQKaKcSHUrQAvpWO5v714NsFktUBqkwnqCN8GAyzLZzmNkjatijWEYFyvYMpk6z5USBkRcG-yw9xjDTjmJd2YsQfmlW86ACldfchszTzk5_MskoLACd_OphEQjsorG9w=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEjgR4OpsbCW0972eLGVtMp9Wd_V538xvipFPzfhgwj7PSOBOpE4ILq85mX2WrOTN031QsMqJqFBZVLpMsklOXgCEyifOxZd81q76JVhy4oiRLOrajnmIpoyT_ObStYn89gj9Rft69bjb9lMGpQsbsPYahGg_GGQV9u6Bm-w6zjz2vjqTDuoDWSicW5p7A=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiGpt2xJIJF58vhZ709vPvSLRUjdUlMeKVf-h_rchdqPe0jzD30jZSj2ZO2XU94M4y9ZIj5FY2Ah5xWxBUq7deHufrt0vaVuAywAX2rUOBxjHozhVN1d4aZrDEftMY9qod5vZ-sRjzlDlgEJjab8v5U8JBbXPQf7VwHzQez658-bALILDhXmw7YC5LU_A=s320"
+  ]
+}

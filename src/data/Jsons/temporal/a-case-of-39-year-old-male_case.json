@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "url": "https://prashanthsharma101.blogspot.com/2021/11/a-case-of-39-year-old-male.html",
+    "datetime": "2021-11-18T22:42:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "4 days before admission",
+      "activity": "Patient started experiencing symptoms",
+      "symptom": "Pain abdomen, increased frequency of urination, burning micturition, fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "39yrs old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "3 years before admission",
+      "activity": "Patient was diagnosed with Type 2 diabetes mellitus",
+      "symptom": "",
+      "diagnosis": "Type 2 diabetes mellitus",
+      "treatment": "OHD's",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "1 month before admission",
+      "activity": "Patient was on routine checkup",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "Admission",
+      "activity": "Patient was admitted to the hospital",
+      "symptom": "Pain abdomen, increased frequency of urination, burning micturition, fever",
+      "diagnosis": "?Acute pyelonephritis, ?Acute cystitis, K/c/o diabetes mellitus type 2",
+      "treatment": "IVF NS/RL @ 100ml/hr, INJ.PIPTAZ 4.5 gm/IV/BD, INJ.ZOFER 4mg/TID, INJ.HA1 S/C ACC TO SLIDING SCALE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Temp: 100*F, Pulse: 86bpm, BP: 150/100mmhg, Spo2: 98% at RA",
+        "investigations": "ECG, USG abdomen",
+        "lab_measurements": "GRBS: 274mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "17/11/21",
+      "activity": "USG abdomen was done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "USG abdomen",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "18/11/21",
+      "activity": "Review USG 2D ECHO was done",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Review USG 2D ECHO",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "19/11/21",
+      "activity": "Patient's condition was reviewed",
+      "symptom": "Burning micturition, fever, increased frequency of urination",
+      "diagnosis": "?Acute pyelonephritis, ?cystitis, K/c/o DM and denovo HTN",
+      "treatment": "TAB. CIPROFLOXACIN 500MG PO BD, TAB PAN 40 MG PO OD, INJ HAI S/C ACC TO GRBS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP: 130/80 MMHG, TEMP: 100 ° F, PR: 88 BPM",
+        "investigations": "",
+        "lab_measurements": "GRBS: 151 mg/dl",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "20/11/21",
+      "activity": "Patient's condition was reviewed",
+      "symptom": "Burning micturition reduced, pain abdomen decreased",
+      "diagnosis": "?Acute pyelonephritis, ?cystitis, known case of DM type 2 and denovo HTN",
+      "treatment": "IVF NS/RL @ 100ml/hr, INJ.ZOFER 4mg/TID, INJ.HA1 S/C ACC TO SLIDING SCALE",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP: 110/70mmhg, PR: 89bpm, TEMP: 100F",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "21/11/21",
+      "activity": "Patient's condition was reviewed",
+      "symptom": "Continuous fever spikes, burning micturation subsides, increased frequency of urination",
+      "diagnosis": "?Acute pyelonephritis and urge incontinence, DM-2, ?clinical malaria",
+      "treatment": "TAB.CIPROFLOXACIN 50MG/BD, TAB.PAN 40MG OD, TAB.PCM 650mg QID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "TEMP: 101F, BP: 110/70mmhg, PR: 90bpm",
+        "investigations": "Urine c/s, Smear for mp",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "22/11/21",
+      "activity": "Patient's condition was reviewed",
+      "symptom": "No fever spike, patient is feeling less lethargic, good appetite, low backache+",
+      "diagnosis": "?Acute pyelonephritis and urge incontinence, DM-2, ?clinical malaria",
+      "treatment": "INJ MEROPENEM 1GM/IV/BD, TAB.PAN 40MG OD, TAB.PCM 650mg QID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "TEMP: 98.6F, BP: 120/70mmhg, PR: 90bpm",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "23/11/21",
+      "activity": "Patient's condition was reviewed",
+      "symptom": "Loin pain+, no burning micturition, chills at the time of fever spike, less lethargic",
+      "diagnosis": "UTI, DM-2, ?clinical malaria",
+      "treatment": "INJ MEROPENEM 1GM/IV/BD, TAB.PAN 40MG OD, INJ NEOMOL 1GM/IV/TID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "TEMP: 98.6F, BP: 120/80mmhg, PR: 90bpm",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "24/11/21",
+      "activity": "Patient's condition was reviewed",
+      "symptom": "No burning micturition, lower backache decreased",
+      "diagnosis": "?Acute pyelonephritis, ?cystitis, ?clinical malaria, ?Acute prostatitis, known case of DM type 2 and denovo HTN",
+      "treatment": "TAB.FEROPENEM 200MG BD, TAB.DOXYCYCLINE 100MG PO OD, TAB.PCM 650MG PO TID",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP: 130/70mmhg, PR: 88bpm, TEMP: 100F",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ5mSvjY5n2zrA1iGLR6GXF6rUMC7mkxRldIPsEh7-VsUck2IAhRjLrpOIAweFs1kPIlQpXWd2bvOQPpdA5ACMRvT7PoCIEMHxGpdlzY5pxY20xjlyhU-8_Z1ERlvKzW09TASMGgwdLYSg/s1600/1637307000613192-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk1kjAr-kgM27EOYg8-AFERdWfdE11HdtzoO8i0UDhbf1oiV1TMoaNVYG5ha2jpU2vhU-uzTSqhyDUaGXJ1tpBxTegYzW7OO6UBJJraxgSCfza9sDOi9k4Gp94lmEQi3JMnj2pIkREBpss/s1600/1637305449275047-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2QrWH21Pa9abgtZ1lHUusGcurtnigvUkHinNlwug_Jg1EhUuCASenvxUxXI_06-GFpCoXiveeCHNgvJpQbJvCHnPsFo2DdNssTitijvZsECWUmb0ciQldumS0MuJl11yl478w8bna02K_/s1600/1637305393815453-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmNuQFWtZ2_TELhpikff_xgIYhcdO-yg_mQ_FfHnWqDKxiTZw4-bPpjpP1HyMfsPBuIpw5YCCF6AVQTKUI4j1IXx1uXEfX4XQa2I4GBsBB41GFFq32kT3d8EvXaQZFAQLCrfjGEwHVvKfY/s1600/1637307057229241-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXETTGN4Wr6EcUG_Mkv9NAbPNYrosCg3l8k9fZG3pJ7Cp9nF7FvaTI3yKvsdRSAIAhXd4OTHrCBkc4sVYt9mpl2ewiEjp0yYk3esZ2ZZpYLuP2bXdwhRO-8R4wuSkyNNj7dp_0eIl9ppUr/s1600/1637304694515372-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhB2ZTMqF_I6vn-rCFVtPC36ZSzrjHHzncdlk3P8Q9rcwQkcJOKi8iARoiX2p6EEzwXTQ84LW2gqjLxt64tZPIcQ2DBjiKIRHZPyqjJdDd9ge0KDuIfaoA4RFtSMS4jOQzV3HpPcNzoH5a/s1600/1637305275040285-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizQFe8RIAu_VDb9YrfMFVP43lOuhhU1hwiS-9LxUci-3RNtj5j5YQb8LhH9kr2lzzhgAXDS46g_Bq9TkpTqez-4r5yRETNPi0aXFFDBwf26QJ8da8b7UHca0Gq0kNdFwGsJ4xeSALrYiBZ/s1600/1637305190601834-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOMf1EOFrDLFaeFYJTHIYi8J0WYLENDpEtrxT0QouL1flifV7sYRdhYWUEavryWkOGvnPLGEY2_krvq0E7ZUJG1dDLzmXKMlnSUl6SmhMJa1F9IU_B3bRHAmh47_c6OMnMXPlJyXf5E9DD/s1600/1637306943453837-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAtyPl2g9Ih5F1Zahg5qLnxESOvTfyHQLOjVLo5Tir8mlqhyphenhyphenue7YUMff5TZbGJN9TCxYzgT8Qt1MJj_7Q1Ib35hAuo5qAnjtFjNgDmMfPXRG-jnelOEa_cdwJxMvS4Sb_vqtvPH6odd4E9/s1600/1639711352788492-0.png"
+  ]
+}

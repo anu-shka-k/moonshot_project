@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "url": "https://namrathareddy.blogspot.com/2021/08/102021-65-year-old-woman-presented-to.html",
-    "datetime": "2021-08-10T20:00:00-0700"
+    "url": "https://saisharanyapeddi.blogspot.com/2021/08/102021-65-year-old-woman-presented-to.html",
+    "datetime": "2021-08-10T23:19:00-0700"
   },
   "timeline": [
     {
       "ordinal": 1,
       "time": "6 months back",
-      "activity": "Patient was apparently asymptomatic",
+      "activity": "asymptomatic",
       "symptom": "",
       "diagnosis": "",
       "treatment": "",
@@ -22,8 +22,8 @@
     {
       "ordinal": 2,
       "time": "6 months back",
-      "activity": "Shortness of breath along with chest pain",
-      "symptom": "Shortness of breath, chest pain",
+      "activity": "shortness of breath along with chest pain",
+      "symptom": "shortness of breath, chest pain",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -36,11 +36,11 @@
     },
     {
       "ordinal": 3,
-      "time": "Past 5 years",
-      "activity": "Back pain and pain in the back of the neck",
-      "symptom": "Back pain, pain in the back of the neck",
+      "time": "5 years back",
+      "activity": "back pain and neck pain started",
+      "symptom": "back pain, neck pain",
       "diagnosis": "",
-      "treatment": "Tab Ultracet, spinal brace",
+      "treatment": "",
       "notes": {
         "demographics": "",
         "physical_exam": "",
@@ -51,11 +51,11 @@
     },
     {
       "ordinal": 4,
-      "time": "Past 6 months",
-      "activity": "Iron deficiency anemia and constipation",
-      "symptom": "Iron deficiency anemia, constipation",
-      "diagnosis": "",
-      "treatment": "Tab Lasix 40mg, twice daily, Tab Orofer XT, once daily",
+      "time": "12 years back",
+      "activity": "diagnosed with hypertension and diabetes",
+      "symptom": "",
+      "diagnosis": "hypertension, diabetes",
+      "treatment": "Tab Telma Beta 40/50mg, Tab Metformin 500mg",
       "notes": {
         "demographics": "",
         "physical_exam": "",
@@ -66,26 +66,71 @@
     },
     {
       "ordinal": 5,
-      "time": "August 10, 2021",
-      "activity": "Presented to OPD for regular checkup",
-      "symptom": "Shortness of breath",
-      "diagnosis": "Heart failure with reduced ejection fraction, Iron deficiency anemia, Diabetes mellitus, Hypertension",
-      "treatment": "Tab Lasix 40mg, twice daily, Tab Telma Beta 40/50mg, once daily, Tab Metformin 500mg, once daily, Tab Orofer XT, once daily, Tab Isosorbide Dinitrate 5mg, twice daily for 3 days, Syrup Lactulose 10ml, twice daily, Fluid Restriction <1 Litre/day, Salt Restriction 2 grams/day, Strict diabetic diet",
+      "time": "on presentation",
+      "activity": "presented to OPD for regular checkup",
+      "symptom": "shortness of breath",
+      "diagnosis": "",
+      "treatment": "",
       "notes": {
         "demographics": "",
-        "physical_exam": "Pulse rate - 75 beats per minute, Blood pressure - 110/70mmhg, Respiratory Rate - 18 cycles per minute, Spo2 - 98% on Room Air, GRBS - 150mg/dl, JVP - Not raised",
-        "investigations": "ECG, Chest X Ray PA view, COMPLETE BLOOD PICTURE, COMPLETE URINE EXAMINATION, RENAL FUNCTIONAL TEST, LIVER FUNCTION TEST, USG ABDOMEN, 2D ECHO",
-        "lab_measurements": "Hemoglobin - 8.5 g/dl, TLC - 8000 cells/cumm, Platelets - 1.5 Lakhs/cumm, Peripheral smear - Anisopoikilocytosis with hypochromasia microcytes and pencil forms, ABG - Ph - 7.45, PCO2 - 35.5mmhg, PO2 - 92mmhg, HCO3 - 24.6 mmol/l",
+        "physical_exam": "conscious, coherent and cooperative, Pulse rate - 75 beats per minute, Blood pressure - 110/70mmhg, Respiratory Rate - 18 cycles per minute, Spo2 - 98% on Room Air",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "on presentation",
+      "activity": "general examination and systemic examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ECG, Chest X Ray PA view, COMPLETE BLOOD PICTURE, ABG, COMPLETE URINE EXAMINATION, RENAL FUNCTIONAL TEST, LIVER FUNCTION TEST, USG ABDOMEN, 2D ECHO",
+        "lab_measurements": "Hemoglobin - 8.5 g/dl, TLC - 8000 cells/cumm, Platelets - 1.5 Lakhs/cumm, Peripheral smear - Anisopoikilocytosis with hypochromasia microcytes and pencil forms",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "on presentation",
+      "activity": "provisional diagnosis",
+      "symptom": "",
+      "diagnosis": "Heart failure with reduced ejection fraction, Iron deficiency anemia, Diabetes mellitus, Hypertension",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "on presentation",
+      "activity": "treatment started",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Tab Lasix 40mg, Tab Telma Beta 40/50mg, Tab Metformin 500mg, Tab Orofer XT, Tab Isosorbide Dinitrate 5mg, Syrup Lactulose 10ml",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
         "discussion": ""
       }
     }
   ],
   "imageurl": [
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizetLU2R198Arnq-qeR0w_lRe4g_Dqnxj3ajKQYGI24eKKyJi1ZE2PdVkHHiFaQ3JowmbXQfXPdGNEyleSQDES3rrOiZfBjkpivCRcz1V8rtlaBBiLQ7XLy7FQU73n01P6Bgj7gW7sVOq3/w331-h195/IMG-20210810-WA0009.jpg",
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2gLuXlwRJWD2O19RQ1KbPWU4lrcvNS7ZRjBHczBP13RbA6CD_f3DLDdkxnHx0x33VxmG05TQhDdhkR9Ojh-i06nlWsTnb9dZY4O7mV_aU98yPzs3dExDttfF08TSEs8r4dwGKkhumGq/s320/IMG-20210810-WA0010.jpg",
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0loWGOMj3Cj-3Pifh4aFZBD1G9YaEd70LhdDW6YX0dOB_s3xOej5e9AbTa2_hNbMyVDilUK5l01AEAN6X2qyFaV1G44vMey5CXsaVIsNU2L4DnsBojXHIyyWt2vuJV98LfMH7XTcIWqNs/s320/IMG-20210810-WA0011.jpg",
-    "https://blogger.googleusercontent.com/img/a/AVvXsEjzeGg9Wexwfw6LFNM7tMFRsFsEPsw4yXcev7u4qvT7HWszaZSGL_OkFqFtwL-PTXA2PR4riblf1f8qWMrxQTBawvf9Gfu7Daug2O2rmGnyiKlITOA92dAMhapPrDxobJo_yKBIqPIKdRBetrRyf48IcyL2WrVXBNsRks9yaVGVARPk24EDVJmBDe1odA=s320",
-    "https://blogger.googleusercontent.com/img/a/AVvXsEhYrrmMV4mxqg1DhtnLxBI2YAgSR4loUBumxDy8jidxXN8l3ChMgIud66cIyrFNrdB1uygwvTL4xE-z5FV5r32R-lGeLCQ__o_DhSp1VI8iadnFCwQuXuIRH0c9tI71Bg4YEt3VKpK5ROnuBVsSfI9iJ-jqYJCr0sjBC1QYaavmsadU88l5fnzU84vIzw=w135-h272",
-    "https://blogger.googleusercontent.com/img/a/AVvXsEjevHAsswhWkNmZ929tRmyBKWn97fHUAp4MIshCDQ9apsrppxDp5FjIiX5tDKKpyRnl54EQ2l8jME3-1Vfg4ZgpejkRkH77wPlzLbLEYVX2gVgr7FJ_rfv4O0NDIRDRdL42PNz98uNpknmwccePz44cxwm9G8sfB_tPQZ9pe5uheX0Raq0PxtE9vYZ09Q=w240-h287"
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGfnBXau0pmJiZFGdEHcGzf6RKCzd6CixQSnN63j5SwHaCuM_LrkKl6OXyueK6iRd_SZv_pE5yHqTwlGX-1d7yuXZb2QaLCzBLm_zcIJ43j0erZUJ9DjP1R9zkZ2TUsDzLt8h5Uxp6TRk-/s320/ecg.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7piT6sNl21az-PKlAFJCRRcr0QL5gGJw5cZ323UPlsXWDSXzXqDebissynQvLsrVHvMSx1i2wQyeEQUfY895rjfCezupfcGZNwJXfwZwj1hFB7Veb2n_FIqKcDLJFdpxmFum0Hf44jOVn/s320/xr.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJJo4IlZbAbkGH2SS6pPPrrr0xOnv8tHw1Y4wYz7KKUIsrFBOzO-cIZKWeFgiKCOvtRyGHeNdBOpPP4nCeC1bjchoKkIrHuq799UACHnac9N_HxhKfcxctlE1_XkQc0Pj2w8SfN73iLarW/s320/usg.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8D0LRKE-DybGEQysxCF8rztiRe5jbHFJ4y7UzvAxuzg7NHMsGb87HJKJFVClkj_X0F4HxhObuW2Affs7z7ar46auNuPA8YI07QB8kHHVdFDLBh5mWOD3xpQmc8D4zqbq6Z1aYK-GXQPpr/s320/IMG-0401.PNG",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEi2VKtSIxk6WFbf6PVoXJQhlGe1pra-rNNTcIOz_TiRjJJ2d3ZGePLHiQ5Ulh7Crye0JmkcPO0BNzXEG3nWvkYb34shDxSW7l3ZwIEl6SBvAnK-oTKueO4DW9N34cB159AZUbBay-SSkqhnVbnkNT1yz0IhItdO38BqOhfAHsV8Wa51u1Z9rp2hrw3D5Q=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhWXXmmxUi4d8m9eOr8SVX5fR6vY5DOx0BntDv4wZPzekgVgH-3h1llK2WEbu_9APDOYYHVwBXlwkkk6Kfh3oxplyq2IaDl6cBX6vkFZg7qtcg1I-NfoRAoX4myWlHNdslfTKFfLJvmPzEbt4m3gzauhWONsyr41TdBBEDECmUVu2STKwqitCivvpozVg=s320"
   ]
 }

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "url": "https://pavitrabaldawa.blogspot.com/2021/05/a-case-of-cerebrovascular-accident.html",
+    "datetime": "2021-05-24T01:37:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "1st May, 2021",
+      "activity": "Patient came to the casualty OPD",
+      "symptom": "Loss of consciousness (altered sensorium) for 30mins to 60 mins, slurring speech, involuntary micturition",
+      "diagnosis": "",
+      "treatment": "Tab. Depin 5mg",
+      "notes": {
+        "demographics": "60-year-old female, daily wage worker",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "1st May, 2021 (after admission)",
+      "activity": "General examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Stuporous, not cooperative but coherent, well nourished, moderately built, not oriented to time, place and person",
+        "investigations": "",
+        "lab_measurements": "Pulse rate-102bpm, Bp-130/80mmhg, Respiratory rate-20cpm, Temperature-Afebrile, GCS-4/15, GRBS-232mg/dl, Spo2-99% at room air",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "1st May, 2021 (after admission)",
+      "activity": "Systemic examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Respiratory system: Bilateral air entry positive, Cardiovascular system: S1 and S2 are normal, No abnormal heart sounds are heard, Central nervous system: Level of consciousness-stuporous, Speech-slurred, No signs of meningeal infection or irritation, GCS-4/15"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "1st May, 2021 (after admission)",
+      "activity": "Investigations",
+      "symptom": "",
+      "diagnosis": "Acute haemorrhage in left cerebral hemisphere, Evidence of extension of haemorrhage into 3rd, 4th and lateral ventricles",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "CT-scan",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "After diagnosis",
+      "activity": "Treatment and referral",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Monitoring of vitals, Head end evaluation, Referral to higher centre for neurosurgery intervention",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqVRIMRAztWmfUdVE6GKz08ZlvgMiqFGvJpey0nvzk5B48kGFm4Rpjj2OZupcbBxN7avv4tWEcQFZ2DOhVLqlYKaXyMvk1B-dXYI-Nw_xJSr18b_zqtMO-CdSfsfyXUF3P9_DWSc1vvjYa/s320/Cerebrovascular-Accident.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxObvBwT_NuJCf6F6DcbKGAac89NtWYgY51Gelr1byGMbfa3dwQaCSTrsVylJoOn-TymRwOiSh3u2ttngTQx7sgmag5kM9FYusuSVSdSPRS8ND1iyFMIMEaCqyrnhUIDA2nSBToBomPHms/s320/WhatsApp+Image+2021-05-24+at+1.55.37+PM.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUBQYGGbBFyzyUEqRW1BxD3L-gvz53KS1zgrhlhCZtnKg92tlxHSkLZq6dxqZ40EoaKSjap7WvCvmsKR6Y0MNYhd6yWV5y7UpI7zpM15bu5wK6EdzL3cBR87hehQEq-oHFksRuK9JrwuafFCD_SYVsheIcocvApw5u5TETEcydBzECu3Pr47f_Ze3IzQ/s320/WhatsApp%20Image%202023-06-11%20at%2017.07.27.jpeg",
+    "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sRSiKFAQb1r2yI7ewGnLQ75yeECC5rfh9fJQz2j6Zd1CpI_14hfAHZ0Dil2ipCYJ621ne40N17w4dTmj0Ehdos_y2by3_aXEdHLVxTyg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaCgeeMCfwzzLkOfKKCMilAB4bd6bmGxlLb9L-y2xzAVnXzOiCj_bFPsGbuAaq1qT4xvhNBL5Cc1wPmahREj0ailRZKUgaXX8WNzviyORaWk9Kt3KjsU5m_36b2kCgw2qx3UzkxjmeYyidwNtpdd7retojDm7LyEbRpnEu8_8T7Cd3iHS5YWfhGVQNiQ/w158-h400/WhatsApp%20Image%202023-05-04%20at%2018.54.34.jpeg"
+  ]
+}

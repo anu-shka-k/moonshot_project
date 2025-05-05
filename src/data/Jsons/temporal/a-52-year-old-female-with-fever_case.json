@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "url": "https://rachanagangula110.blogspot.com/2021/05/a-52-year-old-female-with-fever.html",
+    "datetime": "2021-05-23T07:09:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "10 days before admission",
+      "activity": "developed fever",
+      "symptom": "fever",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "insidious in onset, intermittent in nature, not associated with chills and rigors"
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "4 days before admission",
+      "activity": "developed dry cough",
+      "symptom": "dry cough",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "insidious in onset, intermittent in nature, with no diurnal or positional variations"
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "3 days before admission",
+      "activity": "developed shortness of breath",
+      "symptom": "shortness of breath",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Grade 2 shortness of breath (NYHA CLASSIFICATION), insidious in onset and gradually progressed to Grade 3 shortness of breath"
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "on admission (19/05/2021, 7:15 PM)",
+      "activity": "admitted to hospital",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "moderately built and nourished",
+        "physical_exam": "conscious, coherent, cooperative, well oriented to time, place, person",
+        "investigations": "",
+        "lab_measurements": "Temperature- Febrile, Heart rate- 109 beats/min, Blood pressure- 100/60 mmHg, Respiratory rate- 42 cycles/min, SPO2- 79% at room air",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "on admission (19/05/2021)",
+      "activity": "general examination and vital signs",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor : absent, Icterus : absent, Cyanosis : absent, Clubbing : absent, Lymphadenopathy : absent, Edema : absent, Dehydration: moderate",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "on admission (19/05/2021)",
+      "activity": "systemic examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "CVS : S1 and S2 heard, No added thrills, murmurs, RESPIRATORY SYSTEM : Trachea is central in position, Dyspnoea present, Wheeze present, Tubular breath sounds heard",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "on admission (19/05/2021)",
+      "activity": "investigations",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "GRBS-135 mg/dl, COVID RT-PCR +ve, CT score- 12/25",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "on admission (19/05/2021)",
+      "activity": "provisional diagnosis",
+      "symptom": "",
+      "diagnosis": "Moderate to Severe Viral Pneumonia secondary to COVID-19",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "on admission (19/05/2021)",
+      "activity": "treatment regimen",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "Inj. Dexamethasone 8mg IV TID, Inj. Pan 40mg IV OD, Inj. CLEXANE SC OD, GRBS charting 6th hourly, Inj HAI SC according to sliding scale, Tab. AMLONG p/o OD, TEMP and BP checking 4th hourly, INTERMITTENT BIPAP",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "at 9:45 pm on 19/5/21",
+      "activity": "developed seizure with loss of consciousness",
+      "symptom": "seizure, loss of consciousness",
+      "diagnosis": "",
+      "treatment": "Inj. LORAZEPAM 2U Stat",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "at 10:05 pm on 19/5/21",
+      "activity": "declared dead",
+      "symptom": "",
+      "diagnosis": "Seizures with Type II Respiratory Failure",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "PR- not recordable, BP- NR, Pupils - fixed, dilated, ECG- flatline in all 12 leads",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Immediate cause of death: Seizures with Type II Respiratory Failure, Antecedent cause of death: Severe COVID-19 Pneumonia"
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgG1NPC4T1wmYfNqII0bTIpFfnDyt9QTdT5GDjnZopcAYryaelBu_OJwQEAW_UqkeJmGvGtwcVetFDbyZ5irDaIxLqgll_GlfbnF_IrmMQBVD5IrnRD_2NUvE8xXR1YoynZvJYXeMHnXfF/w320-h245/ECG2.jpg"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "url": "https://raagameghana.blogspot.com/2021/08/a-39year-old-male-patient-with-renal.html",
+    "datetime": "2021-08-06T18:02:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "5 days before admission",
+      "activity": "fever started",
+      "symptom": "high grade fever, chills, 2 to 3 episodes of loose stools",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "39 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "5 days before admission",
+      "activity": "facial puffiness started",
+      "symptom": "facial puffiness",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "5 days before admission",
+      "activity": "burning micturition started",
+      "symptom": "burning micturition",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "5 days before admission",
+      "activity": "decreased urine output started",
+      "symptom": "decreased urine output",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "3 days before admission",
+      "activity": "generalized body swelling started",
+      "symptom": "generalized body swelling, SOB",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "on admission",
+      "activity": "patient presented to OPD",
+      "symptom": "fever, pedal edema, chills, loose stools, facial puffiness, generalized body swelling, SOB, burning micturition, decreased urine output",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "patient is conscious, coherent and cooperative, pedal edema present, no signs of pallor, icterus, cyanosis, clubbing and lymphadenopathy",
+        "investigations": "",
+        "lab_measurements": "PR - 96, BP - 140/80 mmhg, RR - 16 cpm, GRBS - 131 mg/dl, Temperature- 102.1F, Spo2 - 97% at room air",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "on admission",
+      "activity": "systemic examination",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "CVS- S1,S2 +, no murmurs, RS- BAE+, P/A- Soft, bowel sounds present, Tenderness + in the epigastrium and left hypochondrium, CNS-NAD",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "9/8/2021",
+      "activity": "investigations",
+      "symptom": "",
+      "diagnosis": "Renal AKI (?ATN) secondary to sepsis on CKD(Secondary to analgesic nephropathy) with symmetric polyarthritis under evaluation with hypervolemic hyponatremia",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "ECG, X-RAYS, Serum urea, creatinine and serum electrolytes, X-RAY LEFT FOOT BOTH PA AND LATERAL VIEW, 2D ECHO",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRPAsNL679DgaIrcysdRdZwBAEvGV_JmK82HZ93ALovTmMqWoklEDF4HiNw5ELzwH8nxBUWy77XkTaQ0BcgcOTJTmKC_zuN99T9sHopGeYxT_YEbXctoCJcIJCHSgpxC9_23wf79HfnXOb/s320/8C3D334D-38D5-4869-8ED6-E9AF6DA0947B.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSnx8C_pPJ38V-WiQX1o2FchcY1_5qNaUtCS5jB1VSJ91Pxp7yXkK15m4iOnVF8xy_p3V5OE7BsL6RH8_RLHxetHz_Jrg4hWVKtldQfina7GCxayMtrSN1kL8r9qK09IBMmt0Y9mIrSk9Z/s320/9728161A-41DE-4622-8C55-AAB0E623A6C3.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF-SkYyR2-A-PM9PM0DC_Lup30sbLS3aMgVQ8g-uetjaeG8c08srCAAdH_v0YEkvnc2RJzbkpyM3uqlUN3dyGiWkHkuyoefhO9VFabGp0OHzFH8_GpH0IJUGgcUgiGnHtHMfDMDgMXtlbm/s320/EEEEF09C-3899-48ED-B6B7-EAA3FB00D91D.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyjMOXL4Zvt_O04tNH9SJB0TUxF_AM8-ACASYPfpBfgdzInxe_DR9iKzQoemkXIOmd3VHUhEtbH4K6I3E7H4ek6XHv2STYTKMvz0pYSfW6YRGEq4Hhh2VinXWuBzpbubgrJZpctuHS2YGG/s320/12AF2CFD-933E-4ADA-94AA-85BECED69D64.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTSTcpCqHdC5W27jtHVOqyunW-rtrHSBGXIQF2pYmpTwEZrijQsZa_TuqlcviipkGYNZGkCNbftB0z8nLst8IxH3lVfkUUuN4odWrInvF1V3zubzo8dV711Th3swa4w3ZcD9YTh5jBce6N/s320/D9BA5CAA-7451-4342-A047-3761D7A636B1.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx5en-rSa1Lv_3LIDshON7RZpH5GghTE8CZycuICQoDj3doBL_ABXTcYbuMJ-o48KdeiTTsFYGiQalMXktk56gglPayNOBBOIbCwP56IYB-tmxV7GWMlqCPi-lDtiSH6-xs5SnttW6SzYR/s320/1EFAC217-8A8B-473C-B2FD-E7827AF46FB2.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsxwJZRKz1JfMuk42KPHGX7YwjXR-soYnxCugzUu4JmWr7KkAC06deIpI9e2GigF1nxtVwxGvYSTIejR4RqBcrZyHV_jvzsi4NlMM8OhpMNdO7CnCaR9tqCTZq6Qf18tC-rl_-qyW1QuzO/s320/C0D815DE-169C-4ACD-B97A-C77235650505.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCUcy6Mrlrtj3Ndr0YHgcM2FDYxCPFx21W2lmHWM-R00k5PFLtDfjF2UcS39eLwzxyk9XXFrDbFjBcjKG354qC5bBAK7V8bLSlPHIfYodzm3WSD9OOd1GbrryDBosqJcNT3Xwcdpo-xsFh/s320/7C6AA212-9338-49A9-8585-8021C57BEB12.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnCPDXZHD-G28koTbmiaEy_TsWWt_ENowpARStztjJsrY7aCdYzX6jxxe7id9q68ceH20kKNxQXRF3_pKFMpyZEG-A1wovIggp0SroQ8vEwxcYThJ2CfZWQOgV_iQ5keuwY3C7v-AVK0G3/s320/AE9EDCDE-23BF-474A-B3B6-E0597B632696.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIgLrXwMJMDJ0bXtpq1L02D5TBg2luUjCkeyNoGNCVTSDw4j4Ki3Y3mc7aM36L4pO0MNUdxwVwfG-p2oxzRYrYHXhsOqz_k3MFS8Z9dcCZy9BF34LeJkgd0buWhUZ8fVESRbnm1vfZisdh/s320/E2C0DB36-90E0-4F46-9296-E45299211C81.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJqtI2v3i8PfNvaTww6HIKe3JKWqHRNXVxdKGu4sODksyHEn-mPRaz0bcDPocsmpsn95jobjcgpeILf_AxWKfRmL8WSMC05WdEbDh3pP30QR36vAI2LH1Kay26Njnr4Wzk6VboV5FGWcjy/s320/F572057E-E1BF-46F9-B869-40613DB8D0C6.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuRJTOEfiRNJ9mv8OSu_wnIIKAxIkcCPu1eOR1Xi3QJPF-9VO3dlM72jr5KIwof5PSmWTS6xwjwtTdBXOVMLOCh9K1jsIwF9GZPDMayODHuEkOGCn3Ce0OF5Y01xp0xjC6SrnzOjbyNNHY/s320/1E1DFA6A-2C3C-4D25-A078-F2854BBF72EA.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZC0Zg-LbhH6uAEzxk5Zpnl3-pgatlrZTIf9fJEbEWU-OA1JmMfWQgw6vJCJyQeiTsiW4X6Ktoutq1fk9NfL20hgiX1HVCXMqO-takv6z7eref820_AGtFRxH94mGjPnNvSNVmzvo0XiLI/s320/A42DC79C-142B-415C-B206-4C130FC82DD8.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlz64JX8dLq8velnmy-KYrNOE0OfkL95Sh5lHDX6aUeaAVQa5hZSP3P-HK3pqtuSuAerubsevcs7-4VEUPExdZibkkZEKKmGfombWxcMVrDmlKuoWmpBJBuKfRPm1jkR-ZA8udvCR_R2I/s1600/1629091324011216-1.png",
+    "https://raagameghana.blogspot.com/blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz0B0D60ZgSk03l0Tni29b9kC30LCM7oYisDwdBfwuSO6-n1X42u0Fb6H3e_Mrupd9R-BKz11g-tFQ6Sy0SQ-ixkCZfO0MI7djE0xDt0wpQChcZAV2u3QD40CFHzIcgDY/s220/4BBB69CD-91E0-4F66-88B5-083BF1ABCAFF.jpeg"
+  ]
+}

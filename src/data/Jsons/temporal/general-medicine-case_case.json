@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "url": "https://akshithakasani81.blogspot.com/2021/08/general-medicine-case.html",
-    "datetime": "2021-08-09T12:37:00-0700"
+    "url": "https://psaikrupasri175.blogspot.com/2021/12/general-medicine-case.html",
+    "datetime": "2021-12-14T08:52:00-0800"
   },
   "timeline": [
     {
       "ordinal": 1,
-      "time": "2 years ago",
-      "activity": "Patient was diagnosed with type 2 diabetes mellitus",
-      "symptom": "",
-      "diagnosis": "Type 2 diabetes mellitus",
-      "treatment": "Oral hyperglycemic agents",
+      "time": "6 months back",
+      "activity": "Patient developed abdominal distension, bilateral pedal edema, and jaundice",
+      "symptom": "abdominal distension, bilateral pedal edema, jaundice",
+      "diagnosis": "",
+      "treatment": "",
       "notes": {
-        "demographics": "70 year old female",
+        "demographics": "47 years old male",
         "physical_exam": "",
         "investigations": "",
         "lab_measurements": "",
@@ -21,26 +21,26 @@
     },
     {
       "ordinal": 2,
-      "time": "2 months ago",
-      "activity": "Patient experienced sudden onset of giddiness and generalized weakness",
-      "symptom": "Giddiness, Generalized weakness",
-      "diagnosis": "",
-      "treatment": "IV fluids, Metformin 500 mg PO/OD",
+      "time": "6 months back",
+      "activity": "Patient went to local hospital",
+      "symptom": "",
+      "diagnosis": "fluid in stomach and liver disease",
+      "treatment": "ascitic tap and medication",
       "notes": {
         "demographics": "",
         "physical_exam": "",
-        "investigations": "",
+        "investigations": "ascitic tap",
         "lab_measurements": "",
         "discussion": ""
       }
     },
     {
       "ordinal": 3,
-      "time": "1 week ago",
-      "activity": "Patient started having fever",
-      "symptom": "Fever",
+      "time": "2-3 weeks after medication",
+      "activity": "Jaundice and abdominal distension reduced",
+      "symptom": "",
       "diagnosis": "",
-      "treatment": "",
+      "treatment": "continued medication",
       "notes": {
         "demographics": "",
         "physical_exam": "",
@@ -51,9 +51,24 @@
     },
     {
       "ordinal": 4,
-      "time": "3 days ago",
-      "activity": "Patient started having right buttock pain",
-      "symptom": "Right buttock pain",
+      "time": "5 months after initial treatment",
+      "activity": "Patient started tapering medication",
+      "symptom": "",
+      "diagnosis": "",
+      "treatment": "tapering medication",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "4 days ago",
+      "activity": "Patient developed abdominal distension, bilateral pedal edema, and decreased urine output",
+      "symptom": "abdominal distension, bilateral pedal edema, decreased urine output",
       "diagnosis": "",
       "treatment": "",
       "notes": {
@@ -65,72 +80,34 @@
       }
     },
     {
-      "ordinal": 5,
-      "time": "On admission",
-      "activity": "Patient was admitted to the hospital",
-      "symptom": "",
-      "diagnosis": "Pre-renal acute kidney injury secondary to acute gastroenteritis",
-      "treatment": "IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "Patient is conscious, coherent, co-operative. Temp-afebrile, PR-91 bpm, BP-100/70 mm of Hg, RR-20/min, Spo2-98% at room air, Pallor-present",
-        "investigations": "Chest X-ray, ECG, Hb-8.5, Tlc-14,200, Plt-1.5, S. Urea-103, S. Creatinine-3.1, Sodium-131, Potassium-3.5, Chloride-99",
-        "lab_measurements": "",
-        "discussion": ""
-      }
-    },
-    {
       "ordinal": 6,
-      "time": "Day 1",
-      "activity": "Patient was treated with IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD",
+      "time": "on admission",
+      "activity": "Patient admitted to hospital",
       "symptom": "",
-      "diagnosis": "",
-      "treatment": "IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD",
+      "diagnosis": "decompensated chronic liver disease secondary to liver cirrhosis, ascites, HBsAg positive status with psoriasis",
+      "treatment": "Inj. LASIX 40 mg I.V. BD, Tab. ALDACTONE 50 mg PO OD, Syp. LACTULOSE 10 ml PO BD, fluid restriction, salt restriction",
       "notes": {
         "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 7,
-      "time": "Day 2",
-      "activity": "Patient was treated with IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
-        "discussion": ""
-      }
-    },
-    {
-      "ordinal": 8,
-      "time": "Day 3",
-      "activity": "Patient was treated with IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD, Tab. Ultracet PO/QID/1/2 tab, Chlorhexidine mouth wash/BD, Tab. PCM 650 mg PO/BD",
-      "symptom": "",
-      "diagnosis": "",
-      "treatment": "IVF-NS, RL@100 ml/hr, Inj. Ceftriaxone 1gm/IV/BD, Inj. Pan 40mg IV/OD, Inj. Zofen 4mg IV/SOS, Inj. H.Mixtard SC/BD, Inj. Optineuron 1 amp in 100 ml NS/IV/OD, Tab. Ultracet PO/QID/1/2 tab, Chlorhexidine mouth wash/BD, Tab. PCM 650 mg PO/BD",
-      "notes": {
-        "demographics": "",
-        "physical_exam": "",
-        "investigations": "",
-        "lab_measurements": "",
+        "physical_exam": "patient is conscious, coherent and cooperative, moderately nourished, pallor present, icterus present, bilateral pedal edema present",
+        "investigations": "ECG, ascitic fluid cell count, USG, colour doppler, 2d echo, serology, CBP, LFT, RFT",
+        "lab_measurements": "Hb- 12 gm/dl, TLC- 9300, Plt- 1.54 lakhs/cu. mm, LFT- TB- 2.94, DB- 1.66, AST- 37, ALT- 24, ALP- 259, TP- 6.5, ALBUMIN- 2.4, A/G RATIO- 0.59, RFT- UREA- 42 mg/dl, CREATININE- 1.8 mg/dl, SODIUM- 144 mEq/L, POTASSIUM- 4.2 mEq/L, CHLORIDE- 104 mEq/L",
         "discussion": ""
       }
     }
   ],
   "imageurl": [
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbHRMAuMBQ95pf1SZ1OhiL9XYvw185Q8D2bcjDlL3o5vi_QS4CAyrxmSqVkeLURfVZ2_LZGnSs62xD8EwxY3lBV0AHYGBaOng0fuxPswKDArRPfCABh6p6cHES63VSkaNwulMzD-MpMmc4/s1600/1628657661593094-0.png",
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_zm7zJqCeANvBAbc_v0SIEhupAIDkmHrGkX7dDXnAPm1VLUfk96JP84WQxc3QNBottheXu4sqSa2EDiHLm8S2g0361G0WzhYjeQSrj2Lv2EHB0iNiMlXksonkGNln09QnchFh8LIvQ5h/s1600/1628657632387456-1.png",
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIXTv3sV994_Rzyi25Wt4cib7wCI75ng4kf_w5-9x8eLkQ0azCaloc9T9lcqmNgG1iMOGVdW8B2naooT7bWubkoItB9pIOKjSEOYoblB8Gy2FpNeU6yZk6yr7WLb1-BoIgmAQPBqiH6f0i/s1600/1628657840528249-0.png",
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVvYk75U81U2vJQVJMOLAoO8rvwRFUHZmqA28i3H1_4oE63m75flzFTb5PqA6eYc7kUMpmPMmNQHxVy_ikwTsuflsSvnYldOniTEGB0fqi8nWcbnOO7fiXMMC9CMYp-TepVFebjnnqVJ9l/s1600/1619844325985766-0.png",
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDRPWGeT3WXQVmqlQQuUK8EcfqE40OeXJ-LVtsgi1JyFZ_H7pW9H0uv1SwvKfeiGV8fEM6RVadevAuNyMPsvNvLHm_iFvVD1HxgHCBScsSmT0nuX6NO6l2S-ZDnDPMRmzqTBHQGm-adSqF/s1600/1619864154162950-0.png",
-    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3ZsbSZu93LzG7BMxdZWJGPvigkMd3-i6wI0rcPUq-giL5VrloJIvD8_z0RH2pASmkLPpBY-HilBY87ASYsvVI2M7PB_F-ZnBKPbFyQEJ0oxE-3phgTH_ldWT-y-_GZQ-CwFCTLm0oaoCj/s1600/1632247415515154-0.png"
+    "https://blogger.googleusercontent.com/img/a/AVvXsEh2HBzJ_Bj6N3Wp6lzCtxYVVHDOUVI1vhX7xxGCJhfGyrB1Ta83lh7LDhSCEHDVIb9OC3O8aYG7_E9ru8t9Wu0CDZTSJkpkvFrmy9R9Vt785wmoA3N3czRPWkGIx-MkzTMEGQ8-wqebe6dmXANYloZ-bNH1oFIYWbUAnNkwQMJVH9bYF5vuMWkDvd8H=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEg8-WfwU016B0gTM6-nxe5n6Sw5M-zu77CSKfJPKENORK7WWTRqAlC1BkFSgvHMZ3PGWXh8WPLOUB88xXbk7sD7YAzD6zucvrXzwuZb--VJoRoqu3RFI0CNljiFFaycCD7fYkAxmVbkg_FM3i-k5mnAbtkffUo_rH_7Xjh2ZofYJ3oESj4Hpkpw7Yrk=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEht5EV0qlaac0QGTFDfRG9fswycwW-y6ttSGZ5QIy4g7CUtnQnq5RLKLh7Mcj9CPhCFPCZ2E1qfdtMT8oVFMwpKcAl5sYrxCyL_GlOQxtM5j2zi0kWhlppq0lMrtaYyxQk_tguGouSVYV7xpgszBN_v3Pfhi0nsZUeeaSdFvwwOFwHUbrKTKJAS5j45=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEj6-_BIKoqEwZ_NLVKayQE3644LYUTxww2j62FX-vF8FiWznBr1Sz05xBYzKwKUvJVhweHaB_cSq-m6Ey7jtmyQOLw1bgkYEKFSGaHwi7sl84q9Joa_EXWP94_T6lK28ZAzAoL-l22oe8uQsm-5h0VOrYOAXazswAwP1UMCSFz4dsyR3vJjrKIdq2dT=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgIZ4mbt-PlfRUZNpsm0oqmNgkzHWzS99Pl6glTcxdNGKOiCpnqT2yGclMchdTL2PWhkKcP1JENZqq7QUcV8X2VAPATUB1AlsHPuR1wmQ7UwrXPGuwIGgzF66k_7yOppCchKuEwNcQSwlFfS0Rb8JVrUMGQT4b0ZaBzr8mT3bfLcFCe3ptb6Ut26z8K=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiVTqMpbic3GHGdFLRh9bKVokoZCVGrPu9yaW1kH8n5xUYrD4f6TywXqtlWjQrAbMf298T2lzyEBBgW6mtcxbp49lzyQ6HzLOuUoyZLLCQVkSIcPwiYzKB0uW4ZrROPI69aN7V67Tug3K_28kwXYDOxuoDRpr5Z6GuxBowxSty64xWNjPKBWOCv6ssp=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEh0LpdKINYU1bce_8RRVZT7CEb8_Lhei93rn9IHbqsbovLWOmA5Gn2KJiqp1ysbOiBebN5zsyrrS8ToG1Z8Fu4VLHU5a8di7DuvuFtya10e8pB2vD5U8IZNzuLxCNAW2gJuyQHbHhix2M0SOp5DL5nGcRczKrgm1jlqIgIKdrnEWuQ2lLtYS3fBQJKG=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEhYbEofeMeFqBSZi6OX435PK0ZnYpQ4aN21QTv-JBY7ukky55RDIBrFqvLuOF-WqrkmiHBpQuCag3VZytwPbhgNUoNsIHCFUGUaemRH-0Zwu-zyQ-0rWPmTELqiRJ0UE3E2ryVtNhnTTRlB43w4tg5_i50q91K6y3cLSxYPfYgr2FsxKe1yJTEm3Ucu=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiCwYFJHIr1gqH9VsWsQYQl11JRpFyKn0oxTx-mwVuj_cMgkFhPOW41U3UhOGu_Wep88ZIthq8HniD0JbUWB6bmt4LL0MoxfNDtVjk1gDtPsFAONkmxE33su0aOlcaj4M6AC-KQK0gPYkYgiHNWqLk8Vf-okCBjV6JJqbrV2I5pwna72GYqnVjtrguK=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEi3soitvVQ2YePztzzH-JYNWJNnxroqKualaHUoGvyZpkTyC7js-A_rvQ465_yvGZaizavrGgi0yZ325oiudlGdfEW8DRrrMOJBRf2QUYOsv9H_dZqgYLD5aMU_AFHuwXnwT4IUX5f0y3PiTY20CpZS1wKIMXKQvxwgymzdt-yGpBXzcd3OPZbzwGZ7=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgSc_Yzdz9MGbFnQQ8Y7B2z4FGLakHxnzF8J0S3HSYVfqHFLh317Ju3Xj7-EJsK4sv8NR2v_JoSeU1NcLBAsUZLsHyY--dr3ClnJEcq4KhkdJtXGv_-9YVyXhVFQEgiPZWakMOG5WFfN20fD69YcE8leJZtevr-cyvi4grCw7FAjSL207JgeE0KjQdT=s320",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEiTxGH269H0ZvZn5fYKW1tiakrACgxG0Ug-RTXU9RMzkM7Bf1UJef4-DHjLSUALOBnHAjNGT-zoiSXNiGJ-W2U0FEigHGF_UlZ2hxJa0FkEc57UZrnodLAErZ2n61yAkbHTvg3Bonp3YOMg_Vmodbee3b7u3g-v1BtsgRWHb161yU4N-2XzYG6FBVvK=s320",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0TvhXO2fKa2NdpYbphsilmz9u3c2m6s3-9zu0Gxtzb-kkZ-l7UGEHIEjHfYLA556iWXWc2Wnwv9_i5ygqY4xDmJ_YfQGxS2gE_G1mf3SaiKWpd0wg1xLTGDebzauaeMDSeg0Q42SianhkDY767mk4b8yA8DFtxTnTHnhPQi9HCHA4yWSSplFzbd6K/s320/IMG-20220329-WA0012.jpg"
   ]
 }

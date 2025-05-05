@@ -1,0 +1,222 @@
+{
+  "metadata": {
+    "url": "https://priyanka176.blogspot.com/2022/02/pancytopenia-under-evaluation.html",
+    "datetime": "2022-02-10T21:29:00-0800"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "15 days back",
+      "activity": "Patient developed yellowish discoloration of eyes",
+      "symptom": "Yellowish discoloration of eyes",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "23 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "1 week back",
+      "activity": "Patient developed fever, SOB on exertion, abdominal discomfort and pain",
+      "symptom": "Fever, SOB on exertion, abdominal discomfort and pain",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "2 days back",
+      "activity": "Patient had blood in stools",
+      "symptom": "Blood in stools",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "On admission",
+      "activity": "Patient was admitted to the hospital",
+      "symptom": "",
+      "diagnosis": "Pancytopenia under evaluation secondary to B12 deficiency",
+      "treatment": "Inj. Methylcobalamine 1500mcg in 100ml NS IV/OD, Inj. Lasix 20mg BD, Inj. Pantop 40mg IV/SOS, Inj. Zofer 4mg IV/SOS, Tab. Ultracet 1/2 PO/SOS, Tab. PCM 500mg PO/SOS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Pallor+, Icterus+, Oedema of feet+, Hyperpigmentation of knuckles+",
+        "investigations": "Hb-4 gm%, Chest X-ray, USG, 2D ECHO, ECG",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 5,
+      "time": "ICU BED-3 DAY-1",
+      "activity": "Patient's symptoms subsided",
+      "symptom": "",
+      "diagnosis": "Pancytopenia under evaluation secondary to B12 deficiency",
+      "treatment": "Inj. Methylcobalamine 1500mcg in 100ml NS IV/OD, Inj. Pantop 40mg IV/SOS, Inj. Zofer 4mg IV/SOS, Tab. Ultracet 1/2 PO/SOS, Tab. PCM 500mg PO/SOS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP:100/80 mmHg, PR:120 bpm, RR:18 cpm, SPO2: 99% at RA",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 6,
+      "time": "ICU BED-3 DAY-2",
+      "activity": "Patient's symptoms persisted",
+      "symptom": "",
+      "diagnosis": "Pancytopenia under evaluation secondary to B12 deficiency",
+      "treatment": "Inj. Methylcobalamine 1500mcg in 100ml NS IV/OD, Inj. Pantop 40mg IV/SOS, Inj. Zofer 4mg IV/SOS, Tab. Ultracet 1/2 PO/SOS, Tab. PCM 500mg PO/SOS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP:100/50 mmHg, PR:108 bpm, RR:20 cpm, SPO2: 99% at RA",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 7,
+      "time": "ICU BED-3 DAY-3",
+      "activity": "Patient's symptoms persisted",
+      "symptom": "",
+      "diagnosis": "Pancytopenia under evaluation secondary to B12 deficiency",
+      "treatment": "Inj. Methylcobalamine 1500mcg in 100ml NS IV/OD, Inj. Pantop 40mg IV/SOS, Inj. Zofer 4mg IV/SOS, Tab. Ultracet 1/2 PO/SOS, Tab. PCM 500mg PO/SOS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP:110/70 mmHg, PR:93 bpm, RR:20 cpm, SPO2: 99% at RA",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 8,
+      "time": "AMC BED NO :3 DAY-4",
+      "activity": "Patient had an episode of blood in stools",
+      "symptom": "Blood in stools",
+      "diagnosis": "Pancytopenia under evaluation secondary to B12 deficiency",
+      "treatment": "Inj. Methylcobalamine 1500mcg in 100ml NS IV/OD, Tab. PCM 500mg PO/SOS",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP:110/60 mmHg, PR:92 bpm, RR:20 cpm, SPO2: 99% at RA",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 9,
+      "time": "Ward updates:23yr/M DAY-5",
+      "activity": "Patient's symptoms persisted",
+      "symptom": "",
+      "diagnosis": "Pancytopenia under evaluation secondary to B12 deficiency",
+      "treatment": "Inj. Methylcobalamine 1000mcg in 100ml NS IV/OD, Tab. PCM 500mg PO/SOS, High fibre diet + adequate hydration, Sitz bath for 20 min/TID, Ointment lignocaine for LA/BD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP:100/80 mmHg, PR:85 bpm, RR:20 cpm, SPO2: 99% at RA",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 10,
+      "time": "General medicineward case DAY-6",
+      "activity": "Patient had a fever spike",
+      "symptom": "Fever",
+      "diagnosis": "Megaloblastic anemia secondary to B12 deficiency",
+      "treatment": "Inj. Methylcobalamine 1500mcg in 100ml NS IV/OD, Tab. PCM 500mg PO/SOS, High fiber diet + adequate hydration, Sitz bath for 20 min/TID, Ointment lignocaine for LA/BD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP:100/60 mmHg, PR:88bpm, RR:20 cpm, SPO2: 99% at RA",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 11,
+      "time": "Ward case :Day 7 updates",
+      "activity": "Patient's symptoms improved",
+      "symptom": "",
+      "diagnosis": "Megaloblastic anemia secondary to VitB12 deficiency, Asymptomatic celiac disease",
+      "treatment": "Inj. Vitcofol 1500microgm im/od, Tab. PCM 500mg PO/SOS, Tab. Pantop 40mg PO/OD, High fiber diet + adequate hydration with gluten free diet, Sitz bath for 20 min/TID, Ointment lignocaine for LA/BD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP:100/70 mmHg, PR:88bpm, RR:19cpm, SPO2: 99% at RA",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 12,
+      "time": "General medicineward case DAY-8",
+      "activity": "Patient's symptoms improved",
+      "symptom": "",
+      "diagnosis": "Megaloblastic anemia secondary to VitB12 deficiency, Asymptomatic celiac disease, Fissure in ano",
+      "treatment": "Inj. Vitcofol 1500microgm im/od, Tab. PCM 500mg PO/SOS, Tab. Pantop 40mg PO/OD, High fiber diet + adequate hydration with gluten free diet, Sitz bath for 20 min/TID, Ointment lignocaine for LA/BD",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "BP:100/70 mmHg, PR:82bpm, RR:19cpm, SPO2: 98% at RA",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV1Dx5CCSkmqExfkuCw7oo3t5cPcKX5srHbWXbHYuYVbU45aYVlp3nZZY6PGRDxxWkk0J5nlQ_XyVDhnA17S7X1DPg-LxF-Q7REWuknZ79bIfmofj7rLO0G6xYvvpjF0nXWO4PKIiqD182/s1600/1644749814720584-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb17W8iO6VTbFFD3SNdJc22_JBdmQSnlhm9AtSBPJuxOuNBsNhm79l2LTyFaMGSTwwuIYLIm1JrDZvJQ7VXtA-eaBZFTbyg0y7-NWMpfim4xa3r5T0WTHslQFIMPAmBepmGmorgxL-JxXb/s1600/1644749773130976-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj32pFgQuEAYSd901068iwfnMiZiNw7EHU_4t2qPr7ZxJYBJmzbMX0E6ep763gKL-6uJ2kFUVTF0WG2Vh8hEN2ot6rOv0vruKiCjZ0Fe1hIIqDSeGrf0WYSxdJ10VfxlXNCTWL2lxPNEtFL/s1600/1644557375669256-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW4J5OJDsLjuMyReH_T0GeoUdvxR8RfmFVqTNXudAb7OsUQAbH4jbmpP4lID1zE28241R8DxMJYyQSfOQJjPUMEjoxA7g4KiX-bJinzynVWpLS8PVWhfNNDQgqltJAtTpWQEcqbzL4zTED/s1600/1644557370612383-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhksRUa8BDBgiyTsfrFz00EnM0POTo2Nb2s0ahibOlPRHgX6FWoMHumozwrUxzLjkNgUitqz5oA2e9raAZJ9ROrQPKoVJIMckL7Zl-FFDOG4SlC3b9TbM-UTJmTbx35fBhbxCj5VtJfsSoD/s1600/1644557365736911-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1H1vNdsq87dg_LDfKF_dTTY6I_u49NMXRY-niEeee4qXYA36A0ZFbVI4c9v8m2j8J6UxgKaFUDAqHk_qKRLo_-wbnq4J5wxyAwfczfSTrDEcKYCG8wH1CUyns26fP5-ZZoMopj3XiZxYj/s1600/1644557361003108-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh5xuZsWmpnpnYp1IJkVwKitmxU6JYrKcl0j9iLGGTaRc1SM6pWnC2834BedZI_kBsVn30mRPkn4cR10hzhw9JyWiH2xnptwZZ-tQFwOgPpxCG8GNYRI43kqsGimyN5nvnq0DzjlYLisMO/s1600/1644749730874944-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP6VxV3z2R5rm1q7rXrufTYoScNrKnE1XzNabxTmqsQXOUaGEaUnohJPG6Cjc0UB08WlFYGgpGb60EST-JJ6bBE_Zm5g23LLPmEhbis4fIufzcXBOxv3XNDlujV5I3G509y5VjKhcTXPc0/s1600/1644557342949170-7.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFqioPzIxa54Y_pUOtj9zoXz8Uq6u86hOy6nsAg5LrzjTgYSNH23KH2ZynvCdhlRKh-H3vXUbP2f1pIjW-EhGThQMOHG9I1aTm3d9NABr06TMJEhhXDOlqNCGx6GRKkvmKALSErKCGepTA/s1600/1644557334875577-8.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqbgZsSLnAgORoEpOJX6pz20w801xsI2k8mAXpHxZqmCb6oFVY5hueuzctPNYle0PhGh4xEO6sBcdcPCfuVpY6kp-waq4fAs6izPcMxa2jnjjTdQSZ8MCilILEulBJuKZlvyU-aRFHL1-u/s1600/1644810510450899-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs1MLDgQyKwBfRCOnZI3zxSNE2as5i0wqkgjLCdT_nYxkx8km20BmwwGFca5kYav32_VHn05qhHuVnOZS026M6bXh57TPm-LoGLLQQaQgR7wJYF-5ydZsVYyy8Ba1tubtopbtHVcrRW3a3/s1600/1644810497126492-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnf10TvtjA2-YFH9vfo2H1z-33Y33WRv3a1Rbo75QB8lI78eNw70ZWr62C4FW9zQsZH59knmcil8rtqpS6aSWvcBsyfW22JaRe8RlnZcALdDvZCjm1XeAFJtvK9oDSAKLJjF8hifEggdY3/s1600/1644756233355477-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfXbCYhXGjgxnvkPQJwwnGrteeGPNIcB_hV16jIyRNz9pX6RLJ3O5UwVWh69P3e5EeO68qm6cJ3F7zZJJbTx-zqAyNzArEeED7BTAoY2By9tdawHuKMVwG32BpjhdCwKjXd6sG_UTYnKcf/s1600/1644991384381059-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgayfA0bsqTsRKHLFhv6gDahwQnw-Pt433KBRYH_o8HKtSzhk9TVsB7HYbEHKNOf77DA-BxUrStbgcGr54gSu9a2Xudhna6fFNGerDhpJAkM3g21kMcg_0fRXkOK7Wqm0R0ltBTGnpG76po/s1600/1644991379805285-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUtd0cxTF8AHExThReXZpPaAaGZHLjLn2UA2lyF245lJB1nMmduvl4Oy83oyDQS3cVGY29jjGP_l76ZKSC4biJGj0al5NDqCH3-5frinTrwQwB8yozMvRjP7TW6h2oda7dspEMnOPfo9Uw/s1600/1645161829279585-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3pONM4dmMCQPu-zYZY0SPZ1mahGUbjR860MOVW6mwG_90CDYGognEZIE29H1jNjCzdei2jrVBOHrT75lpFXzYI3XrATjwfAYmknaLoCKzYr5Y2fHzwoWHHLmulE7xaquB80U4oL3eqEbZ/s1600/1645255918545220-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZRQovJlzqnNNv-8Bi7FtZf70BkJ2fPVuwNGsksFlELLGLiGQQ13xE6aFi50r5B7GtMdMq9cTc_V25C4zSsRekIUulfaOwsYAws02gkoJjsnAUt5lMcaDKOiXtIMIaheyIe2c1hVEFFWU9/s1600/1645255914631716-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCvwx3ocIaqkuRhoVl4ndAWBAOOqYrSJHEgDoSmcZztPSaDWDMbeKonXyWEU1VXOhxurkgC-SDGT2MfF0QJ3pfmoucjwpksrdCicmcWrFDdtPzI5sflFgKO_4nkNv5e6V9vpUxAfdKAs6S/s1600/1645255910470110-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROKVBrJDO3Ue7J7MFasf-F9TxdT_nb7Amj36kO4c7dlGHFMXvYMsTT93FCFF1ansmfB4p1UOCF14RvwD_6c6PLqpGn5PDzx2Y11v3FuqrH5TLm3isYmrnHr67mOklmfepCq-gG1UJ0p6Z/s1600/1645255907013194-3.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ9jmtyhc_Goy01lXxulwhE-ujUwJphsHjJ6sE73xYhTYfToN0wHmktpP5kFcRCSoiV7_E8V4TwVBtS7D8D3aiSVSGdcTwPSWy41aRvMnhzzWv6CCpvGpd_M6qzaawn1YxE5ATKT4zYBN9/s1600/1645255902800784-4.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk0upnQRrq7eDrB6YP-pcZzFjZbURUk0qCkIhbnhyq-CmiUy-0b0EJ5nko-6cBekY75U_D77mCoFCHGaW_za2oYFUIq1yyXQwu0zHkZNtD3ma1G6RExRWPslHrP1CMpM3yb3E9T-bWcz6o/s1600/1645255898464067-5.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqchyhqsQ_f81CQBbQylNEHF22hj1klIGElEEuBYhyphenhyphennCSEU47UC7kEQkGCuVyyMTxqTkWmAHxLA8iua7LkdM7GGggUP1rUtgSSBt18R7UosJEWOm-I4DuxeU0hBR5IFsSNvTdcioADToRK/s1600/1645255894356659-6.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpP4mprriOQQvjxn6VUTqrxlaED4xAwba5ETkejQahnU-fC-zrG41I5yi_BSmm3lZC5_LHEif8Ef3CwP8OKQCJCxumuwkT6EEJ260MrCv_xALs19VOzdjpZq6WlaR-ur-u8TIMnHzlKg3T/s1600/1645255887265944-7.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi109Izx9O5q6oNtLpWhYhcPmmXIR-4mFsFRKV0Wt1DpTKttyjIHfFBecOPLFufPcEbJeRQgiqAlcWjyJcdyKwsAjfUwCyrBiYquD0JO2m06MRBbLiirEDQB9VEXdO1VA-5XwdCQrr90G23/s1600/1645255876537459-8.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwqGTmwrCjTf7-HvyegryZYEv1ZRIHOMo9r4BCsQU8NtznIOxUkuv1DYcoijc4mqMijTeaC7qGB-d-OPehNSAzk2uBCvWbCE4Lt0QO4LH3oGu6ljKINCgTb97hCFt9v-Y7z4KE_OqOpJKt/s1600/1644752059415620-1.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGXcC3o2D5ncjRo0yy0zIithYCvH_oEGi5D4MCjBy8afZ8YR9C5k7PELQti73d40kRf7ZxCU5aVofgzJs5Kn1waGGTZ4JiDoqp2WBlQA7BZppUcqprI9qZsxtl-WodwU7yIYAD3zXPRwyL/s1600/1644752007880859-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-FEkm4df4DWscGZtc0BW9zDB6d2FpRSilgmV9uZubO_Cjey7U2RM9qT93DtSrxkqeFlDVrVus8xTFNFd5rRO3QVU0dEnZnXTappAkmyxkUenYXFKSmVA6EBoBg4-D2K3kIbC_r8xQBBUK/s1600/1644810475581627-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2YXl_4YmTwcWGAMA1UYqpZUpjmXGUh6gPD7Hd779kdON-PsI2fOowfTYAyq0hJ7D6cLsThEgOHpBPNQxae9wWNSqr20hy8Ja9pEmbnslENWzPYy-wqLvZHWZBRUZer7tUlH8sFSRxnOw9/s1600/1644901308595769-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXs44vr7D9eFtTX3WPCMm-3QjlG4pciPihDqA7jqPsdvtjnqHCURqcn35wewPmF0Pm8cMfSU20HWiTAywSSW4H-xig-8W_q89h2ixRSziwhWQ2N_HZO8ItO5-8YOVC8Mfu1rCYHqRibGv2/s1600/1644991374182572-2.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHY2n14uPylRWVa6S1yKVXNUs-KNjD5u0MaM56jQBEHhrHIbd0ybtdwBl05HzuUuwDDjhW_3G_qcElLO77E_VncO92btSGdepILsiGQl6eCK9AizmcXogxpOlmFVZyTZvV-D3tFwel9PRG/s1600/1645161089271231-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnqWASgFy52s9FjilZlFZU_696F_qzXIIdqtrlFtDu3V-_VvlkypCx6OJzKn0kD1R10AmlNpAFSDL2fRAap1sWluy9wy8yJnCawdhSRQxMsFsealdTY8EvIhubb3ygJUiEKGHlNyhfTKrD/s1600/1645161396770947-0.png",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ipfzPFCd84uUhkpeRESEdXhIHp4PIA1GKHp6iAG2EU4UM1BWKpQJzGayPL6PxBRc6PXH9dFopnz627lz50LhvJX3sSiusvufVfaupCa0UP6GDMWOzx0oBvAJLIwCLPN2xDTVTIa9QAlL/s320/IMG_20210416_175656.jpg"
+  ]
+}

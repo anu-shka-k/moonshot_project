@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "url": "https://sahithi17.blogspot.com/2021/09/general-medicine-case-3.html",
+    "datetime": "2021-09-23T04:46:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "20 days before admission",
+      "activity": "patient noticed facial swelling and pedal edema",
+      "symptom": "facial swelling, pedal edema",
+      "diagnosis": "",
+      "treatment": "treated by local doctor",
+      "notes": {
+        "demographics": "14 year old male",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "after few days",
+      "activity": "patient developed fever",
+      "symptom": "fever",
+      "diagnosis": "",
+      "treatment": "symptomatic treatment",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "9th September",
+      "activity": "patient had 4 episodes of vomiting",
+      "symptom": "vomiting, increased blood pressure, involuntary movements, reddish urine output",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": ""
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "on admission",
+      "activity": "patient admitted to hospital",
+      "symptom": "",
+      "diagnosis": "Acute glomerulonephritis",
+      "treatment": "Inj. Zofer 4 mg IV, Tab. PCM 650 mg, Inj. Optineuron 10 mp in 100 ml NS IV, Tab. Sodium valproate 500 mg OD, Inj. Pantop 40 mg IV, Fluid restriction < 1.5 litre/day, Salt restriction < 4 g/day",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "conscious, coherent, cooperative, no pallor, no icterus, no cyanosis, no clubbing of fingers and toes, no lymphadenopathy, no pedal edema",
+        "investigations": "Hemogram, Complete urine examination, ECG, TPR chart, Urine microscopy, Serology, Renal function tests",
+        "lab_measurements": "Urea: 40, Creatinine: 1.0, Calcium: 8.8, Phosphate: 3.6, Sodium: 139, Pottasium: 4.3, Chlorine: 102, AST: 22, ALT: 19",
+        "discussion": ""
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjERi0uBdaZ2wn4n0EejjJ9OKaOLgBjJSphMR8sGISwRUd14zu0uuaXJvz7eiWJwlHoaDpGvsMHBjlQRk63-cx6-Fyn0uncg8wLBKjDvq4X0tMuZJDdhYJxOLEwKjPjZgoM3dPTW54QzG4/s320/0D4AACD5-37FF-4233-A912-88CA31171169.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZtcTxSqnDR1f5PZabnjuivk1st3d-Nricj5qyBGl5iNOQSlIYm1CIPYYJr-T6zSu6taW8e4-zYBeb9NrbAik6XHX3jnTlnuLQoChWB6o4aLnjYngyuqi9M0xyZNQu_hZdVHaqElc4e8/s320/88C2D9D3-F986-461B-9F3B-A7B73E2BD575.jpeg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWUHASIP6psIEH_a91WaG-G_rTR2F4Kn2b_-B43Umq5R9K5zA4tm9bFRvYbO0R6s65sgRxWF4XRkXseeV3GM5aUKZ6e1ghabyoL_vUnhWzPZAtsbhxgS8rrUtTDHgKAjYTWINWtSxoUEs/s320/IMG_20210923_164744.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-D_LBMx8tWxgUgd9gU8vywVmv64I-5Yb8XEAJZZndCNBbwtGWgAvdWYmXFdNDVvu2ThFk-RvR2XUuF-uO9MYAyOMSuOpMiaqVNkTXLbGVzbRE1KsRVeB3oIaSvJ3nLvI4J0JtkMTxZc/s320/IMG_20210923_164639.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ3ra5ItI0-ixQXS9EBCzcxda_GKc8dOsFjZmDV8E8bm0pVZvcw2UvTHdUZYGiT_8XDj2sqR4VkQGwvtlFOhP-xlPaMfCazNfkTR0-l408Osqxu23iZpYWwEd2Sj71LgH3WMR1wpafa2o/s0/IMG_20210923_170809.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje-1mX0cPuVwJn4Fab6xXK6vVV52o9JV6dOkJq9arFfk_l6lgHW0ap-IXO6KuhcpG-ssqMSYcDV2kct0yBuwAWjybQ0fJFANyqHcBl5bwRanaTuSnWKq13PTyMVdO4LHwFW15NiAQNmmY/s320/IMG_20210823_221329.jpg",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwAeO59ltEqDC2Kmu1Txmt6790eO5vi9N_7BJ9nfNp1jlUcHEKgIKcqfvU4ryXVxJEi0-85w7fbtVCagFNX0dobH3Ov675HW9nDU6lPeGWnGlblDZLKVigOYvw_iOpJ-k0wqiISxzYdBA/s320/IMG_20210927_172344.jpg",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEj853-6aW8Ob3aEcPI0_NaK_CMYmumZ08dpDjEeFEfL3Wg_Osq3hgaAGmbVbFzLuo0_rbwaJYxFvMw99C_gR4yrFFLJkSyJNv2VdowI22PXvmrZkooI29sVpP-8zjN4bQhxnePQ1CT0aCRQtdf9qPvTsJXFlm54pV3ayGLSek9kPOVamWjFWSccLskx=s320"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "url": "https://pawanbhasin.blogspot.com/2020/05/mitral-stenosis-by-pawan-bhasin-roll-no.html",
+    "datetime": "2020-05-28T23:32:00-0700"
+  },
+  "timeline": [
+    {
+      "ordinal": 1,
+      "time": "5 years before admission",
+      "activity": "Patient had similar complaints",
+      "symptom": "Shortness of breath, Palpitations, Chest pain",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "55-year-old female, agricultural labourer",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient had a sudden onset of fever with cough which lasted for 5 days and got relieved on medication. It could have been Rheumatic fever."
+      }
+    },
+    {
+      "ordinal": 2,
+      "time": "3 months before admission",
+      "activity": "Patient's symptoms increased in intensity",
+      "symptom": "Shortness of breath, Palpitations, Chest pain, Swelling of legs",
+      "diagnosis": "",
+      "treatment": "",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "",
+        "lab_measurements": "",
+        "discussion": "Patient's symptoms increased in intensity, with shortness of breath, palpitations, chest pain, and swelling of legs."
+      }
+    },
+    {
+      "ordinal": 3,
+      "time": "On admission",
+      "activity": "Patient was admitted to the hospital",
+      "symptom": "Shortness of breath, Palpitations, Chest pain, Swelling of legs",
+      "diagnosis": "Left Heart Failure",
+      "treatment": "Tab. Diuretics, Tab. Budecort, Anti-Coagulants with warfarin orally",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "Wheezing in right side, Coarse crepitations in right side, Pulse: Normal rate, Irregularly irregular rhythm",
+        "investigations": "CBP, RFT, LFT, ECG, Chest X ray, 2D ECHO",
+        "lab_measurements": "Microcytic hypochromic anemia with neutrophilia, Elevated blood urea, Elevated uric acid, Elevated Calcium, Elevated Phosphorus",
+        "discussion": "Patient was diagnosed with Left Heart Failure due to Mitral Stenosis."
+      }
+    },
+    {
+      "ordinal": 4,
+      "time": "After investigations",
+      "activity": "Investigations were done",
+      "symptom": "",
+      "diagnosis": "Mitral Stenosis with Left Heart Failure",
+      "treatment": "Medical management, Surgical management",
+      "notes": {
+        "demographics": "",
+        "physical_exam": "",
+        "investigations": "Doppler study, Cardiac catheterisation, Transoesophageal echocardiography, TFT, Cardiac MRI, BNP levels",
+        "lab_measurements": "",
+        "discussion": "Patient was diagnosed with Mitral Stenosis with Left Heart Failure, and treatment plan was made."
+      }
+    }
+  ],
+  "imageurl": [
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYteudV3xdEzb-pEeZkCmzD64iMMSgixCI_bXCQcs_19zcLKf1AtPQsxOG2jfTaFCWCIWL6GrgdGQHFDNhgcuufF-aQ54a6WS48gAorXwgbVKOPve6yLmNQGB2Ymoj0eayA9brc7F5fc8/s1600/1590733916333663-0.png",
+    "https://blogger.googleusercontent.com/img/a/AVvXsEgFJfar-6F65KCXTtn-CRi4S8WcTzNAnE5PxGb6FeCSZ3Spe2QfBoMCbwQKhkJuFxnYXUuD7womBoypuJ3nP8gFcBb8PplLAZfQxqyLX2CNjiv_WAvMMeAOoKyfa1OuFifhr0PsZiOrC4hMcYlKJqdnvDcCwpoTRbOJC5XCXP4BwpkFzXJ_Y-MuFGcF=s320",
+    "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK1HFqoXlNnu9TP5LliPlyeol9JJEFZ9fuzNhuyAQNEcU20V90nRyfFCGffIbRP-XOJIneMP1QZngpPYJjVYWgziTGgZeEH2yP4FQTdUvsRK0nkq7XYMD2Y64h1UOd-zIC_9XGDCi_y8o/s1600/1636697110141633-0.png",
+    "https://lh5.googleusercontent.com/UhBqVPNNSUzao1zkEAp2G3ZzVeCyiqLeQUqVBeAQRJDrDxQDKNHwh3e77GMcQDI2v-UowdBMrGG-5zwRoqx1lUef6H_k9jgTo4d9KRHjX9r6jgJFx7aFriwQk4jyKKz3K-_u7YVy"
+  ]
+}
