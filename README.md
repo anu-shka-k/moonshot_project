@@ -1,6 +1,4 @@
-# Moonshot Project — Temporal JSON Converter for Medical Case Blogs
-
-**Simple README**
+# Moonshot Project — Blog to Temporal JSON Converter for Medical Case Blogs
 
 ---
 
@@ -31,8 +29,6 @@ Suggested Python packages (install with `pip`):
 ```bash
 pip install requests beautifulsoup4 groq
 ```
-
-(If a `requirements.txt` is present in the repo, use `pip install -r requirements.txt`.)
 
 ---
 
@@ -94,7 +90,7 @@ Each timeline entry contains at least:
 
 ## Notes & Recommendations
 
-* The quality of extracted timelines depends on the blog text and the LLM output. Curating prompt engineering and validating a subset of outputs manually is recommended.
+* The quality of extracted timelines depends on the blog text and the LLM output. Curating, prompt engineering and validating a subset of outputs manually is recommended.
 
 ---
 
@@ -118,5 +114,3 @@ Contributions are welcome. Please open an issue or submit a pull request with cl
 Specify your license here (e.g., MIT) and provide a contact email or GitHub handle for questions.
 
 ---
-
-*README generated for the Moonshot Project — temporal conversion of medical blog case studies.*
